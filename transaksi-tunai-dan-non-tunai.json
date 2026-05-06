@@ -1,1366 +1,1366 @@
 {
-    "quizTitle": "Transaksi Tunai & Non Tunai",
-    "questions": [
-        {
-            "id": 1,
-            "question": "Pada proses awal hari cabang, aktivitas yang PALING tepat dikategorikan sebagai bagian dari pemenuhan likuiditas teller adalah...",
-            "options": [
-                "Menyelesaikan outstanding complaint nasabah prioritas",
-                "Menyiapkan modal kerja teller dan antisipasi penarikan dana besar",
-                "Menginput ulang transaksi pending hari sebelumnya",
-                "Melakukan cross selling produk bancassurance"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Pemenuhan likuiditas fokus pada kesiapan kas operasional teller untuk melayani transaksi tunai dan antisipasi kebutuhan dana besar.",
-            "topic": "Proses Awal Hari",
-            "subtopic": "Likuiditas Teller",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 2,
-            "question": "Tujuan utama adanya ritual awal dan akhir hari cabang adalah...",
-            "options": [
-                "Memastikan target marketing tercapai harian",
-                "Menjaga agar transaksi dapat diproses lebih cepat dibanding cabang lain",
-                "Menjamin operasional berjalan aman, tertib, dan tercatat akurat",
-                "Mengurangi kebutuhan approval pimpinan cabang"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Ritual awal dan akhir hari bertujuan menjaga operasional aman, tertib, dan akurat sebagai bagian pengendalian internal.",
-            "topic": "Operasional Cabang",
-            "subtopic": "Kontrol Harian",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 3,
-            "question": "Aktivitas berikut yang termasuk kontrol first line of defense pada operasional cabang adalah...",
-            "options": [
-                "Audit investigatif oleh regulator",
-                "Pemeriksaan eksternal auditor independen",
-                "Rekonsiliasi transaksi oleh teller pada akhir hari",
-                "Penetapan kebijakan moneter oleh BI"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Rekonsiliasi transaksi oleh teller merupakan kontrol first line untuk mitigasi risiko operasional.",
-            "topic": "Three Lines of Defense",
-            "subtopic": "First Line Control",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 4,
-            "question": "Dalam proses serah terima uang kepada teller, prinsip dual control diterapkan dengan tujuan utama...",
-            "options": [
-                "Mempercepat distribusi uang kas",
-                "Mengurangi kebutuhan dokumentasi transaksi",
-                "Meminimalkan risiko fraud dan human error",
-                "Menghindari penggunaan mesin hitung uang"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Dual control diterapkan untuk meminimalkan fraud, kesalahan, dan meningkatkan akuntabilitas.",
-            "topic": "Dual Control",
-            "subtopic": "Serah Terima Kas",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 5,
-            "question": "Berikut ini yang BUKAN merupakan aktivitas wajib Kepala Cabang/Pimpinan Unit saat persiapan operasional adalah...",
-            "options": [
-                "Menyiapkan surat berharga",
-                "Memantau standing instruction",
-                "Melakukan settlement RTGS nasabah secara manual",
-                "Morning briefing operasional"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Settlement RTGS nasabah bukan aktivitas wajib persiapan operasional Kepala Cabang.",
-            "topic": "Persiapan Operasional",
-            "subtopic": "Tugas Pimpinan Unit",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 6,
-            "question": "Standing Instructions pada agenda harian cabang terutama berkaitan dengan...",
-            "options": [
-                "Pengajuan kredit baru nasabah prioritas",
-                "Instruksi transaksi berulang milik nasabah",
-                "Proses audit internal semesteran",
-                "Penyesuaian suku bunga deposito otomatis"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Standing Instructions berkaitan dengan instruksi transaksi berulang seperti auto debet dan transfer terjadwal.",
-            "topic": "Agenda Harian",
-            "subtopic": "Standing Instruction",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 7,
-            "question": "Salah satu indikator procedural red flag saat serah terima kas teller adalah...",
-            "options": [
-                "Teller menghitung uang menggunakan mesin hitung",
-                "Form permintaan uang tunai tervalidasi lengkap",
-                "Approval dilakukan setelah uang diserahkan",
-                "Berita acara pecahan uang ditandatangani kedua pihak"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Approval yang dilakukan setelah uang diserahkan melemahkan kontrol dual control.",
-            "topic": "Dual Control",
-            "subtopic": "Fraud Risk",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 8,
-            "question": "Lima ketentuan minimum transaksi teller mewajibkan adanya bukti validasi sistem terutama untuk...",
-            "options": [
-                "Mempermudah cross selling produk bank",
-                "Mengurangi kebutuhan penyimpanan arsip",
-                "Menjadi bukti sah transaksi nasabah",
-                "Menggantikan kebutuhan tanda tangan nasabah"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Bukti validasi sistem menjadi bukti sah transaksi nasabah.",
-            "topic": "Transaksi Teller",
-            "subtopic": "Bukti Validasi",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 9,
-            "question": "Pada konsep TNT NaNo, elemen yang sering menjadi titik fraud risk apabila tidak diverifikasi dengan baik adalah...",
-            "options": [
-                "Warna tinta pada slip transaksi",
-                "Nomor antrean nasabah",
-                "Nominal dan nomor rekening",
-                "Jenis mesin printer teller"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Nominal dan nomor rekening menjadi area kritis yang rawan manipulasi.",
-            "topic": "TNT NaNo",
-            "subtopic": "Verifikasi Form",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 10,
-            "question": "Urutan kontrol transaksi tunai teller yang PALING sesuai SOP adalah...",
-            "options": [
-                "Posting → hitung uang → konfirmasi → verifikasi form",
-                "Konfirmasi → posting → verifikasi → hitung uang",
-                "Verifikasi form → konfirmasi → hitung uang → posting",
-                "Hitung uang → posting → verifikasi → konfirmasi"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Urutan SOP adalah verifikasi form, konfirmasi, hitung uang, lalu posting.",
-            "topic": "SOP Teller",
-            "subtopic": "Kontrol Transaksi",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 11,
-            "question": "Penggunaan UV-light pada transaksi tunai terutama bertujuan untuk...",
-            "options": [
-                "Memastikan nominal sesuai sistem",
-                "Mengurangi waktu layanan teller",
-                "Menguji keaslian uang fisik",
-                "Mengidentifikasi CIF nasabah"
-            ],
-            "correctAnswer": 2,
-            "explanation": "UV-light digunakan untuk menguji keaslian uang.",
-            "topic": "Transaksi Tunai",
-            "subtopic": "Uji Keaslian Uang",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 12,
-            "question": "Berikut ini yang termasuk transaksi cash-out adalah...",
-            "options": [
-                "Pembelian valuta asing secara tunai",
-                "Setoran pembayaran listrik",
-                "Penarikan tunai rekening sendiri",
-                "Transfer dana tunai ke rekening tujuan"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Penarikan tunai rekening sendiri termasuk transaksi cash-out.",
-            "topic": "Transaksi Tunai",
-            "subtopic": "Cash Out",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 13,
-            "question": "Dalam ketentuan penarikan tunai, penggunaan rekening orang lain diperbolehkan apabila...",
-            "options": [
-                "Nasabah membawa kartu ATM penerima",
-                "Nominal transaksi di bawah limit teller",
-                "Terdapat surat kuasa lengkap dan dilakukan konfirmasi",
-                "Teller mengenal nasabah secara pribadi"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Penarikan rekening orang lain hanya diperbolehkan dengan surat kuasa dan konfirmasi.",
-            "topic": "Penarikan Tunai",
-            "subtopic": "Surat Kuasa",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 14,
-            "question": "Setoran tunai oleh Walk-In Customer sebesar Rp120 juta mewajibkan teller untuk...",
-            "options": [
-                "Menolak transaksi karena bukan nasabah",
-                "Meminta Form WIC dan identitas pendukung",
-                "Langsung melaporkan ke PPATK",
-                "Memproses sebagai transaksi reguler tanpa dokumen tambahan"
-            ],
-            "correctAnswer": 1,
-            "explanation": "WIC ≥ Rp100 juta wajib melampirkan Form WIC dan identitas.",
-            "topic": "AML/CFT",
-            "subtopic": "WIC",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 15,
-            "question": "Setoran tunai Rp520 juta yang dilakukan dalam satu kali transaksi memiliki implikasi compliance berupa...",
-            "options": [
-                "Wajib diproses melalui RTGS",
-                "Wajib approval treasury pusat",
-                "Wajib dilaporkan sebagai LTKT ke PPATK melalui compliance",
-                "Wajib menggunakan cek silang"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Transaksi ≥ Rp500 juta wajib dilaporkan sebagai LTKT.",
-            "topic": "AML/CFT",
-            "subtopic": "PPATK",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 16,
-            "question": "Dalam perspektif AML/CFT, akumulasi transaksi tunai yang perlu diperhatikan adalah...",
-            "options": [
-                "Akumulasi mingguan",
-                "Akumulasi bulanan",
-                "Akumulasi dalam satu hari",
-                "Akumulasi per semester"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Threshold AML memperhatikan akumulasi transaksi dalam satu hari.",
-            "topic": "AML/CFT",
-            "subtopic": "Threshold Harian",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 17,
-            "question": "Prinsip stopping pada form setoran bertujuan utama untuk...",
-            "options": [
-                "Mempercepat proses posting",
-                "Mencegah penambahan digit nominal",
-                "Mengurangi kebutuhan validasi supervisor",
-                "Mempermudah audit CIF"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Stopping mencegah manipulasi angka nominal.",
-            "topic": "Dokumen Transaksi",
-            "subtopic": "Stopping",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 18,
-            "question": "Contoh thickmark diterapkan pada bagian...",
-            "options": [
-                "Nomor antrean nasabah",
-                "Nominal angka",
-                "Nominal terbilang",
-                "Nomor CIF"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Thickmark digunakan pada nominal terbilang.",
-            "topic": "Dokumen Transaksi",
-            "subtopic": "Thickmark",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 19,
-            "question": "Pada proses penarikan tunai, verifikasi spectroline dilakukan untuk...",
-            "options": [
-                "Menghitung jumlah lembar uang",
-                "Memastikan keaslian tandatangan",
-                "Menentukan limit transaksi nasabah",
-                "Mengukur kualitas tinta printer"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Spectroline digunakan untuk verifikasi tanda tangan.",
-            "topic": "Penarikan Tunai",
-            "subtopic": "Verifikasi Tanda Tangan",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 20,
-            "question": "Penarikan tunai menggunakan surat kuasa TIDAK diperkenankan apabila...",
-            "options": [
-                "Nominal di atas limit teller",
-                "Dilakukan di luar cabang pengelola rekening",
-                "Menggunakan identitas asli pemilik rekening",
-                "Sudah dilakukan video call konfirmasi"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Surat kuasa tidak berlaku di luar cabang pengelola rekening.",
-            "topic": "Penarikan Tunai",
-            "subtopic": "Ketentuan Surat Kuasa",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 21,
-            "question": "Perbedaan utama cek dan bilyet giro adalah...",
-            "options": [
-                "Cek hanya untuk transfer antarbank",
-                "BG dapat diuangkan tunai langsung",
-                "Cek merupakan perintah bayar, BG perintah pemindahbukuan",
-                "BG tidak memerlukan underlying rekening giro"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Cek adalah perintah bayar, BG perintah pemindahbukuan.",
-            "topic": "Transaksi Non Tunai",
-            "subtopic": "Cek dan BG",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 22,
-            "question": "Settlement cek silang antarbank pada umumnya dilakukan melalui...",
-            "options": [
-                "BI Fast",
-                "SKN/Kliring",
-                "SWIFT",
-                "ATM Bersama"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Cek silang antarbank diselesaikan melalui SKN/kliring.",
-            "topic": "Kliring",
-            "subtopic": "Settlement",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 23,
-            "question": "Ketentuan lampiran KTP untuk nominal besar berlaku pada transaksi...",
-            "options": [
-                "Setoran tunai di bawah Rp50 juta",
-                "Pemindahbukuan dan transfer bank lain ≥ Rp100 juta",
-                "Seluruh transaksi non tunai tanpa batas nominal",
-                "Penarikan ATM reguler"
-            ],
-            "correctAnswer": 1,
-            "explanation": "KTP wajib dilampirkan untuk transaksi nominal besar ≥ Rp100 juta.",
-            "topic": "Pemindahbukuan",
-            "subtopic": "Dokumen Pendukung",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 24,
-            "question": "Konfirmasi transaksi pemindahbukuan via telepon/video call wajib dicatat pada...",
-            "options": [
-                "Buku tamu cabang",
-                "General ledger cabang",
-                "Logbook transaksi terkait surat kuasa",
-                "Buku kas harian teller"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Konfirmasi wajib dicatat dalam logbook transaksi.",
-            "topic": "Pemindahbukuan",
-            "subtopic": "Logbook",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 25,
-            "question": "Karakteristik transfer intra-bank yang PALING tepat adalah...",
-            "options": [
-                "Settlement batch 2–3 hari",
-                "Wajib nominal minimal Rp100 juta",
-                "Real-time dan biaya relatif rendah",
-                "Wajib melalui SWIFT"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Transfer intra-bank bersifat real-time dan murah.",
-            "topic": "Transfer",
-            "subtopic": "Intra-bank",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 26,
-            "question": "RTGS lebih tepat digunakan dibanding SKN apabila...",
-            "options": [
-                "Nominal kecil dan membutuhkan biaya murah",
-                "Transfer lintas negara",
-                "Membutuhkan settlement cepat untuk nominal besar",
-                "Tidak memiliki rekening bank"
-            ],
-            "correctAnswer": 2,
-            "explanation": "RTGS digunakan untuk nominal besar dengan kebutuhan settlement cepat.",
-            "topic": "RTGS",
-            "subtopic": "Karakteristik",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 27,
-            "question": "Nominal maksimum transaksi SKN berdasarkan materi adalah...",
-            "options": [
-                "Rp100 juta",
-                "Rp250 juta",
-                "Rp500 juta",
-                "Rp1 miliar"
-            ],
-            "correctAnswer": 3,
-            "explanation": "Maksimum transaksi SKN adalah Rp1 miliar per transaksi.",
-            "topic": "SKN",
-            "subtopic": "Limit Transaksi",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 28,
-            "question": "Dalam outward remittance, dokumen tambahan sumber dana diperlukan terutama apabila...",
-            "options": [
-                "Nasabah menggunakan mobile banking",
-                "Nominal besar sesuai prinsip AML/CFT",
-                "Rekening penerima masih satu keluarga",
-                "Pengiriman dilakukan di hari kerja"
-            ],
-            "correctAnswer": 1,
-            "explanation": "AML/CFT mewajibkan verifikasi source of fund untuk nominal besar.",
-            "topic": "Remittance",
-            "subtopic": "AML/CFT",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 29,
-            "question": "Tujuan utama proses EOD core banking adalah...",
-            "options": [
-                "Menutup akses audit trail",
-                "Menghapus transaksi pending otomatis",
-                "Mengkonsolidasikan transaksi operasional harian",
-                "Mengurangi saldo kas fisik teller"
-            ],
-            "correctAnswer": 2,
-            "explanation": "EOD dilakukan untuk konsolidasi operasional harian.",
-            "topic": "Akhir Hari",
-            "subtopic": "EOD",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 30,
-            "question": "Rekonsiliasi kas pada akhir hari dilakukan dengan membandingkan...",
-            "options": [
-                "Target bisnis dan realisasi fee based income",
-                "Saldo fisik kas serta warkat dengan laporan sistem",
-                "Jumlah nasabah dan jumlah teller aktif",
-                "Outstanding kredit dan DPK cabang"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Rekonsiliasi membandingkan fisik kas dan laporan sistem.",
-            "topic": "Akhir Hari",
-            "subtopic": "Rekonsiliasi",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 31,
-            "question": "Backup sistem pada akhir hari memiliki tujuan utama...",
-            "options": [
-                "Mengurangi kebutuhan arsip fisik",
-                "Pencegahan kehilangan data transaksi",
-                "Mempercepat proses marketing harian",
-                "Mengurangi biaya operasional cabang"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Backup sistem bertujuan mencegah kehilangan data.",
-            "topic": "Akhir Hari",
-            "subtopic": "Backup Sistem",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 32,
-            "question": "Prinsip traceable/audit trail dalam dokumentasi transaksi berarti...",
-            "options": [
-                "Dokumen boleh disimpan tanpa urutan",
-                "Setiap transaksi dapat ditelusuri kembali dengan mudah",
-                "Dokumen cukup disimpan digital tanpa validasi",
-                "Dokumen hanya diperlukan untuk transaksi besar"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Audit trail memastikan transaksi dapat ditelusuri.",
-            "topic": "Dokumentasi",
-            "subtopic": "Audit Trail",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 33,
-            "question": "Dokumentasi transaksi yang lengkap tetapi tidak sesuai SOP tetap dianggap berisiko karena...",
-            "options": [
-                "Berpotensi melanggar compliance internal dan regulator",
-                "Menghambat proses marketing produk",
-                "Menurunkan saldo CASA bank",
-                "Meningkatkan biaya RTGS"
-            ],
-            "correctAnswer": 0,
-            "explanation": "Dokumentasi wajib sesuai SOP dan regulator.",
-            "topic": "Dokumentasi",
-            "subtopic": "Compliance",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 34,
-            "question": "Keterampilan menggunakan detektor keaslian uang pada SKKNI terutama berkaitan dengan mitigasi risiko...",
-            "options": [
-                "Risiko pasar",
-                "Risiko kredit",
-                "Risiko operasional dan fraud",
-                "Risiko likuiditas"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Detektor uang digunakan untuk mitigasi risiko fraud.",
-            "topic": "SKKNI",
-            "subtopic": "Mitigasi Risiko",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 35,
-            "question": "Teller menerima form transfer dengan tanda tangan mirip namun terdapat perbedaan minor dibanding specimen. Langkah PALING tepat adalah...",
-            "options": [
-                "Tetap memproses karena nominal kecil",
-                "Mengabaikan karena nasabah terlihat meyakinkan",
-                "Melakukan verifikasi lebih lanjut dan eskalasi sesuai SOP",
-                "Mengubah specimen secara manual"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Perbedaan tanda tangan wajib diverifikasi lebih lanjut.",
-            "topic": "Verifikasi Tanda Tangan",
-            "subtopic": "Escalation",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 36,
-            "question": "Seorang nasabah meminta transfer Rp90 juta antarbank dan insist menggunakan RTGS agar lebih aman. Respons teller yang PALING tepat adalah...",
-            "options": [
-                "Menolak karena nominal belum memenuhi minimum RTGS",
-                "Memproses RTGS dengan override manual",
-                "Meminta nasabah menaikkan nominal transfer",
-                "Mengalihkan otomatis ke outward remittance"
-            ],
-            "correctAnswer": 0,
-            "explanation": "RTGS memiliki minimum nominal Rp100 juta.",
-            "topic": "RTGS",
-            "subtopic": "Minimum Nominal",
-            "difficulty": "Hard",
-            "requiresReasoning": false,
-            "reasoningKeywords": []
-        },
-        {
-            "id": 37,
-            "question": "Seorang WIC datang melakukan setoran tunai Rp150 juta tanpa membawa identitas karena mengaku terburu-buru dan sudah sering transaksi di cabang tersebut.",
-            "options": [
-                "Tetap proses karena nasabah sudah dikenal teller",
-                "Proses sebagian dulu di bawah threshold",
-                "Meminta Form WIC dan identitas sebelum transaksi diproses",
-                "Menyarankan transaksi lewat ATM setor tunai"
-            ],
-            "correctAnswer": 2,
-            "explanation": "WIC ≥ Rp100 juta wajib menyertakan identitas dan form WIC.",
-            "topic": "AML/CFT",
-            "subtopic": "WIC",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "WIC",
-                "threshold",
-                "CDD",
-                "AML",
-                "identitas"
-            ]
-        },
-        {
-            "id": 38,
-            "question": "Teller menemukan nominal angka pada slip setoran sudah menggunakan stopping, namun bagian terbilang masih memiliki ruang kosong cukup panjang.",
-            "options": [
-                "Tetap proses karena nominal angka sudah aman",
-                "Menambahkan thickmark sebelum diposting",
-                "Meminta nasabah menulis ulang seluruh form",
-                "Mengabaikan karena risiko rendah"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Thickmark mencegah manipulasi nominal terbilang.",
-            "topic": "Dokumen Transaksi",
-            "subtopic": "Thickmark",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "thickmark",
-                "fraud prevention",
-                "dokumen",
-                "terbilang"
-            ]
-        },
-        {
-            "id": 39,
-            "question": "Nasabah ingin menarik dana rekening ayahnya dengan membawa ATM dan mengetahui PIN, tetapi tidak membawa surat kuasa.",
-            "options": [
-                "Proses karena PIN dianggap otorisasi sah",
-                "Tolak transaksi sampai dokumen sesuai ketentuan dipenuhi",
-                "Proses sebagian nominal kecil",
-                "Minta approval supervisor lalu proses"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Penarikan rekening orang lain wajib menggunakan surat kuasa.",
-            "topic": "Penarikan Tunai",
-            "subtopic": "Surat Kuasa",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "surat kuasa",
-                "rekening sendiri",
-                "fraud",
-                "otorisasi"
-            ]
-        },
-        {
-            "id": 40,
-            "question": "Pada akhir hari, saldo fisik teller lebih besar Rp500 ribu dibanding laporan sistem.",
-            "options": [
-                "Menyesuaikan laporan agar balance",
-                "Menyimpan selisih sementara di laci teller",
-                "Melakukan investigasi dan rekonsiliasi transaksi hari itu",
-                "Menunggu audit internal"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Selisih kas harus diinvestigasi pada hari yang sama.",
-            "topic": "Rekonsiliasi",
-            "subtopic": "Selisih Kas",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "rekonsiliasi",
-                "selisih kas",
-                "investigasi",
-                "audit trail"
-            ]
-        },
-        {
-            "id": 41,
-            "question": "Seorang nasabah korporasi membutuhkan transfer Rp2,5 miliar untuk settlement properti yang harus diterima hari ini.",
-            "options": [
-                "SKN",
-                "Transfer intra-bank reguler",
-                "RTGS",
-                "Remittance"
-            ],
-            "correctAnswer": 2,
-            "explanation": "RTGS cocok untuk transfer nominal besar dan settlement cepat.",
-            "topic": "RTGS",
-            "subtopic": "Settlement Besar",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "RTGS",
-                "nominal besar",
-                "real-time",
-                "settlement"
-            ]
-        },
-        {
-            "id": 42,
-            "question": "Nasabah meminta pemindahbukuan menggunakan surat kuasa di cabang berbeda dari cabang pengelola rekening.",
-            "options": [
-                "Tetap diproses jika nominal kecil",
-                "Diproses setelah approval supervisor",
-                "Tidak diperkenankan sesuai ketentuan wilayah berlaku",
-                "Diproses bila penerima kuasa keluarga inti"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Pemindahbukuan dengan surat kuasa hanya berlaku di cabang pengelola rekening.",
-            "topic": "Pemindahbukuan",
-            "subtopic": "Surat Kuasa",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "surat kuasa",
-                "cabang pengelola",
-                "SOP",
-                "otorisasi"
-            ]
-        },
-        {
-            "id": 43,
-            "question": "Teller menerima setoran tunai Rp490 juta pagi hari dan Rp20 juta sore hari dari nasabah yang sama.",
-            "options": [
-                "Tidak ada karena transaksi terpisah",
-                "Wajib LTKT karena akumulasi ≥ Rp500 juta",
-                "Wajib RTGS",
-                "Wajib outbound remittance"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Akumulasi transaksi harian ≥ Rp500 juta wajib LTKT.",
-            "topic": "AML/CFT",
-            "subtopic": "LTKT",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "LTKT",
-                "PPATK",
-                "akumulasi",
-                "AML"
-            ]
-        },
-        {
-            "id": 44,
-            "question": "Dalam proses penarikan tunai, teller melihat tanda tangan di form dan specimen hampir sama namun ada perbedaan karakter signifikan.",
-            "options": [
-                "Tetap proses agar SLA layanan terjaga",
-                "Meminta verifikasi tambahan/eskalasi",
-                "Mengubah specimen agar sesuai",
-                "Menolak langsung tanpa verifikasi lanjutan"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Perbedaan specimen wajib diverifikasi lebih lanjut untuk mitigasi fraud.",
-            "topic": "Verifikasi Tanda Tangan",
-            "subtopic": "Escalation",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "specimen",
-                "verifikasi",
-                "fraud",
-                "escalation"
-            ]
-        },
-        {
-            "id": 45,
-            "question": "Seorang nasabah meminta transfer Rp50 juta antarbank dan membutuhkan biaya paling murah meski tidak instan.",
-            "options": [
-                "RTGS",
-                "SKN",
-                "Transfer BI Fast prioritas",
-                "Outward remittance"
-            ],
-            "correctAnswer": 1,
-            "explanation": "SKN cocok untuk transfer murah dengan settlement tidak mendesak.",
-            "topic": "SKN",
-            "subtopic": "Biaya Transfer",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "SKN",
-                "biaya murah",
-                "settlement",
-                "antarbank"
-            ]
-        },
-        {
-            "id": 46,
-            "question": "Saat serah terima kas awal hari, teller lupa menandatangani berita acara pecahan uang.",
-            "options": [
-                "Keterlambatan marketing produk",
-                "Lemahnya audit trail dan accountability",
-                "Gangguan jaringan core banking",
-                "Penurunan fee based income"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Dokumen tanpa tanda tangan melemahkan audit trail dan accountability.",
-            "topic": "Dual Control",
-            "subtopic": "Audit Trail",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "audit trail",
-                "accountability",
-                "dual control",
-                "dokumentasi"
-            ]
-        },
-        {
-            "id": 47,
-            "question": "Nasabah outward remittance tidak dapat menjelaskan sumber dana transfer luar negeri bernilai besar.",
-            "options": [
-                "Tetap proses karena dana berasal dari rekening sendiri",
-                "Escalate untuk enhanced due diligence sesuai AML/CFT",
-                "Meminta transfer dipecah menjadi kecil",
-                "Mengganti menjadi SKN"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Source of fund tidak jelas memerlukan EDD sesuai AML/CFT.",
-            "topic": "Remittance",
-            "subtopic": "Enhanced Due Diligence",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "source of fund",
-                "EDD",
-                "AML",
-                "compliance"
-            ]
-        },
-        {
-            "id": 48,
-            "question": "Pada proses akhir hari, teller langsung logout sistem tanpa mencetak jurnal harian.",
-            "options": [
-                "Business continuity",
-                "Bukti pembukuan dan audit",
-                "Customer experience",
-                "Treasury management"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Jurnal harian merupakan bukti pembukuan dan audit trail.",
-            "topic": "Akhir Hari",
-            "subtopic": "Jurnal Harian",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "jurnal harian",
-                "audit trail",
-                "pembukuan",
-                "rekonsiliasi"
-            ]
-        },
-        {
-            "id": 49,
-            "question": "Nasabah ingin mencairkan BG menjadi uang tunai langsung di teller.",
-            "options": [
-                "Diproses sebagai penarikan tunai biasa",
-                "Ditolak karena BG adalah instrumen pemindahbukuan",
-                "Diproses jika nominal kecil",
-                "Diproses setelah approval kepala cabang"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Bilyet giro adalah instrumen pemindahbukuan, bukan penarikan tunai.",
-            "topic": "Bilyet Giro",
-            "subtopic": "Ketentuan BG",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "BG",
-                "pemindahbukuan",
-                "non tunai",
-                "warkat"
-            ]
-        },
-        {
-            "id": 50,
-            "question": "Teller menerima form transfer dengan TNT NaNo lengkap, tetapi nomor rekening tujuan berbeda dengan nama beneficiary di sistem.",
-            "options": [
-                "Tetap proses sesuai nomor rekening",
-                "Konfirmasi ulang kepada nasabah sebelum posting",
-                "Mengubah nama beneficiary manual",
-                "Meminta nasabah membuka rekening baru"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Mismatch beneficiary wajib dikonfirmasi ulang sebelum transaksi diproses.",
-            "topic": "Transfer",
-            "subtopic": "Konfirmasi Beneficiary",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "beneficiary",
-                "konfirmasi",
-                "operational risk",
-                "verifikasi"
-            ]
-        },
-        {
-            "id": 51,
-            "question": "Pada proses rekonsiliasi, seluruh saldo sudah sesuai namun ada satu form transaksi tanpa validasi sistem.",
-            "options": [
-                "Risiko pasar",
-                "Risiko legal dan audit trail",
-                "Risiko likuiditas",
-                "Risiko suku bunga"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Form tanpa validasi sistem menimbulkan risiko legal dan audit trail.",
-            "topic": "Dokumentasi",
-            "subtopic": "Validasi Sistem",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "audit trail",
-                "validasi sistem",
-                "legal risk",
-                "compliance"
-            ]
-        },
-        {
-            "id": 52,
-            "question": "Seorang teller membantu nasabah mengisi seluruh detail form transaksi tanpa konfirmasi ulang kepada nasabah.",
-            "options": [
-                "SLA layanan meningkat",
-                "Potensi dispute dan unauthorized instruction",
-                "Pengurangan biaya operasional",
-                "Kelebihan likuiditas teller"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Tanpa konfirmasi ulang terdapat risiko dispute dan unauthorized instruction.",
-            "topic": "Kontrol Teller",
-            "subtopic": "Konfirmasi Transaksi",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "unauthorized instruction",
-                "dispute",
-                "konfirmasi",
-                "verifikasi"
-            ]
-        },
-        {
-            "id": 53,
-            "question": "Petugas menemukan transaksi transfer berulang dengan nominal dipecah-pecah sedikit di bawah threshold monitoring.",
-            "options": [
-                "Reconciliation issue",
-                "Structuring/smurfing untuk menghindari monitoring AML",
-                "Human error biasa",
-                "Kesalahan CIF duplicate"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Pemecahan transaksi di bawah threshold disebut structuring/smurfing.",
-            "topic": "AML/CFT",
-            "subtopic": "Structuring",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "structuring",
-                "smurfing",
-                "AML",
-                "threshold"
-            ]
-        },
-        {
-            "id": 54,
-            "question": "Supervisor meminta teller mempercepat antrean dengan melewati proses hitung uang di depan nasabah.",
-            "options": [
-                "Mengikuti instruksi demi SLA",
-                "Tetap menjalankan SOP hitung uang di hadapan nasabah",
-                "Menghitung cepat tanpa konfirmasi",
-                "Menyerahkan langsung uang ke nasabah"
-            ],
-            "correctAnswer": 1,
-            "explanation": "SOP hitung uang di hadapan nasabah wajib tetap dijalankan.",
-            "topic": "SOP Teller",
-            "subtopic": "Hitung Uang",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "SOP",
-                "hitung uang",
-                "kontrol transaksi",
-                "dispute prevention"
-            ]
-        },
-        {
-            "id": 55,
-            "question": "Dalam proses inward remittance, dana diterima dari negara high-risk tanpa informasi pengirim yang jelas.",
-            "options": [
-                "Langsung kreditkan dana tanpa review",
-                "Menahan transaksi dan melakukan compliance review",
-                "Mengubah transaksi menjadi transfer domestik",
-                "Menutup rekening penerima otomatis"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Dana dari negara high-risk wajib melalui compliance review.",
-            "topic": "Remittance",
-            "subtopic": "High Risk Country",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "high-risk country",
-                "AML",
-                "compliance review",
-                "suspicious transaction"
-            ]
-        },
-        {
-            "id": 56,
-            "question": "Pada audit internal ditemukan beberapa form transaksi menggunakan koreksi cairan penghapus pada nominal.",
-            "options": [
-                "Tidak masalah selama nasabah hadir",
-                "Terdapat kelemahan kontrol dokumentasi transaksi",
-                "Menunjukkan kualitas printer buruk",
-                "Mengurangi kebutuhan thickmark"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Penggunaan koreksi pada nominal menunjukkan kelemahan kontrol dokumen.",
-            "topic": "Dokumentasi",
-            "subtopic": "Fraud Risk",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "document integrity",
-                "fraud risk",
-                "kontrol dokumen",
-                "compliance"
-            ]
-        },
-        {
-            "id": 57,
-            "question": "Transfer non tunai yang paling sesuai untuk pembayaran gaji massal antarbank dengan biaya efisien adalah...",
-            "options": [
-                "RTGS",
-                "SKN",
-                "Outward remittance",
-                "Cash withdrawal"
-            ],
-            "correctAnswer": 1,
-            "explanation": "SKN cocok untuk pembayaran massal antarbank dengan biaya efisien.",
-            "topic": "SKN",
-            "subtopic": "Payroll",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "SKN",
-                "payroll",
-                "efisiensi",
-                "antarbank"
-            ]
-        },
-        {
-            "id": 58,
-            "question": "Nasabah meminta teller mengabaikan perbedaan kecil pada data identitas karena terburu-buru.",
-            "options": [
-                "Tetap proses demi customer experience",
-                "Melakukan verifikasi ulang sesuai SOP",
-                "Mengubah data manual tanpa bukti",
-                "Menunggu audit internal"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Perbedaan data identitas wajib diverifikasi sesuai SOP.",
-            "topic": "Verifikasi Identitas",
-            "subtopic": "Kepatuhan SOP",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "verifikasi",
-                "identitas",
-                "SOP",
-                "compliance"
-            ]
-        },
-        {
-            "id": 59,
-            "question": "Tujuan utama adanya tanda tangan rekonsiliasi pada akhir hari adalah...",
-            "options": [
-                "Mempercepat proses audit",
-                "Akuntabilitas dan bukti pengendalian internal",
-                "Mengurangi kebutuhan backup data",
-                "Meningkatkan fee based income"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Tanda tangan rekonsiliasi menunjukkan accountability dan pengendalian internal.",
-            "topic": "Akhir Hari",
-            "subtopic": "Rekonsiliasi",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "akuntabilitas",
-                "rekonsiliasi",
-                "pengendalian internal",
-                "audit trail"
-            ]
-        },
-        {
-            "id": 60,
-            "question": "Penerapan dual custody pada penutupan brankas terutama bertujuan untuk...",
-            "options": [
-                "Mempercepat pembukaan cabang esok hari",
-                "Mengurangi kebutuhan CCTV",
-                "Meningkatkan keamanan aset fisik dan mencegah fraud",
-                "Mengurangi biaya operasional"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Dual custody meningkatkan keamanan aset fisik dan mitigasi fraud.",
-            "topic": "Brankas",
-            "subtopic": "Dual Custody",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "dual custody",
-                "keamanan aset",
-                "fraud prevention",
-                "vault"
-            ]
-        },
-        {
-            "id": 61,
-            "question": "Nasabah meminta transaksi diproses tanpa buku tabungan dengan alasan kartu ATM masih aktif.",
-            "options": [
-                "Tetap diproses otomatis",
-                "Menolak sampai persyaratan sesuai ketentuan dipenuhi",
-                "Menggunakan rekening lain sebagai pengganti",
-                "Meminta security memverifikasi"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Penarikan tunai teller wajib memenuhi persyaratan dokumen sesuai SOP.",
-            "topic": "Penarikan Tunai",
-            "subtopic": "Dokumen Wajib",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "buku tabungan",
-                "dokumen wajib",
-                "SOP",
-                "verifikasi"
-            ]
-        },
-        {
-            "id": 62,
-            "question": "Nasabah meminta transaksi tunai dipecah menjadi beberapa slip berbeda dalam hari yang sama.",
-            "options": [
-                "Efisiensi administrasi",
-                "Indikasi upaya menghindari threshold monitoring",
-                "Kebutuhan audit trail",
-                "Kontrol internal normal"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Pemecahan transaksi dapat mengindikasikan upaya menghindari threshold AML.",
-            "topic": "AML/CFT",
-            "subtopic": "Threshold Avoidance",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "AML",
-                "threshold avoidance",
-                "structuring",
-                "monitoring"
-            ]
-        },
-        {
-            "id": 63,
-            "question": "Teller menemukan nominal terbilang berbeda dengan nominal angka pada slip setoran.",
-            "options": [
-                "Menggunakan nominal terbesar",
-                "Mengikuti nominal angka saja",
-                "Melakukan klarifikasi ulang sebelum transaksi diproses",
-                "Langsung membatalkan rekening"
-            ],
-            "correctAnswer": 2,
-            "explanation": "Ketidaksesuaian nominal wajib diklarifikasi sebelum posting.",
-            "topic": "TNT NaNo",
-            "subtopic": "Klarifikasi Nominal",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "klarifikasi",
-                "nominal",
-                "TNT NaNo",
-                "verifikasi"
-            ]
-        },
-        {
-            "id": 64,
-            "question": "Dalam transaksi non tunai, penggunaan warkat cek/BG memerlukan perhatian khusus karena...",
-            "options": [
-                "Tidak membutuhkan underlying rekening",
-                "Berisiko mismatch data dan penolakan settlement",
-                "Selalu real-time",
-                "Tidak memerlukan otorisasi"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Warkat rentan mismatch data dan penolakan settlement.",
-            "topic": "Warkat",
-            "subtopic": "Settlement Risk",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "warkat",
-                "settlement",
-                "mismatch",
-                "operational risk"
-            ]
-        },
-        {
-            "id": 65,
-            "question": "Nasabah meminta outward remittance menggunakan rekening pihak lain sebagai sumber dana tanpa penjelasan hubungan.",
-            "options": [
-                "Tetap proses karena dana tersedia",
-                "Melakukan enhanced due diligence dan klarifikasi",
-                "Mengubah menjadi transfer tunai",
-                "Membagi nominal transaksi"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Penggunaan rekening pihak lain memerlukan klarifikasi dan EDD.",
-            "topic": "Remittance",
-            "subtopic": "Source of Fund",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "EDD",
-                "source of fund",
-                "AML",
-                "klarifikasi"
-            ]
-        },
-        {
-            "id": 66,
-            "question": "Kondisi yang PALING menunjukkan lemahnya pengendalian internal cabang adalah...",
-            "options": [
-                "Seluruh transaksi tervalidasi sistem",
-                "Approval dilakukan setelah transaksi selesai seluruhnya",
-                "Rekonsiliasi dilakukan setiap akhir hari",
-                "Backup sistem dilakukan rutin"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Approval setelah transaksi selesai melemahkan kontrol internal.",
-            "topic": "Internal Control",
-            "subtopic": "Approval",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "internal control",
-                "approval",
-                "fraud risk",
-                "SOP"
-            ]
-        },
-        {
-            "id": 67,
-            "question": "Nasabah insist menggunakan RTGS untuk nominal kecil karena menganggap lebih aman dibanding transfer biasa.",
-            "options": [
-                "RTGS selalu lebih aman untuk seluruh nominal",
-                "Teller perlu menjelaskan ketentuan dan karakteristik layanan",
-                "RTGS wajib digunakan untuk seluruh transfer",
-                "SKN lebih mahal dari RTGS"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Teller perlu menjelaskan ketentuan layanan dan minimum nominal RTGS.",
-            "topic": "RTGS",
-            "subtopic": "Edukasi Nasabah",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "RTGS",
-                "edukasi",
-                "minimum nominal",
-                "layanan"
-            ]
-        },
-        {
-            "id": 68,
-            "question": "Dokumen transaksi disimpan tidak berurutan sehingga sulit ditelusuri auditor.",
-            "options": [
-                "Tidak berdampak karena data ada di sistem",
-                "Menunjukkan lemahnya prinsip traceable/audit trail",
-                "Meningkatkan efisiensi operasional",
-                "Mengurangi risiko fraud"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Dokumen yang tidak traceable melemahkan audit trail.",
-            "topic": "Dokumentasi",
-            "subtopic": "Traceable",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "traceable",
-                "audit trail",
-                "dokumentasi",
-                "audit"
-            ]
-        },
-        {
-            "id": 69,
-            "question": "Teller menerima transaksi tunai besar dari nasabah dengan profil transaksi biasanya kecil dan pasif.",
-            "options": [
-                "Aktivitas normal nasabah",
-                "Indikasi transaksi tidak sesuai profil yang perlu monitoring",
-                "Tidak relevan selama saldo cukup",
-                "Bukti peningkatan loyalitas nasabah"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Transaksi yang tidak sesuai profil merupakan red flag AML.",
-            "topic": "AML/CFT",
-            "subtopic": "Red Flag",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "red flag",
-                "AML",
-                "profil transaksi",
-                "monitoring"
-            ]
-        },
-        {
-            "id": 70,
-            "question": "Tujuan utama seluruh rangkaian kontrol transaksi tunai dan non tunai di cabang adalah...",
-            "options": [
-                "Meningkatkan kompleksitas layanan",
-                "Menjamin transaksi aman, akurat, compliant, dan dapat diaudit",
-                "Mengurangi kebutuhan sistem core banking",
-                "Menghilangkan seluruh risiko operasional"
-            ],
-            "correctAnswer": 1,
-            "explanation": "Kontrol transaksi dirancang untuk memastikan keamanan, akurasi, compliance, dan auditability.",
-            "topic": "Operational Control",
-            "subtopic": "Compliance & Audit",
-            "difficulty": "Hard",
-            "requiresReasoning": true,
-            "reasoningKeywords": [
-                "compliance",
-                "audit",
-                "operational control",
-                "risk management"
-            ]
-        }
-    ]
+  "quizTitle": "Transaksi Tunai & Non Tunai",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Pada proses awal hari cabang, aktivitas yang PALING tepat dikategorikan sebagai bagian dari pemenuhan likuiditas teller adalah...",
+      "options": [
+        "Menyelesaikan outstanding complaint nasabah prioritas",
+        "Menyiapkan modal kerja teller dan antisipasi penarikan dana besar",
+        "Menginput ulang transaksi pending hari sebelumnya",
+        "Melakukan cross selling produk bancassurance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pemenuhan likuiditas fokus pada kesiapan kas operasional teller untuk melayani transaksi tunai dan antisipasi kebutuhan dana besar.",
+      "topic": "Proses Awal Hari",
+      "subtopic": "Likuiditas Teller",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 2,
+      "question": "Tujuan utama adanya ritual awal dan akhir hari cabang adalah...",
+      "options": [
+        "Memastikan target marketing tercapai harian",
+        "Menjaga agar transaksi dapat diproses lebih cepat dibanding cabang lain",
+        "Menjamin operasional berjalan aman, tertib, dan tercatat akurat",
+        "Mengurangi kebutuhan approval pimpinan cabang"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ritual awal dan akhir hari bertujuan menjaga operasional aman, tertib, dan akurat sebagai bagian pengendalian internal.",
+      "topic": "Operasional Cabang",
+      "subtopic": "Kontrol Harian",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 3,
+      "question": "Aktivitas berikut yang termasuk kontrol first line of defense pada operasional cabang adalah...",
+      "options": [
+        "Audit investigatif oleh regulator",
+        "Pemeriksaan eksternal auditor independen",
+        "Rekonsiliasi transaksi oleh teller pada akhir hari",
+        "Penetapan kebijakan moneter oleh BI"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rekonsiliasi transaksi oleh teller merupakan kontrol first line untuk mitigasi risiko operasional.",
+      "topic": "Three Lines of Defense",
+      "subtopic": "First Line Control",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 4,
+      "question": "Dalam proses serah terima uang kepada teller, prinsip dual control diterapkan dengan tujuan utama...",
+      "options": [
+        "Mempercepat distribusi uang kas",
+        "Mengurangi kebutuhan dokumentasi transaksi",
+        "Meminimalkan risiko fraud dan human error",
+        "Menghindari penggunaan mesin hitung uang"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dual control diterapkan untuk meminimalkan fraud, kesalahan, dan meningkatkan akuntabilitas.",
+      "topic": "Dual Control",
+      "subtopic": "Serah Terima Kas",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 5,
+      "question": "Berikut ini yang BUKAN merupakan aktivitas wajib Kepala Cabang/Pimpinan Unit saat persiapan operasional adalah...",
+      "options": [
+        "Menyiapkan surat berharga",
+        "Memantau standing instruction",
+        "Melakukan settlement RTGS nasabah secara manual",
+        "Morning briefing operasional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Settlement RTGS nasabah bukan aktivitas wajib persiapan operasional Kepala Cabang.",
+      "topic": "Persiapan Operasional",
+      "subtopic": "Tugas Pimpinan Unit",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 6,
+      "question": "Standing Instructions pada agenda harian cabang terutama berkaitan dengan...",
+      "options": [
+        "Pengajuan kredit baru nasabah prioritas",
+        "Instruksi transaksi berulang milik nasabah",
+        "Proses audit internal semesteran",
+        "Penyesuaian suku bunga deposito otomatis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Standing Instructions berkaitan dengan instruksi transaksi berulang seperti auto debet dan transfer terjadwal.",
+      "topic": "Agenda Harian",
+      "subtopic": "Standing Instruction",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 7,
+      "question": "Salah satu indikator procedural red flag saat serah terima kas teller adalah...",
+      "options": [
+        "Teller menghitung uang menggunakan mesin hitung",
+        "Form permintaan uang tunai tervalidasi lengkap",
+        "Approval dilakukan setelah uang diserahkan",
+        "Berita acara pecahan uang ditandatangani kedua pihak"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Approval yang dilakukan setelah uang diserahkan melemahkan kontrol dual control.",
+      "topic": "Dual Control",
+      "subtopic": "Fraud Risk",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 8,
+      "question": "Lima ketentuan minimum transaksi teller mewajibkan adanya bukti validasi sistem terutama untuk...",
+      "options": [
+        "Mempermudah cross selling produk bank",
+        "Mengurangi kebutuhan penyimpanan arsip",
+        "Menjadi bukti sah transaksi nasabah",
+        "Menggantikan kebutuhan tanda tangan nasabah"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bukti validasi sistem menjadi bukti sah transaksi nasabah.",
+      "topic": "Transaksi Teller",
+      "subtopic": "Bukti Validasi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 9,
+      "question": "Pada konsep TNT NaNo, elemen yang sering menjadi titik fraud risk apabila tidak diverifikasi dengan baik adalah...",
+      "options": [
+        "Warna tinta pada slip transaksi",
+        "Nomor antrean nasabah",
+        "Nominal dan nomor rekening",
+        "Jenis mesin printer teller"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nominal dan nomor rekening menjadi area kritis yang rawan manipulasi.",
+      "topic": "TNT NaNo",
+      "subtopic": "Verifikasi Form",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 10,
+      "question": "Urutan kontrol transaksi tunai teller yang PALING sesuai SOP adalah...",
+      "options": [
+        "Posting → hitung uang → konfirmasi → verifikasi form",
+        "Konfirmasi → posting → verifikasi → hitung uang",
+        "Verifikasi form → konfirmasi → hitung uang → posting",
+        "Hitung uang → posting → verifikasi → konfirmasi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Urutan SOP adalah verifikasi form, konfirmasi, hitung uang, lalu posting.",
+      "topic": "SOP Teller",
+      "subtopic": "Kontrol Transaksi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 11,
+      "question": "Penggunaan UV-light pada transaksi tunai terutama bertujuan untuk...",
+      "options": [
+        "Memastikan nominal sesuai sistem",
+        "Mengurangi waktu layanan teller",
+        "Menguji keaslian uang fisik",
+        "Mengidentifikasi CIF nasabah"
+      ],
+      "correctAnswer": 2,
+      "explanation": "UV-light digunakan untuk menguji keaslian uang.",
+      "topic": "Transaksi Tunai",
+      "subtopic": "Uji Keaslian Uang",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 12,
+      "question": "Berikut ini yang termasuk transaksi cash-out adalah...",
+      "options": [
+        "Pembelian valuta asing secara tunai",
+        "Setoran pembayaran listrik",
+        "Penarikan tunai rekening sendiri",
+        "Transfer dana tunai ke rekening tujuan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Penarikan tunai rekening sendiri termasuk transaksi cash-out.",
+      "topic": "Transaksi Tunai",
+      "subtopic": "Cash Out",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 13,
+      "question": "Dalam ketentuan penarikan tunai, penggunaan rekening orang lain diperbolehkan apabila...",
+      "options": [
+        "Nasabah membawa kartu ATM penerima",
+        "Nominal transaksi di bawah limit teller",
+        "Terdapat surat kuasa lengkap dan dilakukan konfirmasi",
+        "Teller mengenal nasabah secara pribadi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Penarikan rekening orang lain hanya diperbolehkan dengan surat kuasa dan konfirmasi.",
+      "topic": "Penarikan Tunai",
+      "subtopic": "Surat Kuasa",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 14,
+      "question": "Setoran tunai oleh Walk-In Customer sebesar Rp120 juta mewajibkan teller untuk...",
+      "options": [
+        "Menolak transaksi karena bukan nasabah",
+        "Meminta Form WIC dan identitas pendukung",
+        "Langsung melaporkan ke PPATK",
+        "Memproses sebagai transaksi reguler tanpa dokumen tambahan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "WIC ≥ Rp100 juta wajib melampirkan Form WIC dan identitas.",
+      "topic": "AML/CFT",
+      "subtopic": "WIC",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 15,
+      "question": "Setoran tunai Rp520 juta yang dilakukan dalam satu kali transaksi memiliki implikasi compliance berupa...",
+      "options": [
+        "Wajib diproses melalui RTGS",
+        "Wajib approval treasury pusat",
+        "Wajib dilaporkan sebagai LTKT ke PPATK melalui compliance",
+        "Wajib menggunakan cek silang"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Transaksi ≥ Rp500 juta wajib dilaporkan sebagai LTKT.",
+      "topic": "AML/CFT",
+      "subtopic": "PPATK",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 16,
+      "question": "Dalam perspektif AML/CFT, akumulasi transaksi tunai yang perlu diperhatikan adalah...",
+      "options": [
+        "Akumulasi mingguan",
+        "Akumulasi bulanan",
+        "Akumulasi dalam satu hari",
+        "Akumulasi per semester"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Threshold AML memperhatikan akumulasi transaksi dalam satu hari.",
+      "topic": "AML/CFT",
+      "subtopic": "Threshold Harian",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 17,
+      "question": "Prinsip stopping pada form setoran bertujuan utama untuk...",
+      "options": [
+        "Mempercepat proses posting",
+        "Mencegah penambahan digit nominal",
+        "Mengurangi kebutuhan validasi supervisor",
+        "Mempermudah audit CIF"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stopping mencegah manipulasi angka nominal.",
+      "topic": "Dokumen Transaksi",
+      "subtopic": "Stopping",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 18,
+      "question": "Contoh thickmark diterapkan pada bagian...",
+      "options": [
+        "Nomor antrean nasabah",
+        "Nominal angka",
+        "Nominal terbilang",
+        "Nomor CIF"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Thickmark digunakan pada nominal terbilang.",
+      "topic": "Dokumen Transaksi",
+      "subtopic": "Thickmark",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 19,
+      "question": "Pada proses penarikan tunai, verifikasi spectroline dilakukan untuk...",
+      "options": [
+        "Menghitung jumlah lembar uang",
+        "Memastikan keaslian tandatangan",
+        "Menentukan limit transaksi nasabah",
+        "Mengukur kualitas tinta printer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Spectroline digunakan untuk verifikasi tanda tangan.",
+      "topic": "Penarikan Tunai",
+      "subtopic": "Verifikasi Tanda Tangan",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 20,
+      "question": "Penarikan tunai menggunakan surat kuasa TIDAK diperkenankan apabila...",
+      "options": [
+        "Nominal di atas limit teller",
+        "Dilakukan di luar cabang pengelola rekening",
+        "Menggunakan identitas asli pemilik rekening",
+        "Sudah dilakukan video call konfirmasi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Surat kuasa tidak berlaku di luar cabang pengelola rekening.",
+      "topic": "Penarikan Tunai",
+      "subtopic": "Ketentuan Surat Kuasa",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 21,
+      "question": "Perbedaan utama cek dan bilyet giro adalah...",
+      "options": [
+        "Cek hanya untuk transfer antarbank",
+        "BG dapat diuangkan tunai langsung",
+        "Cek merupakan perintah bayar, BG perintah pemindahbukuan",
+        "BG tidak memerlukan underlying rekening giro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cek adalah perintah bayar, BG perintah pemindahbukuan.",
+      "topic": "Transaksi Non Tunai",
+      "subtopic": "Cek dan BG",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 22,
+      "question": "Settlement cek silang antarbank pada umumnya dilakukan melalui...",
+      "options": [
+        "BI Fast",
+        "SKN/Kliring",
+        "SWIFT",
+        "ATM Bersama"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cek silang antarbank diselesaikan melalui SKN/kliring.",
+      "topic": "Kliring",
+      "subtopic": "Settlement",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 23,
+      "question": "Ketentuan lampiran KTP untuk nominal besar berlaku pada transaksi...",
+      "options": [
+        "Setoran tunai di bawah Rp50 juta",
+        "Pemindahbukuan dan transfer bank lain ≥ Rp100 juta",
+        "Seluruh transaksi non tunai tanpa batas nominal",
+        "Penarikan ATM reguler"
+      ],
+      "correctAnswer": 1,
+      "explanation": "KTP wajib dilampirkan untuk transaksi nominal besar ≥ Rp100 juta.",
+      "topic": "Pemindahbukuan",
+      "subtopic": "Dokumen Pendukung",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 24,
+      "question": "Konfirmasi transaksi pemindahbukuan via telepon/video call wajib dicatat pada...",
+      "options": [
+        "Buku tamu cabang",
+        "General ledger cabang",
+        "Logbook transaksi terkait surat kuasa",
+        "Buku kas harian teller"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Konfirmasi wajib dicatat dalam logbook transaksi.",
+      "topic": "Pemindahbukuan",
+      "subtopic": "Logbook",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 25,
+      "question": "Karakteristik transfer intra-bank yang PALING tepat adalah...",
+      "options": [
+        "Settlement batch 2–3 hari",
+        "Wajib nominal minimal Rp100 juta",
+        "Real-time dan biaya relatif rendah",
+        "Wajib melalui SWIFT"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Transfer intra-bank bersifat real-time dan murah.",
+      "topic": "Transfer",
+      "subtopic": "Intra-bank",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 26,
+      "question": "RTGS lebih tepat digunakan dibanding SKN apabila...",
+      "options": [
+        "Nominal kecil dan membutuhkan biaya murah",
+        "Transfer lintas negara",
+        "Membutuhkan settlement cepat untuk nominal besar",
+        "Tidak memiliki rekening bank"
+      ],
+      "correctAnswer": 2,
+      "explanation": "RTGS digunakan untuk nominal besar dengan kebutuhan settlement cepat.",
+      "topic": "RTGS",
+      "subtopic": "Karakteristik",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 27,
+      "question": "Nominal maksimum transaksi SKN berdasarkan materi adalah...",
+      "options": [
+        "Rp100 juta",
+        "Rp250 juta",
+        "Rp500 juta",
+        "Rp1 miliar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Maksimum transaksi SKN adalah Rp1 miliar per transaksi.",
+      "topic": "SKN",
+      "subtopic": "Limit Transaksi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 28,
+      "question": "Dalam outward remittance, dokumen tambahan sumber dana diperlukan terutama apabila...",
+      "options": [
+        "Nasabah menggunakan mobile banking",
+        "Nominal besar sesuai prinsip AML/CFT",
+        "Rekening penerima masih satu keluarga",
+        "Pengiriman dilakukan di hari kerja"
+      ],
+      "correctAnswer": 1,
+      "explanation": "AML/CFT mewajibkan verifikasi source of fund untuk nominal besar.",
+      "topic": "Remittance",
+      "subtopic": "AML/CFT",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 29,
+      "question": "Tujuan utama proses EOD core banking adalah...",
+      "options": [
+        "Menutup akses audit trail",
+        "Menghapus transaksi pending otomatis",
+        "Mengkonsolidasikan transaksi operasional harian",
+        "Mengurangi saldo kas fisik teller"
+      ],
+      "correctAnswer": 2,
+      "explanation": "EOD dilakukan untuk konsolidasi operasional harian.",
+      "topic": "Akhir Hari",
+      "subtopic": "EOD",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 30,
+      "question": "Rekonsiliasi kas pada akhir hari dilakukan dengan membandingkan...",
+      "options": [
+        "Target bisnis dan realisasi fee based income",
+        "Saldo fisik kas serta warkat dengan laporan sistem",
+        "Jumlah nasabah dan jumlah teller aktif",
+        "Outstanding kredit dan DPK cabang"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rekonsiliasi membandingkan fisik kas dan laporan sistem.",
+      "topic": "Akhir Hari",
+      "subtopic": "Rekonsiliasi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 31,
+      "question": "Backup sistem pada akhir hari memiliki tujuan utama...",
+      "options": [
+        "Mengurangi kebutuhan arsip fisik",
+        "Pencegahan kehilangan data transaksi",
+        "Mempercepat proses marketing harian",
+        "Mengurangi biaya operasional cabang"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Backup sistem bertujuan mencegah kehilangan data.",
+      "topic": "Akhir Hari",
+      "subtopic": "Backup Sistem",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 32,
+      "question": "Prinsip traceable/audit trail dalam dokumentasi transaksi berarti...",
+      "options": [
+        "Dokumen boleh disimpan tanpa urutan",
+        "Setiap transaksi dapat ditelusuri kembali dengan mudah",
+        "Dokumen cukup disimpan digital tanpa validasi",
+        "Dokumen hanya diperlukan untuk transaksi besar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Audit trail memastikan transaksi dapat ditelusuri.",
+      "topic": "Dokumentasi",
+      "subtopic": "Audit Trail",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 33,
+      "question": "Dokumentasi transaksi yang lengkap tetapi tidak sesuai SOP tetap dianggap berisiko karena...",
+      "options": [
+        "Berpotensi melanggar compliance internal dan regulator",
+        "Menghambat proses marketing produk",
+        "Menurunkan saldo CASA bank",
+        "Meningkatkan biaya RTGS"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dokumentasi wajib sesuai SOP dan regulator.",
+      "topic": "Dokumentasi",
+      "subtopic": "Compliance",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 34,
+      "question": "Keterampilan menggunakan detektor keaslian uang pada SKKNI terutama berkaitan dengan mitigasi risiko...",
+      "options": [
+        "Risiko pasar",
+        "Risiko kredit",
+        "Risiko operasional dan fraud",
+        "Risiko likuiditas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Detektor uang digunakan untuk mitigasi risiko fraud.",
+      "topic": "SKKNI",
+      "subtopic": "Mitigasi Risiko",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 35,
+      "question": "Teller menerima form transfer dengan tanda tangan mirip namun terdapat perbedaan minor dibanding specimen. Langkah PALING tepat adalah...",
+      "options": [
+        "Tetap memproses karena nominal kecil",
+        "Mengabaikan karena nasabah terlihat meyakinkan",
+        "Melakukan verifikasi lebih lanjut dan eskalasi sesuai SOP",
+        "Mengubah specimen secara manual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Perbedaan tanda tangan wajib diverifikasi lebih lanjut.",
+      "topic": "Verifikasi Tanda Tangan",
+      "subtopic": "Escalation",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 36,
+      "question": "Seorang nasabah meminta transfer Rp90 juta antarbank dan insist menggunakan RTGS agar lebih aman. Respons teller yang PALING tepat adalah...",
+      "options": [
+        "Menolak karena nominal belum memenuhi minimum RTGS",
+        "Memproses RTGS dengan override manual",
+        "Meminta nasabah menaikkan nominal transfer",
+        "Mengalihkan otomatis ke outward remittance"
+      ],
+      "correctAnswer": 0,
+      "explanation": "RTGS memiliki minimum nominal Rp100 juta.",
+      "topic": "RTGS",
+      "subtopic": "Minimum Nominal",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 37,
+      "question": "Seorang WIC datang melakukan setoran tunai Rp150 juta tanpa membawa identitas karena mengaku terburu-buru dan sudah sering transaksi di cabang tersebut.",
+      "options": [
+        "Tetap proses karena nasabah sudah dikenal teller",
+        "Proses sebagian dulu di bawah threshold",
+        "Meminta Form WIC dan identitas sebelum transaksi diproses",
+        "Menyarankan transaksi lewat ATM setor tunai"
+      ],
+      "correctAnswer": 2,
+      "explanation": "WIC ≥ Rp100 juta wajib menyertakan identitas dan form WIC.",
+      "topic": "AML/CFT",
+      "subtopic": "WIC",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "WIC",
+        "threshold",
+        "CDD",
+        "AML",
+        "identitas"
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Teller menemukan nominal angka pada slip setoran sudah menggunakan stopping, namun bagian terbilang masih memiliki ruang kosong cukup panjang.",
+      "options": [
+        "Tetap proses karena nominal angka sudah aman",
+        "Menambahkan thickmark sebelum diposting",
+        "Meminta nasabah menulis ulang seluruh form",
+        "Mengabaikan karena risiko rendah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Thickmark mencegah manipulasi nominal terbilang.",
+      "topic": "Dokumen Transaksi",
+      "subtopic": "Thickmark",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "thickmark",
+        "fraud prevention",
+        "dokumen",
+        "terbilang"
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Nasabah ingin menarik dana rekening ayahnya dengan membawa ATM dan mengetahui PIN, tetapi tidak membawa surat kuasa.",
+      "options": [
+        "Proses karena PIN dianggap otorisasi sah",
+        "Tolak transaksi sampai dokumen sesuai ketentuan dipenuhi",
+        "Proses sebagian nominal kecil",
+        "Minta approval supervisor lalu proses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Penarikan rekening orang lain wajib menggunakan surat kuasa.",
+      "topic": "Penarikan Tunai",
+      "subtopic": "Surat Kuasa",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "surat kuasa",
+        "rekening sendiri",
+        "fraud",
+        "otorisasi"
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Pada akhir hari, saldo fisik teller lebih besar Rp500 ribu dibanding laporan sistem.",
+      "options": [
+        "Menyesuaikan laporan agar balance",
+        "Menyimpan selisih sementara di laci teller",
+        "Melakukan investigasi dan rekonsiliasi transaksi hari itu",
+        "Menunggu audit internal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Selisih kas harus diinvestigasi pada hari yang sama.",
+      "topic": "Rekonsiliasi",
+      "subtopic": "Selisih Kas",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "rekonsiliasi",
+        "selisih kas",
+        "investigasi",
+        "audit trail"
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Seorang nasabah korporasi membutuhkan transfer Rp2,5 miliar untuk settlement properti yang harus diterima hari ini.",
+      "options": [
+        "SKN",
+        "Transfer intra-bank reguler",
+        "RTGS",
+        "Remittance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "RTGS cocok untuk transfer nominal besar dan settlement cepat.",
+      "topic": "RTGS",
+      "subtopic": "Settlement Besar",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "RTGS",
+        "nominal besar",
+        "real-time",
+        "settlement"
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Nasabah meminta pemindahbukuan menggunakan surat kuasa di cabang berbeda dari cabang pengelola rekening.",
+      "options": [
+        "Tetap diproses jika nominal kecil",
+        "Diproses setelah approval supervisor",
+        "Tidak diperkenankan sesuai ketentuan wilayah berlaku",
+        "Diproses bila penerima kuasa keluarga inti"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pemindahbukuan dengan surat kuasa hanya berlaku di cabang pengelola rekening.",
+      "topic": "Pemindahbukuan",
+      "subtopic": "Surat Kuasa",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "surat kuasa",
+        "cabang pengelola",
+        "SOP",
+        "otorisasi"
+      ]
+    },
+    {
+      "id": 43,
+      "question": "Teller menerima setoran tunai Rp490 juta pagi hari dan Rp20 juta sore hari dari nasabah yang sama.",
+      "options": [
+        "Tidak ada karena transaksi terpisah",
+        "Wajib LTKT karena akumulasi ≥ Rp500 juta",
+        "Wajib RTGS",
+        "Wajib outbound remittance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Akumulasi transaksi harian ≥ Rp500 juta wajib LTKT.",
+      "topic": "AML/CFT",
+      "subtopic": "LTKT",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "LTKT",
+        "PPATK",
+        "akumulasi",
+        "AML"
+      ]
+    },
+    {
+      "id": 44,
+      "question": "Dalam proses penarikan tunai, teller melihat tanda tangan di form dan specimen hampir sama namun ada perbedaan karakter signifikan.",
+      "options": [
+        "Tetap proses agar SLA layanan terjaga",
+        "Meminta verifikasi tambahan/eskalasi",
+        "Mengubah specimen agar sesuai",
+        "Menolak langsung tanpa verifikasi lanjutan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perbedaan specimen wajib diverifikasi lebih lanjut untuk mitigasi fraud.",
+      "topic": "Verifikasi Tanda Tangan",
+      "subtopic": "Escalation",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "specimen",
+        "verifikasi",
+        "fraud",
+        "escalation"
+      ]
+    },
+    {
+      "id": 45,
+      "question": "Seorang nasabah meminta transfer Rp50 juta antarbank dan membutuhkan biaya paling murah meski tidak instan.",
+      "options": [
+        "RTGS",
+        "SKN",
+        "Transfer BI Fast prioritas",
+        "Outward remittance"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SKN cocok untuk transfer murah dengan settlement tidak mendesak.",
+      "topic": "SKN",
+      "subtopic": "Biaya Transfer",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "SKN",
+        "biaya murah",
+        "settlement",
+        "antarbank"
+      ]
+    },
+    {
+      "id": 46,
+      "question": "Saat serah terima kas awal hari, teller lupa menandatangani berita acara pecahan uang.",
+      "options": [
+        "Keterlambatan marketing produk",
+        "Lemahnya audit trail dan accountability",
+        "Gangguan jaringan core banking",
+        "Penurunan fee based income"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dokumen tanpa tanda tangan melemahkan audit trail dan accountability.",
+      "topic": "Dual Control",
+      "subtopic": "Audit Trail",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "audit trail",
+        "accountability",
+        "dual control",
+        "dokumentasi"
+      ]
+    },
+    {
+      "id": 47,
+      "question": "Nasabah outward remittance tidak dapat menjelaskan sumber dana transfer luar negeri bernilai besar.",
+      "options": [
+        "Tetap proses karena dana berasal dari rekening sendiri",
+        "Escalate untuk enhanced due diligence sesuai AML/CFT",
+        "Meminta transfer dipecah menjadi kecil",
+        "Mengganti menjadi SKN"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Source of fund tidak jelas memerlukan EDD sesuai AML/CFT.",
+      "topic": "Remittance",
+      "subtopic": "Enhanced Due Diligence",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "source of fund",
+        "EDD",
+        "AML",
+        "compliance"
+      ]
+    },
+    {
+      "id": 48,
+      "question": "Pada proses akhir hari, teller langsung logout sistem tanpa mencetak jurnal harian.",
+      "options": [
+        "Business continuity",
+        "Bukti pembukuan dan audit",
+        "Customer experience",
+        "Treasury management"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Jurnal harian merupakan bukti pembukuan dan audit trail.",
+      "topic": "Akhir Hari",
+      "subtopic": "Jurnal Harian",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "jurnal harian",
+        "audit trail",
+        "pembukuan",
+        "rekonsiliasi"
+      ]
+    },
+    {
+      "id": 49,
+      "question": "Nasabah ingin mencairkan BG menjadi uang tunai langsung di teller.",
+      "options": [
+        "Diproses sebagai penarikan tunai biasa",
+        "Ditolak karena BG adalah instrumen pemindahbukuan",
+        "Diproses jika nominal kecil",
+        "Diproses setelah approval kepala cabang"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bilyet giro adalah instrumen pemindahbukuan, bukan penarikan tunai.",
+      "topic": "Bilyet Giro",
+      "subtopic": "Ketentuan BG",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "BG",
+        "pemindahbukuan",
+        "non tunai",
+        "warkat"
+      ]
+    },
+    {
+      "id": 50,
+      "question": "Teller menerima form transfer dengan TNT NaNo lengkap, tetapi nomor rekening tujuan berbeda dengan nama beneficiary di sistem.",
+      "options": [
+        "Tetap proses sesuai nomor rekening",
+        "Konfirmasi ulang kepada nasabah sebelum posting",
+        "Mengubah nama beneficiary manual",
+        "Meminta nasabah membuka rekening baru"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mismatch beneficiary wajib dikonfirmasi ulang sebelum transaksi diproses.",
+      "topic": "Transfer",
+      "subtopic": "Konfirmasi Beneficiary",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "beneficiary",
+        "konfirmasi",
+        "operational risk",
+        "verifikasi"
+      ]
+    },
+    {
+      "id": 51,
+      "question": "Pada proses rekonsiliasi, seluruh saldo sudah sesuai namun ada satu form transaksi tanpa validasi sistem.",
+      "options": [
+        "Risiko pasar",
+        "Risiko legal dan audit trail",
+        "Risiko likuiditas",
+        "Risiko suku bunga"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Form tanpa validasi sistem menimbulkan risiko legal dan audit trail.",
+      "topic": "Dokumentasi",
+      "subtopic": "Validasi Sistem",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "audit trail",
+        "validasi sistem",
+        "legal risk",
+        "compliance"
+      ]
+    },
+    {
+      "id": 52,
+      "question": "Seorang teller membantu nasabah mengisi seluruh detail form transaksi tanpa konfirmasi ulang kepada nasabah.",
+      "options": [
+        "SLA layanan meningkat",
+        "Potensi dispute dan unauthorized instruction",
+        "Pengurangan biaya operasional",
+        "Kelebihan likuiditas teller"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tanpa konfirmasi ulang terdapat risiko dispute dan unauthorized instruction.",
+      "topic": "Kontrol Teller",
+      "subtopic": "Konfirmasi Transaksi",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "unauthorized instruction",
+        "dispute",
+        "konfirmasi",
+        "verifikasi"
+      ]
+    },
+    {
+      "id": 53,
+      "question": "Petugas menemukan transaksi transfer berulang dengan nominal dipecah-pecah sedikit di bawah threshold monitoring.",
+      "options": [
+        "Reconciliation issue",
+        "Structuring/smurfing untuk menghindari monitoring AML",
+        "Human error biasa",
+        "Kesalahan CIF duplicate"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pemecahan transaksi di bawah threshold disebut structuring/smurfing.",
+      "topic": "AML/CFT",
+      "subtopic": "Structuring",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "structuring",
+        "smurfing",
+        "AML",
+        "threshold"
+      ]
+    },
+    {
+      "id": 54,
+      "question": "Supervisor meminta teller mempercepat antrean dengan melewati proses hitung uang di depan nasabah.",
+      "options": [
+        "Mengikuti instruksi demi SLA",
+        "Tetap menjalankan SOP hitung uang di hadapan nasabah",
+        "Menghitung cepat tanpa konfirmasi",
+        "Menyerahkan langsung uang ke nasabah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SOP hitung uang di hadapan nasabah wajib tetap dijalankan.",
+      "topic": "SOP Teller",
+      "subtopic": "Hitung Uang",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "SOP",
+        "hitung uang",
+        "kontrol transaksi",
+        "dispute prevention"
+      ]
+    },
+    {
+      "id": 55,
+      "question": "Dalam proses inward remittance, dana diterima dari negara high-risk tanpa informasi pengirim yang jelas.",
+      "options": [
+        "Langsung kreditkan dana tanpa review",
+        "Menahan transaksi dan melakukan compliance review",
+        "Mengubah transaksi menjadi transfer domestik",
+        "Menutup rekening penerima otomatis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dana dari negara high-risk wajib melalui compliance review.",
+      "topic": "Remittance",
+      "subtopic": "High Risk Country",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "high-risk country",
+        "AML",
+        "compliance review",
+        "suspicious transaction"
+      ]
+    },
+    {
+      "id": 56,
+      "question": "Pada audit internal ditemukan beberapa form transaksi menggunakan koreksi cairan penghapus pada nominal.",
+      "options": [
+        "Tidak masalah selama nasabah hadir",
+        "Terdapat kelemahan kontrol dokumentasi transaksi",
+        "Menunjukkan kualitas printer buruk",
+        "Mengurangi kebutuhan thickmark"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Penggunaan koreksi pada nominal menunjukkan kelemahan kontrol dokumen.",
+      "topic": "Dokumentasi",
+      "subtopic": "Fraud Risk",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "document integrity",
+        "fraud risk",
+        "kontrol dokumen",
+        "compliance"
+      ]
+    },
+    {
+      "id": 57,
+      "question": "Transfer non tunai yang paling sesuai untuk pembayaran gaji massal antarbank dengan biaya efisien adalah...",
+      "options": [
+        "RTGS",
+        "SKN",
+        "Outward remittance",
+        "Cash withdrawal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SKN cocok untuk pembayaran massal antarbank dengan biaya efisien.",
+      "topic": "SKN",
+      "subtopic": "Payroll",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "SKN",
+        "payroll",
+        "efisiensi",
+        "antarbank"
+      ]
+    },
+    {
+      "id": 58,
+      "question": "Nasabah meminta teller mengabaikan perbedaan kecil pada data identitas karena terburu-buru.",
+      "options": [
+        "Tetap proses demi customer experience",
+        "Melakukan verifikasi ulang sesuai SOP",
+        "Mengubah data manual tanpa bukti",
+        "Menunggu audit internal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perbedaan data identitas wajib diverifikasi sesuai SOP.",
+      "topic": "Verifikasi Identitas",
+      "subtopic": "Kepatuhan SOP",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "verifikasi",
+        "identitas",
+        "SOP",
+        "compliance"
+      ]
+    },
+    {
+      "id": 59,
+      "question": "Tujuan utama adanya tanda tangan rekonsiliasi pada akhir hari adalah...",
+      "options": [
+        "Mempercepat proses audit",
+        "Akuntabilitas dan bukti pengendalian internal",
+        "Mengurangi kebutuhan backup data",
+        "Meningkatkan fee based income"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tanda tangan rekonsiliasi menunjukkan accountability dan pengendalian internal.",
+      "topic": "Akhir Hari",
+      "subtopic": "Rekonsiliasi",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "akuntabilitas",
+        "rekonsiliasi",
+        "pengendalian internal",
+        "audit trail"
+      ]
+    },
+    {
+      "id": 60,
+      "question": "Penerapan dual custody pada penutupan brankas terutama bertujuan untuk...",
+      "options": [
+        "Mempercepat pembukaan cabang esok hari",
+        "Mengurangi kebutuhan CCTV",
+        "Meningkatkan keamanan aset fisik dan mencegah fraud",
+        "Mengurangi biaya operasional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dual custody meningkatkan keamanan aset fisik dan mitigasi fraud.",
+      "topic": "Brankas",
+      "subtopic": "Dual Custody",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "dual custody",
+        "keamanan aset",
+        "fraud prevention",
+        "vault"
+      ]
+    },
+    {
+      "id": 61,
+      "question": "Nasabah meminta transaksi diproses tanpa buku tabungan dengan alasan kartu ATM masih aktif.",
+      "options": [
+        "Tetap diproses otomatis",
+        "Menolak sampai persyaratan sesuai ketentuan dipenuhi",
+        "Menggunakan rekening lain sebagai pengganti",
+        "Meminta security memverifikasi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Penarikan tunai teller wajib memenuhi persyaratan dokumen sesuai SOP.",
+      "topic": "Penarikan Tunai",
+      "subtopic": "Dokumen Wajib",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "buku tabungan",
+        "dokumen wajib",
+        "SOP",
+        "verifikasi"
+      ]
+    },
+    {
+      "id": 62,
+      "question": "Nasabah meminta transaksi tunai dipecah menjadi beberapa slip berbeda dalam hari yang sama.",
+      "options": [
+        "Efisiensi administrasi",
+        "Indikasi upaya menghindari threshold monitoring",
+        "Kebutuhan audit trail",
+        "Kontrol internal normal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pemecahan transaksi dapat mengindikasikan upaya menghindari threshold AML.",
+      "topic": "AML/CFT",
+      "subtopic": "Threshold Avoidance",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "AML",
+        "threshold avoidance",
+        "structuring",
+        "monitoring"
+      ]
+    },
+    {
+      "id": 63,
+      "question": "Teller menemukan nominal terbilang berbeda dengan nominal angka pada slip setoran.",
+      "options": [
+        "Menggunakan nominal terbesar",
+        "Mengikuti nominal angka saja",
+        "Melakukan klarifikasi ulang sebelum transaksi diproses",
+        "Langsung membatalkan rekening"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ketidaksesuaian nominal wajib diklarifikasi sebelum posting.",
+      "topic": "TNT NaNo",
+      "subtopic": "Klarifikasi Nominal",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "klarifikasi",
+        "nominal",
+        "TNT NaNo",
+        "verifikasi"
+      ]
+    },
+    {
+      "id": 64,
+      "question": "Dalam transaksi non tunai, penggunaan warkat cek/BG memerlukan perhatian khusus karena...",
+      "options": [
+        "Tidak membutuhkan underlying rekening",
+        "Berisiko mismatch data dan penolakan settlement",
+        "Selalu real-time",
+        "Tidak memerlukan otorisasi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Warkat rentan mismatch data dan penolakan settlement.",
+      "topic": "Warkat",
+      "subtopic": "Settlement Risk",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "warkat",
+        "settlement",
+        "mismatch",
+        "operational risk"
+      ]
+    },
+    {
+      "id": 65,
+      "question": "Nasabah meminta outward remittance menggunakan rekening pihak lain sebagai sumber dana tanpa penjelasan hubungan.",
+      "options": [
+        "Tetap proses karena dana tersedia",
+        "Melakukan enhanced due diligence dan klarifikasi",
+        "Mengubah menjadi transfer tunai",
+        "Membagi nominal transaksi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Penggunaan rekening pihak lain memerlukan klarifikasi dan EDD.",
+      "topic": "Remittance",
+      "subtopic": "Source of Fund",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "EDD",
+        "source of fund",
+        "AML",
+        "klarifikasi"
+      ]
+    },
+    {
+      "id": 66,
+      "question": "Kondisi yang PALING menunjukkan lemahnya pengendalian internal cabang adalah...",
+      "options": [
+        "Seluruh transaksi tervalidasi sistem",
+        "Approval dilakukan setelah transaksi selesai seluruhnya",
+        "Rekonsiliasi dilakukan setiap akhir hari",
+        "Backup sistem dilakukan rutin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Approval setelah transaksi selesai melemahkan kontrol internal.",
+      "topic": "Internal Control",
+      "subtopic": "Approval",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "internal control",
+        "approval",
+        "fraud risk",
+        "SOP"
+      ]
+    },
+    {
+      "id": 67,
+      "question": "Nasabah insist menggunakan RTGS untuk nominal kecil karena menganggap lebih aman dibanding transfer biasa.",
+      "options": [
+        "RTGS selalu lebih aman untuk seluruh nominal",
+        "Teller perlu menjelaskan ketentuan dan karakteristik layanan",
+        "RTGS wajib digunakan untuk seluruh transfer",
+        "SKN lebih mahal dari RTGS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Teller perlu menjelaskan ketentuan layanan dan minimum nominal RTGS.",
+      "topic": "RTGS",
+      "subtopic": "Edukasi Nasabah",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "RTGS",
+        "edukasi",
+        "minimum nominal",
+        "layanan"
+      ]
+    },
+    {
+      "id": 68,
+      "question": "Dokumen transaksi disimpan tidak berurutan sehingga sulit ditelusuri auditor.",
+      "options": [
+        "Tidak berdampak karena data ada di sistem",
+        "Menunjukkan lemahnya prinsip traceable/audit trail",
+        "Meningkatkan efisiensi operasional",
+        "Mengurangi risiko fraud"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dokumen yang tidak traceable melemahkan audit trail.",
+      "topic": "Dokumentasi",
+      "subtopic": "Traceable",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "traceable",
+        "audit trail",
+        "dokumentasi",
+        "audit"
+      ]
+    },
+    {
+      "id": 69,
+      "question": "Teller menerima transaksi tunai besar dari nasabah dengan profil transaksi biasanya kecil dan pasif.",
+      "options": [
+        "Aktivitas normal nasabah",
+        "Indikasi transaksi tidak sesuai profil yang perlu monitoring",
+        "Tidak relevan selama saldo cukup",
+        "Bukti peningkatan loyalitas nasabah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transaksi yang tidak sesuai profil merupakan red flag AML.",
+      "topic": "AML/CFT",
+      "subtopic": "Red Flag",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "red flag",
+        "AML",
+        "profil transaksi",
+        "monitoring"
+      ]
+    },
+    {
+      "id": 70,
+      "question": "Tujuan utama seluruh rangkaian kontrol transaksi tunai dan non tunai di cabang adalah...",
+      "options": [
+        "Meningkatkan kompleksitas layanan",
+        "Menjamin transaksi aman, akurat, compliant, dan dapat diaudit",
+        "Mengurangi kebutuhan sistem core banking",
+        "Menghilangkan seluruh risiko operasional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kontrol transaksi dirancang untuk memastikan keamanan, akurasi, compliance, dan auditability.",
+      "topic": "Operational Control",
+      "subtopic": "Compliance & Audit",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "compliance",
+        "audit",
+        "operational control",
+        "risk management"
+      ]
+    }
+  ]
 }
