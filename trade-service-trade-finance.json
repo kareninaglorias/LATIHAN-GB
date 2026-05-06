@@ -1,0 +1,1315 @@
+{
+    "quizTitle": "Memproses Trade Service & Trade Finance",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Perbedaan PALING tepat antara Trade Service dan Trade Finance adalah...",
+            "options": [
+                "Trade Service berfokus pada pembiayaan modal kerja sedangkan Trade Finance berfokus pada mitigasi risiko transaksi",
+                "Trade Service bersifat funded sedangkan Trade Finance bersifat non-funded",
+                "Trade Service memfasilitasi transaksi perdagangan tanpa pemberian dana langsung sedangkan Trade Finance menyediakan pembiayaan atas siklus perdagangan",
+                "Trade Finance menghasilkan fee-based income sedangkan Trade Service menghasilkan interest income"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Trade Service bersifat non-funded dan fee-based sedangkan Trade Finance menyediakan pembiayaan perdagangan.",
+            "topic": "Trade Service",
+            "subtopic": "Perbedaan Produk",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 2,
+            "question": "Dalam transaksi LC, risiko counterparty eksportir pada dasarnya dialihkan menjadi...",
+            "options": [
+                "Risiko freight forwarder",
+                "Risiko customs authority",
+                "Risiko carrier",
+                "Risiko bank penerbit"
+            ],
+            "correctAnswer": 3,
+            "explanation": "LC mengalihkan risiko buyer menjadi risiko issuing bank.",
+            "topic": "LC",
+            "subtopic": "Risk Mitigation",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 3,
+            "question": "Seorang eksportir meminta tambahan proteksi karena khawatir kondisi politik negara issuing bank tidak stabil. Jenis LC yang PALING sesuai adalah...",
+            "options": [
+                "Revocable LC",
+                "Confirmed Irrevocable LC",
+                "Transferable LC",
+                "Revolving LC"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Confirmed LC memberi tambahan jaminan dari confirming bank.",
+            "topic": "LC",
+            "subtopic": "Jenis LC",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 4,
+            "question": "Jenis LC yang memungkinkan beneficiary mengalihkan hak kepada pihak ketiga adalah...",
+            "options": [
+                "Back-to-Back LC",
+                "Revolving LC",
+                "Transferable LC",
+                "Standby LC"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Transferable LC memungkinkan hak dialihkan ke second beneficiary.",
+            "topic": "LC",
+            "subtopic": "Jenis LC",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 5,
+            "question": "Dokumen yang berfungsi sekaligus sebagai bukti pengapalan dan title of goods adalah...",
+            "options": [
+                "Commercial Invoice",
+                "Packing List",
+                "Bill of Exchange",
+                "Bill of Lading"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Bill of Lading merupakan bukti pengapalan sekaligus title of goods.",
+            "topic": "LC",
+            "subtopic": "Dokumen",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 6,
+            "question": "Dalam mekanisme LC, pihak yang bertugas meneruskan LC kepada beneficiary setelah memverifikasi keaslian LC adalah...",
+            "options": [
+                "Negotiating Bank",
+                "Reimbursing Bank",
+                "Advising Bank",
+                "Carrier Bank"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Advising bank meneruskan LC dan melakukan autentikasi.",
+            "topic": "LC",
+            "subtopic": "Pihak LC",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 7,
+            "question": "Yang termasuk karakteristik Trade Finance namun BUKAN Trade Service adalah...",
+            "options": [
+                "Fee handling",
+                "Mitigasi risiko transaksi",
+                "Non-funded facility",
+                "Penyediaan working capital"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Trade Finance menyediakan pembiayaan modal kerja.",
+            "topic": "Trade Finance",
+            "subtopic": "Karakteristik",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 8,
+            "question": "Seorang importir meminta fasilitas pembayaran ditunda beberapa bulan setelah barang diterima. Fitur LC yang paling relevan adalah...",
+            "options": [
+                "Usance LC",
+                "Red Clause LC",
+                "Revolving LC",
+                "Transferable LC"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Usance LC memberikan deferred payment.",
+            "topic": "LC",
+            "subtopic": "Deferred Payment",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 9,
+            "question": "Bank memperoleh CASA dan low-cost funding dari produk LC terutama melalui...",
+            "options": [
+                "FX spread",
+                "Margin deposit pada Giro Jaminan LC",
+                "Diskonto wesel",
+                "Settlement reimbursement"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Margin deposit menjadi dana murah bank.",
+            "topic": "LC",
+            "subtopic": "Benefit Bank",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 10,
+            "question": "Berikut ini yang PALING tepat menggambarkan fungsi SBLC adalah...",
+            "options": [
+                "Instrumen pembayaran langsung perdagangan ekspor",
+                "Pengganti invoice financing",
+                "Jaminan yang dicairkan bila applicant wanprestasi",
+                "Dokumen kepemilikan barang"
+            ],
+            "correctAnswer": 2,
+            "explanation": "SBLC berfungsi sebagai jaminan.",
+            "topic": "LC",
+            "subtopic": "SBLC",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 11,
+            "question": "Apabila beneficiary menyerahkan dokumen yang tidak sesuai syarat LC, maka bank pada prinsipnya...",
+            "options": [
+                "Wajib tetap membayar demi menjaga hubungan bisnis",
+                "Dapat menolak pembayaran berdasarkan discrepancy",
+                "Harus meminta persetujuan carrier terlebih dahulu",
+                "Wajib melakukan settlement antar bank terlebih dahulu"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dokumen non-compliant dapat ditolak.",
+            "topic": "LC",
+            "subtopic": "Discrepancy",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 12,
+            "question": "Yang termasuk contoh produk Trade Service adalah...",
+            "options": [
+                "Invoice Financing",
+                "Supply Chain Financing",
+                "Pre-shipment Financing",
+                "SKBDN"
+            ],
+            "correctAnswer": 3,
+            "explanation": "SKBDN termasuk Trade Service.",
+            "topic": "Trade Service",
+            "subtopic": "Produk",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 13,
+            "question": "Dalam LC flow, setelah eksportir menyerahkan dokumen ke bank, langkah berikutnya adalah...",
+            "options": [
+                "Importir langsung menerima barang",
+                "Correspondent bank memeriksa kesesuaian dokumen dan melakukan pembayaran bila compliant",
+                "Issuing bank menutup fasilitas LC",
+                "Advising bank menerbitkan amendment otomatis"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bank memeriksa compliance dokumen sebelum pembayaran.",
+            "topic": "LC",
+            "subtopic": "Flow",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 14,
+            "question": "Jenis LC yang memungkinkan pembayaran uang muka kepada beneficiary sebelum pengapalan disebut...",
+            "options": [
+                "Revolving LC",
+                "Red Clause LC",
+                "Usance LC",
+                "Restricted LC"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Red Clause LC memungkinkan advance payment.",
+            "topic": "LC",
+            "subtopic": "Jenis LC",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 15,
+            "question": "Dalam Bank Garansi, beneficiary dapat mencairkan BG ketika...",
+            "options": [
+                "Applicant memperoleh laba usaha",
+                "Issuing bank mengalami kerugian",
+                "Applicant wanprestasi sesuai kontrak",
+                "Barang selesai dikirim seluruhnya"
+            ],
+            "correctAnswer": 2,
+            "explanation": "BG dicairkan jika terjadi wanprestasi.",
+            "topic": "Bank Garansi",
+            "subtopic": "Pencairan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 16,
+            "question": "Sifat accessoir pada Bank Garansi berarti...",
+            "options": [
+                "BG dapat dipindahtangankan bebas",
+                "BG berdiri independen tanpa kontrak utama",
+                "BG mengikuti keberadaan perjanjian pokok",
+                "BG selalu membutuhkan cash collateral 100%"
+            ],
+            "correctAnswer": 2,
+            "explanation": "BG bersifat accessoir sehingga mengikuti underlying contract.",
+            "topic": "Bank Garansi",
+            "subtopic": "Karakteristik",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 17,
+            "question": "Dalam konteks Bank Garansi, istilah on first demand mengandung arti bahwa...",
+            "options": [
+                "Beneficiary wajib membuktikan wanprestasi melalui pengadilan",
+                "Bank dapat langsung membayar klaim yang memenuhi syarat",
+                "Applicant wajib hadir saat pencairan",
+                "BG hanya dapat dicairkan saat kontrak berakhir"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bank dapat membayar klaim sesuai syarat tanpa putusan pengadilan.",
+            "topic": "Bank Garansi",
+            "subtopic": "Klaim",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 18,
+            "question": "Jenis Bank Garansi yang digunakan untuk menjamin keseriusan peserta tender adalah...",
+            "options": [
+                "Performance Bond",
+                "Maintenance Bond",
+                "Bid Bond",
+                "Payment Bond"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Bid Bond menjamin keseriusan peserta tender.",
+            "topic": "Bank Garansi",
+            "subtopic": "Jenis BG",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 19,
+            "question": "Dokumen berikut WAJIB ada dalam penerbitan BG karena menjadi dasar transaksi yang dijamin adalah...",
+            "options": [
+                "Underlying contract/SPK",
+                "Packing list",
+                "Certificate of Origin",
+                "Bill of Lading"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Underlying contract menjadi dasar penerbitan BG.",
+            "topic": "Bank Garansi",
+            "subtopic": "Persyaratan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 20,
+            "question": "Dalam persyaratan minimum BG menurut SE BI No. 23/7/UKU, salah satu elemen wajib adalah...",
+            "options": [
+                "SWIFT authentication code",
+                "Nomor PIB impor",
+                "Dasar hukum Pasal 1831 atau 1832 KUH Perdata",
+                "Nama freight forwarder"
+            ],
+            "correctAnswer": 2,
+            "explanation": "BG wajib mencantumkan dasar hukum KUH Perdata.",
+            "topic": "Bank Garansi",
+            "subtopic": "9 Poin BG",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 21,
+            "question": "Jenis Bank Garansi yang menjamin pelaksanaan pekerjaan sesuai kontrak adalah...",
+            "options": [
+                "Bid Bond",
+                "Customs Bond",
+                "Performance Bond",
+                "Payment Bond"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Performance Bond menjamin pelaksanaan kontrak.",
+            "topic": "Bank Garansi",
+            "subtopic": "Jenis BG",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 22,
+            "question": "Apabila BG telah berakhir namun beneficiary mengajukan klaim melewati batas klaim maka bank pada prinsipnya...",
+            "options": [
+                "Tetap wajib membayar",
+                "Dapat menolak klaim",
+                "Harus meminta persetujuan applicant",
+                "Wajib meminta putusan pengadilan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Klaim melewati claim period dapat ditolak.",
+            "topic": "Bank Garansi",
+            "subtopic": "Claim Period",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 23,
+            "question": "Yang termasuk pembiayaan post-shipment financing adalah...",
+            "options": [
+                "Pembiayaan pembelian bahan baku",
+                "Trust Receipt",
+                "Margin deposit LC",
+                "Tender Bond"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Trust Receipt termasuk post-shipment financing.",
+            "topic": "Trade Finance",
+            "subtopic": "Post Shipment",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 24,
+            "question": "Dalam proses LC impor unit trade operation menemukan limit fasilitas LC belum di-set dalam sistem. Tindakan paling tepat adalah...",
+            "options": [
+                "Tetap menerbitkan LC",
+                "Meminta beneficiary menyetujui risiko",
+                "Menunda proses hingga limit valid tersedia",
+                "Mengubah menjadi SKBDN"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Limit wajib tersedia sebelum transaksi diproses.",
+            "topic": "LC",
+            "subtopic": "Operational Control",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 25,
+            "question": "Dalam praktik compliance trade finance pemeriksaan dokumen dilakukan berdasarkan...",
+            "options": [
+                "Kondisi fisik barang",
+                "Prinsip dokumen bukan barang",
+                "Hasil inspeksi importer",
+                "Hubungan bisnis"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bank memeriksa dokumen bukan barang fisik.",
+            "topic": "Compliance",
+            "subtopic": "Documentary Principle",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 26,
+            "question": "Jenis LC yang otomatis dapat digunakan kembali sesuai periode tertentu adalah...",
+            "options": [
+                "Revolving LC",
+                "Red Clause LC",
+                "Transferable LC",
+                "Revocable LC"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Revolving LC dapat reinstated otomatis.",
+            "topic": "LC",
+            "subtopic": "Jenis LC",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 27,
+            "question": "Salah satu alasan BG disebut produk non-cash loan adalah karena...",
+            "options": [
+                "Tidak ada underlying transaction",
+                "Dana belum dicairkan kecuali terjadi klaim",
+                "Tidak ada kewajiban bank",
+                "Tidak memerlukan analisis risiko"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dana baru keluar jika terjadi klaim.",
+            "topic": "Bank Garansi",
+            "subtopic": "NCL",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 28,
+            "question": "Dalam transaksi LC pihak yang membeli atau mendiskontokan dokumen ekspor disebut...",
+            "options": [
+                "Advising Bank",
+                "Negotiating Bank",
+                "Issuing Bank",
+                "Carrier Bank"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Negotiating bank membeli atau mendiskontokan dokumen.",
+            "topic": "LC",
+            "subtopic": "Pihak LC",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 29,
+            "question": "Yang PALING berisiko menimbulkan discrepancy dalam LC adalah...",
+            "options": [
+                "Perbedaan data shipment dengan syarat LC",
+                "Buyer mengalami penurunan penjualan",
+                "Freight cost meningkat",
+                "Importir terlambat membuka rekening"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Mismatch dokumen memicu discrepancy.",
+            "topic": "LC",
+            "subtopic": "Discrepancy",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 30,
+            "question": "Produk trade finance yang menggunakan invoice buyer sebagai dasar percepatan pembayaran supplier adalah...",
+            "options": [
+                "SKBDN",
+                "SCF",
+                "SBLC",
+                "Customs Bond"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Supply Chain Financing menggunakan invoice buyer.",
+            "topic": "Trade Finance",
+            "subtopic": "SCF",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 31,
+            "question": "Dalam LC flow customs clearance biasanya mulai dilakukan pada tahap...",
+            "options": [
+                "Aplikasi pembukaan LC",
+                "Pengapalan barang",
+                "Settlement antar bank",
+                "Draft amendment"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Customs clearance berjalan paralel saat shipment.",
+            "topic": "LC",
+            "subtopic": "Flow",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 32,
+            "question": "Jika applicant wanprestasi setelah bank membayar klaim BG maka langkah berikutnya adalah...",
+            "options": [
+                "Recovery kepada applicant",
+                "Pembatalan otomatis BG",
+                "Reimbursement ke negotiating bank",
+                "Re-issuance BG"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Bank melakukan recovery kepada applicant.",
+            "topic": "Bank Garansi",
+            "subtopic": "Recovery",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 33,
+            "question": "Jenis cover BG dengan risiko bank paling rendah adalah...",
+            "options": [
+                "Counter guarantee",
+                "NCL facility",
+                "Margin deposit 100%",
+                "Kombinasi collateral"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Margin deposit penuh membuat risiko bank minimal.",
+            "topic": "Bank Garansi",
+            "subtopic": "Collateral",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 34,
+            "question": "Dalam transaksi internasional regulasi utama LC secara internasional adalah...",
+            "options": [
+                "Basel III",
+                "UCP 600",
+                "PSAK 71",
+                "UU Kepailitan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "UCP 600 menjadi standar internasional LC.",
+            "topic": "Compliance",
+            "subtopic": "UCP 600",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 35,
+            "question": "Trade finance membantu eksportir terutama dalam aspek...",
+            "options": [
+                "Pengurangan bea cukai otomatis",
+                "Penggantian customs authority",
+                "Percepatan likuiditas dan cash flow",
+                "Penghapusan seluruh risiko"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Trade finance mendukung cash flow eksportir.",
+            "topic": "Trade Finance",
+            "subtopic": "Benefit",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 36,
+            "question": "Dalam praktik AML trade finance transaksi berikut paling memerlukan enhanced scrutiny...",
+            "options": [
+                "Nilai kecil pola rutin",
+                "Dokumen lengkap dan konsisten",
+                "Shipment route tidak lazim dan over invoicing",
+                "Import bahan baku sesuai profil"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Pola tidak lazim dan over invoicing berisiko TBML.",
+            "topic": "AML",
+            "subtopic": "TBML",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 37,
+            "question": "Yang termasuk dokumen untuk preferensi tarif negara asal barang adalah...",
+            "options": [
+                "COO",
+                "Packing List",
+                "B/L",
+                "Bill of Exchange"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Certificate of Origin menunjukkan asal barang.",
+            "topic": "LC",
+            "subtopic": "Dokumen",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 38,
+            "question": "Bank Garansi tidak boleh bersifat...",
+            "options": [
+                "Irrevocable",
+                "Accessoir",
+                "Conditional dan revocable",
+                "Written undertaking"
+            ],
+            "correctAnswer": 2,
+            "explanation": "BG tidak boleh conditional dan revocable.",
+            "topic": "Bank Garansi",
+            "subtopic": "Ketentuan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 39,
+            "question": "Jika LC mensyaratkan Insurance Policy namun beneficiary tidak menyerahkan dokumen tersebut maka...",
+            "options": [
+                "Dokumen tetap compliant",
+                "Bank wajib waive discrepancy",
+                "Terjadi discrepancy dokumen",
+                "Shipment batal demi hukum"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Dokumen wajib yang tidak ada menimbulkan discrepancy.",
+            "topic": "LC",
+            "subtopic": "Document Checking",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 40,
+            "question": "Dalam transaksi LC pihak yang meminta penerbitan LC disebut...",
+            "options": [
+                "Beneficiary",
+                "Applicant",
+                "Negotiator",
+                "Acceptor"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Applicant adalah pemohon LC.",
+            "topic": "LC",
+            "subtopic": "Pihak LC",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 41,
+            "question": "ATM gagal dispense dalam transaksi trade settlement. Tindakan awal paling tepat adalah...",
+            "options": [
+                "Refund langsung",
+                "Registrasi dan verifikasi transaksi",
+                "Menolak pengaduan",
+                "Menunggu audit tahunan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Pengaduan wajib diregistrasi dan diverifikasi.",
+            "topic": "Case",
+            "subtopic": "Settlement",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "registrasi",
+                "verifikasi",
+                "SOP"
+            ]
+        },
+        {
+            "id": 42,
+            "question": "Eksportir meminta pembayaran lebih cepat sebelum buyer membayar invoice jatuh tempo. Produk paling tepat adalah...",
+            "options": [
+                "Bid Bond",
+                "Invoice Financing",
+                "Revocable LC",
+                "Maintenance Bond"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Invoice financing mempercepat cash flow.",
+            "topic": "Case",
+            "subtopic": "Invoice Financing",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "cash flow",
+                "invoice",
+                "receivable"
+            ]
+        },
+        {
+            "id": 43,
+            "question": "Nama barang pada invoice berbeda sedikit dengan wording LC walaupun makna sama. Risiko utama adalah...",
+            "options": [
+                "Fraud otomatis",
+                "Discrepancy dokumen",
+                "Double financing",
+                "Customs rejection"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Perbedaan wording dapat menjadi discrepancy.",
+            "topic": "Case",
+            "subtopic": "Discrepancy",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "strict compliance",
+                "wording mismatch",
+                "discrepancy"
+            ]
+        },
+        {
+            "id": 44,
+            "question": "Perusahaan konstruksi memenangkan tender proyek pemerintah dan wajib menyerahkan jaminan pelaksanaan pekerjaan. Jenis BG yang tepat adalah...",
+            "options": [
+                "Payment Bond",
+                "Tender Bond",
+                "Performance Bond",
+                "Customs Bond"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Performance Bond menjamin pelaksanaan kontrak.",
+            "topic": "Case",
+            "subtopic": "Performance Bond",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "pelaksanaan kontrak",
+                "performance",
+                "guarantee"
+            ]
+        },
+        {
+            "id": 45,
+            "question": "Trade operation menerima transaksi dengan pola shipment berulang ke negara high risk AML tanpa underlying bisnis jelas. Apa tindakan paling tepat?",
+            "options": [
+                "Approve karena fee tinggi",
+                "Enhanced due diligence",
+                "Abaikan karena dokumen lengkap",
+                "Langsung blacklist"
+            ],
+            "correctAnswer": 1,
+            "explanation": "High risk AML memerlukan EDD.",
+            "topic": "Case",
+            "subtopic": "AML",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "AML",
+                "EDD",
+                "high risk country"
+            ]
+        },
+        {
+            "id": 46,
+            "question": "Importir meminta LC yang dapat digunakan berulang otomatis tiap bulan. Jenis LC yang tepat adalah...",
+            "options": [
+                "Revolving LC",
+                "Red Clause LC",
+                "Transferable LC",
+                "Confirmed LC"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Revolving LC dapat digunakan berulang.",
+            "topic": "Case",
+            "subtopic": "Revolving LC",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "reinstated",
+                "recurring",
+                "otomatis"
+            ]
+        },
+        {
+            "id": 47,
+            "question": "Beneficiary mengajukan klaim BG setelah masa claim period berakhir. Keputusan bank adalah...",
+            "options": [
+                "Wajib membayar",
+                "Dapat menolak klaim",
+                "Bayar sebagian",
+                "Menunggu arbitrase"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Klaim lewat batas waktu dapat ditolak.",
+            "topic": "Case",
+            "subtopic": "Claim Period",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "expired",
+                "claim period",
+                "invalid"
+            ]
+        },
+        {
+            "id": 48,
+            "question": "Eksportir khawatir issuing bank berasal dari negara dengan risiko politik tinggi. LC paling aman adalah...",
+            "options": [
+                "Revocable LC",
+                "Confirmed Irrevocable LC",
+                "Red Clause LC",
+                "Revolving LC"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Confirmed LC memberi proteksi tambahan.",
+            "topic": "Case",
+            "subtopic": "Country Risk",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "confirming bank",
+                "country risk",
+                "jaminan"
+            ]
+        },
+        {
+            "id": 49,
+            "question": "Dalam pemeriksaan dokumen LC ditemukan Insurance Policy tidak ada padahal diwajibkan LC. Apa tindakan bank?",
+            "options": [
+                "Ignore discrepancy",
+                "Anggap compliant",
+                "Treat as discrepancy",
+                "Minta buyer bayar dulu"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Dokumen wajib yang tidak ada menyebabkan discrepancy.",
+            "topic": "Case",
+            "subtopic": "Missing Document",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "missing document",
+                "discrepancy",
+                "LC requirement"
+            ]
+        },
+        {
+            "id": 50,
+            "question": "Nasabah meminta BG tanpa fasilitas kredit approved dan tanpa collateral memadai. Risiko utama bagi bank adalah...",
+            "options": [
+                "Risiko likuiditas",
+                "Risiko gagal recovery",
+                "Shipment delay",
+                "Customs inspection"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tanpa collateral risiko recovery meningkat.",
+            "topic": "Case",
+            "subtopic": "Recovery Risk",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "recovery",
+                "unsecured",
+                "risk"
+            ]
+        },
+        {
+            "id": 51,
+            "question": "Importir meminta pembayaran ditunda 90 hari setelah shipment. Fitur LC paling sesuai adalah...",
+            "options": [
+                "Sight LC",
+                "Deferred atau Usance LC",
+                "Transferable LC",
+                "Green Clause LC"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Usance LC memungkinkan deferred payment.",
+            "topic": "Case",
+            "subtopic": "Usance LC",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "deferred payment",
+                "usance",
+                "penangguhan pembayaran"
+            ]
+        },
+        {
+            "id": 52,
+            "question": "Dalam trade finance supplier ingin mendiskontokan invoice dengan rate mengikuti profil risiko buyer besar. Produk paling tepat adalah...",
+            "options": [
+                "Supply Chain Financing",
+                "Bid Bond",
+                "SKBDN",
+                "Customs Bond"
+            ],
+            "correctAnswer": 0,
+            "explanation": "SCF menggunakan risk profile buyer sebagai dasar pricing.",
+            "topic": "Case",
+            "subtopic": "SCF",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "SCF",
+                "buyer risk",
+                "invoice discounting"
+            ]
+        },
+        {
+            "id": 53,
+            "question": "Petugas menemukan mismatch minor pada consignee name tetapi applicant meminta tetap diproses cepat. Apa tindakan terbaik?",
+            "options": [
+                "Abaikan mismatch",
+                "Proses tanpa catatan",
+                "Escalate discrepancy sesuai SOP",
+                "Ubah dokumen internal"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Mismatch dokumen wajib di-escalate sesuai SOP.",
+            "topic": "Case",
+            "subtopic": "Discrepancy Handling",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "SOP",
+                "discrepancy",
+                "compliance"
+            ]
+        },
+        {
+            "id": 54,
+            "question": "Dalam proses BG beneficiary mengklaim wanprestasi tanpa dokumen klaim sesuai syarat BG. Apa tindakan bank?",
+            "options": [
+                "Tetap bayar segera",
+                "Menolak sampai syarat klaim lengkap",
+                "Membayar sebagian",
+                "Menunggu instruksi applicant"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Klaim wajib memenuhi syarat dokumen BG.",
+            "topic": "Case",
+            "subtopic": "Claim Document",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "dokumen klaim",
+                "BG",
+                "compliance"
+            ]
+        },
+        {
+            "id": 55,
+            "question": "Trade operation menemukan indikasi over invoicing pada transaksi ekspor. Risiko utama adalah...",
+            "options": [
+                "Market risk",
+                "AML dan trade based money laundering",
+                "Interest risk",
+                "Settlement risk"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Over invoicing merupakan red flag TBML.",
+            "topic": "Case",
+            "subtopic": "TBML",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "TBML",
+                "over invoicing",
+                "AML"
+            ]
+        },
+        {
+            "id": 56,
+            "question": "Eksportir membutuhkan modal kerja sebelum produksi barang dilakukan. Produk paling tepat adalah...",
+            "options": [
+                "Post shipment financing",
+                "Pre shipment financing",
+                "Maintenance Bond",
+                "SBLC"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Pre shipment financing digunakan sebelum pengapalan.",
+            "topic": "Case",
+            "subtopic": "Pre Shipment",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "modal kerja",
+                "produksi",
+                "pre shipment"
+            ]
+        },
+        {
+            "id": 57,
+            "question": "Dalam LC flow advising bank gagal memverifikasi authenticity LC namun tetap meneruskan ke beneficiary. Risiko utama adalah...",
+            "options": [
+                "Fraud LC",
+                "Risiko freight",
+                "Risiko suku bunga",
+                "Risiko inventory"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Autentikasi LC penting untuk mencegah fraud.",
+            "topic": "Case",
+            "subtopic": "Authentication",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "authentication",
+                "fake LC",
+                "operational risk"
+            ]
+        },
+        {
+            "id": 58,
+            "question": "Bank menerima aplikasi BG tetapi applicant masuk watchlist AML internal. Apa tindakan paling tepat?",
+            "options": [
+                "Tetap approve jika fee tinggi",
+                "Enhanced review dan compliance escalation",
+                "Langsung terbitkan BG",
+                "Abaikan watchlist"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Watchlist AML wajib ditindaklanjuti melalui escalation.",
+            "topic": "Case",
+            "subtopic": "AML Screening",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "AML screening",
+                "compliance",
+                "high risk customer"
+            ]
+        },
+        {
+            "id": 59,
+            "question": "Dalam transaksi impor mesin buyer dan seller sama sama belum saling percaya. Solusi trade service paling tepat adalah...",
+            "options": [
+                "Open account",
+                "Cash before delivery",
+                "Letter of Credit",
+                "Konsinyasi tanpa bank"
+            ],
+            "correctAnswer": 2,
+            "explanation": "LC memberikan kepastian pembayaran dan mitigasi risiko.",
+            "topic": "Case",
+            "subtopic": "LC Solution",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "mitigasi risiko",
+                "kepastian pembayaran",
+                "LC"
+            ]
+        },
+        {
+            "id": 60,
+            "question": "Importir mengajukan amendment LC untuk memperpanjang shipment date setelah barang terlambat diproduksi. Risiko utama bila amendment tidak dilakukan adalah...",
+            "options": [
+                "Over collateral",
+                "Discrepancy shipment",
+                "Double financing",
+                "Excess liquidity"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Shipment melewati tanggal LC menimbulkan discrepancy.",
+            "topic": "Case",
+            "subtopic": "LC Amendment",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "shipment date",
+                "amendment",
+                "discrepancy"
+            ]
+        },
+        {
+            "id": 61,
+            "question": "Negotiating bank telah membayar eksportir namun issuing bank menemukan discrepancy material. Risiko utama bagi negotiating bank adalah...",
+            "options": [
+                "Risiko reimbursement gagal",
+                "FX spread loss",
+                "Risiko inventory",
+                "Risiko custody"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Issuing bank dapat menolak reimbursement atas discrepancy.",
+            "topic": "Case",
+            "subtopic": "Negotiation Risk",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "reimbursement",
+                "discrepancy",
+                "negotiating bank"
+            ]
+        },
+        {
+            "id": 62,
+            "question": "Nasabah meminta BG diterbitkan tanpa underlying contract karena proyek masih verbal. Tindakan paling tepat adalah...",
+            "options": [
+                "Tetap proses",
+                "Minta underlying contract terlebih dahulu",
+                "Ganti menjadi invoice financing",
+                "Minta approval verbal supervisor"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Underlying contract merupakan syarat utama BG.",
+            "topic": "Case",
+            "subtopic": "Underlying Document",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "underlying contract",
+                "persyaratan",
+                "mitigasi risiko"
+            ]
+        },
+        {
+            "id": 63,
+            "question": "Dokumen LC menunjukkan quantity barang berbeda dengan packing list. Apa risiko utamanya?",
+            "options": [
+                "Discrepancy document",
+                "Treasury loss",
+                "Market risk",
+                "Dormant exposure"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Perbedaan quantity antar dokumen menimbulkan discrepancy.",
+            "topic": "Case",
+            "subtopic": "Packing List",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "quantity mismatch",
+                "packing list",
+                "discrepancy"
+            ]
+        },
+        {
+            "id": 64,
+            "question": "Dalam transaksi trade finance ditemukan pola split shipment kecil berulang untuk menghindari threshold monitoring. Apa indikasi utamanya?",
+            "options": [
+                "Normal operational flow",
+                "Structuring atau suspicious transaction",
+                "Improvement cash flow",
+                "Efficiency shipment"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Split transaction dapat menjadi indikasi suspicious structuring.",
+            "topic": "Case",
+            "subtopic": "AML Monitoring",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "structuring",
+                "AML",
+                "suspicious transaction"
+            ]
+        },
+        {
+            "id": 65,
+            "question": "Applicant meminta bank mengubah tanggal Bill of Lading setelah dokumen diterbitkan carrier. Tindakan bank adalah...",
+            "options": [
+                "Mengubah manual",
+                "Menolak karena melanggar compliance",
+                "Meminta approval beneficiary",
+                "Menghapus discrepancy"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dokumen tidak boleh dimanipulasi.",
+            "topic": "Case",
+            "subtopic": "Document Integrity",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "document integrity",
+                "compliance",
+                "manipulation"
+            ]
+        },
+        {
+            "id": 66,
+            "question": "Beneficiary meminta pembayaran walaupun LC belum effective karena advising delay. Tindakan paling tepat adalah...",
+            "options": [
+                "Tetap bayar",
+                "Menunggu LC effective dan authenticated",
+                "Gunakan dana internal bank",
+                "Minta waiver verbal"
+            ],
+            "correctAnswer": 1,
+            "explanation": "LC wajib authenticated sebelum diproses.",
+            "topic": "Case",
+            "subtopic": "LC Effective",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "authenticated",
+                "effective LC",
+                "advising"
+            ]
+        },
+        {
+            "id": 67,
+            "question": "Trade operation menemukan beneficiary dan applicant memiliki beneficial owner yang sama namun tidak diungkapkan. Risiko utama adalah...",
+            "options": [
+                "Related party concealment",
+                "Operational efficiency",
+                "Liquidity surplus",
+                "Shipment acceleration"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Beneficial ownership tersembunyi berisiko AML dan conflict.",
+            "topic": "Case",
+            "subtopic": "Beneficial Ownership",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "beneficial owner",
+                "AML",
+                "related party"
+            ]
+        },
+        {
+            "id": 68,
+            "question": "Importir gagal melakukan pembayaran reimbursement kepada issuing bank saat jatuh tempo usance LC. Risiko utama bagi bank adalah...",
+            "options": [
+                "Credit risk",
+                "FX translation",
+                "Inventory mismatch",
+                "Carrier exposure"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Kegagalan pembayaran nasabah menjadi risiko kredit bank.",
+            "topic": "Case",
+            "subtopic": "Credit Exposure",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "credit risk",
+                "reimbursement",
+                "default"
+            ]
+        },
+        {
+            "id": 69,
+            "question": "Bank menerima permintaan penerbitan BG dengan nominal jauh di atas kapasitas keuangan applicant. Tindakan paling tepat adalah...",
+            "options": [
+                "Approve demi fee income",
+                "Lakukan analisis ulang kapasitas dan risk appetite",
+                "Terbitkan tanpa collateral",
+                "Alihkan menjadi open account"
+            ],
+            "correctAnswer": 1,
+            "explanation": "BG harus sesuai kemampuan dan risk appetite bank.",
+            "topic": "Case",
+            "subtopic": "Risk Appetite",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "risk appetite",
+                "analisis kapasitas",
+                "collateral"
+            ]
+        },
+        {
+            "id": 70,
+            "question": "Dalam pemeriksaan dokumen ekspor ditemukan seluruh dokumen compliant namun transaksi tidak sesuai profil usaha nasabah. Tindakan paling tepat adalah...",
+            "options": [
+                "Tetap approve otomatis",
+                "Escalate untuk AML review lebih lanjut",
+                "Tolak tanpa analisis",
+                "Langsung blacklist nasabah"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Transaksi di luar profil usaha wajib direview AML.",
+            "topic": "Case",
+            "subtopic": "AML Review",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "profil usaha",
+                "AML review",
+                "suspicious activity"
+            ]
+        }
+    ]
+}
