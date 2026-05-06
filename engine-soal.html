@@ -606,7 +606,7 @@ async function initializeQuiz(){
       params.get('set') || 'default';
 
     const response =
-      await fetch(`data/${quizSet}.json`);
+      await fetch(`${quizSet}.json`);
 
     if(!response.ok){
 
