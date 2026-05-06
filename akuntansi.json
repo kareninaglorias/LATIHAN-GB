@@ -1,0 +1,1040 @@
+{
+    "quizTitle": "Mengelola Akuntansi Perbankan & Akuntansi Perusahaan",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Pembentukan CKPN atas kredit bermasalah terutama mencerminkan penerapan prinsip...",
+            "options": [
+                "Matching Principle",
+                "Going Concern",
+                "Prudence",
+                "Consistency"
+            ],
+            "correctAnswer": 2,
+            "explanation": "CKPN merupakan bentuk kehati-hatian agar aset tidak overstated.",
+            "topic": "Prinsip Akuntansi",
+            "subtopic": "Prudence",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 2,
+            "question": "Pendapatan bunga kredit diakui walaupun kas belum diterima. Konsep ini disebut...",
+            "options": [
+                "Cash Basis",
+                "Historical Cost",
+                "Accrual Basis",
+                "Liquidation Basis"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Pendapatan diakui saat diperoleh.",
+            "topic": "Prinsip Akuntansi",
+            "subtopic": "Accrual",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 3,
+            "question": "Akun dengan saldo normal kredit adalah...",
+            "options": [
+                "Kas",
+                "Beban Gaji",
+                "Pendapatan Jasa",
+                "Inventaris"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Pendapatan memiliki saldo normal kredit.",
+            "topic": "Saldo Normal",
+            "subtopic": "Pendapatan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 4,
+            "question": "Jika perusahaan membeli inventaris kantor tunai, jurnal yang benar adalah...",
+            "options": [
+                "D Kas K Inventaris",
+                "D Inventaris K Kas",
+                "D Beban Inventaris K Kas",
+                "D Kas K Modal"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Inventaris bertambah dan kas berkurang.",
+            "topic": "Jurnal",
+            "subtopic": "Inventaris",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 5,
+            "question": "Prinsip matching mengharuskan...",
+            "options": [
+                "pendapatan diakui saat kas diterima",
+                "beban diakui pada periode terkait pendapatan",
+                "aset dicatat sebesar nilai pasar",
+                "seluruh pengeluaran menjadi beban langsung"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Matching principle mencocokkan beban dan pendapatan.",
+            "topic": "Prinsip Akuntansi",
+            "subtopic": "Matching",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 21,
+            "question": "Jika perusahaan menerima pendapatan sebelum jasa diberikan maka akun lawannya adalah...",
+            "options": [
+                "Pendapatan",
+                "Utang Usaha",
+                "Pendapatan Ditangguhkan",
+                "Beban Dibayar Dimuka"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Pendapatan belum boleh diakui sebelum kewajiban dipenuhi.",
+            "topic": "Revenue Recognition",
+            "subtopic": "Unearned Revenue",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 22,
+            "question": "Cash flow investasi biasanya mencerminkan...",
+            "options": [
+                "operasional harian",
+                "perubahan modal",
+                "perolehan dan pelepasan aset jangka panjang",
+                "gaji pegawai"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Investing activity berkaitan dengan aset jangka panjang.",
+            "topic": "Cash Flow",
+            "subtopic": "Investing",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 23,
+            "question": "Pemeriksaan cap perusahaan pada warkat bertujuan untuk...",
+            "options": [
+                "desain perusahaan",
+                "validasi otorisasi",
+                "jenis rekening",
+                "spread"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cap membantu validasi transaksi perusahaan.",
+            "topic": "Warkat",
+            "subtopic": "Otorisasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 24,
+            "question": "Jika kas bertambah akibat setoran modal maka akun lawannya adalah...",
+            "options": [
+                "Pendapatan",
+                "Modal",
+                "Utang",
+                "Beban"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Setoran modal meningkatkan ekuitas.",
+            "topic": "Jurnal",
+            "subtopic": "Modal",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 25,
+            "question": "Konsistensi metode akuntansi penting agar laporan keuangan...",
+            "options": [
+                "selalu untung",
+                "dapat diperbandingkan",
+                "bebas audit",
+                "lebih singkat"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Consistency memudahkan perbandingan antar periode.",
+            "topic": "Prinsip Akuntansi",
+            "subtopic": "Consistency",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 26,
+            "question": "Jurnal penyesuaian dibuat terutama untuk...",
+            "options": [
+                "menambah kas",
+                "menyesuaikan basis akrual",
+                "menghapus fraud",
+                "mengurangi modal"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Adjustment diperlukan agar akun sesuai kondisi sebenarnya.",
+            "topic": "Siklus Akuntansi",
+            "subtopic": "Adjustment",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 27,
+            "question": "Jika perusahaan membayar dividen maka dampaknya adalah...",
+            "options": [
+                "aset naik",
+                "liabilitas naik",
+                "ekuitas turun",
+                "pendapatan naik"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Dividen mengurangi saldo laba.",
+            "topic": "Ekuitas",
+            "subtopic": "Dividen",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 28,
+            "question": "Cross check nomor rekening dengan nama nasabah bertujuan untuk...",
+            "options": [
+                "mengurangi audit",
+                "mencegah salah transfer",
+                "menentukan spread",
+                "meningkatkan profit"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Validasi rekening penting untuk mitigasi error.",
+            "topic": "Validasi",
+            "subtopic": "Nomor Rekening",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 29,
+            "question": "Jika laba tinggi namun operating cash flow negatif maka kemungkinan...",
+            "options": [
+                "seluruh transaksi tunai",
+                "pendapatan belum tertagih",
+                "tidak ada piutang",
+                "kas pasti naik"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Laba akrual tidak selalu menghasilkan kas.",
+            "topic": "Analisis Keuangan",
+            "subtopic": "Cash Flow",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 30,
+            "question": "Perusahaan membeli kendaraan dengan pinjaman bank. Dampaknya adalah...",
+            "options": [
+                "aset naik dan liabilitas naik",
+                "aset turun",
+                "pendapatan naik",
+                "beban naik"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Kendaraan menambah aset dan pinjaman menambah liabilitas.",
+            "topic": "Persamaan Akuntansi",
+            "subtopic": "Pinjaman",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 31,
+            "question": "Jika tanggal transaksi pada cek sudah melewati masa berlaku maka transaksi...",
+            "options": [
+                "langsung diproses",
+                "wajib diverifikasi ulang",
+                "otomatis cair",
+                "langsung menjadi deposito"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Cek kedaluwarsa harus diverifikasi sebelum diproses.",
+            "topic": "Warkat",
+            "subtopic": "Tanggal Efektif",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 32,
+            "question": "Laporan laba rugi terutama menggambarkan...",
+            "options": [
+                "arus kas",
+                "hasil usaha periode tertentu",
+                "struktur modal",
+                "saldo rekening"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Income statement menunjukkan profitabilitas periode tertentu.",
+            "topic": "Laporan Keuangan",
+            "subtopic": "Income Statement",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 33,
+            "question": "Jika perusahaan menghapus piutang tak tertagih maka...",
+            "options": [
+                "aset meningkat",
+                "aset menurun",
+                "ekuitas meningkat",
+                "kas meningkat"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Piutang merupakan aset sehingga penghapusan menurunkan aset.",
+            "topic": "Aset",
+            "subtopic": "Piutang",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 34,
+            "question": "Verifikasi OTP pada transaksi digital bertujuan untuk...",
+            "options": [
+                "meningkatkan spread",
+                "autentikasi transaksi",
+                "mengurangi kas",
+                "menentukan bunga"
+            ],
+            "correctAnswer": 1,
+            "explanation": "OTP digunakan sebagai autentikasi digital.",
+            "topic": "Digital Banking",
+            "subtopic": "OTP",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 35,
+            "question": "Jika perusahaan membeli aset tetap tunai maka cash flow yang terpengaruh adalah...",
+            "options": [
+                "Operating",
+                "Financing",
+                "Investing",
+                "Equity"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Pembelian aset tetap termasuk aktivitas investasi.",
+            "topic": "Cash Flow",
+            "subtopic": "Investing Activity",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 36,
+            "question": "Pendapatan yang diakui sebelum barang dikirim berisiko menyebabkan...",
+            "options": [
+                "laba understated",
+                "pendapatan overstated",
+                "kas negatif",
+                "aset hilang"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Revenue recognition terlalu cepat menyebabkan overstated income.",
+            "topic": "Revenue Recognition",
+            "subtopic": "Timing",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 37,
+            "question": "Beban administrasi kantor termasuk kategori...",
+            "options": [
+                "beban langsung",
+                "beban operasional",
+                "aset lancar",
+                "liabilitas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Beban administrasi termasuk operating expense.",
+            "topic": "Beban",
+            "subtopic": "Operasional",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 38,
+            "question": "Jika perusahaan memperoleh pinjaman bank jangka panjang maka cash flow financing akan...",
+            "options": [
+                "negatif",
+                "positif",
+                "nol",
+                "menjadi investasi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Penerimaan pinjaman meningkatkan cash inflow financing.",
+            "topic": "Cash Flow",
+            "subtopic": "Financing",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 39,
+            "question": "Current ratio digunakan terutama untuk mengukur...",
+            "options": [
+                "profitabilitas",
+                "likuiditas jangka pendek",
+                "efektivitas audit",
+                "risiko pasar"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Current ratio menilai kemampuan memenuhi kewajiban lancar.",
+            "topic": "Rasio Keuangan",
+            "subtopic": "Likuiditas",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 40,
+            "question": "Jika perusahaan memiliki utang lebih besar dibanding aset maka...",
+            "options": [
+                "ekuitas negatif dapat terjadi",
+                "profit pasti tinggi",
+                "kas otomatis naik",
+                "aset lancar bertambah"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Liabilitas melebihi aset dapat menyebabkan defisit ekuitas.",
+            "topic": "Persamaan Akuntansi",
+            "subtopic": "Ekuitas Negatif",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 41,
+            "question": "Perusahaan mencatat seluruh biaya iklan tahunan langsung sebagai beban pada awal tahun. Risiko utama adalah...",
+            "options": [
+                "aset overstated",
+                "matching principle tidak tepat",
+                "liabilitas overstated",
+                "kas understated"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Biaya iklan dengan manfaat lebih dari satu periode seharusnya dialokasikan.",
+            "topic": "Pengakuan Beban",
+            "subtopic": "Prepaid Expense",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 42,
+            "question": "Petugas memproses transaksi perusahaan tanpa memeriksa batas otorisasi pejabat penandatangan. Risiko terbesar adalah...",
+            "options": [
+                "spread meningkat",
+                "transaksi unauthorized",
+                "current ratio turun",
+                "depresiasi meningkat"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Otorisasi wajib diverifikasi untuk mencegah transaksi ilegal.",
+            "topic": "Kontrol Internal",
+            "subtopic": "Authority Limit",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 43,
+            "question": "Operating cash flow positif namun laba bersih negatif dapat disebabkan oleh...",
+            "options": [
+                "cash flow palsu",
+                "beban non kas tinggi",
+                "tidak ada penjualan",
+                "aset hilang"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Depresiasi besar dapat menekan laba tetapi tidak mengurangi kas.",
+            "topic": "Cash Flow",
+            "subtopic": "Operating Activity",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 44,
+            "question": "Nasabah corporate meminta transaksi besar tetapi dokumen pendukung berbeda dengan data sistem. Langkah terbaik adalah...",
+            "options": [
+                "tetap proses",
+                "klarifikasi dan hold transaksi",
+                "ubah data manual",
+                "hapus dokumen"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mismatch data wajib diverifikasi.",
+            "topic": "Validasi",
+            "subtopic": "Dokumen Pendukung",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 45,
+            "question": "Perusahaan menilai aset jauh di atas nilai wajarnya agar rasio terlihat baik. Risiko utamanya adalah...",
+            "options": [
+                "understated asset",
+                "misleading financial statement",
+                "current ratio meningkat wajar",
+                "tidak ada dampak"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Overvaluation aset menyebabkan laporan menyesatkan.",
+            "topic": "Fair Value",
+            "subtopic": "Valuation",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 46,
+            "question": "Cabang menemukan selisih kas fisik dengan saldo sistem saat closing harian. Langkah pertama adalah...",
+            "options": [
+                "langsung write off",
+                "rekonsiliasi dan investigasi",
+                "abaikan selisih kecil",
+                "tunggu audit"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Selisih kas harus segera ditelusuri.",
+            "topic": "Cash Control",
+            "subtopic": "Rekonsiliasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 47,
+            "question": "Debt ratio sangat tinggi dibanding industri menunjukkan...",
+            "options": [
+                "risiko leverage tinggi",
+                "profitabilitas meningkat",
+                "spread stabil",
+                "aset lancar meningkat"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Debt ratio tinggi meningkatkan financial risk.",
+            "topic": "Rasio Keuangan",
+            "subtopic": "Leverage",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 48,
+            "question": "Petugas memproses transaksi tanpa maker-checker control. Risiko terbesar adalah...",
+            "options": [
+                "human error dan fraud",
+                "spread meningkat",
+                "likuiditas turun",
+                "depresiasi naik"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Maker-checker penting untuk kontrol internal.",
+            "topic": "Kontrol Internal",
+            "subtopic": "Maker Checker",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 49,
+            "question": "Piutang yang kemungkinan besar tidak tertagih tetapi tanpa CKPN memadai menyebabkan...",
+            "options": [
+                "aset dan laba overstated",
+                "liabilitas overstated",
+                "kas understated",
+                "spread meningkat"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Tanpa CKPN, aset menjadi tidak realistis.",
+            "topic": "CKPN",
+            "subtopic": "Piutang",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 50,
+            "question": "Pendapatan bulan depan sengaja diakui lebih awal agar target tercapai. Pelanggaran utama adalah...",
+            "options": [
+                "revenue recognition",
+                "historical cost",
+                "going concern",
+                "materiality"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Pendapatan tidak boleh diakui sebelum earned.",
+            "topic": "Revenue Recognition",
+            "subtopic": "Manipulasi Pendapatan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 51,
+            "question": "Teller menerima transaksi Rp300 juta melebihi batas kewenangan direktur operasional. Tindakan terbaik adalah...",
+            "options": [
+                "langsung proses",
+                "tolak permanen",
+                "minta approval tambahan",
+                "pecah transaksi"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Transaksi besar membutuhkan approval tambahan sesuai limit.",
+            "topic": "Case Study",
+            "subtopic": "Otorisasi",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "approval",
+                "otorisasi",
+                "limit",
+                "transaksi besar"
+            ]
+        },
+        {
+            "id": 52,
+            "question": "Perusahaan mencatat pembelian mesin sebagai beban agar pajak kecil. Prinsip yang dilanggar adalah...",
+            "options": [
+                "Going Concern",
+                "Matching",
+                "Fair Value",
+                "Consistency"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mesin seharusnya dikapitalisasi dan disusutkan.",
+            "topic": "Case Study",
+            "subtopic": "Capitalization",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "aset tetap",
+                "depresiasi",
+                "matching",
+                "kapitalisasi"
+            ]
+        },
+        {
+            "id": 53,
+            "question": "Petugas menemukan nomor rekening transfer berbeda satu digit dari instruksi nasabah. Langkah terbaik adalah...",
+            "options": [
+                "tetap proses",
+                "ikuti sistem",
+                "klarifikasi ulang",
+                "hapus transaksi"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Perbedaan rekening berisiko salah transfer.",
+            "topic": "Case Study",
+            "subtopic": "Validasi Rekening",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "klarifikasi",
+                "verifikasi",
+                "rekening",
+                "salah transfer"
+            ]
+        },
+        {
+            "id": 54,
+            "question": "Laba perusahaan tinggi tetapi operating cash flow negatif selama 3 tahun. Analisis paling tepat adalah...",
+            "options": [
+                "perusahaan pasti sehat",
+                "ada masalah kualitas laba",
+                "kas tidak penting",
+                "tidak perlu audit"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Laba belum tentu menghasilkan kas nyata.",
+            "topic": "Case Study",
+            "subtopic": "Cash Flow Analysis",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "cash flow",
+                "likuiditas",
+                "piutang",
+                "kualitas laba"
+            ]
+        },
+        {
+            "id": 55,
+            "question": "Cap perusahaan valid tetapi nomor seri cek tidak terdaftar. Tindakan terbaik adalah...",
+            "options": [
+                "tetap proses",
+                "investigasi lebih lanjut",
+                "ubah nomor seri",
+                "abaikan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nomor seri tidak valid mengindikasikan potensi fraud.",
+            "topic": "Case Study",
+            "subtopic": "Fraud Detection",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "nomor seri",
+                "fraud",
+                "investigasi",
+                "validasi"
+            ]
+        },
+        {
+            "id": 56,
+            "question": "Perusahaan mengakui seluruh pendapatan proyek walaupun progres baru 20%. Prinsip yang paling berisiko dilanggar adalah...",
+            "options": [
+                "Prudence dan revenue recognition",
+                "Going concern",
+                "Consistency",
+                "Materiality"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Pendapatan belum sepenuhnya earned.",
+            "topic": "Case Study",
+            "subtopic": "Revenue Recognition",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "earned",
+                "revenue recognition",
+                "overstated",
+                "akrual"
+            ]
+        },
+        {
+            "id": 57,
+            "question": "Teller memproses transaksi hanya karena mengenal wajah nasabah tanpa verifikasi identitas. Risiko utama adalah...",
+            "options": [
+                "efisiensi menurun",
+                "pelanggaran KYC dan fraud",
+                "saldo negatif",
+                "spread meningkat"
+            ],
+            "correctAnswer": 1,
+            "explanation": "KYC wajib diterapkan meskipun nasabah dikenal.",
+            "topic": "Case Study",
+            "subtopic": "KYC",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "KYC",
+                "fraud",
+                "verifikasi identitas",
+                "compliance"
+            ]
+        },
+        {
+            "id": 58,
+            "question": "Perusahaan mencatat depresiasi jauh lebih kecil agar laba terlihat tinggi. Risiko utama adalah...",
+            "options": [
+                "aset dan laba overstated",
+                "liabilitas understated",
+                "kas overstated",
+                "spread meningkat"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Depresiasi terlalu kecil membuat laba tidak realistis.",
+            "topic": "Case Study",
+            "subtopic": "Depresiasi",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "depresiasi",
+                "overstated",
+                "aset",
+                "laba"
+            ]
+        },
+        {
+            "id": 59,
+            "question": "Audit internal menemukan banyak transaksi tanpa paraf verifikasi petugas. Risiko utama adalah...",
+            "options": [
+                "closing lebih cepat",
+                "kontrol internal lemah",
+                "spread menurun",
+                "kas meningkat"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tidak adanya verification trail memperlemah audit trail.",
+            "topic": "Case Study",
+            "subtopic": "Internal Control",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "audit trail",
+                "kontrol internal",
+                "verifikasi",
+                "otorisasi"
+            ]
+        },
+        {
+            "id": 60,
+            "question": "Perusahaan memiliki arus kas investasi sangat negatif akibat pembelian mesin baru. Interpretasi paling tepat adalah...",
+            "options": [
+                "selalu buruk",
+                "indikasi ekspansi bisnis",
+                "fraud otomatis",
+                "tidak berdampak"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Investasi aset produktif dapat menunjukkan ekspansi usaha.",
+            "topic": "Case Study",
+            "subtopic": "Investasi",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "ekspansi",
+                "investasi",
+                "aset tetap",
+                "growth"
+            ]
+        },
+        {
+            "id": 61,
+            "question": "Petugas menemukan nominal angka berbeda dengan nominal huruf pada bilyet giro. Langkah terbaik adalah...",
+            "options": [
+                "gunakan nominal lebih besar",
+                "gunakan nominal angka",
+                "hold transaksi dan klarifikasi",
+                "abaikan selisih"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Perbedaan nominal wajib dikonfirmasi ulang.",
+            "topic": "Case Study",
+            "subtopic": "Bilyet Giro",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "klarifikasi",
+                "mismatch",
+                "verifikasi",
+                "fraud"
+            ]
+        },
+        {
+            "id": 62,
+            "question": "Perusahaan mencatat pendapatan sebelum barang dikirim. Dampak utama terhadap laporan keuangan adalah...",
+            "options": [
+                "pendapatan overstated",
+                "liabilitas overstated",
+                "kas understated",
+                "aset hilang"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Pendapatan belum earned sehingga laba terlalu tinggi.",
+            "topic": "Case Study",
+            "subtopic": "Revenue Timing",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "revenue recognition",
+                "overstated",
+                "belum delivered",
+                "earned"
+            ]
+        },
+        {
+            "id": 63,
+            "question": "Dalam rekonsiliasi cabang ditemukan selisih antara buku besar dan core banking system. Langkah pertama yang tepat adalah...",
+            "options": [
+                "hapus selisih",
+                "buat jurnal balancing",
+                "telusuri sumber selisih",
+                "tunggu audit tahunan"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Selisih harus diinvestigasi terlebih dahulu.",
+            "topic": "Case Study",
+            "subtopic": "Rekonsiliasi",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "rekonsiliasi",
+                "investigasi",
+                "selisih",
+                "dokumen"
+            ]
+        },
+        {
+            "id": 64,
+            "question": "Bank tetap mencairkan transaksi walaupun OTP gagal tervalidasi. Risiko terbesar adalah...",
+            "options": [
+                "efisiensi meningkat",
+                "fraud digital",
+                "spread meningkat",
+                "kas bertambah"
+            ],
+            "correctAnswer": 1,
+            "explanation": "OTP adalah bagian autentikasi digital.",
+            "topic": "Case Study",
+            "subtopic": "OTP",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "OTP",
+                "fraud digital",
+                "autentikasi",
+                "security"
+            ]
+        },
+        {
+            "id": 65,
+            "question": "Perusahaan memiliki current asset jauh lebih kecil dibanding current liabilities. Risiko utama kondisi ini adalah...",
+            "options": [
+                "likuiditas jangka pendek",
+                "depresiasi",
+                "spread",
+                "goodwill"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Perusahaan dapat kesulitan memenuhi kewajiban lancar.",
+            "topic": "Case Study",
+            "subtopic": "Current Ratio",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "likuiditas",
+                "current ratio",
+                "short term",
+                "kemampuan bayar"
+            ]
+        },
+        {
+            "id": 66,
+            "question": "Staf sengaja menunda pencatatan beban agar target laba tercapai. Pelanggaran utama adalah...",
+            "options": [
+                "matching principle",
+                "going concern",
+                "fair value",
+                "historical cost"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Beban harus diakui pada periode yang sesuai.",
+            "topic": "Case Study",
+            "subtopic": "Manipulasi Laba",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "matching",
+                "manipulasi laba",
+                "beban ditunda",
+                "integritas"
+            ]
+        },
+        {
+            "id": 67,
+            "question": "Perusahaan memiliki laba besar tetapi kas terus menurun akibat piutang meningkat tajam. Analisis paling tepat adalah...",
+            "options": [
+                "profit pasti fiktif",
+                "masalah collection piutang",
+                "aset terlalu kecil",
+                "tidak ada risiko"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Piutang tinggi dapat menekan cash flow operasional.",
+            "topic": "Case Study",
+            "subtopic": "Piutang",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "piutang",
+                "cash flow",
+                "collection",
+                "likuiditas"
+            ]
+        },
+        {
+            "id": 68,
+            "question": "Nasabah meminta pencairan dana menggunakan surat kuasa fotokopi tanpa legalisasi. Tindakan terbaik adalah...",
+            "options": [
+                "langsung cairkan",
+                "tolak tanpa alasan",
+                "minta dokumen valid/original",
+                "cairkan sebagian"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Legalitas dokumen harus diverifikasi.",
+            "topic": "Case Study",
+            "subtopic": "Surat Kuasa",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "legalitas",
+                "surat kuasa",
+                "dokumen valid",
+                "verifikasi"
+            ]
+        },
+        {
+            "id": 69,
+            "question": "Supervisor menemukan transaksi tercatat dua kali akibat input ulang sistem. Risiko utama kondisi ini adalah...",
+            "options": [
+                "saldo understated",
+                "overstated transaksi",
+                "spread negatif",
+                "audit otomatis gagal"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Double posting menyebabkan saldo tidak akurat.",
+            "topic": "Case Study",
+            "subtopic": "Double Posting",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "double posting",
+                "overstated",
+                "duplikasi",
+                "rekonsiliasi"
+            ]
+        },
+        {
+            "id": 70,
+            "question": "Perusahaan membeli gedung menggunakan pinjaman bank jangka panjang. Dampak awal transaksi adalah...",
+            "options": [
+                "aset naik dan liabilitas naik",
+                "aset turun dan ekuitas naik",
+                "beban naik",
+                "kas naik"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Gedung menambah aset dan pinjaman menambah liabilitas.",
+            "topic": "Case Study",
+            "subtopic": "Pinjaman Bank",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "aset",
+                "liabilitas",
+                "pinjaman",
+                "persamaan akuntansi"
+            ]
+        }
+    ]
+}
