@@ -659,6 +659,28 @@ function renderQuestion(){
   const question =
     state.questions[state.currentQuestionIndex];
 
+  // GUARD CLAUSE
+  if(!question){
+
+    console.error(
+      'Question data not found',
+      state.questions,
+      state.currentQuestionIndex
+    );
+
+    document.body.innerHTML = `
+      <div style="
+        padding:40px;
+        font-family:Inter,sans-serif;
+      ">
+        <h1>Question data invalid</h1>
+        <p>JSON loaded but question array is empty or corrupted.</p>
+      </div>
+    `;
+
+    return;
+  }
+
   updateProgress();
 
   el.questionNumber.textContent =
@@ -668,8 +690,7 @@ function renderQuestion(){
     question.topic || 'General';
 
   el.questionText.textContent =
-    question.question;
-
+    question.question || '';
 
   if(question.requiresReasoning){
 
@@ -678,8 +699,7 @@ function renderQuestion(){
     el.submitButton.classList.remove('hidden');
   }
 
-
-  renderOptions(question.options);
+  renderOptions(question.options || []);
 }
 
 
