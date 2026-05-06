@@ -790,7 +790,7 @@ function processAnswer(){
   const isCorrect =
     state.selectedOption === question.correctAnswer;
 
-  const reasoningScore =
+  const reasoningResult =
     evaluateReasoning(question,reasoning);
 
   saveAnswer(
@@ -847,7 +847,7 @@ function evaluateReasoning(question, reasoning){
 
 
   const semanticGroups =
-    question.semanticKeywords || [];
+    question.reasoningKeywords || [];
 
   if(!semanticGroups.length){
 
@@ -861,22 +861,20 @@ function evaluateReasoning(question, reasoning){
 
   let matchedGroups = 0;
 
-  semanticGroups.forEach(group=>{
+  semanticGroups.forEach(keyword=>{
 
-    const matched =
-      group.some(keyword =>
-        cleaned.includes(
-          keyword.toLowerCase()
-        )
-      );
+  const matched =
+    cleaned.includes(
+      keyword.toLowerCase()
+    );
 
-    if(matched){
+  if(matched){
 
-      matchedGroups++;
+    matchedGroups++;
 
-    }
+  }
 
-  });
+});
 
   const ratio =
     matchedGroups / semanticGroups.length;
@@ -935,7 +933,9 @@ function saveAnswer(
     selectedOption: state.selectedOption,
     correctAnswer: question.correctAnswer,
     reasoning,
-    reasoningScore
+    reasoningScore:
+      reasoningResult.status === 'suitable' ? 1 :
+      reasoningResult.status === 'needs_improvement' ? 0.5 : 0 
 
   });
 
