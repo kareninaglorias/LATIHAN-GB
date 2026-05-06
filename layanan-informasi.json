@@ -1,0 +1,1387 @@
+{
+    "quizTitle": "Layanan Informasi Perbankan",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Tujuan utama layanan informasi perbankan kepada nasabah adalah...",
+            "options": [
+                "Meningkatkan biaya administrasi",
+                "Memberikan informasi akurat, jelas, dan sesuai kebutuhan nasabah",
+                "Mengurangi penggunaan sistem bank",
+                "Menghindari interaksi dengan nasabah"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Layanan informasi perbankan bertujuan memberikan informasi yang akurat dan transparan kepada nasabah.",
+            "topic": "Layanan Informasi",
+            "subtopic": "Tujuan Layanan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 2,
+            "question": "Dalam prinsip layanan perbankan, informasi produk harus disampaikan secara...",
+            "options": [
+                "Sebagian agar nasabah penasaran",
+                "Kompleks agar terlihat profesional",
+                "Transparan dan tidak menyesatkan",
+                "Berbeda antar petugas"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Informasi produk wajib transparan dan tidak menyesatkan sesuai prinsip perlindungan konsumen.",
+            "topic": "Perlindungan Konsumen",
+            "subtopic": "Transparansi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 3,
+            "question": "Petugas layanan bank wajib menjaga kerahasiaan data nasabah berdasarkan prinsip...",
+            "options": [
+                "Open access",
+                "Confidentiality",
+                "Aggressive marketing",
+                "Sales acceleration"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Data nasabah wajib dijaga kerahasiaannya sesuai prinsip confidentiality.",
+            "topic": "Kerahasiaan Data",
+            "subtopic": "Confidentiality",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 4,
+            "question": "Salah satu tujuan customer service melakukan verifikasi identitas sebelum memberikan informasi rekening adalah...",
+            "options": [
+                "Mengurangi antrean",
+                "Menghindari unauthorized access",
+                "Meningkatkan biaya layanan",
+                "Mengurangi penggunaan CIF"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Verifikasi identitas penting untuk mencegah akses tidak sah terhadap informasi rekening.",
+            "topic": "Verifikasi Nasabah",
+            "subtopic": "Keamanan Informasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 5,
+            "question": "Media layanan informasi perbankan berikut yang termasuk digital channel adalah...",
+            "options": [
+                "Passbook printer",
+                "Internet banking",
+                "Slip setoran",
+                "Bilyet giro"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Internet banking termasuk digital channel layanan informasi perbankan.",
+            "topic": "Digital Banking",
+            "subtopic": "Digital Channel",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 6,
+            "question": "Dalam layanan informasi saldo rekening, petugas bank tidak boleh memberikan informasi kepada...",
+            "options": [
+                "Pemilik rekening",
+                "Kuasa resmi",
+                "Pihak tanpa otorisasi",
+                "Wali sah nasabah"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Informasi rekening hanya dapat diberikan kepada pihak berwenang.",
+            "topic": "Informasi Rekening",
+            "subtopic": "Akses Informasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 7,
+            "question": "Call center bank wajib melakukan authentication sebelum memberikan informasi kartu kredit untuk mencegah...",
+            "options": [
+                "Cross selling",
+                "Fraud dan social engineering",
+                "Penurunan SLA",
+                "Over liquidity"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Authentication diperlukan untuk mencegah fraud dan social engineering.",
+            "topic": "Call Center",
+            "subtopic": "Authentication",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 8,
+            "question": "Informasi biaya administrasi produk wajib disampaikan kepada nasabah sebagai bagian dari prinsip...",
+            "options": [
+                "Transparency",
+                "Retention",
+                "Cross selling",
+                "Dormant handling"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Biaya produk wajib diinformasikan secara transparan.",
+            "topic": "Transparansi Produk",
+            "subtopic": "Biaya Produk",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 9,
+            "question": "Pemberian informasi rekening melalui telepon tanpa verifikasi tambahan berisiko menyebabkan...",
+            "options": [
+                "Improvement service",
+                "Unauthorized disclosure",
+                "Cross transaction",
+                "Cash mismatch"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi dapat bocor kepada pihak tidak berwenang.",
+            "topic": "Keamanan Informasi",
+            "subtopic": "Disclosure Risk",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 10,
+            "question": "Customer service wajib memahami fitur produk terutama untuk...",
+            "options": [
+                "Meningkatkan improvisasi jawaban pribadi",
+                "Mengurangi kebutuhan SOP",
+                "Memberikan informasi yang tepat dan konsisten",
+                "Menghindari penggunaan sistem"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Pemahaman produk penting agar informasi yang diberikan akurat.",
+            "topic": "Product Knowledge",
+            "subtopic": "Informasi Produk",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 11,
+            "question": "Informasi mutasi rekening termasuk kategori data...",
+            "options": [
+                "Publik",
+                "Rahasia bank",
+                "Promosi",
+                "Marketing collateral"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mutasi rekening termasuk rahasia bank.",
+            "topic": "Rahasia Bank",
+            "subtopic": "Data Nasabah",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 12,
+            "question": "Jika sistem layanan digital mengalami gangguan, tindakan paling tepat petugas adalah...",
+            "options": [
+                "Mengabaikan komplain nasabah",
+                "Memberikan alternatif layanan dan informasi gangguan",
+                "Meminta nasabah menunggu tanpa penjelasan",
+                "Menutup layanan cabang"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nasabah perlu diberikan informasi dan alternatif layanan.",
+            "topic": "Service Handling",
+            "subtopic": "Gangguan Sistem",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 13,
+            "question": "Dalam layanan informasi kredit, petugas tidak boleh menjanjikan approval karena...",
+            "options": [
+                "Approval bergantung analisis dan kewenangan",
+                "Semua kredit pasti ditolak",
+                "Customer service tidak boleh berbicara",
+                "Bunga kredit selalu berubah"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Approval kredit bergantung analisis dan otorisasi.",
+            "topic": "Informasi Kredit",
+            "subtopic": "Approval Authority",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 14,
+            "question": "Chat banking termasuk layanan...",
+            "options": [
+                "Branchless service",
+                "Treasury service",
+                "Manual filing",
+                "Physical archive"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Chat banking merupakan layanan digital tanpa tatap muka.",
+            "topic": "Digital Banking",
+            "subtopic": "Chat Banking",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 15,
+            "question": "Petugas bank menerima permintaan informasi rekening dari pasangan nasabah tanpa surat kuasa. Tindakan paling tepat adalah...",
+            "options": [
+                "Memberikan informasi sebagian",
+                "Menolak karena melanggar kerahasiaan bank",
+                "Memberikan saldo saja",
+                "Meminta OTP nasabah"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi rekening hanya boleh diberikan kepada pihak berwenang.",
+            "topic": "Rahasia Bank",
+            "subtopic": "Unauthorized Access",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 16,
+            "question": "Keuntungan utama penggunaan mobile banking bagi nasabah adalah...",
+            "options": [
+                "Menghapus seluruh biaya transaksi",
+                "Akses layanan secara real-time dan fleksibel",
+                "Menghilangkan kewajiban PIN",
+                "Menggantikan CIF"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mobile banking memberikan akses layanan kapan saja.",
+            "topic": "Mobile Banking",
+            "subtopic": "Manfaat Digital Banking",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 17,
+            "question": "Informasi promo produk harus disampaikan sesuai fakta untuk menghindari...",
+            "options": [
+                "Misselling",
+                "Cash opname",
+                "Dormant account",
+                "Treasury risk"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Informasi menyesatkan dapat menyebabkan misselling.",
+            "topic": "Perlindungan Konsumen",
+            "subtopic": "Misselling",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 18,
+            "question": "Dalam layanan informasi ATM tertelan, langkah pertama petugas adalah...",
+            "options": [
+                "Menebak penyebab masalah",
+                "Melakukan verifikasi identitas nasabah",
+                "Memberikan PIN baru langsung",
+                "Menutup rekening nasabah"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Verifikasi identitas diperlukan sebelum penanganan kartu.",
+            "topic": "ATM Service",
+            "subtopic": "Card Handling",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 19,
+            "question": "Petugas bank yang memberikan informasi tidak sesuai ketentuan berpotensi menimbulkan risiko...",
+            "options": [
+                "Operational dan reputational risk",
+                "Interest rate risk",
+                "Market risk",
+                "Liquidity risk"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Informasi salah dapat menimbulkan risiko operasional dan reputasi.",
+            "topic": "Operational Risk",
+            "subtopic": "Service Risk",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 20,
+            "question": "Layanan informasi suku bunga deposito harus memperhatikan prinsip...",
+            "options": [
+                "Confidentiality",
+                "Transparansi dan akurasi",
+                "Aggressive selling",
+                "Informal communication"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi bunga harus jelas dan akurat.",
+            "topic": "Deposito",
+            "subtopic": "Informasi Suku Bunga",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 21,
+            "question": "Nasabah meminta informasi saldo rekening melalui telepon tetapi gagal menjawab pertanyaan verifikasi.",
+            "options": [
+                "Tetap memberikan informasi demi service excellence",
+                "Menolak memberikan informasi sampai verifikasi berhasil",
+                "Memberikan sebagian informasi saja",
+                "Mengirim saldo ke email pribadi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi rekening tidak boleh diberikan tanpa verifikasi.",
+            "topic": "Verifikasi Nasabah",
+            "subtopic": "Authentication",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "verifikasi",
+                "authentication",
+                "confidentiality"
+            ]
+        },
+        {
+            "id": 22,
+            "question": "Petugas customer service menjanjikan approval kredit pasti cair agar nasabah tertarik.",
+            "options": [
+                "Strategi marketing normal",
+                "Missleading information dan procedural violation",
+                "Cross selling standard",
+                "Tidak masalah selama target tercapai"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Approval kredit tidak boleh dijanjikan tanpa proses analisis.",
+            "topic": "Informasi Kredit",
+            "subtopic": "Missleading Information",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "misleading",
+                "approval",
+                "analisis kredit"
+            ]
+        },
+        {
+            "id": 23,
+            "question": "Nasabah komplain karena informasi biaya administrasi berbeda antara aplikasi dan cabang.",
+            "options": [
+                "Mengabaikan komplain",
+                "Melakukan klarifikasi dan memastikan konsistensi informasi",
+                "Menyalahkan sistem",
+                "Menghapus biaya tanpa approval"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi layanan harus konsisten di seluruh channel.",
+            "topic": "Service Consistency",
+            "subtopic": "Biaya Produk",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "konsistensi",
+                "transparansi",
+                "klarifikasi"
+            ]
+        },
+        {
+            "id": 24,
+            "question": "Pegawai membagikan screenshot saldo nasabah ke grup internal tanpa kebutuhan kerja.",
+            "options": [
+                "Normal coordination",
+                "Pelanggaran kerahasiaan data",
+                "Risk mitigation",
+                "Operational monitoring"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Data rekening termasuk rahasia bank.",
+            "topic": "Kerahasiaan Data",
+            "subtopic": "Data Leakage",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "confidentiality",
+                "data leakage",
+                "rahasia bank"
+            ]
+        },
+        {
+            "id": 25,
+            "question": "Nasabah menerima telepon mengatasnamakan bank dan diminta OTP. Edukasi paling tepat adalah...",
+            "options": [
+                "OTP boleh diberikan ke petugas bank",
+                "OTP bersifat rahasia dan tidak boleh diberikan kepada siapa pun",
+                "OTP dapat dibagikan selama nomor resmi",
+                "OTP hanya berlaku untuk ATM"
+            ],
+            "correctAnswer": 1,
+            "explanation": "OTP bersifat rahasia dan tidak boleh dibagikan.",
+            "topic": "Fraud Awareness",
+            "subtopic": "OTP Fraud",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "OTP",
+                "fraud",
+                "keamanan"
+            ]
+        },
+        {
+            "id": 26,
+            "question": "Petugas menerima permintaan mutasi rekening dari pihak yang mengaku keluarga nasabah tanpa dokumen pendukung.",
+            "options": [
+                "Memberikan mutasi karena hubungan keluarga",
+                "Menolak sampai ada otorisasi resmi",
+                "Memberikan transaksi tertentu saja",
+                "Mengirim via WhatsApp"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Mutasi rekening termasuk rahasia bank.",
+            "topic": "Mutasi Rekening",
+            "subtopic": "Kerahasiaan Data",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "otorisasi",
+                "mutasi rekening",
+                "rahasia bank"
+            ]
+        },
+        {
+            "id": 27,
+            "question": "Nasabah mengeluhkan transaksi mobile banking gagal tetapi saldo terdebet.",
+            "options": [
+                "Mengabaikan komplain",
+                "Melakukan pengecekan dan eskalasi sesuai SOP",
+                "Menyuruh nasabah menunggu tanpa penjelasan",
+                "Langsung refund tanpa investigasi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Transaksi gagal harus ditindaklanjuti sesuai SOP.",
+            "topic": "Complaint Handling",
+            "subtopic": "Digital Transaction",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "eskalasi",
+                "SOP",
+                "investigasi"
+            ]
+        },
+        {
+            "id": 28,
+            "question": "Call center memberikan informasi kartu kredit setelah verifikasi hanya menggunakan nama ibu kandung.",
+            "options": [
+                "Kontrol sudah memadai",
+                "Verifikasi terlalu lemah dan berisiko fraud",
+                "Tidak perlu verifikasi tambahan",
+                "Sudah sesuai semua SOP"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Verifikasi harus menggunakan beberapa faktor keamanan.",
+            "topic": "Authentication",
+            "subtopic": "Multi Verification",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "fraud",
+                "authentication",
+                "multi verification"
+            ]
+        },
+        {
+            "id": 29,
+            "question": "Nasabah meminta informasi produk investasi dengan potensi keuntungan pasti.",
+            "options": [
+                "Petugas boleh menjamin keuntungan",
+                "Petugas wajib menjelaskan risiko dan disclaimer produk",
+                "Produk investasi selalu tanpa risiko",
+                "Keuntungan wajib dipastikan bank"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Produk investasi wajib disertai penjelasan risiko.",
+            "topic": "Produk Investasi",
+            "subtopic": "Disclosure Risiko",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "risiko",
+                "disclaimer",
+                "transparansi"
+            ]
+        },
+        {
+            "id": 30,
+            "question": "Petugas bank menemukan nasabah lanjut usia tampak tidak memahami produk yang ditawarkan.",
+            "options": [
+                "Tetap lanjut agar target tercapai",
+                "Memberikan penjelasan ulang secara jelas dan sederhana",
+                "Meminta tanda tangan segera",
+                "Mengalihkan ke teller"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nasabah harus memahami produk sebelum mengambil keputusan.",
+            "topic": "Service Excellence",
+            "subtopic": "Customer Understanding",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "penjelasan",
+                "pemahaman nasabah",
+                "transparansi"
+            ]
+        },
+        {
+            "id": 31,
+            "question": "Customer service memberikan informasi produk berbeda dengan brosur resmi bank.",
+            "options": [
+                "Normal improvisasi layanan",
+                "Berisiko misselling dan misinformation",
+                "Tidak berpengaruh",
+                "Strategi marketing fleksibel"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi produk harus konsisten dengan ketentuan resmi.",
+            "topic": "Product Information",
+            "subtopic": "Misselling",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "misselling",
+                "misinformation",
+                "konsistensi"
+            ]
+        },
+        {
+            "id": 32,
+            "question": "Nasabah meminta reset mobile banking melalui telepon tanpa datang ke cabang.",
+            "options": [
+                "Diproses tanpa verifikasi",
+                "Diproses sesuai prosedur keamanan dan authentication",
+                "Langsung diberikan password baru",
+                "Menggunakan akun lama petugas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Reset layanan digital harus melalui prosedur keamanan.",
+            "topic": "Mobile Banking",
+            "subtopic": "Reset Credential",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "authentication",
+                "security",
+                "reset credential"
+            ]
+        },
+        {
+            "id": 33,
+            "question": "Informasi transaksi nasabah bocor akibat penggunaan email pribadi pegawai.",
+            "options": [
+                "Operational improvement",
+                "Data leakage dan compliance risk",
+                "Marketing strategy",
+                "Cross selling"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Penggunaan email pribadi berisiko kebocoran data.",
+            "topic": "Data Security",
+            "subtopic": "Data Leakage",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "data leakage",
+                "compliance",
+                "security"
+            ]
+        },
+        {
+            "id": 34,
+            "question": "Petugas frontliner memberikan PIN ATM sementara melalui kertas terbuka di meja layanan.",
+            "options": [
+                "Normal operational process",
+                "Melanggar prinsip keamanan informasi",
+                "Meningkatkan service speed",
+                "Tidak berisiko"
+            ],
+            "correctAnswer": 1,
+            "explanation": "PIN harus dijaga kerahasiaannya.",
+            "topic": "ATM Security",
+            "subtopic": "PIN Confidentiality",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "PIN",
+                "security",
+                "confidentiality"
+            ]
+        },
+        {
+            "id": 35,
+            "question": "Nasabah meminta bukti transaksi dikirim ke email yang berbeda dari data sistem.",
+            "options": [
+                "Langsung dikirim demi pelayanan",
+                "Melakukan verifikasi tambahan sebelum pengiriman",
+                "Mengabaikan permintaan",
+                "Mengirim ke semua email"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Perubahan media pengiriman membutuhkan verifikasi tambahan.",
+            "topic": "Verifikasi Nasabah",
+            "subtopic": "Email Verification",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "verifikasi",
+                "email",
+                "security"
+            ]
+        },
+        {
+            "id": 36,
+            "question": "Customer service menolak menjelaskan biaya penalti produk karena dianggap terlalu teknis.",
+            "options": [
+                "Dibenarkan agar proses cepat",
+                "Melanggar prinsip transparansi informasi",
+                "Bagian dari marketing",
+                "Tidak mempengaruhi nasabah"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Biaya dan penalti wajib dijelaskan kepada nasabah.",
+            "topic": "Transparansi Produk",
+            "subtopic": "Biaya dan Penalti",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "transparansi",
+                "penalti",
+                "informasi produk"
+            ]
+        },
+        {
+            "id": 37,
+            "question": "Nasabah meminta informasi rekening dormant milik keluarganya yang telah meninggal tanpa dokumen waris.",
+            "options": [
+                "Informasi dapat diberikan sebagian",
+                "Memerlukan dokumen legal sesuai prosedur",
+                "Langsung diberikan kepada ahli waris",
+                "Tidak perlu verifikasi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi rekening nasabah meninggal memerlukan dokumen legal.",
+            "topic": "Rekening Dormant",
+            "subtopic": "Ahli Waris",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "dokumen waris",
+                "otorisasi",
+                "rahasia bank"
+            ]
+        },
+        {
+            "id": 38,
+            "question": "Petugas memberikan simulasi kredit tanpa menjelaskan bahwa hasil dapat berubah setelah analisis.",
+            "options": [
+                "Tidak masalah selama simulasi menarik",
+                "Berpotensi misleading information",
+                "Normal sales approach",
+                "Bagian service excellence"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Simulasi harus disertai disclaimer.",
+            "topic": "Informasi Kredit",
+            "subtopic": "Simulasi Kredit",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "simulasi",
+                "disclaimer",
+                "misleading"
+            ]
+        },
+        {
+            "id": 39,
+            "question": "Petugas bank diminta memberikan informasi rekening oleh aparat tanpa surat resmi.",
+            "options": [
+                "Tetap memberikan demi kerja sama",
+                "Menolak sampai prosedur legal dipenuhi",
+                "Memberikan mutasi sebagian",
+                "Mengirim data melalui chat"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Pembukaan rahasia bank harus sesuai prosedur hukum.",
+            "topic": "Rahasia Bank",
+            "subtopic": "Permintaan Aparat",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "legal",
+                "rahasia bank",
+                "otorisasi"
+            ]
+        },
+        {
+            "id": 40,
+            "question": "Nasabah mengeluh karena informasi promo di media sosial berbeda dengan informasi di cabang.",
+            "options": [
+                "Normal perbedaan marketing",
+                "Bank perlu memastikan keseragaman informasi antar channel",
+                "Cabang boleh berbeda aturan",
+                "Nasabah dianggap salah memahami"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi layanan harus konsisten di semua media.",
+            "topic": "Omnichannel Service",
+            "subtopic": "Consistency",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "consistency",
+                "omnichannel",
+                "informasi"
+            ]
+        },
+        {
+            "id": 41,
+            "question": "Petugas call center menyebutkan nomor kartu penuh saat verifikasi nasabah.",
+            "options": [
+                "Praktik aman",
+                "Berisiko kebocoran data sensitif",
+                "Bagian authentication",
+                "Tidak berdampak"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Data sensitif kartu tidak boleh diungkap penuh.",
+            "topic": "Card Security",
+            "subtopic": "Sensitive Data",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "data sensitif",
+                "card security",
+                "confidentiality"
+            ]
+        },
+        {
+            "id": 42,
+            "question": "Nasabah meminta seluruh histori transaksi dicetak tanpa menunjukkan identitas.",
+            "options": [
+                "Tetap dicetak demi pelayanan",
+                "Identitas wajib diverifikasi sebelum pencetakan",
+                "Diberikan sebagian transaksi",
+                "Langsung dikirim via email"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Histori transaksi termasuk data rahasia.",
+            "topic": "Histori Transaksi",
+            "subtopic": "Verification",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "verification",
+                "histori transaksi",
+                "rahasia bank"
+            ]
+        },
+        {
+            "id": 43,
+            "question": "Pegawai bank menyimpan data nasabah di flashdisk pribadi untuk bekerja dari rumah.",
+            "options": [
+                "Efisiensi kerja",
+                "Pelanggaran keamanan informasi",
+                "Bagian remote working",
+                "Tidak berisiko"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Penyimpanan data di media pribadi berisiko kebocoran.",
+            "topic": "Information Security",
+            "subtopic": "Data Storage",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "security",
+                "data storage",
+                "data leakage"
+            ]
+        },
+        {
+            "id": 44,
+            "question": "Nasabah meminta penjelasan produk deposito dengan bahasa sederhana karena tidak memahami istilah perbankan.",
+            "options": [
+                "Petugas boleh menolak",
+                "Petugas perlu menyesuaikan komunikasi agar mudah dipahami",
+                "Nasabah harus membaca sendiri brosur",
+                "Produk hanya dijelaskan teknis"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi harus disampaikan sesuai pemahaman nasabah.",
+            "topic": "Customer Communication",
+            "subtopic": "Simplified Communication",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "komunikasi",
+                "pemahaman nasabah",
+                "service excellence"
+            ]
+        },
+        {
+            "id": 45,
+            "question": "Petugas salah menyampaikan biaya transfer antarbank sehingga nasabah dirugikan.",
+            "options": [
+                "Tidak termasuk risiko bank",
+                "Termasuk operational risk dan service error",
+                "Kesalahan nasabah",
+                "Tidak perlu ditindaklanjuti"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Kesalahan informasi layanan termasuk risiko operasional.",
+            "topic": "Operational Risk",
+            "subtopic": "Service Error",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "operational risk",
+                "service error",
+                "informasi salah"
+            ]
+        },
+        {
+            "id": 46,
+            "question": "Customer service menerima permintaan update email nasabah hanya berdasarkan telepon.",
+            "options": [
+                "Langsung diproses",
+                "Harus melalui proses verifikasi sesuai SOP",
+                "Boleh jika nasabah terdengar yakin",
+                "Tidak perlu dokumentasi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Perubahan data nasabah wajib diverifikasi.",
+            "topic": "Update Data",
+            "subtopic": "Verification",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "update data",
+                "verification",
+                "SOP"
+            ]
+        },
+        {
+            "id": 47,
+            "question": "Nasabah meminta informasi limit transfer harian mobile banking.",
+            "options": [
+                "Petugas boleh menjawab perkiraan",
+                "Informasi harus sesuai ketentuan resmi produk",
+                "Limit ditentukan teller",
+                "Tidak ada limit transaksi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi limit harus sesuai ketentuan resmi.",
+            "topic": "Mobile Banking",
+            "subtopic": "Limit Transaksi",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "limit transaksi",
+                "informasi resmi",
+                "produk"
+            ]
+        },
+        {
+            "id": 48,
+            "question": "Pegawai bank menjawab pertanyaan nasabah menggunakan asumsi pribadi tanpa cek SOP.",
+            "options": [
+                "Service excellence",
+                "Berisiko misinformation dan compliance issue",
+                "Cara mempercepat layanan",
+                "Tidak berdampak"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi layanan harus mengacu SOP dan ketentuan resmi.",
+            "topic": "Compliance",
+            "subtopic": "SOP Information",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "SOP",
+                "misinformation",
+                "compliance"
+            ]
+        },
+        {
+            "id": 49,
+            "question": "Nasabah meminta informasi transaksi kartu debit yang tidak dikenali.",
+            "options": [
+                "Mengabaikan karena nominal kecil",
+                "Melakukan pengecekan dan eskalasi fraud handling",
+                "Menyuruh nasabah menunggu satu bulan",
+                "Menutup kartu tanpa konfirmasi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Transaksi tidak dikenal perlu investigasi fraud.",
+            "topic": "Fraud Handling",
+            "subtopic": "Card Transaction",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "fraud",
+                "eskalasi",
+                "investigasi"
+            ]
+        },
+        {
+            "id": 50,
+            "question": "Informasi layanan perbankan yang baik harus memenuhi prinsip berikut kecuali...",
+            "options": [
+                "Akurat",
+                "Jelas",
+                "Menyesatkan",
+                "Konsisten"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Informasi tidak boleh menyesatkan.",
+            "topic": "Prinsip Informasi",
+            "subtopic": "Transparency",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 51,
+            "question": "Nasabah menerima SMS mengatasnamakan bank dan diminta klik link tertentu.",
+            "options": [
+                "Langsung klik untuk verifikasi",
+                "Edukasi nasabah terkait phishing dan keamanan data",
+                "Meminta nasabah mengirim OTP",
+                "Mengabaikan sepenuhnya"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Link phishing berpotensi mencuri data nasabah.",
+            "topic": "Cyber Security",
+            "subtopic": "Phishing",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "phishing",
+                "OTP",
+                "keamanan data"
+            ]
+        },
+        {
+            "id": 52,
+            "question": "Petugas memberikan informasi rekening kepada rekan kerja yang tidak berkepentingan.",
+            "options": [
+                "Bagian koordinasi normal",
+                "Pelanggaran confidentiality",
+                "Tidak masalah internal bank",
+                "Strategi cross selling"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Akses data dibatasi berdasarkan kebutuhan kerja.",
+            "topic": "Confidentiality",
+            "subtopic": "Internal Access",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "confidentiality",
+                "internal access",
+                "data"
+            ]
+        },
+        {
+            "id": 53,
+            "question": "Nasabah meminta penjelasan mengapa transfer tertunda karena proses compliance checking.",
+            "options": [
+                "Petugas boleh menjawab asal cepat",
+                "Petugas perlu menjelaskan prosedur secara profesional tanpa membuka detail sensitif",
+                "Mengabaikan pertanyaan",
+                "Menyalahkan regulator"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Penjelasan harus profesional dan sesuai kebijakan.",
+            "topic": "Compliance Service",
+            "subtopic": "Transaction Checking",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "compliance",
+                "prosedur",
+                "professional"
+            ]
+        },
+        {
+            "id": 54,
+            "question": "Petugas bank memberikan informasi produk investasi tanpa menjelaskan risiko penurunan nilai.",
+            "options": [
+                "Normal selling",
+                "Berpotensi misselling",
+                "Tidak berdampak",
+                "Boleh selama nasabah setuju"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Risiko investasi wajib dijelaskan kepada nasabah.",
+            "topic": "Investasi",
+            "subtopic": "Risk Disclosure",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "risk disclosure",
+                "misselling",
+                "investasi"
+            ]
+        },
+        {
+            "id": 55,
+            "question": "Customer service menerima permintaan cetak rekening koran dari pihak ketiga dengan fotokopi KTP nasabah saja.",
+            "options": [
+                "Langsung diproses",
+                "Perlu surat kuasa dan verifikasi tambahan",
+                "Tidak perlu identitas tambahan",
+                "Dapat diberikan sebagian"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Pihak ketiga memerlukan kuasa resmi.",
+            "topic": "Rekening Koran",
+            "subtopic": "Surat Kuasa",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "surat kuasa",
+                "verification",
+                "rekening koran"
+            ]
+        },
+        {
+            "id": 56,
+            "question": "Nasabah komplain karena petugas cabang dan call center memberikan jawaban berbeda.",
+            "options": [
+                "Perbedaan wajar",
+                "Menunjukkan lemahnya standardisasi informasi",
+                "Tidak perlu perbaikan",
+                "Nasabah dianggap salah dengar"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi harus konsisten di seluruh channel.",
+            "topic": "Standardisasi Layanan",
+            "subtopic": "Consistency",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "standardisasi",
+                "consistency",
+                "layanan"
+            ]
+        },
+        {
+            "id": 57,
+            "question": "Petugas membantu nasabah mengisi formulir digital banking menggunakan password nasabah.",
+            "options": [
+                "Service excellence",
+                "Melanggar prinsip keamanan credential",
+                "Tidak masalah demi membantu",
+                "Bagian onboarding"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Credential nasabah harus bersifat rahasia.",
+            "topic": "Credential Security",
+            "subtopic": "Password",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "password",
+                "credential",
+                "security"
+            ]
+        },
+        {
+            "id": 58,
+            "question": "Nasabah meminta petugas menyimpan PIN ATM karena takut lupa.",
+            "options": [
+                "Boleh demi pelayanan",
+                "Petugas harus menolak dan mengedukasi keamanan PIN",
+                "PIN dapat disimpan sementara",
+                "Disimpan di sistem cabang"
+            ],
+            "correctAnswer": 1,
+            "explanation": "PIN tidak boleh diketahui atau disimpan pihak lain.",
+            "topic": "ATM Security",
+            "subtopic": "PIN Handling",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "PIN",
+                "security",
+                "edukasi"
+            ]
+        },
+        {
+            "id": 59,
+            "question": "Nasabah meminta seluruh biaya produk dijelaskan setelah rekening aktif.",
+            "options": [
+                "Biaya dapat dijelaskan belakangan",
+                "Informasi biaya harus diberikan sebelum penggunaan produk",
+                "Biaya tidak wajib diinformasikan",
+                "Nasabah wajib mencari sendiri"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Biaya produk wajib diinformasikan di awal.",
+            "topic": "Product Disclosure",
+            "subtopic": "Biaya Produk",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "biaya produk",
+                "disclosure",
+                "transparansi"
+            ]
+        },
+        {
+            "id": 60,
+            "question": "Pegawai menggunakan akun user rekan kerja untuk melihat data nasabah.",
+            "options": [
+                "Efisiensi operasional",
+                "Pelanggaran access control dan audit trail",
+                "Cara mempercepat layanan",
+                "Tidak berisiko"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Penggunaan user lain melanggar kontrol internal.",
+            "topic": "Access Control",
+            "subtopic": "User ID",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "access control",
+                "audit trail",
+                "user ID"
+            ]
+        },
+        {
+            "id": 61,
+            "question": "Nasabah meminta penjelasan mengapa transaksi transfer ditolak sistem anti fraud.",
+            "options": [
+                "Petugas menjelaskan sesuai kebijakan keamanan bank",
+                "Petugas membuka seluruh parameter fraud system",
+                "Petugas menyalahkan nasabah",
+                "Petugas menghapus alert fraud"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Penjelasan diberikan tanpa membuka detail sensitif sistem keamanan.",
+            "topic": "Fraud Monitoring",
+            "subtopic": "Fraud Alert",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "fraud system",
+                "security",
+                "alert"
+            ]
+        },
+        {
+            "id": 62,
+            "question": "Customer service menjelaskan fitur produk menggunakan istilah teknis yang membingungkan nasabah.",
+            "options": [
+                "Menunjukkan profesionalisme",
+                "Berpotensi menyebabkan misunderstanding",
+                "Bagian standard banking",
+                "Tidak mempengaruhi keputusan nasabah"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi harus mudah dipahami nasabah.",
+            "topic": "Customer Communication",
+            "subtopic": "Misunderstanding",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "komunikasi",
+                "misunderstanding",
+                "service"
+            ]
+        },
+        {
+            "id": 63,
+            "question": "Nasabah meminta informasi rekening perusahaan melalui email umum perusahaan tanpa verifikasi tambahan.",
+            "options": [
+                "Langsung dikirim",
+                "Memerlukan verification dan otorisasi resmi",
+                "Boleh jika domain perusahaan valid",
+                "Tidak perlu approval"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi rekening perusahaan tetap memerlukan verifikasi.",
+            "topic": "Corporate Banking",
+            "subtopic": "Verification",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "verification",
+                "otorisasi",
+                "corporate account"
+            ]
+        },
+        {
+            "id": 64,
+            "question": "Petugas bank mengabaikan komplain nasabah terkait transaksi gagal karena dianggap nominal kecil.",
+            "options": [
+                "Efisiensi layanan",
+                "Melanggar prinsip complaint handling",
+                "Tidak perlu investigasi",
+                "Normal operational decision"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Semua komplain harus ditangani sesuai prosedur.",
+            "topic": "Complaint Handling",
+            "subtopic": "Service Quality",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "complaint handling",
+                "service quality",
+                "SOP"
+            ]
+        },
+        {
+            "id": 65,
+            "question": "Petugas menawarkan produk tambahan tanpa menjelaskan syarat dan biaya tersembunyi.",
+            "options": [
+                "Cross selling normal",
+                "Berpotensi misselling dan pelanggaran transparansi",
+                "Tidak berdampak",
+                "Strategi pemasaran efektif"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Syarat dan biaya wajib dijelaskan secara transparan.",
+            "topic": "Cross Selling",
+            "subtopic": "Transparency",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "misselling",
+                "transparency",
+                "biaya"
+            ]
+        },
+        {
+            "id": 66,
+            "question": "Nasabah meminta customer service menyebutkan CVV kartu debit untuk transaksi online.",
+            "options": [
+                "Petugas boleh membantu",
+                "CVV termasuk data rahasia dan tidak boleh diinformasikan",
+                "CVV dapat diberikan jika nasabah lupa",
+                "CVV disimpan di cabang"
+            ],
+            "correctAnswer": 1,
+            "explanation": "CVV merupakan data sensitif kartu.",
+            "topic": "Card Security",
+            "subtopic": "CVV",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "CVV",
+                "data sensitif",
+                "security"
+            ]
+        },
+        {
+            "id": 67,
+            "question": "Petugas bank memberikan estimasi waktu penyelesaian komplain yang tidak realistis.",
+            "options": [
+                "Bagian service recovery",
+                "Berpotensi menurunkan trust nasabah",
+                "Meningkatkan service level",
+                "Tidak berdampak"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Estimasi layanan harus realistis dan sesuai SLA.",
+            "topic": "Complaint Handling",
+            "subtopic": "SLA Communication",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "SLA",
+                "trust",
+                "service communication"
+            ]
+        },
+        {
+            "id": 68,
+            "question": "Pegawai mencetak data nasabah lalu meninggalkannya di area publik cabang.",
+            "options": [
+                "Tidak masalah selama sebentar",
+                "Berisiko data exposure dan confidentiality breach",
+                "Bagian workflow normal",
+                "Dokumen aman karena di cabang"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dokumen nasabah harus dijaga keamanannya.",
+            "topic": "Physical Security",
+            "subtopic": "Document Exposure",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "confidentiality",
+                "document exposure",
+                "security"
+            ]
+        },
+        {
+            "id": 69,
+            "question": "Nasabah meminta informasi produk syariah dibanding konvensional.",
+            "options": [
+                "Petugas boleh menjelaskan secara subjektif",
+                "Petugas harus memberikan informasi objektif sesuai karakteristik produk",
+                "Produk harus dipaksakan sesuai target",
+                "Perbedaan tidak perlu dijelaskan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi produk harus objektif dan sesuai ketentuan.",
+            "topic": "Product Knowledge",
+            "subtopic": "Produk Syariah",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "objektif",
+                "produk syariah",
+                "informasi produk"
+            ]
+        },
+        {
+            "id": 70,
+            "question": "Tujuan utama penerapan prinsip confidentiality dalam layanan informasi perbankan adalah...",
+            "options": [
+                "Mengurangi biaya operasional",
+                "Melindungi data dan hak nasabah dari akses tidak sah",
+                "Meningkatkan penjualan produk",
+                "Mengurangi kebutuhan verifikasi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Confidentiality melindungi informasi nasabah dari penyalahgunaan.",
+            "topic": "Confidentiality",
+            "subtopic": "Perlindungan Data",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        }
+    ]
+}
