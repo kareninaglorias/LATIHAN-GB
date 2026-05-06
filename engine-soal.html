@@ -794,98 +794,125 @@ function processAnswer(){
     evaluateReasoning(question,reasoning);
 
   saveAnswer(
-    question,
-    isCorrect,
-    reasoning,
-    reasoningScore
-  );
+  question,
+  isCorrect,
+  reasoning,
+  reasoningResult
+);
 
-  updateScores(
-    question,
-    isCorrect,
-    reasoningScore
-  );
+updateScores(
+  question,
+  isCorrect
+);
 
-  showFeedback(
-    question,
-    isCorrect,
-    reasoningScore
-  );
+showFeedback(
+  question,
+  isCorrect,
+  reasoningResult
+);
 
 }
 
 
 
-function evaluateReasoning(question,reasoning){
+function evaluateReasoning(question, reasoning){
 
   if(!question.requiresReasoning){
 
-    return 0;
+    return {
+      status: null,
+      feedback: null
+    };
+
   }
 
-
   const cleaned =
-    reasoning.trim();
+    reasoning
+      .trim()
+      .toLowerCase();
 
 
-  // minimal 5 kata
   const wordCount =
     cleaned.split(/\s+/).length;
 
   if(wordCount < 5){
 
-    return 0;
+    return {
+      status: 'not_suitable',
+      label: 'Alasan Tidak Sesuai',
+      feedback: 'Alasan terlalu singkat.'
+    };
+
   }
 
 
-  // harus membentuk kalimat
-  const hasSentenceStructure =
-    /[a-zA-Z]/.test(cleaned) &&
-    cleaned.includes(' ');
+  const semanticGroups =
+    question.semanticKeywords || [];
 
-  if(!hasSentenceStructure){
+  if(!semanticGroups.length){
 
-    return 0;
+    return {
+      status: 'needs_improvement',
+      label: 'Alasan Butuh Diimprove',
+      feedback: 'Belum ada semanticKeywords.'
+    };
+
   }
 
+  let matchedGroups = 0;
 
-  const keywords =
-    question.reasoningKeywords || [];
+  semanticGroups.forEach(group=>{
 
+    const matched =
+      group.some(keyword =>
+        cleaned.includes(
+          keyword.toLowerCase()
+        )
+      );
 
-  if(!keywords.length){
+    if(matched){
 
-    return cleaned.length > 100
-      ? 0.35
-      : 0.2;
-  }
+      matchedGroups++;
 
-
-  let matched = 0;
-
-  keywords.forEach(keyword=>{
-
-    if(
-      cleaned
-        .toLowerCase()
-        .includes(keyword.toLowerCase())
-    ){
-
-      matched++;
     }
 
   });
 
-
   const ratio =
-    matched / keywords.length;
+    matchedGroups / semanticGroups.length;
 
 
-  if(ratio >= 0.8) return 0.5;
-  if(ratio >= 0.5) return 0.35;
-  if(ratio >= 0.3) return 0.2;
+  if(ratio >= 0.75){
 
-  return 0.1;
+    return {
+      status: 'suitable',
+      label: 'Alasan Sesuai',
+      feedback:
+        'Penjelasan sudah mencerminkan inti jawaban yang diharapkan.'
+    };
+
+  }
+
+
+  if(ratio >= 0.4){
+
+    return {
+      status: 'needs_improvement',
+      label: 'Alasan Butuh Diimprove',
+      feedback:
+        question.idealReasoning ||
+        'Penjelasan sebagian sudah sesuai, namun belum lengkap.'
+    };
+
+  }
+
+  return {
+    status: 'not_suitable',
+    label: 'Alasan Tidak Sesuai',
+    feedback:
+      question.idealReasoning ||
+      'Penjelasan belum sesuai dengan inti kasus.'
+  };
 
 }
 
@@ -895,7 +922,7 @@ function saveAnswer(
   question,
   isCorrect,
   reasoning,
-  reasoningScore
+  reasoningResult
 ){
 
   state.answers.push({
@@ -918,8 +945,7 @@ function saveAnswer(
 
 function updateScores(
   question,
-  isCorrect,
-  reasoningScore
+  isCorrect
 ){
 
   if(isCorrect){
@@ -927,27 +953,26 @@ function updateScores(
     state.scores.correctAnswers += 1;
   }
 
-
   if(question.requiresReasoning){
 
-    let point = 0;
+    // PART B
+    // benar = full
+    // salah = 0
 
     if(isCorrect){
 
-      point += 0.5;
+      state.scores.partB += 1;
+
     }
 
-    point += reasoningScore;
-
-    state.scores.partB += point;
-
-    state.scores.reasoningTotal += reasoningScore;
-
   }else{
+
+    // PART A
 
     if(isCorrect){
 
       state.scores.partA += 1;
+
     }
 
   }
@@ -959,7 +984,7 @@ function updateScores(
 function showFeedback(
   question,
   isCorrect,
-  reasoningScore
+  reasoningResult
 ){
 
   el.feedbackContainer.classList.remove('hidden');
@@ -977,8 +1002,50 @@ function showFeedback(
 
     el.reasoningFeedback.classList.remove('hidden');
 
-    el.reasoningFeedback.innerHTML =
-      `<strong>Reasoning Score:</strong> ${reasoningScore.toFixed(2)} / 0.5`;
+    let html = '';
+
+    if(isCorrect){
+
+      html += `
+        <div style="
+          font-weight:700;
+          margin-bottom:12px;
+        ">
+          ${reasoningResult.label}
+        </div>
+      `;
+
+      if(
+        reasoningResult.status !== 'suitable'
+      ){
+
+        html += `
+          <div>
+            <strong>Alasan ideal:</strong><br><br>
+            ${question.idealReasoning || '-'}
+          </div>
+        `;
+      }
+
+    }else{
+
+      html += `
+        <div style="
+          color:#991b1b;
+          font-weight:700;
+          margin-bottom:12px;
+        ">
+          Jawaban Salah — Nilai 0
+        </div>
+
+        <div>
+          <strong>Alasan ideal:</strong><br><br>
+          ${question.idealReasoning || '-'}
+        </div>
+      `;
+    }
+
+    el.reasoningFeedback.innerHTML = html;
 
   }
 
