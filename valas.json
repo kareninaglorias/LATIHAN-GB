@@ -1,0 +1,1282 @@
+{
+    "quizTitle": "Memproses Valuta Asing",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Tujuan utama transaksi valuta asing dalam aktivitas perbankan adalah...",
+            "options": [
+                "mengendalikan inflasi domestik",
+                "memfasilitasi pertukaran mata uang lintas negara",
+                "menghapus risiko perdagangan internasional",
+                "menentukan suku bunga kredit internasional"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Transaksi valas digunakan untuk kebutuhan pertukaran mata uang lintas negara seperti impor, ekspor, transfer dan investasi.",
+            "topic": "Dasar Valas",
+            "subtopic": "Pengertian",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 2,
+            "question": "Karakteristik transaksi valuta asing yang benar adalah...",
+            "options": [
+                "selalu dilakukan melalui bursa",
+                "menggunakan kurs tertentu dan tunduk regulasi",
+                "hanya menggunakan USD",
+                "settlement wajib hari yang sama"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Transaksi valas menggunakan kurs tertentu dan harus sesuai regulasi BI/OJK serta SOP bank.",
+            "topic": "Dasar Valas",
+            "subtopic": "Karakteristik",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 3,
+            "question": "Nasabah menjual USD kepada bank. Dari sudut pandang bank transaksi tersebut adalah...",
+            "options": [
+                "bank membeli USD",
+                "bank menjual USD",
+                "bank melakukan FX swap",
+                "bank melakukan hedging"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Jika nasabah menjual USD maka bank membeli USD.",
+            "topic": "Kurs",
+            "subtopic": "Buy Sell",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 4,
+            "question": "Dalam kuotasi USD/IDR 17.250 / 17.260, angka 17.250 merupakan...",
+            "options": [
+                "kurs jual bank",
+                "spread kurs",
+                "kurs beli bank",
+                "forward point"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Kurs pertama merupakan kurs beli bank.",
+            "topic": "Kuotasi",
+            "subtopic": "Kurs",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 5,
+            "question": "Spread pada transaksi valuta asing terutama menjadi sumber...",
+            "options": [
+                "keuntungan bank",
+                "risiko settlement",
+                "cadangan wajib minimum",
+                "biaya pajak"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Spread kurs menjadi salah satu sumber keuntungan bank.",
+            "topic": "Kuotasi",
+            "subtopic": "Spread",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 6,
+            "question": "Settlement transaksi FX Today dilakukan pada...",
+            "options": [
+                "hari yang sama",
+                "1 hari kerja",
+                "2 hari kerja",
+                "lebih dari 2 hari kerja"
+            ],
+            "correctAnswer": 0,
+            "explanation": "FX Today diselesaikan pada hari yang sama.",
+            "topic": "Valuta",
+            "subtopic": "FX Today",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 7,
+            "question": "Settlement FX Tom dilakukan...",
+            "options": [
+                "2 hari kerja setelah transaksi",
+                "lebih dari 2 hari kerja",
+                "1 hari kerja setelah transaksi",
+                "di hari yang sama"
+            ],
+            "correctAnswer": 2,
+            "explanation": "FX Tomorrow diselesaikan satu hari kerja setelah tanggal transaksi.",
+            "topic": "Valuta",
+            "subtopic": "FX Tom",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 8,
+            "question": "FX Spot memiliki settlement...",
+            "options": [
+                "T+0",
+                "T+1",
+                "T+2",
+                "floating"
+            ],
+            "correctAnswer": 2,
+            "explanation": "FX Spot settlement dilakukan dua hari kerja setelah transaksi.",
+            "topic": "Valuta",
+            "subtopic": "FX Spot",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 9,
+            "question": "FX Forward terutama digunakan untuk...",
+            "options": [
+                "transaksi tunai kecil",
+                "lindung nilai fluktuasi kurs",
+                "penggantian SWIFT",
+                "cash pooling"
+            ],
+            "correctAnswer": 1,
+            "explanation": "FX Forward digunakan untuk hedging risiko perubahan kurs.",
+            "topic": "Hedging",
+            "subtopic": "Forward",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 10,
+            "question": "Yang termasuk hedging product adalah...",
+            "options": [
+                "FX Today dan FX Spot",
+                "FX Forward dan FX Swap",
+                "Bank Notes dan FX Tom",
+                "TT dan RTGS"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Forward dan Swap merupakan produk lindung nilai.",
+            "topic": "Hedging",
+            "subtopic": "Produk",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 11,
+            "question": "Perbedaan utama Devisa Umum dan Bank Notes adalah...",
+            "options": [
+                "DU non fisik sedangkan BN fisik",
+                "BN hanya USD",
+                "DU hanya transaksi spot",
+                "BN hanya corporate"
+            ],
+            "correctAnswer": 0,
+            "explanation": "DU bersifat giral/nonfisik sedangkan BN berbentuk kartal/fisik.",
+            "topic": "Produk Valas",
+            "subtopic": "DU vs BN",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 12,
+            "question": "Jenis transaksi yang tidak dapat dilakukan pada Bank Notes adalah...",
+            "options": [
+                "Today",
+                "Tom",
+                "Spot",
+                "Cash transaction"
+            ],
+            "correctAnswer": 2,
+            "explanation": "BN hanya dapat dilakukan untuk valuta Today dan Tom.",
+            "topic": "Produk Valas",
+            "subtopic": "Bank Notes",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 13,
+            "question": "Nasabah melakukan pembelian valas fisik USD 20.000. Kurs yang kemungkinan digunakan adalah...",
+            "options": [
+                "kurs treasury overnight",
+                "kurs counter wajib",
+                "kurs special",
+                "kurs BI tengah"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Nominal besar biasanya menggunakan kurs special.",
+            "topic": "Kurs",
+            "subtopic": "Special Rate",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 14,
+            "question": "Petugas cabang memproses transaksi valas besar tanpa dealing room. Risiko utama adalah...",
+            "options": [
+                "risiko pasar",
+                "risiko operasional dan kepatuhan",
+                "risiko sovereign",
+                "risiko legal negara"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Deal kurs harus melalui pejabat/dealing room yang berwenang.",
+            "topic": "Operasional",
+            "subtopic": "Deal Kurs",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 15,
+            "question": "Dalam transaksi valas melalui cabang, pihak yang memberikan kurs adalah...",
+            "options": [
+                "teller",
+                "customer service",
+                "treasury/dealing room",
+                "auditor"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Treasury/dealing room memberikan deal kurs kepada cabang.",
+            "topic": "Operasional",
+            "subtopic": "Treasury",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 16,
+            "question": "Sebelum meminta kurs ke treasury, petugas cabang wajib memastikan...",
+            "options": [
+                "saldo dan kelengkapan dokumen",
+                "audit tahunan selesai",
+                "spread kurs tetap",
+                "nasabah prioritas"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Cabang memastikan authorize person, dana, dan dokumen lengkap.",
+            "topic": "Operasional",
+            "subtopic": "Validasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 17,
+            "question": "Importir membeli USD 10.000 dengan kurs 17.300/17.315. Dana yang dibayarkan adalah...",
+            "options": [
+                "Rp173.000.000",
+                "Rp173.150.000",
+                "Rp173.300.000",
+                "Rp173.315.000"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nasabah membeli USD menggunakan kurs jual bank 17.315.",
+            "topic": "Perhitungan",
+            "subtopic": "Kurs Jual",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 18,
+            "question": "Eksportir menjual USD 25.000 dengan kurs 17.220/17.235. Dana rupiah diterima sebesar...",
+            "options": [
+                "Rp430.500.000",
+                "Rp430.875.000",
+                "Rp430.750.000",
+                "Rp431.000.000"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Nasabah menjual USD sehingga menggunakan kurs beli bank 17.220.",
+            "topic": "Perhitungan",
+            "subtopic": "Kurs Beli",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 19,
+            "question": "Jika permintaan USD meningkat tajam maka secara umum...",
+            "options": [
+                "USD melemah",
+                "USD menguat",
+                "spread hilang",
+                "IDR otomatis terapresiasi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Peningkatan permintaan menyebabkan mata uang terapresiasi.",
+            "topic": "Fluktuasi Kurs",
+            "subtopic": "Permintaan Penawaran",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 20,
+            "question": "Negara dengan inflasi tinggi cenderung mengalami...",
+            "options": [
+                "apresiasi mata uang",
+                "spread negatif",
+                "depresiasi mata uang",
+                "surplus kurs"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Inflasi tinggi menurunkan daya beli mata uang.",
+            "topic": "Fluktuasi Kurs",
+            "subtopic": "Inflasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 21,
+            "question": "Kenaikan suku bunga domestik biasanya menyebabkan...",
+            "options": [
+                "mata uang lokal melemah",
+                "permintaan mata uang lokal meningkat",
+                "spread kurs hilang",
+                "forward dilarang"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Suku bunga tinggi menarik investor dan meningkatkan permintaan mata uang lokal.",
+            "topic": "Fluktuasi Kurs",
+            "subtopic": "Suku Bunga",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 22,
+            "question": "Intervensi bank sentral di pasar valas bertujuan untuk...",
+            "options": [
+                "menghapus spread",
+                "menjaga stabilitas nilai tukar",
+                "menentukan laba treasury",
+                "mengganti kurs pasar"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bank sentral melakukan intervensi untuk menjaga stabilitas kurs.",
+            "topic": "Fluktuasi Kurs",
+            "subtopic": "Intervensi BI",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 23,
+            "question": "Transaksi hedging tanpa underlying document berpotensi menimbulkan...",
+            "options": [
+                "risiko likuiditas",
+                "risiko kepatuhan",
+                "risiko spread",
+                "risiko sovereign"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Underlying wajib diverifikasi untuk kepatuhan regulasi.",
+            "topic": "Compliance",
+            "subtopic": "Underlying",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 24,
+            "question": "Invoice fiktif dalam transaksi forward termasuk risiko...",
+            "options": [
+                "risiko pasar",
+                "risiko settlement",
+                "risiko dokumen",
+                "risiko spread"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Dokumen palsu merupakan risiko dokumen dan fraud.",
+            "topic": "Risiko",
+            "subtopic": "Dokumen",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 25,
+            "question": "Pada FX Spot, settlement umumnya dilakukan...",
+            "options": [
+                "hari yang sama",
+                "1 hari kerja",
+                "2 hari kerja",
+                "3 hari kerja"
+            ],
+            "correctAnswer": 2,
+            "explanation": "FX Spot menggunakan settlement T+2.",
+            "topic": "Settlement",
+            "subtopic": "Spot",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 26,
+            "question": "Jika transaksi FX Tom dilakukan hari Senin tanpa hari libur, settlement terjadi pada...",
+            "options": [
+                "Senin",
+                "Selasa",
+                "Rabu",
+                "Kamis"
+            ],
+            "correctAnswer": 1,
+            "explanation": "FX Tom settlement dilakukan satu hari kerja berikutnya.",
+            "topic": "Settlement",
+            "subtopic": "Tom",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 27,
+            "question": "Forward transaction memiliki settlement...",
+            "options": [
+                "kurang dari T+2",
+                "tepat T+2",
+                "lebih dari dua hari kerja",
+                "selalu 1 bulan"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Forward settlement dilakukan lebih dari dua hari kerja.",
+            "topic": "Settlement",
+            "subtopic": "Forward",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 28,
+            "question": "Pada FX Forward, kurs ditentukan pada saat...",
+            "options": [
+                "settlement",
+                "deal done",
+                "audit",
+                "jatuh tempo invoice"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Forward rate ditentukan pada saat transaksi/deal done.",
+            "topic": "Forward",
+            "subtopic": "Rate",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 29,
+            "question": "Underlying transaksi forward harus dipastikan...",
+            "options": [
+                "tenornya tidak melebihi underlying",
+                "menggunakan USD",
+                "nominalnya kecil",
+                "kursnya tetap"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Tenor forward tidak boleh melampaui jatuh tempo underlying.",
+            "topic": "Forward",
+            "subtopic": "Underlying",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 30,
+            "question": "Pembukuan transaksi valas cabang harus memperhatikan...",
+            "options": [
+                "kode dealer",
+                "warna bank notes",
+                "spread tetap",
+                "jenis kartu ATM"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Kode dealer/reference menjadi bagian kontrol transaksi.",
+            "topic": "Operasional",
+            "subtopic": "Pembukuan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 31,
+            "question": "Gagal memastikan authorize person perusahaan berpotensi menimbulkan...",
+            "options": [
+                "risiko legal dan fraud",
+                "risiko spread",
+                "risiko pasar",
+                "risiko likuiditas"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Transaksi dapat dilakukan pihak yang tidak berwenang.",
+            "topic": "Risiko",
+            "subtopic": "Fraud",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 32,
+            "question": "Segregation of duties bertujuan utama untuk mitigasi...",
+            "options": [
+                "risiko suku bunga",
+                "risiko fraud",
+                "risiko spread",
+                "risiko pasar"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Pemisahan fungsi mengurangi peluang kecurangan.",
+            "topic": "Kontrol Internal",
+            "subtopic": "Fraud",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 33,
+            "question": "Maker-checker control paling relevan untuk mencegah...",
+            "options": [
+                "volatilitas kurs",
+                "kesalahan input transaksi",
+                "depresiasi mata uang",
+                "kenaikan inflasi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Maker checker mengurangi human error dan fraud.",
+            "topic": "Kontrol Internal",
+            "subtopic": "Maker Checker",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 34,
+            "question": "Kesalahan input SWIFT yang menyebabkan transfer tertunda termasuk...",
+            "options": [
+                "risiko settlement",
+                "risiko spread",
+                "risiko sovereign",
+                "risiko derivatif"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Kesalahan data dapat menyebabkan settlement gagal/delay.",
+            "topic": "Risiko",
+            "subtopic": "Settlement",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 35,
+            "question": "Dalam pembelian Bank Notes, petugas wajib memeriksa seluruh berikut kecuali...",
+            "options": [
+                "keaslian",
+                "keutuhan fisik",
+                "warna favorit nasabah",
+                "tahun emisi"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Warna favorit nasabah bukan bagian verifikasi BN.",
+            "topic": "Bank Notes",
+            "subtopic": "Validasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 36,
+            "question": "Bank Notes dalam bentuk coin umumnya...",
+            "options": [
+                "dilarang dibeli secara umum",
+                "wajib diterima",
+                "digunakan settlement forward",
+                "menjadi underlying"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Umumnya bank tidak membeli BN dalam bentuk coin.",
+            "topic": "Bank Notes",
+            "subtopic": "Coin",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 37,
+            "question": "Penyerahan Bank Notes kepada nasabah dilakukan setelah...",
+            "options": [
+                "approval auditor",
+                "dana efektif diterima bank",
+                "spread berubah",
+                "closing treasury"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dana pembelian harus efektif diterima terlebih dahulu.",
+            "topic": "Bank Notes",
+            "subtopic": "Settlement",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 38,
+            "question": "Pecahan valas yang marketable berarti...",
+            "options": [
+                "mudah diterima pasar",
+                "nominal terbesar",
+                "selalu baru",
+                "khusus treasury"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Marketable berarti mudah diperdagangkan dan diterima.",
+            "topic": "Bank Notes",
+            "subtopic": "Denominasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 39,
+            "question": "Menerima USD lusuh dan robek tanpa verifikasi memicu...",
+            "options": [
+                "risiko spread",
+                "risiko operasional",
+                "risiko sovereign",
+                "risiko bunga"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Kelalaian verifikasi merupakan risiko operasional.",
+            "topic": "Risiko",
+            "subtopic": "Operasional",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 40,
+            "question": "Eksportir yang khawatir USD melemah sebaiknya melakukan...",
+            "options": [
+                "Forward Buy USD/IDR",
+                "Forward Sell USD/IDR",
+                "FX Today",
+                "Swap Buy/Sell"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Eksportir melakukan forward sell untuk mengunci nilai tukar.",
+            "topic": "Forward",
+            "subtopic": "Eksportir",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 41,
+            "question": "Importir yang khawatir USD menguat sebaiknya melakukan...",
+            "options": [
+                "FX Today",
+                "Forward Buy USD/IDR",
+                "Forward Sell USD/IDR",
+                "Swap Sell/Buy"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Importir melakukan forward buy untuk melindungi kenaikan kurs.",
+            "topic": "Forward",
+            "subtopic": "Importir",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 42,
+            "question": "Pada settlement FX Forward Buy USD/IDR bank akan...",
+            "options": [
+                "mendebet USD dan kredit IDR",
+                "mendebet IDR dan kredit USD",
+                "mengkredit keduanya",
+                "menutup posisi treasury"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nasabah membeli USD dengan membayar IDR.",
+            "topic": "Forward",
+            "subtopic": "Settlement",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 43,
+            "question": "Surat konfirmasi transaksi FX Forward berfungsi sebagai...",
+            "options": [
+                "dasar settlement transaksi",
+                "pengganti invoice",
+                "bukti audit eksternal",
+                "laporan pajak"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Konfirmasi transaksi menjadi dasar settlement di jatuh tempo.",
+            "topic": "Forward",
+            "subtopic": "Konfirmasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 44,
+            "question": "Kewajiban jaminan tunai pada hedging bertujuan untuk...",
+            "options": [
+                "meningkatkan spread",
+                "mengurangi risiko gagal settlement",
+                "mengurangi pajak",
+                "menghapus underlying"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Margin/jaminan membantu mitigasi risiko settlement.",
+            "topic": "Hedging",
+            "subtopic": "Margin",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 45,
+            "question": "Dokumen underlying untuk pembayaran utang valas adalah...",
+            "options": [
+                "copy SIUP",
+                "copy perjanjian utang",
+                "rekening koran",
+                "slip setoran"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Underlying pembayaran utang berupa copy perjanjian utang.",
+            "topic": "Underlying",
+            "subtopic": "Utang Valas",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 46,
+            "question": "Pembelian forward untuk kegiatan impor memerlukan dokumen...",
+            "options": [
+                "PIB atau invoice",
+                "slip ATM",
+                "surat rekomendasi vendor",
+                "kartu keluarga"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Impor membutuhkan underlying seperti PIB, LC atau invoice.",
+            "topic": "Underlying",
+            "subtopic": "Impor",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 47,
+            "question": "FX Swap merupakan kombinasi transaksi...",
+            "options": [
+                "spot dan deposito",
+                "today/tom/spot dengan forward",
+                "transfer dan cash",
+                "RTGS dan TT"
+            ],
+            "correctAnswer": 1,
+            "explanation": "FX Swap menggabungkan transaksi near leg dan far leg.",
+            "topic": "Swap",
+            "subtopic": "Konsep",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 48,
+            "question": "Karakteristik utama FX Swap adalah...",
+            "options": [
+                "tidak ada transaksi balik",
+                "posisi valas permanen",
+                "memiliki near leg dan far leg",
+                "settlement selalu hari yang sama"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Swap memiliki dua tanggal settlement: near leg dan far leg.",
+            "topic": "Swap",
+            "subtopic": "Mekanisme",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 49,
+            "question": "Perusahaan memiliki loan USD namun pendapatan IDR. Solusi swap yang tepat adalah...",
+            "options": [
+                "Swap Buy/Sell USD/IDR",
+                "Swap Sell/Buy USD/IDR",
+                "FX Today",
+                "Forward Sell"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Loan USD dengan pendapatan IDR cocok menggunakan swap sell/buy.",
+            "topic": "Swap",
+            "subtopic": "Solusi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 50,
+            "question": "Memproses transaksi valas besar tanpa KYC memadai berisiko tinggi terhadap...",
+            "options": [
+                "risiko spread",
+                "risiko AML",
+                "risiko bunga",
+                "risiko inventory"
+            ],
+            "correctAnswer": 1,
+            "explanation": "KYC lemah meningkatkan risiko pencucian uang.",
+            "topic": "AML",
+            "subtopic": "KYC",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 51,
+            "question": "PT Samudera Ekspor akan menerima USD 2 juta dalam 2 bulan dan khawatir USD melemah. Tindakan paling tepat adalah...",
+            "options": [
+                "FX Spot Buy USD",
+                "FX Forward Sell USD/IDR",
+                "FX Swap Buy/Sell",
+                "tidak perlu hedging"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Eksportir perlu melindungi risiko penurunan kurs USD.",
+            "topic": "Case Study",
+            "subtopic": "Eksportir",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "eksportir",
+                "USD melemah",
+                "forward sell",
+                "hedging"
+            ]
+        },
+        {
+            "id": 52,
+            "question": "Importir memiliki kewajiban USD 500 ribu 90 hari lagi dan pendapatan seluruhnya IDR. Instrumen terbaik adalah...",
+            "options": [
+                "FX Today",
+                "FX Spot",
+                "FX Forward Buy USD/IDR",
+                "jual USD spot"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Forward buy digunakan untuk mengunci kurs pembelian USD di masa depan.",
+            "topic": "Case Study",
+            "subtopic": "Importir",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "importir",
+                "USD naik",
+                "forward buy",
+                "lock kurs"
+            ]
+        },
+        {
+            "id": 53,
+            "question": "Nasabah corporate ingin hedging tetapi underlying invoice belum tersedia. Sikap petugas yang tepat adalah...",
+            "options": [
+                "tetap proses transaksi",
+                "gunakan nominal perkiraan",
+                "menunda sampai dokumen valid tersedia",
+                "gunakan spot saja"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Underlying wajib diverifikasi sebelum transaksi hedging diproses.",
+            "topic": "Case Study",
+            "subtopic": "Compliance",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "underlying",
+                "kepatuhan",
+                "verifikasi",
+                "dokumen"
+            ]
+        },
+        {
+            "id": 54,
+            "question": "Invoice impor berbeda nominal dengan permohonan forward. Tindakan terbaik adalah...",
+            "options": [
+                "tetap proses",
+                "klarifikasi dan verifikasi ulang",
+                "gunakan nominal lebih besar",
+                "abaikan selisih"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Ketidaksesuaian dokumen harus diverifikasi untuk mencegah fraud.",
+            "topic": "Case Study",
+            "subtopic": "Dokumen",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "verifikasi",
+                "fraud",
+                "dokumen",
+                "mismatch"
+            ]
+        },
+        {
+            "id": 55,
+            "question": "Nasabah membeli USD cash dalam jumlah besar dan tampak gugup saat ditanya tujuan transaksi. Risiko utama adalah...",
+            "options": [
+                "risiko pasar",
+                "risiko AML",
+                "risiko spread",
+                "risiko bunga"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Transaksi mencurigakan perlu pengawasan AML/KYC.",
+            "topic": "Case Study",
+            "subtopic": "AML",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "AML",
+                "KYC",
+                "mencurigakan",
+                "fraud"
+            ]
+        },
+        {
+            "id": 56,
+            "question": "PT Energi Nusantara memiliki pinjaman USD tetapi operasional dalam IDR. Solusi paling tepat adalah...",
+            "options": [
+                "FX Spot",
+                "FX Swap Sell/Buy USD/IDR",
+                "FX Today",
+                "Bank Notes"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Swap membantu mitigasi risiko kurs sementara.",
+            "topic": "Case Study",
+            "subtopic": "Swap",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "swap",
+                "loan USD",
+                "temporary exchange",
+                "far leg"
+            ]
+        },
+        {
+            "id": 57,
+            "question": "Petugas salah input mata uang EUR menjadi USD pada outgoing transfer. Jenis risiko adalah...",
+            "options": [
+                "risiko operasional",
+                "risiko spread",
+                "risiko pasar",
+                "risiko sovereign"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Human error termasuk risiko operasional.",
+            "topic": "Case Study",
+            "subtopic": "Human Error",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "operasional",
+                "human error",
+                "maker checker"
+            ]
+        },
+        {
+            "id": 58,
+            "question": "Bank mengalami keterbatasan stok USD fisik saat banyak nasabah menarik cash USD. Risiko utama adalah...",
+            "options": [
+                "risiko likuiditas",
+                "risiko spread",
+                "risiko fraud",
+                "risiko suku bunga"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Keterbatasan ketersediaan valas merupakan risiko likuiditas.",
+            "topic": "Case Study",
+            "subtopic": "Likuiditas",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "likuiditas",
+                "cash USD",
+                "ketersediaan"
+            ]
+        },
+        {
+            "id": 59,
+            "question": "Nasabah meminta kurs special tetapi dana transaksi belum tersedia. Tindakan terbaik adalah...",
+            "options": [
+                "langsung deal",
+                "gunakan kurs teller",
+                "pastikan availability dana terlebih dahulu",
+                "tunda tanpa penjelasan"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Dana harus tersedia untuk mengurangi settlement risk.",
+            "topic": "Case Study",
+            "subtopic": "Special Rate",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "availability dana",
+                "settlement",
+                "SOP"
+            ]
+        },
+        {
+            "id": 60,
+            "question": "PT ekspor rutin menerima USD dan seluruh biaya operasional dalam IDR. Instrumen paling relevan adalah...",
+            "options": [
+                "FX Swap",
+                "FX Forward Sell",
+                "FX Today",
+                "Bank Notes"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Forward sell membantu mengamankan nilai tukar hasil ekspor.",
+            "topic": "Case Study",
+            "subtopic": "Forward Sell",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "eksportir",
+                "kurs turun",
+                "forward sell"
+            ]
+        },
+        {
+            "id": 61,
+            "question": "Nasabah membeli USD untuk biaya sekolah luar negeri anaknya. Dokumen underlying paling sesuai adalah...",
+            "options": [
+                "PIB",
+                "perkiraan kebutuhan biaya pendidikan",
+                "akta perusahaan",
+                "rekening vendor"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Pembayaran pendidikan menggunakan estimasi kebutuhan biaya.",
+            "topic": "Case Study",
+            "subtopic": "Underlying Pendidikan",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "pendidikan",
+                "underlying",
+                "biaya"
+            ]
+        },
+        {
+            "id": 62,
+            "question": "Petugas menemukan Bank Notes mencurigakan tetapi nasabah mendesak transaksi diproses. Tindakan terbaik adalah...",
+            "options": [
+                "tetap proses",
+                "lakukan validasi keaslian",
+                "gunakan kurs lebih rendah",
+                "langsung sita uang"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Keaslian BN wajib diverifikasi.",
+            "topic": "Case Study",
+            "subtopic": "Validasi BN",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "keaslian",
+                "validator",
+                "bank notes"
+            ]
+        },
+        {
+            "id": 63,
+            "question": "Perusahaan ingin hedging 6 bulan tetapi underlying hanya berlaku 3 bulan. Keputusan yang tepat adalah...",
+            "options": [
+                "tetap proses 6 bulan",
+                "tenor menyesuaikan underlying",
+                "gunakan spot",
+                "tanpa underlying"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tenor forward tidak boleh melebihi underlying.",
+            "topic": "Case Study",
+            "subtopic": "Tenor",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "tenor",
+                "underlying",
+                "kepatuhan"
+            ]
+        },
+        {
+            "id": 64,
+            "question": "Cabang salah menginformasikan kurs ke nasabah sehingga terjadi dispute. Risiko tambahan paling mungkin adalah...",
+            "options": [
+                "risiko reputasi",
+                "risiko spread",
+                "risiko sovereign",
+                "risiko pajak"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Kesalahan informasi dapat menurunkan kepercayaan nasabah.",
+            "topic": "Case Study",
+            "subtopic": "Reputasi",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "reputasi",
+                "kepercayaan",
+                "dispute"
+            ]
+        },
+        {
+            "id": 65,
+            "question": "Nasabah ingin forward hanya untuk spekulasi keuntungan kurs tanpa underlying. Sikap bank adalah...",
+            "options": [
+                "tetap proses",
+                "tolak transaksi",
+                "gunakan nominal kecil",
+                "ubah menjadi swap"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Forward memerlukan underlying transaksi yang valid.",
+            "topic": "Case Study",
+            "subtopic": "Spekulasi",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "underlying",
+                "spekulasi",
+                "kepatuhan"
+            ]
+        },
+        {
+            "id": 66,
+            "question": "Perusahaan memiliki pendapatan USD dan kewajiban USD dalam jumlah relatif sama. Strategi terbaik adalah...",
+            "options": [
+                "natural hedging",
+                "forward penuh",
+                "swap seluruh nominal",
+                "spot harian"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Natural hedging memanfaatkan arus kas valas yang saling menutupi.",
+            "topic": "Case Study",
+            "subtopic": "Natural Hedging",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "natural hedging",
+                "USD",
+                "arus kas"
+            ]
+        },
+        {
+            "id": 67,
+            "question": "Importir membeli USD lalu kurs turun dan nasabah komplain rugi. Respons terbaik bank adalah...",
+            "options": [
+                "refund selisih kurs",
+                "jelaskan risiko fluktuasi kurs",
+                "ubah kurs transaksi",
+                "salahkan treasury"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Fluktuasi kurs merupakan risiko pasar yang melekat.",
+            "topic": "Case Study",
+            "subtopic": "Market Risk",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "fluktuasi kurs",
+                "market risk",
+                "edukasi"
+            ]
+        },
+        {
+            "id": 68,
+            "question": "Transaksi valas dipecah tepat di bawah threshold monitoring. Indikasi utama adalah...",
+            "options": [
+                "structuring AML",
+                "hedging biasa",
+                "spread trading",
+                "cash pooling"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Pemecahan transaksi merupakan red flag AML.",
+            "topic": "Case Study",
+            "subtopic": "AML Structuring",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "AML",
+                "structuring",
+                "smurfing"
+            ]
+        },
+        {
+            "id": 69,
+            "question": "Pada hari settlement FX Forward Buy dana IDR nasabah tidak cukup. Risiko utama bagi bank adalah...",
+            "options": [
+                "risiko spread",
+                "risiko settlement",
+                "risiko sovereign",
+                "risiko inventory"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Kegagalan penyediaan dana memicu settlement risk.",
+            "topic": "Case Study",
+            "subtopic": "Settlement Risk",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "settlement",
+                "dana tidak cukup",
+                "forward"
+            ]
+        },
+        {
+            "id": 70,
+            "question": "PT ABD mengimpor alat berat USD 2 juta dan memprediksi Rupiah melemah ke 18.500 saat jatuh tempo. Instrumen paling efektif adalah...",
+            "options": [
+                "FX Spot saat jatuh tempo",
+                "FX Forward Buy USD/IDR",
+                "menunggu intervensi BI",
+                "jual USD sekarang"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Forward buy memberikan kepastian biaya impor di masa depan.",
+            "topic": "Case Study",
+            "subtopic": "Import Hedging",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "forward buy",
+                "lock rate",
+                "importir",
+                "kurs melemah"
+            ]
+        }
+    ]
+}
