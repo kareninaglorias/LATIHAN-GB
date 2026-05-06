@@ -1,0 +1,3851 @@
+[
+  {
+    "{": "\"bank_name\": \"BRI\","
+  },
+  {
+    "{": "\"module\": \"Memproses Transaksi Keuangan Tunai dan Non Tunai\","
+  },
+  {
+    "{": "\"language\": \"id\","
+  },
+  {
+    "{": "\"difficulty\": \"hard\","
+  },
+  {
+    "{": "\"source_material\": \"General Banking Program BFLP - Memproses Transaksi Keuangan Tunai dan Non Tunai\","
+  },
+  {
+    "{": "\"total_questions\": 70,"
+  },
+  {
+    "{": "\"sections\": {"
+  },
+  {
+    "{": "\"multiple_choice\": 50,"
+  },
+  {
+    "{": "\"case_study\": 20"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"question_bank\": ["
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 1,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Proses Awal Hari Cabang\","
+  },
+  {
+    "{": "\"question\": \"Pada proses awal hari cabang, aktivitas yang paling tepat dikategorikan sebagai bagian dari pemenuhan likuiditas teller adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menyelesaikan outstanding complaint nasabah prioritas\","
+  },
+  {
+    "{": "\"B\": \"Menyiapkan modal kerja teller dan antisipasi penarikan dana besar\","
+  },
+  {
+    "{": "\"C\": \"Menginput ulang transaksi pending hari sebelumnya\","
+  },
+  {
+    "{": "\"D\": \"Melakukan cross selling produk bancassurance\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Pemenuhan likuiditas fokus pada kesiapan kas operasional teller untuk memenuhi kebutuhan transaksi tunai nasabah.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 2,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Kontrol Operasional\","
+  },
+  {
+    "{": "\"question\": \"Tujuan utama adanya ritual awal dan akhir hari cabang adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Memastikan target marketing tercapai\","
+  },
+  {
+    "{": "\"B\": \"Menjamin operasional aman, tertib, dan tercatat akurat\","
+  },
+  {
+    "{": "\"C\": \"Mengurangi approval supervisor\","
+  },
+  {
+    "{": "\"D\": \"Mempercepat transaksi lintas bank\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Ritual awal dan akhir hari bertujuan memastikan seluruh aktivitas operasional berjalan aman dan tercatat akurat.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 3,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Three Lines of Defense\","
+  },
+  {
+    "{": "\"question\": \"Aktivitas yang termasuk first line of defense pada operasional cabang adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Audit eksternal\","
+  },
+  {
+    "{": "\"B\": \"Pemeriksaan regulator\","
+  },
+  {
+    "{": "\"C\": \"Rekonsiliasi teller akhir hari\","
+  },
+  {
+    "{": "\"D\": \"Stress testing treasury\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"First line of defense dilakukan unit operasional termasuk rekonsiliasi teller.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 4,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Dual Control\","
+  },
+  {
+    "{": "\"question\": \"Tujuan utama dual control pada serah terima kas teller adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Mengurangi dokumentasi\","
+  },
+  {
+    "{": "\"B\": \"Meminimalkan fraud dan human error\","
+  },
+  {
+    "{": "\"C\": \"Mempercepat antrean\","
+  },
+  {
+    "{": "\"D\": \"Mengurangi limit teller\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Dual control memastikan ada pengawasan silang untuk mengurangi fraud dan kesalahan.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 5,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Agenda Harian\","
+  },
+  {
+    "{": "\"question\": \"Standing instruction pada agenda harian cabang terutama berkaitan dengan...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Instruksi transaksi berulang nasabah\","
+  },
+  {
+    "{": "\"B\": \"Pengajuan kredit baru\","
+  },
+  {
+    "{": "\"C\": \"Audit semesteran\","
+  },
+  {
+    "{": "\"D\": \"Promosi deposito\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"A\","
+  },
+  {
+    "{": "\"explanation\": \"Standing instruction merupakan instruksi transaksi berulang seperti auto debet dan transfer terjadwal.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 6,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Persiapan Operasional\","
+  },
+  {
+    "{": "\"question\": \"Salah satu red flag saat serah terima kas awal hari adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Mesin hitung uang digunakan\","
+  },
+  {
+    "{": "\"B\": \"Approval dilakukan setelah uang diserahkan\","
+  },
+  {
+    "{": "\"C\": \"Berita acara ditandatangani kedua pihak\","
+  },
+  {
+    "{": "\"D\": \"Kas dihitung bersama\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Approval setelah uang diserahkan menunjukkan lemahnya kontrol dual authorization.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 7,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Ketentuan Teller\","
+  },
+  {
+    "{": "\"question\": \"Bukti validasi sistem pada form transaksi berfungsi sebagai...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Media promosi\","
+  },
+  {
+    "{": "\"B\": \"Bukti sah transaksi\","
+  },
+  {
+    "{": "\"C\": \"Pengganti identitas\","
+  },
+  {
+    "{": "\"D\": \"Dokumen treasury\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Validasi sistem menjadi bukti resmi transaksi telah diproses bank.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 8,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"TNT NaNo\","
+  },
+  {
+    "{": "\"question\": \"Pada konsep TNT NaNo, elemen yang paling rawan fraud jika tidak diverifikasi adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Nomor antrean\","
+  },
+  {
+    "{": "\"B\": \"Warna tinta\","
+  },
+  {
+    "{": "\"C\": \"Nominal dan nomor rekening\","
+  },
+  {
+    "{": "\"D\": \"Kode cabang\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Nominal dan nomor rekening merupakan elemen kritikal yang sering dimanipulasi.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 9,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Proses Teller\","
+  },
+  {
+    "{": "\"question\": \"Urutan kontrol transaksi tunai teller yang benar adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Posting - hitung uang - konfirmasi - verifikasi\","
+  },
+  {
+    "{": "\"B\": \"Verifikasi - konfirmasi - hitung uang - posting\","
+  },
+  {
+    "{": "\"C\": \"Konfirmasi - posting - verifikasi - hitung uang\","
+  },
+  {
+    "{": "\"D\": \"Hitung uang - posting - konfirmasi - verifikasi\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"SOP teller dimulai dari verifikasi form hingga posting sistem.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 10,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Keaslian Uang\","
+  },
+  {
+    "{": "\"question\": \"Penggunaan UV light pada transaksi tunai bertujuan untuk...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menghitung nominal\","
+  },
+  {
+    "{": "\"B\": \"Menguji keaslian uang\","
+  },
+  {
+    "{": "\"C\": \"Mendeteksi CIF\","
+  },
+  {
+    "{": "\"D\": \"Memeriksa jaringan\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"UV light digunakan untuk memeriksa keaslian uang fisik.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 11,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Transaksi Tunai\","
+  },
+  {
+    "{": "\"question\": \"Berikut yang termasuk transaksi cash out adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Pembayaran listrik\","
+  },
+  {
+    "{": "\"B\": \"Transfer tunai\","
+  },
+  {
+    "{": "\"C\": \"Penarikan tunai rekening sendiri\","
+  },
+  {
+    "{": "\"D\": \"Setoran valuta asing\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Cash out berarti uang keluar dari rekening menjadi uang tunai fisik.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 12,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Surat Kuasa\","
+  },
+  {
+    "{": "\"question\": \"Penarikan rekening orang lain diperbolehkan apabila...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Nominal kecil\","
+  },
+  {
+    "{": "\"B\": \"Teller mengenal nasabah\","
+  },
+  {
+    "{": "\"C\": \"Ada surat kuasa lengkap dan konfirmasi\","
+  },
+  {
+    "{": "\"D\": \"Membawa ATM\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Penarikan pihak lain wajib menggunakan surat kuasa dan konfirmasi pemilik rekening.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 13,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"AML WIC\","
+  },
+  {
+    "{": "\"question\": \"Setoran tunai WIC Rp120 juta mewajibkan teller untuk...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menolak transaksi\","
+  },
+  {
+    "{": "\"B\": \"Meminta Form WIC dan identitas\","
+  },
+  {
+    "{": "\"C\": \"Melaporkan langsung ke PPATK\","
+  },
+  {
+    "{": "\"D\": \"Meminta transaksi via ATM\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"WIC di atas Rp100 juta wajib melampirkan Form WIC dan identitas.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 14,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"PPATK\","
+  },
+  {
+    "{": "\"question\": \"Setoran tunai Rp520 juta memiliki implikasi compliance berupa...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Wajib RTGS\","
+  },
+  {
+    "{": "\"B\": \"Wajib approval treasury\","
+  },
+  {
+    "{": "\"C\": \"Wajib LTKT ke PPATK\","
+  },
+  {
+    "{": "\"D\": \"Wajib cek silang\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Transaksi tunai Rp500 juta atau lebih wajib dilaporkan sebagai LTKT.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 15,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"AML Structuring\","
+  },
+  {
+    "{": "\"question\": \"WIC melakukan setoran Rp98 juta pagi hari dan Rp10 juta sore hari. Tindakan paling tepat adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Memproses terpisah\","
+  },
+  {
+    "{": "\"B\": \"Menganggap normal\","
+  },
+  {
+    "{": "\"C\": \"Mengidentifikasi akumulasi di atas threshold\","
+  },
+  {
+    "{": "\"D\": \"Menolak transaksi kedua\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Akumulasi transaksi harian tetap diperhitungkan dalam monitoring AML.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 16,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Stopping\","
+  },
+  {
+    "{": "\"question\": \"Prinsip stopping pada form setoran bertujuan untuk...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Mempercepat posting\","
+  },
+  {
+    "{": "\"B\": \"Mencegah penambahan digit nominal\","
+  },
+  {
+    "{": "\"C\": \"Mengurangi approval\","
+  },
+  {
+    "{": "\"D\": \"Mempermudah audit CIF\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Stopping digunakan untuk mengamankan nominal angka dari penambahan digit.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 17,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Thickmark\","
+  },
+  {
+    "{": "\"question\": \"Thickmark diterapkan pada bagian...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Nomor antrean\","
+  },
+  {
+    "{": "\"B\": \"Nominal angka\","
+  },
+  {
+    "{": "\"C\": \"Nominal terbilang\","
+  },
+  {
+    "{": "\"D\": \"Nomor CIF\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Thickmark digunakan pada nominal terbilang untuk mencegah penambahan kata.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 18,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Fraud Prevention\","
+  },
+  {
+    "{": "\"question\": \"Red flag pengisian form setoran adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Terdapat ruang kosong setelah nominal terbilang\","
+  },
+  {
+    "{": "\"B\": \"Stopping tiap tiga digit\","
+  },
+  {
+    "{": "\"C\": \"Nominal sesuai\","
+  },
+  {
+    "{": "\"D\": \"Tanda tangan jelas\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"A\","
+  },
+  {
+    "{": "\"explanation\": \"Ruang kosong pada nominal terbilang berisiko ditambahkan kata lain.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 19,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Spectroline\","
+  },
+  {
+    "{": "\"question\": \"Verifikasi spectroline pada penarikan tunai dilakukan untuk...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menghitung lembar uang\","
+  },
+  {
+    "{": "\"B\": \"Memastikan keaslian tanda tangan\","
+  },
+  {
+    "{": "\"C\": \"Menentukan limit\","
+  },
+  {
+    "{": "\"D\": \"Mengukur tinta printer\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Spectroline digunakan untuk memverifikasi keaslian tanda tangan nasabah.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 20,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Surat Kuasa\","
+  },
+  {
+    "{": "\"question\": \"Penarikan dengan surat kuasa tidak diperkenankan apabila...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Nominal besar\","
+  },
+  {
+    "{": "\"B\": \"Dilakukan di luar cabang pengelola\","
+  },
+  {
+    "{": "\"C\": \"Membawa identitas asli\","
+  },
+  {
+    "{": "\"D\": \"Ada video call\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Transaksi surat kuasa wajib dilakukan pada cabang pengelola rekening.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 21,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Non Tunai\","
+  },
+  {
+    "{": "\"question\": \"Perbedaan utama cek dan bilyet giro adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Cek hanya untuk transfer\","
+  },
+  {
+    "{": "\"B\": \"BG dapat diuangkan tunai\","
+  },
+  {
+    "{": "\"C\": \"Cek adalah perintah bayar, BG perintah pemindahbukuan\","
+  },
+  {
+    "{": "\"D\": \"BG tidak membutuhkan rekening giro\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Cek digunakan sebagai perintah bayar, sedangkan BG hanya pemindahbukuan.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 22,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Kliring\","
+  },
+  {
+    "{": "\"question\": \"Settlement cek silang antar bank umumnya dilakukan melalui...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"SKN\","
+  },
+  {
+    "{": "\"B\": \"SWIFT\","
+  },
+  {
+    "{": "\"C\": \"ATM Bersama\","
+  },
+  {
+    "{": "\"D\": \"Treasury\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"A\","
+  },
+  {
+    "{": "\"explanation\": \"Cek silang antar bank diproses melalui kliring SKN.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 23,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Pemindahbukuan\","
+  },
+  {
+    "{": "\"question\": \"Lampiran KTP wajib untuk transaksi penarikan, pindah buku, atau transfer bank lain dengan nominal...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Rp10 juta\","
+  },
+  {
+    "{": "\"B\": \"Rp50 juta\","
+  },
+  {
+    "{": "\"C\": \"Rp100 juta ke atas\","
+  },
+  {
+    "{": "\"D\": \"Semua nominal\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Ketentuan KTP tambahan berlaku untuk nominal Rp100 juta atau lebih.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 24,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Pemindahbukuan\","
+  },
+  {
+    "{": "\"question\": \"Pencocokan nomor seri buku tabungan saat pemindahbukuan bertujuan untuk...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Promosi produk\","
+  },
+  {
+    "{": "\"B\": \"Memastikan integritas data rekening\","
+  },
+  {
+    "{": "\"C\": \"Menentukan biaya admin\","
+  },
+  {
+    "{": "\"D\": \"Mengukur loyalitas nasabah\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Nomor seri buku dicocokkan untuk mencegah mismatch data rekening.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 25,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"LP\","
+  },
+  {
+    "{": "\"question\": \"Surat kuasa dari pemberi kuasa yang berada di LP wajib disahkan oleh...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Auditor internal\","
+  },
+  {
+    "{": "\"B\": \"Kepala LP\","
+  },
+  {
+    "{": "\"C\": \"BI\","
+  },
+  {
+    "{": "\"D\": \"Kepala desa\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Ketentuan khusus LP mewajibkan pengesahan surat kuasa oleh Kepala LP.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 26,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Logbook\","
+  },
+  {
+    "{": "\"question\": \"Konfirmasi transaksi surat kuasa wajib dicatat pada...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Buku tamu\","
+  },
+  {
+    "{": "\"B\": \"General ledger\","
+  },
+  {
+    "{": "\"C\": \"Logbook transaksi\","
+  },
+  {
+    "{": "\"D\": \"Buku kas harian\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Logbook digunakan sebagai audit trail transaksi surat kuasa.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 27,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Transfer\","
+  },
+  {
+    "{": "\"question\": \"Karakteristik transfer intra bank adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Settlement 2-3 hari\","
+  },
+  {
+    "{": "\"B\": \"Minimal Rp100 juta\","
+  },
+  {
+    "{": "\"C\": \"Real time dan biaya rendah\","
+  },
+  {
+    "{": "\"D\": \"Wajib SWIFT\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Transfer intra bank berlangsung real time dengan biaya rendah atau nol.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 28,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"SKN\","
+  },
+  {
+    "{": "\"question\": \"Nasabah ingin transfer Rp750 juta antarbank dengan biaya murah dan tidak terburu waktu. Kanal paling tepat adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"RTGS\","
+  },
+  {
+    "{": "\"B\": \"SKN\","
+  },
+  {
+    "{": "\"C\": \"Outward remittance\","
+  },
+  {
+    "{": "\"D\": \"Transfer tunai\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"SKN cocok untuk transfer antarbank dengan biaya murah dan settlement batch.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 29,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"RTGS\","
+  },
+  {
+    "{": "\"question\": \"RTGS paling tepat digunakan apabila...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Nominal kecil\","
+  },
+  {
+    "{": "\"B\": \"Transfer lintas negara\","
+  },
+  {
+    "{": "\"C\": \"Membutuhkan settlement cepat nominal besar\","
+  },
+  {
+    "{": "\"D\": \"Tidak memiliki rekening\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"RTGS digunakan untuk transfer nominal besar dengan settlement cepat.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 30,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"RTGS\","
+  },
+  {
+    "{": "\"question\": \"Pernyataan yang benar mengenai RTGS adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tidak memiliki minimum nominal\","
+  },
+  {
+    "{": "\"B\": \"Settlement batch\","
+  },
+  {
+    "{": "\"C\": \"Real time dengan estimasi beberapa jam end to end\","
+  },
+  {
+    "{": "\"D\": \"Biaya lebih murah dari SKN\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"RTGS bersifat real time namun end to end transfer tetap membutuhkan waktu proses.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 31,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"SKN\","
+  },
+  {
+    "{": "\"question\": \"Nominal maksimum transaksi SKN adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Rp100 juta\","
+  },
+  {
+    "{": "\"B\": \"Rp500 juta\","
+  },
+  {
+    "{": "\"C\": \"Rp1 miliar\","
+  },
+  {
+    "{": "\"D\": \"Tanpa batas\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"SKN memiliki limit maksimum Rp1 miliar per transaksi.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 32,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Remittance\","
+  },
+  {
+    "{": "\"question\": \"Dalam outward remittance, dokumen sumber dana diperlukan terutama apabila...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Transfer hari kerja\","
+  },
+  {
+    "{": "\"B\": \"Nominal besar sesuai AML\","
+  },
+  {
+    "{": "\"C\": \"Pengirim keluarga inti\","
+  },
+  {
+    "{": "\"D\": \"Menggunakan mobile banking\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"AML/CFT mewajibkan verifikasi source of fund untuk nominal besar.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 33,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Remittance\","
+  },
+  {
+    "{": "\"question\": \"Pengiriman uang lintas negara via SWIFT termasuk proses...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"SKN\","
+  },
+  {
+    "{": "\"B\": \"Transfer internal\","
+  },
+  {
+    "{": "\"C\": \"Remittance\","
+  },
+  {
+    "{": "\"D\": \"Cash pooling\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"SWIFT umum digunakan pada layanan remittance internasional.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 34,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Inward Remittance\","
+  },
+  {
+    "{": "\"question\": \"Cash pickup pada inward remittance memungkinkan penerima untuk...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Mengambil dana tunai\","
+  },
+  {
+    "{": "\"B\": \"Menghindari AML\","
+  },
+  {
+    "{": "\"C\": \"Mengakses dana sebelum dikirim\","
+  },
+  {
+    "{": "\"D\": \"Mengubah menjadi kredit\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"A\","
+  },
+  {
+    "{": "\"explanation\": \"Cash pickup memungkinkan penerima mengambil uang secara tunai.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 35,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"EOD\","
+  },
+  {
+    "{": "\"question\": \"Tujuan utama EOD core banking adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menghapus transaksi\","
+  },
+  {
+    "{": "\"B\": \"Mengurangi saldo kas\","
+  },
+  {
+    "{": "\"C\": \"Mengkonsolidasikan transaksi harian\","
+  },
+  {
+    "{": "\"D\": \"Menutup audit trail\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"EOD dilakukan untuk konsolidasi dan penutupan transaksi operasional harian.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 36,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Rekonsiliasi\","
+  },
+  {
+    "{": "\"question\": \"Rekonsiliasi kas akhir hari dilakukan dengan membandingkan...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Target bisnis\","
+  },
+  {
+    "{": "\"B\": \"Saldo fisik dan laporan sistem\","
+  },
+  {
+    "{": "\"C\": \"Jumlah teller\","
+  },
+  {
+    "{": "\"D\": \"Outstanding kredit\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Rekonsiliasi memastikan saldo fisik sesuai laporan sistem dan jurnal.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 37,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Backup Sistem\","
+  },
+  {
+    "{": "\"question\": \"Backup sistem akhir hari bertujuan untuk...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Mengurangi arsip\","
+  },
+  {
+    "{": "\"B\": \"Mencegah kehilangan data\","
+  },
+  {
+    "{": "\"C\": \"Meningkatkan marketing\","
+  },
+  {
+    "{": "\"D\": \"Mengurangi biaya\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Backup sistem dilakukan untuk mencegah kehilangan data transaksi.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 38,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Brankas\","
+  },
+  {
+    "{": "\"question\": \"Penutupan brankas oleh kasir dan saksi bertujuan memastikan...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Efisiensi layanan\","
+  },
+  {
+    "{": "\"B\": \"Dual custody aset fisik\","
+  },
+  {
+    "{": "\"C\": \"Optimalisasi cash ratio\","
+  },
+  {
+    "{": "\"D\": \"Penurunan biaya\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Dual custody diperlukan untuk pengamanan aset fisik bank.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 39,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Selisih Kas\","
+  },
+  {
+    "{": "\"question\": \"Jika ditemukan selisih kas pada akhir hari maka langkah paling tepat adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menunggu audit\","
+  },
+  {
+    "{": "\"B\": \"Menyesuaikan saldo manual\","
+  },
+  {
+    "{": "\"C\": \"Melakukan investigasi hari yang sama\","
+  },
+  {
+    "{": "\"D\": \"Menghapus transaksi kecil\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Selisih kas harus segera diinvestigasi pada hari yang sama.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 40,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Audit Trail\","
+  },
+  {
+    "{": "\"question\": \"Prinsip traceable dalam dokumentasi transaksi berarti...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Dokumen bebas disusun\","
+  },
+  {
+    "{": "\"B\": \"Transaksi dapat ditelusuri kembali\","
+  },
+  {
+    "{": "\"C\": \"Dokumen cukup digital\","
+  },
+  {
+    "{": "\"D\": \"Hanya transaksi besar\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Audit trail memastikan transaksi dapat ditelusuri kembali dengan mudah.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 41,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Compliance\","
+  },
+  {
+    "{": "\"question\": \"Dokumentasi lengkap tetapi tidak sesuai SOP tetap berisiko karena...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Melanggar compliance dan regulator\","
+  },
+  {
+    "{": "\"B\": \"Mengurangi CASA\","
+  },
+  {
+    "{": "\"C\": \"Meningkatkan biaya RTGS\","
+  },
+  {
+    "{": "\"D\": \"Menghambat marketing\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"A\","
+  },
+  {
+    "{": "\"explanation\": \"Dokumentasi wajib sesuai SOP dan ketentuan regulator.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 42,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Fraud Risk\","
+  },
+  {
+    "{": "\"question\": \"Penggunaan detektor keaslian uang berkaitan dengan mitigasi risiko...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Pasar\","
+  },
+  {
+    "{": "\"B\": \"Likuiditas\","
+  },
+  {
+    "{": "\"C\": \"Operasional dan fraud\","
+  },
+  {
+    "{": "\"D\": \"Suku bunga\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Detektor uang digunakan untuk mitigasi risiko operasional dan fraud uang palsu.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 43,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Back Office\","
+  },
+  {
+    "{": "\"question\": \"Penyerahan warkat non tunai ke back office bertujuan untuk...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Cross selling\","
+  },
+  {
+    "{": "\"B\": \"Settlement dan administrasi lanjutan\","
+  },
+  {
+    "{": "\"C\": \"Mengurangi rekonsiliasi\","
+  },
+  {
+    "{": "\"D\": \"Menggantikan approval\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Back office melakukan proses settlement dan administrasi lanjutan warkat.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 44,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Verifikasi Tanda Tangan\","
+  },
+  {
+    "{": "\"question\": \"Teller menemukan tanda tangan sedikit berbeda dengan specimen. Langkah terbaik adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap proses\","
+  },
+  {
+    "{": "\"B\": \"Mengabaikan perbedaan\","
+  },
+  {
+    "{": "\"C\": \"Verifikasi lanjutan dan eskalasi\","
+  },
+  {
+    "{": "\"D\": \"Mengubah specimen\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Perbedaan tanda tangan harus diverifikasi lebih lanjut untuk mitigasi fraud.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 45,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"RTGS\","
+  },
+  {
+    "{": "\"question\": \"Nasabah meminta transfer Rp90 juta menggunakan RTGS agar lebih aman. Respons paling tepat adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Menolak karena belum memenuhi minimum RTGS\","
+  },
+  {
+    "{": "\"B\": \"Memproses manual\","
+  },
+  {
+    "{": "\"C\": \"Meminta tambah nominal\","
+  },
+  {
+    "{": "\"D\": \"Mengalihkan ke remittance\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"A\","
+  },
+  {
+    "{": "\"explanation\": \"RTGS memiliki minimum nominal Rp100 juta.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 46,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Likuiditas\","
+  },
+  {
+    "{": "\"question\": \"Antisipasi pencairan kredit besar pada awal hari berkaitan dengan...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Marketing funding\","
+  },
+  {
+    "{": "\"B\": \"Pemenuhan likuiditas teller\","
+  },
+  {
+    "{": "\"C\": \"Pengurangan limit\","
+  },
+  {
+    "{": "\"D\": \"Audit internal\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Cabang perlu menyiapkan likuiditas untuk transaksi besar nasabah.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 47,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Warkat\","
+  },
+  {
+    "{": "\"question\": \"Underlying utama cek dan BG adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Deposito\","
+  },
+  {
+    "{": "\"B\": \"Saldo rekening giro\","
+  },
+  {
+    "{": "\"C\": \"Kas teller\","
+  },
+  {
+    "{": "\"D\": \"Saldo ATM\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Cek dan BG menggunakan underlying rekening giro penarik.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 48,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Customer Due Diligence\","
+  },
+  {
+    "{": "\"question\": \"WIC wajib discreening sesuai prinsip...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Treasury dealing\","
+  },
+  {
+    "{": "\"B\": \"Customer Due Diligence\","
+  },
+  {
+    "{": "\"C\": \"Capital adequacy\","
+  },
+  {
+    "{": "\"D\": \"Liquidity ratio\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"WIC wajib melalui screening CDD untuk kepatuhan AML/CFT.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 49,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C1\","
+  },
+  {
+    "{": "\"topic\": \"Tahapan Operasional\","
+  },
+  {
+    "{": "\"question\": \"Jam operasional layanan transaksi cabang berdasarkan materi adalah...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"07.30 - 08.00\","
+  },
+  {
+    "{": "\"B\": \"08.00 - 15.00\","
+  },
+  {
+    "{": "\"C\": \"15.00 - 16.30\","
+  },
+  {
+    "{": "\"D\": \"06.00 - 12.00\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Layanan transaksi berlangsung pada pukul 08.00 sampai 15.00.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 50,"
+  },
+  {
+    "{": "\"type\": \"multiple_choice\","
+  },
+  {
+    "{": "\"taxonomy\": \"C2\","
+  },
+  {
+    "{": "\"topic\": \"Rekonsiliasi\","
+  },
+  {
+    "{": "\"question\": \"Tanda tangan rekonsiliasi akhir hari diperlukan untuk memastikan...\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Cross selling berhasil\","
+  },
+  {
+    "{": "\"B\": \"Akuntabilitas proses rekonsiliasi\","
+  },
+  {
+    "{": "\"C\": \"Biaya operasional turun\","
+  },
+  {
+    "{": "\"D\": \"Limit teller naik\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Tanda tangan menjadi bukti akuntabilitas dan pengesahan rekonsiliasi.\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 51,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"AML WIC\","
+  },
+  {
+    "{": "\"question\": \"Seorang WIC melakukan setoran tunai Rp150 juta tanpa membawa identitas karena mengaku terburu buru.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap proses\","
+  },
+  {
+    "{": "\"B\": \"Proses sebagian\","
+  },
+  {
+    "{": "\"C\": \"Minta Form WIC dan identitas sebelum diproses\","
+  },
+  {
+    "{": "\"D\": \"Sarankan ATM setor tunai\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"WIC di atas threshold wajib menyertakan identitas dan Form WIC.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"WIC\", \"100 juta\", \"identitas\", \"CDD\", \"AML\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menyebut threshold, identitas wajib, dan prinsip AML/CDD secara lengkap.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut identitas wajib dan AML namun tidak lengkap.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut kebutuhan identitas atau SOP umum.\","
+  },
+  {
+    "{": "\"1\": \"Alasan kurang relevan.\","
+  },
+  {
+    "{": "\"0\": \"Alasan salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 52,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Thickmark\","
+  },
+  {
+    "{": "\"question\": \"Slip setoran memiliki nominal terbilang dengan ruang kosong panjang setelah tulisan terakhir.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap proses\","
+  },
+  {
+    "{": "\"B\": \"Tambahkan thickmark\","
+  },
+  {
+    "{": "\"C\": \"Buang slip\","
+  },
+  {
+    "{": "\"D\": \"Abaikan\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Thickmark digunakan untuk mencegah penambahan kata pada nominal terbilang.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"thickmark\", \"fraud\", \"pengamanan\", \"terbilang\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan thickmark sebagai mitigasi fraud penambahan nominal.\","
+  },
+  {
+    "{": "\"3\": \"Menjelaskan fungsi thickmark secara umum.\","
+  },
+  {
+    "{": "\"2\": \"Menyebut SOP tanpa detail fraud.\","
+  },
+  {
+    "{": "\"1\": \"Alasan minim.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 53,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Surat Kuasa\","
+  },
+  {
+    "{": "\"question\": \"Nasabah ingin menarik dana rekening ayahnya menggunakan ATM dan PIN tanpa surat kuasa.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap proses\","
+  },
+  {
+    "{": "\"B\": \"Tolak sampai syarat surat kuasa dipenuhi\","
+  },
+  {
+    "{": "\"C\": \"Proses sebagian\","
+  },
+  {
+    "{": "\"D\": \"Minta approval supervisor\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Penarikan rekening pihak lain wajib menggunakan surat kuasa dan dokumen pendukung.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"surat kuasa\", \"rekening sendiri\", \"fraud\", \"otorisasi\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan kewajiban surat kuasa dan mitigasi unauthorized withdrawal.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut surat kuasa dan fraud secara umum.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut SOP umum.\","
+  },
+  {
+    "{": "\"1\": \"Kurang relevan.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 54,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Rekonsiliasi\","
+  },
+  {
+    "{": "\"question\": \"Saldo fisik teller lebih besar Rp500 ribu dibanding laporan sistem saat akhir hari.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Sesuaikan laporan\","
+  },
+  {
+    "{": "\"B\": \"Simpan selisih\","
+  },
+  {
+    "{": "\"C\": \"Investigasi dan rekonsiliasi hari itu juga\","
+  },
+  {
+    "{": "\"D\": \"Tunggu audit\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Selisih kas harus segera diinvestigasi pada hari yang sama.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"rekonsiliasi\", \"selisih kas\", \"investigasi\", \"integritas pencatatan\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan pentingnya investigasi selisih kas pada hari yang sama.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut investigasi dan rekonsiliasi.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut pengecekan ulang.\","
+  },
+  {
+    "{": "\"1\": \"Kurang tepat.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 55,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"RTGS\","
+  },
+  {
+    "{": "\"question\": \"Nasabah korporasi membutuhkan transfer Rp2,5 miliar untuk settlement properti hari ini.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"SKN\","
+  },
+  {
+    "{": "\"B\": \"Transfer intra bank\","
+  },
+  {
+    "{": "\"C\": \"RTGS\","
+  },
+  {
+    "{": "\"D\": \"Remittance\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"RTGS cocok untuk transfer nominal besar dengan kebutuhan settlement cepat.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"RTGS\", \"nominal besar\", \"real time\", \"settlement\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan RTGS untuk nominal besar dan settlement cepat.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut RTGS dan nominal besar.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut cepat.\","
+  },
+  {
+    "{": "\"1\": \"Kurang relevan.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 56,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Pemindahbukuan Surat Kuasa\","
+  },
+  {
+    "{": "\"question\": \"Nasabah meminta pemindahbukuan menggunakan surat kuasa di cabang berbeda dari cabang pengelola rekening.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap proses\","
+  },
+  {
+    "{": "\"B\": \"Proses dengan approval\","
+  },
+  {
+    "{": "\"C\": \"Tidak diperkenankan sesuai SOP\","
+  },
+  {
+    "{": "\"D\": \"Boleh jika keluarga inti\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"C\","
+  },
+  {
+    "{": "\"explanation\": \"Transaksi surat kuasa wajib dilakukan di cabang pengelola rekening.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"cabang pengelola\", \"surat kuasa\", \"SOP\", \"wilayah berlaku\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan larangan transaksi di luar cabang pengelola sesuai SOP.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut cabang pengelola dan SOP.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut aturan cabang.\","
+  },
+  {
+    "{": "\"1\": \"Kurang tepat.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 57,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"LTKT\","
+  },
+  {
+    "{": "\"question\": \"Nasabah melakukan setoran Rp490 juta pagi hari dan Rp20 juta sore hari.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tidak ada implikasi\","
+  },
+  {
+    "{": "\"B\": \"Wajib LTKT ke PPATK\","
+  },
+  {
+    "{": "\"C\": \"Wajib RTGS\","
+  },
+  {
+    "{": "\"D\": \"Wajib remittance\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Akumulasi transaksi tunai harian di atas Rp500 juta wajib dilaporkan sebagai LTKT.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"LTKT\", \"PPATK\", \"500 juta\", \"akumulasi\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan akumulasi harian dan kewajiban LTKT.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut LTKT dan threshold.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut pelaporan.\","
+  },
+  {
+    "{": "\"1\": \"Kurang relevan.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 58,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Verifikasi Tanda Tangan\","
+  },
+  {
+    "{": "\"question\": \"Teller melihat tanda tangan form penarikan hampir sama dengan specimen namun ada perbedaan signifikan.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap proses\","
+  },
+  {
+    "{": "\"B\": \"Lakukan verifikasi tambahan dan eskalasi\","
+  },
+  {
+    "{": "\"C\": \"Ubah specimen\","
+  },
+  {
+    "{": "\"D\": \"Tolak langsung\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Perbedaan tanda tangan harus diverifikasi untuk mitigasi fraud.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"spectroline\", \"fraud\", \"verifikasi\", \"eskalasi\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan mitigasi fraud melalui verifikasi tambahan.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut verifikasi dan eskalasi.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut pengecekan.\","
+  },
+  {
+    "{": "\"1\": \"Kurang tepat.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 59,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"SKN\","
+  },
+  {
+    "{": "\"question\": \"Nasabah ingin transfer Rp50 juta antarbank dengan biaya paling murah dan tidak mendesak.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"RTGS\","
+  },
+  {
+    "{": "\"B\": \"SKN\","
+  },
+  {
+    "{": "\"C\": \"Transfer prioritas\","
+  },
+  {
+    "{": "\"D\": \"Remittance\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"SKN cocok untuk transfer biaya murah dengan settlement tidak instan.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"SKN\", \"murah\", \"antarbank\", \"settlement\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan alasan memilih SKN berdasarkan biaya dan kebutuhan waktu.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut biaya murah dan SKN.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut murah.\","
+  },
+  {
+    "{": "\"1\": \"Kurang relevan.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 60,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Audit Trail\","
+  },
+  {
+    "{": "\"question\": \"Teller lupa menandatangani berita acara pecahan uang saat serah terima kas awal hari.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tidak masalah\","
+  },
+  {
+    "{": "\"B\": \"Risiko audit trail dan accountability lemah\","
+  },
+  {
+    "{": "\"C\": \"Hanya mempengaruhi SLA\","
+  },
+  {
+    "{": "\"D\": \"Meningkatkan likuiditas\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Dokumentasi serah terima wajib lengkap untuk audit trail dan accountability.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"audit trail\", \"accountability\", \"dokumentasi\", \"dual control\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan lemahnya audit trail dan accountability.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut audit trail.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut dokumen.\","
+  },
+  {
+    "{": "\"1\": \"Kurang tepat.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 61,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"AML Remittance\","
+  },
+  {
+    "{": "\"question\": \"Nasabah outward remittance tidak dapat menjelaskan sumber dana transfer luar negeri bernilai besar.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap proses\","
+  },
+  {
+    "{": "\"B\": \"Escalate untuk enhanced due diligence\","
+  },
+  {
+    "{": "\"C\": \"Pecah transaksi\","
+  },
+  {
+    "{": "\"D\": \"Ganti jadi SKN\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"AML/CFT mewajibkan enhanced due diligence untuk transaksi mencurigakan.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"source of fund\", \"EDD\", \"AML\", \"suspicious\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan EDD dan source of fund sesuai AML.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut AML dan EDD.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut verifikasi.\","
+  },
+  {
+    "{": "\"1\": \"Kurang relevan.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 62,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Jurnal Harian\","
+  },
+  {
+    "{": "\"question\": \"Teller logout sistem tanpa mencetak jurnal harian.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tidak berdampak\","
+  },
+  {
+    "{": "\"B\": \"Mengganggu bukti pembukuan dan audit\","
+  },
+  {
+    "{": "\"C\": \"Hanya mempengaruhi customer experience\","
+  },
+  {
+    "{": "\"D\": \"Mengurangi biaya operasional\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Jurnal harian merupakan bukti pembukuan dan audit trail penting.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"jurnal harian\", \"audit\", \"pembukuan\", \"rekonsiliasi\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan fungsi jurnal untuk audit dan pembukuan.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut audit trail.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut dokumen.\","
+  },
+  {
+    "{": "\"1\": \"Kurang tepat.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 63,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Bilyet Giro\","
+  },
+  {
+    "{": "\"question\": \"Nasabah ingin mencairkan bilyet giro menjadi uang tunai langsung di teller.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Diproses sebagai penarikan\","
+  },
+  {
+    "{": "\"B\": \"Ditolak karena BG adalah pemindahbukuan\","
+  },
+  {
+    "{": "\"C\": \"Diproses jika nominal kecil\","
+  },
+  {
+    "{": "\"D\": \"Diproses dengan approval\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Bilyet giro merupakan instrumen pemindahbukuan dan bukan pencairan tunai.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"BG\", \"pemindahbukuan\", \"non tunai\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan karakteristik BG sebagai instrumen non tunai.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut BG bukan tunai.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut aturan.\","
+  },
+  {
+    "{": "\"1\": \"Kurang relevan.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 64,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Mismatch Data\","
+  },
+  {
+    "{": "\"question\": \"Nomor rekening tujuan berbeda dengan nama beneficiary pada sistem saat teller input transfer.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tetap proses\","
+  },
+  {
+    "{": "\"B\": \"Konfirmasi ulang kepada nasabah\","
+  },
+  {
+    "{": "\"C\": \"Ubah nama manual\","
+  },
+  {
+    "{": "\"D\": \"Batalkan permanen\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Mismatch data harus dikonfirmasi ulang untuk menghindari salah transfer.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"konfirmasi\", \"mismatch\", \"verifikasi\", \"operational risk\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan mitigasi salah transfer dan operational risk.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut konfirmasi ulang.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut cek data.\","
+  },
+  {
+    "{": "\"1\": \"Kurang tepat.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 65,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Validasi Sistem\","
+  },
+  {
+    "{": "\"question\": \"Ditemukan satu form transaksi tanpa validasi sistem saat rekonsiliasi.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tidak masalah\","
+  },
+  {
+    "{": "\"B\": \"Risiko legal dan audit trail\","
+  },
+  {
+    "{": "\"C\": \"Risiko pasar\","
+  },
+  {
+    "{": "\"D\": \"Risiko suku bunga\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Validasi sistem merupakan bukti sah transaksi dan audit trail.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"validasi\", \"audit trail\", \"legal risk\", \"bukti transaksi\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan dampak legal dan audit trail.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut audit trail.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut dokumen.\","
+  },
+  {
+    "{": "\"1\": \"Kurang tepat.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 66,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Unauthorized Instruction\","
+  },
+  {
+    "{": "\"question\": \"Teller membantu mengisi seluruh detail form transaksi tanpa konfirmasi ulang kepada nasabah.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Meningkatkan SLA\","
+  },
+  {
+    "{": "\"B\": \"Berisiko dispute dan unauthorized instruction\","
+  },
+  {
+    "{": "\"C\": \"Mengurangi biaya\","
+  },
+  {
+    "{": "\"D\": \"Menambah likuiditas\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Konfirmasi ulang penting untuk memastikan instruksi transaksi benar.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"konfirmasi\", \"dispute\", \"unauthorized\", \"verification\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan risiko dispute dan unauthorized instruction.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut konfirmasi ulang.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut SOP.\","
+  },
+  {
+    "{": "\"1\": \"Kurang tepat.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 67,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Structuring\","
+  },
+  {
+    "{": "\"question\": \"Petugas menemukan transfer berulang dengan nominal sedikit di bawah threshold monitoring AML.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Human error\","
+  },
+  {
+    "{": "\"B\": \"Structuring atau smurfing\","
+  },
+  {
+    "{": "\"C\": \"Kesalahan CIF\","
+  },
+  {
+    "{": "\"D\": \"Rekonsiliasi gagal\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Structuring dilakukan untuk menghindari threshold monitoring AML.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"structuring\", \"smurfing\", \"AML\", \"threshold\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan structuring sebagai upaya menghindari monitoring AML.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut smurfing dan AML.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut transaksi mencurigakan.\","
+  },
+  {
+    "{": "\"1\": \"Kurang relevan.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 68,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"SOP Teller\","
+  },
+  {
+    "{": "\"question\": \"Supervisor meminta teller melewati proses hitung uang di depan nasabah demi mempercepat antrean.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Ikuti instruksi\","
+  },
+  {
+    "{": "\"B\": \"Tetap jalankan SOP hitung uang\","
+  },
+  {
+    "{": "\"C\": \"Hitung cepat tanpa konfirmasi\","
+  },
+  {
+    "{": "\"D\": \"Serahkan uang langsung\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Menghitung uang di depan nasabah merupakan kontrol penting untuk mencegah dispute.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"SOP\", \"hitung uang\", \"dispute\", \"kontrol\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan pentingnya SOP untuk mencegah dispute.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut SOP dan kontrol.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut aturan.\","
+  },
+  {
+    "{": "\"1\": \"Kurang tepat.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 69,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"High Risk Country\","
+  },
+  {
+    "{": "\"question\": \"Dana inward remittance berasal dari negara high risk tanpa informasi pengirim yang jelas.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Langsung kreditkan\","
+  },
+  {
+    "{": "\"B\": \"Lakukan compliance review\","
+  },
+  {
+    "{": "\"C\": \"Ubah menjadi transfer domestik\","
+  },
+  {
+    "{": "\"D\": \"Tutup rekening otomatis\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Transaksi dari negara high risk wajib melalui review compliance dan AML.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"high risk country\", \"AML\", \"compliance\", \"suspicious\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan AML review untuk transaksi high risk.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut compliance review.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut pengecekan.\","
+  },
+  {
+    "{": "\"1\": \"Kurang relevan.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "{"
+  },
+  {
+    "{": "\"id\": 70,"
+  },
+  {
+    "{": "\"type\": \"case_study\","
+  },
+  {
+    "{": "\"taxonomy\": \"C3\","
+  },
+  {
+    "{": "\"topic\": \"Dokumentasi Fraud\","
+  },
+  {
+    "{": "\"question\": \"Audit menemukan penggunaan tip ex pada nominal beberapa form transaksi.\","
+  },
+  {
+    "{": "\"options\": {"
+  },
+  {
+    "{": "\"A\": \"Tidak masalah\","
+  },
+  {
+    "{": "\"B\": \"Kelemahan kontrol dokumentasi transaksi\","
+  },
+  {
+    "{": "\"C\": \"Masalah printer\","
+  },
+  {
+    "{": "\"D\": \"Mengurangi kebutuhan thickmark\""
+  },
+  {
+    "{": "},"
+  },
+  {
+    "{": "\"correct_answer\": \"B\","
+  },
+  {
+    "{": "\"explanation\": \"Penggunaan tip ex pada nominal berisiko fraud dan melanggar integritas dokumen.\","
+  },
+  {
+    "{": "\"reason_scoring\": {"
+  },
+  {
+    "{": "\"max_score\": 4,"
+  },
+  {
+    "{": "\"keywords\": [\"integritas dokumen\", \"fraud\", \"kontrol\", \"compliance\"],"
+  },
+  {
+    "{": "\"rubric\": {"
+  },
+  {
+    "{": "\"4\": \"Menjelaskan risiko fraud dan lemahnya kontrol dokumen.\","
+  },
+  {
+    "{": "\"3\": \"Menyebut fraud dan compliance.\","
+  },
+  {
+    "{": "\"2\": \"Hanya menyebut dokumen.\","
+  },
+  {
+    "{": "\"1\": \"Kurang tepat.\","
+  },
+  {
+    "{": "\"0\": \"Salah.\""
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "}"
+  },
+  {
+    "{": "]"
+  },
+  {
+    "{": "}"
+  }
+]
