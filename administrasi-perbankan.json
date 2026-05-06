@@ -1,0 +1,1281 @@
+{
+    "quizTitle": "Administrasi Perbankan",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Tujuan utama penerapan administrasi dokumen transaksi dalam perbankan adalah...",
+            "options": [
+                "Mempercepat penjualan produk bank tanpa verifikasi dokumen",
+                "Menjamin legalitas, audit trail, dan kepatuhan terhadap regulator",
+                "Mengurangi kebutuhan approval internal",
+                "Menghindari penggunaan core banking system"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Administrasi dokumen penting untuk legalitas, kepatuhan regulator, audit trail, transparansi, perlindungan nasabah, dan akuntabilitas.",
+            "topic": "Administrasi Dokumen",
+            "subtopic": "Administrasi Dokumen",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 2,
+            "question": "Dalam prinsip kearsipan bank, seluruh dokumen bank pada dasarnya bersifat...",
+            "options": [
+                "Terbuka untuk seluruh pegawai",
+                "Rahasia dan hanya dapat diakses pihak berkepentingan",
+                "Bebas dipinjam lintas unit tanpa pencatatan",
+                "Dapat dibagikan selama untuk kepentingan operasional"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Asas kerahasiaan mewajibkan seluruh dokumen bank dijaga dan tidak diberikan kepada pihak yang tidak berkepentingan.",
+            "topic": "Kearsipan",
+            "subtopic": "Asas Kerahasiaan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 3,
+            "question": "Unit kerja yang bertanggung jawab mengelola arsip aktif berdasarkan asas desentralisasi adalah...",
+            "options": [
+                "Divisi audit internal",
+                "Unit pengolah masing-masing",
+                "Regulator eksternal",
+                "Unit legal pusat"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Arsip aktif dan arsip vital dikelola oleh masing-masing unit pengolah sesuai asas desentralisasi.",
+            "topic": "Kearsipan",
+            "subtopic": "Desentralisasi Arsip",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 4,
+            "question": "Dokumen yang apabila hilang dapat mengganggu kelangsungan usaha bank serta membutuhkan biaya besar untuk pemulihan disebut...",
+            "options": [
+                "Arsip statis",
+                "Arsip inaktif",
+                "Arsip vital",
+                "Arsip sementara"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Arsip vital memiliki dampak besar jika hilang atau rusak.",
+            "topic": "Jenis Arsip",
+            "subtopic": "Arsip Vital",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 5,
+            "question": "Dalam administrasi filing, penggunaan CIF sebagai indeks utama termasuk teknik filing...",
+            "options": [
+                "Kronologis",
+                "Geografis",
+                "Numerik",
+                "Subjective filing"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Nomor CIF termasuk filing numerik.",
+            "topic": "Filing",
+            "subtopic": "Teknik Filing",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 6,
+            "question": "Format penamaan file digital yang paling sesuai prinsip administrasi dokumen adalah...",
+            "options": [
+                "Scanbaru.pdf",
+                "DokumenNasabahFinalFix.pdf",
+                "2026_05_BudiSantoso_Tabungan.pdf",
+                "Arsip1.pdf"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Penamaan harus terstruktur agar mudah ditelusuri.",
+            "topic": "Digital Filing",
+            "subtopic": "Penamaan File",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 7,
+            "question": "Tujuan utama pembuatan checklist dokumen saat administrasi rekening adalah...",
+            "options": [
+                "Mengurangi kebutuhan verifikasi",
+                "Memastikan kelengkapan dan mengurangi missing document",
+                "Mempercepat bypass SOP",
+                "Mengurangi kebutuhan approval supervisor"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Checklist digunakan untuk memastikan kelengkapan dokumen.",
+            "topic": "Administrasi Dokumen",
+            "subtopic": "Checklist Dokumen",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 8,
+            "question": "Dalam prosedur pemberkasan arsip, proses menentukan indeks dan label folder disebut...",
+            "options": [
+                "Sorting",
+                "Coding",
+                "Inspecting",
+                "Indexing"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Indexing adalah proses penentuan indeks dan label dokumen.",
+            "topic": "Pemberkasan Arsip",
+            "subtopic": "Indexing",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 9,
+            "question": "Pembuatan “tunjuk silang” pada arsip dilakukan terutama ketika...",
+            "options": [
+                "Dokumen hanya memiliki satu topik",
+                "Arsip belum diverifikasi",
+                "Dokumen memiliki lebih dari satu masalah/subjek",
+                "Arsip akan dimusnahkan"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Cross reference digunakan bila dokumen berkaitan dengan lebih dari satu subjek.",
+            "topic": "Pemberkasan Arsip",
+            "subtopic": "Cross Reference",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 10,
+            "question": "Penyimpanan arsip yang langsung terkena cahaya matahari berpotensi menyebabkan...",
+            "options": [
+                "Peningkatan confidentiality",
+                "Penurunan risiko audit",
+                "Kerusakan kualitas fisik dokumen",
+                "Percepatan retrieval"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Paparan cahaya dapat merusak arsip.",
+            "topic": "Penyimpanan Arsip",
+            "subtopic": "Ketentuan Penyimpanan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 11,
+            "question": "Masa retensi dokumen pembukaan rekening sesuai ketentuan PPATK adalah...",
+            "options": [
+                "1 tahun setelah pembukaan",
+                "3 tahun sejak transaksi terakhir",
+                "5 tahun setelah penutupan rekening",
+                "10 tahun sejak pembukaan rekening"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Dokumen pembukaan rekening disimpan 5 tahun setelah penutupan.",
+            "topic": "Retensi Arsip",
+            "subtopic": "Retensi Dokumen",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 12,
+            "question": "Data digital transaksi wajib tersedia minimal selama...",
+            "options": [
+                "1 tahun",
+                "3 tahun",
+                "5 tahun",
+                "15 tahun"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Data digital minimal tersedia 5 tahun untuk audit dan forensik.",
+            "topic": "Retensi Arsip",
+            "subtopic": "Data Digital",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 13,
+            "question": "Dokumen KYC, CIF, dan akad termasuk kategori...",
+            "options": [
+                "Dokumen internal",
+                "Dokumen treasury",
+                "Dokumen nasabah",
+                "Dokumen regulator"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Dokumen tersebut berkaitan dengan identitas dan perjanjian nasabah.",
+            "topic": "Dokumen Perbankan",
+            "subtopic": "Dokumen Nasabah",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 14,
+            "question": "Tracking status dokumen masuk dan keluar bertujuan utama untuk...",
+            "options": [
+                "Mengurangi kebutuhan registrasi",
+                "Menghindari penggunaan nomor referensi",
+                "Memastikan distribusi dan keberadaan dokumen dapat ditelusuri",
+                "Menghilangkan kebutuhan audit trail"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Tracking diperlukan agar status dokumen dapat dipantau.",
+            "topic": "Administrasi Dokumen",
+            "subtopic": "Tracking Dokumen",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 15,
+            "question": "Risiko “dokumen hilang” paling efektif dimitigasi dengan...",
+            "options": [
+                "Segregation of duties",
+                "Digitalisasi dan backup",
+                "Menambah jumlah approval",
+                "Penghapusan dokumen lama"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Digitalisasi dan backup mengurangi risiko kehilangan.",
+            "topic": "Mitigasi Risiko",
+            "subtopic": "Backup Arsip",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 16,
+            "question": "Penerapan dual control terutama bertujuan memitigasi risiko...",
+            "options": [
+                "Kebocoran data",
+                "Salah input",
+                "Keterlambatan laporan",
+                "Kehilangan agunan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dual control digunakan untuk mengurangi kesalahan input.",
+            "topic": "Pengendalian Internal",
+            "subtopic": "Dual Control",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 17,
+            "question": "Access control dalam administrasi dokumen terutama berkaitan dengan prinsip...",
+            "options": [
+                "Profitability",
+                "Confidentiality",
+                "Marketing effectiveness",
+                "Business expansion"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Access control menjaga kerahasiaan data.",
+            "topic": "Pengendalian Internal",
+            "subtopic": "Access Control",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 18,
+            "question": "Dalam administrasi pembayaran kepada vendor, langkah yang dilakukan sebelum input sistem pembayaran adalah...",
+            "options": [
+                "Posting jurnal otomatis",
+                "Otorisasi regulator",
+                "Verifikasi invoice dan kontrak",
+                "Penutupan rekening vendor"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Verifikasi dokumen dilakukan sebelum input pembayaran.",
+            "topic": "Administrasi Pembayaran",
+            "subtopic": "Verifikasi Pembayaran",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 19,
+            "question": "Maker-checker control pada proses pembayaran terutama bertujuan mencegah...",
+            "options": [
+                "Arsip statis",
+                "Salah bayar",
+                "Retensi dokumen",
+                "Duplicate CIF"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Maker-checker mengurangi kesalahan pembayaran.",
+            "topic": "Administrasi Pembayaran",
+            "subtopic": "Maker Checker",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 20,
+            "question": "Segregation of duties paling tepat diterapkan dengan cara...",
+            "options": [
+                "Satu pegawai menginput sekaligus mengotorisasi pembayaran",
+                "Approval dilakukan setelah pembayaran diproses",
+                "Fungsi input dan approval dipisahkan",
+                "Seluruh akses diberikan ke supervisor"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Segregation of duties memisahkan fungsi penting.",
+            "topic": "Pengendalian Internal",
+            "subtopic": "Segregation of Duties",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 21,
+            "question": "Risiko double payment paling efektif dicegah menggunakan...",
+            "options": [
+                "Manual spreadsheet",
+                "System validation",
+                "Verifikasi verbal",
+                "Hardcopy approval saja"
+            ],
+            "correctAnswer": 1,
+            "explanation": "System validation mendeteksi transaksi duplikat.",
+            "topic": "Administrasi Pembayaran",
+            "subtopic": "Double Payment",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 22,
+            "question": "Prinsip utama administrasi pembayaran yang benar adalah...",
+            "options": [
+                "Fast, flexible, unlimited",
+                "Akurat, authorized, traceable",
+                "Aggressive, profitable, paperless",
+                "Simple, manual, decentralized"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Administrasi pembayaran wajib akurat, authorized, dan traceable.",
+            "topic": "Administrasi Pembayaran",
+            "subtopic": "Prinsip Pembayaran",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 23,
+            "question": "Dalam penilaian kualitas aset, data pembayaran nasabah digunakan terutama untuk menilai...",
+            "options": [
+                "Struktur organisasi bank",
+                "Ketepatan pembayaran",
+                "Nilai tukar mata uang",
+                "Kepatuhan vendor"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Riwayat pembayaran menjadi dasar analisis kualitas aset.",
+            "topic": "Kualitas Aset",
+            "subtopic": "Verifikasi Data",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 24,
+            "question": "Kredit dengan tunggakan kurang dari 90 hari umumnya dikategorikan...",
+            "options": [
+                "Lancar",
+                "DPK",
+                "Diragukan",
+                "Macet"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tunggakan kurang dari 90 hari termasuk DPK.",
+            "topic": "Kolektibilitas",
+            "subtopic": "DPK",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 25,
+            "question": "Risiko underestimate risiko kredit paling tepat dimitigasi dengan...",
+            "options": [
+                "Analisis konservatif",
+                "Pengurangan CKPN",
+                "Penghapusan agunan",
+                "Pengurangan review berkala"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Analisis konservatif digunakan agar risiko tidak diremehkan.",
+            "topic": "Mitigasi Risiko Kredit",
+            "subtopic": "Analisis Konservatif",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 26,
+            "question": "Cross check data dalam analisis kualitas aset terutama bertujuan mengurangi risiko...",
+            "options": [
+                "Fraud data",
+                "Double payment",
+                "Keterlambatan filing",
+                "Duplicate customer"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Cross check digunakan untuk mendeteksi fraud atau data tidak valid.",
+            "topic": "Kualitas Aset",
+            "subtopic": "Cross Check",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 27,
+            "question": "Kolektibilitas Kurang Lancar memiliki persentase CKPN sebesar...",
+            "options": [
+                "1%",
+                "5%",
+                "15%",
+                "50%"
+            ],
+            "correctAnswer": 2,
+            "explanation": "CKPN Kurang Lancar adalah 15%.",
+            "topic": "CKPN",
+            "subtopic": "Persentase CKPN",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 28,
+            "question": "Jika outstanding kredit Rp200 juta dengan kolektibilitas DPK, maka CKPN yang harus dibentuk adalah...",
+            "options": [
+                "Rp1 juta",
+                "Rp5 juta",
+                "Rp10 juta",
+                "Rp15 juta"
+            ],
+            "correctAnswer": 2,
+            "explanation": "5% × Rp200 juta = Rp10 juta.",
+            "topic": "CKPN",
+            "subtopic": "Perhitungan CKPN",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 29,
+            "question": "Faktor berikut yang paling memengaruhi CKPN adalah...",
+            "options": [
+                "Warna map arsip",
+                "Lokasi cabang bank",
+                "Kualitas aset",
+                "Jumlah teller"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Kualitas aset merupakan faktor utama CKPN.",
+            "topic": "CKPN",
+            "subtopic": "Faktor CKPN",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 30,
+            "question": "Prinsip konservatif dalam CKPN diterapkan terutama untuk mencegah...",
+            "options": [
+                "Over filing",
+                "Under provisioning",
+                "Over staffing",
+                "Double posting"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Prinsip konservatif mencegah cadangan terlalu kecil.",
+            "topic": "CKPN",
+            "subtopic": "Prinsip Konservatif",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 31,
+            "question": "Laporan administrasi perbankan harus disesuaikan dengan...",
+            "options": [
+                "Preferensi pribadi pegawai",
+                "Tujuan laporan dan pengguna laporan",
+                "Kondisi cuaca operasional",
+                "Jadwal cuti supervisor"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Jenis laporan disesuaikan dengan tujuan dan pengguna.",
+            "topic": "Pelaporan",
+            "subtopic": "Jenis Laporan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 32,
+            "question": "Tahapan penyusunan laporan yang benar adalah...",
+            "options": [
+                "Pengolahan data → verifikasi → pengumpulan",
+                "Pengumpulan → verifikasi → pengolahan → penyusunan",
+                "Penyusunan → pengumpulan → verifikasi",
+                "Verifikasi → penyusunan → pengumpulan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Urutan penyusunan laporan mengikuti SOP.",
+            "topic": "Pelaporan",
+            "subtopic": "Penyusunan Laporan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 33,
+            "question": "Laporan yang terlambat dikirim ke regulator dapat menyebabkan...",
+            "options": [
+                "Penurunan kebutuhan audit",
+                "Teguran regulator dan risiko reputasi",
+                "Peningkatan kualitas aset",
+                "Penghapusan kewajiban pelaporan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Keterlambatan pelaporan berpotensi menimbulkan sanksi.",
+            "topic": "Pelaporan",
+            "subtopic": "Risiko Pelaporan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 34,
+            "question": "Mitigasi paling efektif untuk risiko keterlambatan laporan adalah...",
+            "options": [
+                "Mengurangi jumlah laporan",
+                "Monitoring deadline dan reminder system",
+                "Menghapus proses verifikasi",
+                "Menggunakan approval manual penuh"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Monitoring timeline mengurangi keterlambatan.",
+            "topic": "Pelaporan",
+            "subtopic": "Mitigasi Pelaporan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 35,
+            "question": "Laporan administrasi perbankan yang baik harus memenuhi prinsip berikut, kecuali...",
+            "options": [
+                "Akurat",
+                "Lengkap",
+                "Konsisten",
+                "Spekulatif"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Laporan tidak boleh bersifat spekulatif.",
+            "topic": "Pelaporan",
+            "subtopic": "Prinsip Laporan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 36,
+            "question": "Dalam konteks compliance banking, dokumen KYC yang kedaluwarsa harus...",
+            "options": [
+                "Diabaikan selama rekening aktif",
+                "Diperbarui sesuai regulasi dan ketentuan internal",
+                "Diganti hanya jika nasabah komplain",
+                "Disimpan tanpa verifikasi ulang"
+            ],
+            "correctAnswer": 1,
+            "explanation": "KYC wajib up to date sesuai regulasi.",
+            "topic": "Compliance",
+            "subtopic": "Update KYC",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 37,
+            "question": "Pegawai menemukan selisih data antara formulir fisik dan core banking system. Tindakan paling tepat adalah...",
+            "options": [
+                "Menggunakan data paling baru tanpa verifikasi",
+                "Menunggu audit tahunan",
+                "Melakukan rekonsiliasi dan verifikasi berlapis",
+                "Menghapus data fisik"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Perbedaan data harus diverifikasi untuk menghindari kesalahan dan fraud.",
+            "topic": "Validasi Data",
+            "subtopic": "Rekonsiliasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 38,
+            "question": "Dalam pengelolaan arsip, retrieval yang baik berarti...",
+            "options": [
+                "Dokumen mudah dimusnahkan",
+                "Dokumen mudah ditemukan kembali saat diperlukan",
+                "Dokumen bebas dipindahkan",
+                "Dokumen tidak perlu backup"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Retrievable berarti mudah ditemukan kembali.",
+            "topic": "Kearsipan",
+            "subtopic": "Retrievable",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 39,
+            "question": "Penggunaan spreadsheet manual lintas divisi tanpa kontrol versi paling berisiko menyebabkan...",
+            "options": [
+                "Efisiensi audit",
+                "Inkonsistensi data pelaporan",
+                "Penurunan operasional",
+                "Peningkatan confidentiality"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Spreadsheet manual rawan perbedaan data.",
+            "topic": "Pelaporan",
+            "subtopic": "Spreadsheet Risk",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 40,
+            "question": "Prinsip traceable dalam administrasi pembayaran berarti...",
+            "options": [
+                "Pembayaran dapat dibatalkan tanpa jejak",
+                "Seluruh proses transaksi dapat ditelusuri",
+                "Transaksi tidak perlu approval",
+                "Bukti transaksi boleh terpisah"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Traceable berarti memiliki audit trail jelas.",
+            "topic": "Administrasi Pembayaran",
+            "subtopic": "Traceable",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 41,
+            "question": "Seorang CS tetap memproses pembukaan rekening meskipun dokumen NPWP nasabah corporate belum diverifikasi karena target harian cabang tinggi.",
+            "options": [
+                "Risiko likuiditas",
+                "Risiko kepatuhan dan AML/KYC",
+                "Risiko suku bunga",
+                "Risiko pasar"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dokumen belum lengkap menimbulkan risiko compliance dan AML/KYC.",
+            "topic": "AML dan Compliance",
+            "subtopic": "KYC Corporate",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "compliance",
+                "AML",
+                "KYC",
+                "verifikasi",
+                "regulasi"
+            ]
+        },
+        {
+            "id": 42,
+            "question": "Terdapat dua invoice vendor dengan nominal dan tanggal hampir sama. Sistem mendeteksi potensi duplicate payment.",
+            "options": [
+                "Tetap memproses karena vendor terpercaya",
+                "Menunggu vendor komplain",
+                "Hold transaksi dan lakukan verifikasi ulang",
+                "Menghapus salah satu invoice tanpa konfirmasi"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Duplicate payment harus diverifikasi sebelum diproses.",
+            "topic": "Administrasi Pembayaran",
+            "subtopic": "Duplicate Payment",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "duplicate payment",
+                "validasi",
+                "maker-checker",
+                "verification"
+            ]
+        },
+        {
+            "id": 43,
+            "question": "Dokumen agunan kredit tidak ditemukan saat audit internal. Setelah ditelusuri, dokumen dipindahkan antarunit tanpa log serah terima.",
+            "options": [
+                "Marketing plan",
+                "Document tracking dan workflow",
+                "Penjualan produk bancassurance",
+                "Cash forecasting"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tracking dokumen yang lemah menyebabkan dokumen hilang.",
+            "topic": "Workflow Dokumen",
+            "subtopic": "Tracking Dokumen",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "tracking",
+                "serah terima",
+                "workflow",
+                "audit trail"
+            ]
+        },
+        {
+            "id": 44,
+            "question": "Petugas administrasi menemukan CIF nasabah ganda karena input manual berbeda ejaan nama.",
+            "options": [
+                "Menambah target pembukaan rekening",
+                "Penggunaan system validation dan dual verification",
+                "Menghapus CIF lama tanpa investigasi",
+                "Menonaktifkan fitur pencarian nasabah"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Validasi sistem dan dual verification mengurangi duplicate CIF.",
+            "topic": "CIF",
+            "subtopic": "Duplicate CIF",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "duplicate CIF",
+                "validation",
+                "dual control"
+            ]
+        },
+        {
+            "id": 45,
+            "question": "Laporan bulanan OJK terlambat dikirim karena data dari beberapa unit belum direkonsiliasi.",
+            "options": [
+                "Tidak ada promosi produk",
+                "Lemahnya koordinasi dan monitoring timeline",
+                "Tingginya suku bunga pasar",
+                "Rendahnya saldo CASA"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Keterlambatan laporan disebabkan lemahnya monitoring timeline.",
+            "topic": "Pelaporan",
+            "subtopic": "Monitoring Deadline",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "deadline",
+                "monitoring",
+                "regulator",
+                "pelaporan"
+            ]
+        },
+        {
+            "id": 46,
+            "question": "Pegawai mengirim file data nasabah melalui email pribadi agar dapat bekerja dari rumah.",
+            "options": [
+                "Risiko reputasi dan kebocoran data",
+                "Risiko over provisioning",
+                "Risiko mismatch valuta asing",
+                "Risiko market risk"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Pengiriman data ke email pribadi berisiko data leakage.",
+            "topic": "Keamanan Data",
+            "subtopic": "Confidentiality",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "data leakage",
+                "confidentiality",
+                "access control"
+            ]
+        },
+        {
+            "id": 47,
+            "question": "Nasabah mengajukan komplain karena pembayaran kredit sudah dilakukan tetapi belum terposting di core banking.",
+            "options": [
+                "Menolak komplain nasabah",
+                "Melakukan rekonsiliasi jurnal dan bukti transaksi",
+                "Menghapus transaksi lama",
+                "Meminta nasabah membayar ulang"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Rekonsiliasi diperlukan untuk memastikan status posting transaksi.",
+            "topic": "Rekonsiliasi",
+            "subtopic": "Posting Transaksi",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "reconciliation",
+                "posting",
+                "jurnal",
+                "verification"
+            ]
+        },
+        {
+            "id": 48,
+            "question": "Supervisor meminta staf junior melakukan input sekaligus approval pembayaran agar proses lebih cepat.",
+            "options": [
+                "Retensi arsip",
+                "Segregation of duties",
+                "Filing numerik",
+                "Cross reference"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Input dan approval tidak boleh dilakukan pihak yang sama.",
+            "topic": "Pengendalian Internal",
+            "subtopic": "Segregation of Duties",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "SoD",
+                "maker checker",
+                "fraud risk"
+            ]
+        },
+        {
+            "id": 49,
+            "question": "Dokumen fisik pembukaan rekening lengkap, tetapi hasil scanning di DMS tidak terbaca jelas.",
+            "options": [
+                "Menghapus arsip fisik",
+                "Mengabaikan karena dokumen fisik masih ada",
+                "Melakukan scanning ulang dan quality check",
+                "Menunggu audit menemukan masalah"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Dokumen digital harus terbaca jelas untuk audit readiness.",
+            "topic": "Digital Filing",
+            "subtopic": "Quality Check",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "digital archive",
+                "backup",
+                "audit readiness"
+            ]
+        },
+        {
+            "id": 50,
+            "question": "Nasabah prioritas meminta dokumen transaksi milik pasangan bisnisnya karena merasa dekat dengan kepala cabang.",
+            "options": [
+                "Memberikan dokumen demi menjaga relasi",
+                "Menolak karena melanggar asas kerahasiaan",
+                "Memberikan sebagian informasi saja",
+                "Mengirim melalui WhatsApp pribadi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dokumen hanya boleh diakses pihak berwenang.",
+            "topic": "Kerahasiaan Data",
+            "subtopic": "Confidentiality",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "confidentiality",
+                "kerahasiaan",
+                "unauthorized access"
+            ]
+        },
+        {
+            "id": 51,
+            "question": "Cabang menemukan banyak dokumen transaksi masih disimpan di meja operasional setelah jam kerja.",
+            "options": [
+                "Over staffing",
+                "Kebocoran dan kehilangan dokumen",
+                "Peningkatan SLA",
+                "Kenaikan CKPN"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dokumen yang tidak diamankan berisiko hilang atau bocor.",
+            "topic": "Keamanan Arsip",
+            "subtopic": "Physical Security",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "physical security",
+                "document loss",
+                "confidentiality"
+            ]
+        },
+        {
+            "id": 52,
+            "question": "Analis kredit menetapkan kualitas kredit tetap Lancar meskipun terdapat tunggakan lebih dari 90 hari karena nasabah dianggap loyal.",
+            "options": [
+                "Prinsip konservatif dan objektivitas analisis",
+                "Prinsip pemasaran produk",
+                "SLA operasional teller",
+                "Filing arsip digital"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Kolektibilitas harus ditentukan objektif sesuai kondisi.",
+            "topic": "Kualitas Aset",
+            "subtopic": "Misclassification",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "kolektibilitas",
+                "konservatif",
+                "misclassification"
+            ]
+        },
+        {
+            "id": 53,
+            "question": "Dalam audit ditemukan CKPN dihitung menggunakan data agunan lama yang belum diperbarui.",
+            "options": [
+                "Under provisioning",
+                "Double payment",
+                "Duplicate CIF",
+                "Keterlambatan teller balancing"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Data lama dapat menyebabkan CKPN tidak akurat.",
+            "topic": "CKPN",
+            "subtopic": "Validasi Data",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "CKPN",
+                "outdated data",
+                "provisioning"
+            ]
+        },
+        {
+            "id": 54,
+            "question": "Pegawai menemukan surat masuk regulator belum didistribusikan ke unit terkait selama tiga hari.",
+            "options": [
+                "Tracking administrasi dokumen",
+                "Pengelolaan ATM",
+                "Treasury funding",
+                "Cash opname"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Dokumen regulator harus ditrack dan didistribusikan tepat waktu.",
+            "topic": "Administrasi Dokumen",
+            "subtopic": "Distribusi Dokumen",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "tracking",
+                "distribution",
+                "incoming document"
+            ]
+        },
+        {
+            "id": 55,
+            "question": "Petugas filing menyimpan dokumen berdasarkan nama depan nasabah, sementara unit lain menggunakan nomor CIF.",
+            "options": [
+                "Mempermudah retrieval lintas unit",
+                "Inkonsistensi filing dan kesulitan pencarian",
+                "Penurunan kebutuhan backup",
+                "Pengurangan audit finding"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Standarisasi filing penting untuk retrieval.",
+            "topic": "Filing",
+            "subtopic": "Standardisasi Filing",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "standardization",
+                "retrieval",
+                "filing consistency"
+            ]
+        },
+        {
+            "id": 56,
+            "question": "Terdapat backlog ratusan dokumen kredit yang belum di-scan ke DMS.",
+            "options": [
+                "Menunggu audit internal",
+                "Melakukan digitalisasi bertahap dengan monitoring progress",
+                "Memusnahkan dokumen lama",
+                "Menutup sementara layanan kredit"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Backlog harus diselesaikan dengan monitoring progres.",
+            "topic": "Digital Filing",
+            "subtopic": "Backlog Arsip",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "digitalization",
+                "backlog",
+                "document management"
+            ]
+        },
+        {
+            "id": 57,
+            "question": "Petugas administrasi menemukan adanya perubahan data nasabah tanpa approval dan tanpa jejak audit system.",
+            "options": [
+                "Fraud dan lemahnya audit trail",
+                "Over liquidity",
+                "Interest rate mismatch",
+                "Penurunan CASA"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Perubahan tanpa audit trail berisiko fraud.",
+            "topic": "Audit Trail",
+            "subtopic": "Unauthorized Change",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "audit trail",
+                "fraud",
+                "unauthorized change"
+            ]
+        },
+        {
+            "id": 58,
+            "question": "Laporan internal manajemen dibuat menggunakan data yang belum diverifikasi demi mengejar deadline.",
+            "options": [
+                "Tetap mengirim laporan tanpa revisi",
+                "Menunda verifikasi agar SLA tercapai",
+                "Memastikan validasi data meskipun perlu eskalasi keterlambatan",
+                "Menghapus data yang meragukan"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Validasi data lebih penting daripada mengejar deadline tanpa akurasi.",
+            "topic": "Pelaporan",
+            "subtopic": "Integrity Report",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "accuracy",
+                "validation",
+                "escalation"
+            ]
+        },
+        {
+            "id": 59,
+            "question": "Dalam proses pembayaran vendor, ditemukan invoice tanpa kontrak pendukung namun sudah memperoleh approval lisan.",
+            "options": [
+                "Tetap memproses karena sudah ada approval lisan",
+                "Menolak sementara sampai dokumen pendukung lengkap",
+                "Membayar sebagian nominal dulu",
+                "Menghapus invoice dari sistem"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dokumen pendukung wajib lengkap sesuai SOP.",
+            "topic": "Administrasi Pembayaran",
+            "subtopic": "Supporting Document",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "supporting document",
+                "authorization",
+                "SOP"
+            ]
+        },
+        {
+            "id": 60,
+            "question": "Seorang staf menghapus file transaksi lama dari shared folder karena menganggap data tersebut sudah tidak dipakai.",
+            "options": [
+                "Tidak mengikuti retensi dan kebijakan arsip",
+                "Salah menghitung CKPN",
+                "Kesalahan penempatan agunan",
+                "Pelanggaran teller balancing"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Penghapusan arsip harus mengikuti retensi dan kebijakan bank.",
+            "topic": "Retensi Arsip",
+            "subtopic": "Archive Policy",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "retention",
+                "archive policy",
+                "audit requirement"
+            ]
+        },
+        {
+            "id": 61,
+            "question": "Dokumen transaksi yang belum lengkap namun tetap diproses pembayaran memiliki risiko utama berupa...",
+            "options": [
+                "SLA improvement",
+                "Unauthorized transaction",
+                "Penurunan biaya operasional",
+                "Kelebihan backup"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dokumen tidak lengkap dapat menyebabkan transaksi tidak sah.",
+            "topic": "Administrasi Pembayaran",
+            "subtopic": "Unauthorized Transaction",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 62,
+            "question": "Jika arsip fisik dan digital berbeda isi, tindakan paling tepat adalah...",
+            "options": [
+                "Menggunakan data paling menguntungkan bank",
+                "Menghapus salah satu dokumen",
+                "Melakukan investigasi dan validasi sumber data",
+                "Mengabaikan selama nominal kecil"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Perbedaan arsip harus ditelusuri sumbernya.",
+            "topic": "Validasi Arsip",
+            "subtopic": "Investigasi Data",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 63,
+            "question": "Dalam SOP administrasi dokumen, approval authority diperlukan terutama untuk memastikan...",
+            "options": [
+                "Semua pegawai memiliki akses penuh",
+                "Tidak ada transaksi atau dokumen diproses tanpa kewenangan",
+                "Arsip dapat dipindahkan bebas",
+                "Mengurangi kebutuhan audit"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Approval authority memastikan transaksi sesuai kewenangan.",
+            "topic": "Approval Authority",
+            "subtopic": "Kewenangan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 64,
+            "question": "Dokumen agunan yang terselip karena tidak ada tanda terima antarbagian menunjukkan kelemahan utama pada...",
+            "options": [
+                "Market analysis",
+                "Workflow dan document tracking",
+                "Treasury operation",
+                "Customer acquisition"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tracking dokumen yang lemah menyebabkan dokumen terselip.",
+            "topic": "Workflow Dokumen",
+            "subtopic": "Document Tracking",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 65,
+            "question": "Seorang supervisor menemukan pegawai menggunakan akun user rekan kerja untuk approval pembayaran vendor.",
+            "options": [
+                "Peningkatan SLA",
+                "Pelanggaran segregation of duties dan fraud risk",
+                "Penurunan kebutuhan audit",
+                "Over provisioning"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Penggunaan user pihak lain melanggar kontrol internal.",
+            "topic": "Fraud Control",
+            "subtopic": "User Access",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 66,
+            "question": "Dokumen arsip inaktif seharusnya dikelola menggunakan asas...",
+            "options": [
+                "Desentralisasi penuh",
+                "Sentralisasi",
+                "Open access",
+                "Temporary filing"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Arsip inaktif dikelola terpusat berdasarkan asas sentralisasi.",
+            "topic": "Kearsipan",
+            "subtopic": "Sentralisasi Arsip",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 67,
+            "question": "Dokumen transaksi keuangan umumnya memiliki masa retensi...",
+            "options": [
+                "1–2 tahun",
+                "3–4 tahun",
+                "5–10 tahun",
+                "15–20 tahun"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Dokumen transaksi keuangan disimpan 5–10 tahun sesuai jenis transaksi.",
+            "topic": "Retensi Arsip",
+            "subtopic": "Retensi Transaksi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 68,
+            "question": "Pemeliharaan arsip bertujuan utama untuk...",
+            "options": [
+                "Mengurangi jumlah dokumen",
+                "Menjaga kualitas dan keamanan arsip",
+                "Menghapus audit trail",
+                "Mengurangi kebutuhan filing"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Pemeliharaan menjaga arsip tetap aman dan dapat digunakan.",
+            "topic": "Kearsipan",
+            "subtopic": "Pemeliharaan Arsip",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 69,
+            "question": "Alih media arsip dilakukan terutama untuk...",
+            "options": [
+                "Mengurangi legalitas dokumen",
+                "Digitalisasi dan efisiensi penyimpanan",
+                "Menghapus arsip fisik seluruhnya",
+                "Menghindari audit regulator"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Alih media mendukung digitalisasi dan backup dokumen.",
+            "topic": "Digital Filing",
+            "subtopic": "Alih Media Arsip",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 70,
+            "question": "Asas pertanggungjawaban dalam pengelolaan arsip berarti...",
+            "options": [
+                "Seluruh arsip menjadi tanggung jawab regulator",
+                "Setiap pegawai bertanggung jawab sesuai fungsi dan tugasnya",
+                "Hanya unit audit yang bertanggung jawab",
+                "Dokumen dapat dipindahkan tanpa pencatatan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Setiap pegawai wajib menjaga tertib pengelolaan arsip sesuai tugasnya.",
+            "topic": "Kearsipan",
+            "subtopic": "Asas Pertanggungjawaban",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        }
+    ]
+}
