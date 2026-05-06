@@ -1,0 +1,1288 @@
+{
+    "quizTitle": "Mengelola Aspek-Aspek Hukum",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Dalam konteks risiko hukum perbankan, kondisi berikut yang PALING tepat dikategorikan sebagai kelemahan aspek yuridis adalah...",
+            "options": [
+                "Teller salah menghitung uang tunai saat cash opname",
+                "Perjanjian kredit memiliki klausul multi tafsir dan tidak mengatur default event secara jelas",
+                "Sistem core banking mengalami overload saat akhir bulan",
+                "Nasabah komplain karena antrean customer service panjang"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Klausul multi tafsir merupakan kelemahan aspek yuridis yang dapat memicu sengketa hukum.",
+            "topic": "Risiko Hukum",
+            "subtopic": "Kelemahan Yuridis",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 2,
+            "question": "Bank menghadapi gugatan dari nasabah karena pencairan deposito dilakukan tanpa verifikasi tanda tangan yang memadai. Kasus tersebut PALING tepat dikategorikan sebagai...",
+            "options": [
+                "Risiko pasar",
+                "Risiko strategis",
+                "Risiko hukum",
+                "Risiko treasury"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Gugatan akibat kesalahan verifikasi transaksi termasuk risiko hukum.",
+            "topic": "Risiko Hukum",
+            "subtopic": "Tuntutan Hukum",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 3,
+            "question": "Dasar hubungan hukum antara bank dan nasabah secara yuridis mulai terjadi pada saat...",
+            "options": [
+                "Nasabah datang ke kantor cabang",
+                "Nasabah menerima brosur produk",
+                "Terjadi penandatanganan perjanjian atau kontrak",
+                "Nasabah memperoleh user ID mobile banking"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Hubungan hukum dimulai sejak adanya penandatanganan perjanjian.",
+            "topic": "Hubungan Hukum",
+            "subtopic": "Dasar Hubungan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 4,
+            "question": "Dalam hubungan hukum bank dan nasabah dana, posisi hukum bank adalah...",
+            "options": [
+                "Kreditur yang wajib menjaga dana sendiri",
+                "Debitur yang wajib mengembalikan dana nasabah sesuai ketentuan",
+                "Penjamin independen tanpa kewajiban pengembalian",
+                "Agen investasi yang bebas dari kewajiban kontraktual"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bank berkedudukan sebagai pihak yang berutang kepada nasabah penyimpan.",
+            "topic": "Hubungan Hukum",
+            "subtopic": "Kedudukan Bank",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 5,
+            "question": "Nasabah debitur dalam hubungan kredit memiliki kewajiban utama berupa...",
+            "options": [
+                "Menjamin stabilitas sistem perbankan",
+                "Menyimpan dana minimum di rekening giro",
+                "Mengembalikan kredit sesuai perjanjian kredit",
+                "Menanggung seluruh risiko operasional bank"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Debitur wajib mengembalikan kredit sesuai perjanjian.",
+            "topic": "Nasabah Kredit",
+            "subtopic": "Kewajiban Debitur",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 6,
+            "question": "Dokumen berikut yang TIDAK termasuk dokumen hubungan hukum bank dengan nasabah dana adalah...",
+            "options": [
+                "SUPR",
+                "Standing instruction",
+                "Surat persetujuan pemberian kredit",
+                "Aplikasi pembukaan rekening"
+            ],
+            "correctAnswer": 2,
+            "explanation": "SPPK merupakan dokumen kredit, bukan dokumen rekening dana.",
+            "topic": "Dokumen Hukum",
+            "subtopic": "Nasabah Dana",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 7,
+            "question": "Salah satu titik kritis dalam pembukaan rekening badan usaha adalah memastikan...",
+            "options": [
+                "Desain logo perusahaan",
+                "Kewenangan pihak yang bertindak mewakili badan usaha",
+                "Jumlah pegawai perusahaan",
+                "Target penjualan tahunan perusahaan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Kewenangan bertindak harus diverifikasi agar pengikatan sah.",
+            "topic": "Subyek Hukum Badan",
+            "subtopic": "Kewenangan Bertindak",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 8,
+            "question": "Yang termasuk informasi rahasia bank menurut ketentuan rahasia bank adalah...",
+            "options": [
+                "Informasi rekening kredit nasabah",
+                "Data vendor pengadaan bank",
+                "Saldo simpanan nasabah penyimpan",
+                "Nilai appraisal agunan umum"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Saldo simpanan termasuk informasi rahasia bank.",
+            "topic": "Rahasia Bank",
+            "subtopic": "Informasi Rahasia",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 9,
+            "question": "Berikut yang BUKAN merupakan rahasia bank adalah...",
+            "options": [
+                "Saldo tabungan nasabah",
+                "Rekening koran simpanan",
+                "Aplikasi pembukaan rekening",
+                "Informasi rekening pinjaman nasabah"
+            ],
+            "correctAnswer": 3,
+            "explanation": "Informasi pinjaman tidak termasuk ruang lingkup rahasia bank menurut ketentuan.",
+            "topic": "Rahasia Bank",
+            "subtopic": "Pengecualian",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 10,
+            "question": "Lembaga yang dibentuk untuk menjamin simpanan masyarakat pada bank adalah...",
+            "options": [
+                "OJK",
+                "BI",
+                "PPATK",
+                "LPS"
+            ],
+            "correctAnswer": 3,
+            "explanation": "LPS dibentuk untuk menjamin simpanan masyarakat.",
+            "topic": "LPS",
+            "subtopic": "Penjaminan Simpanan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 11,
+            "question": "Saat ini nilai simpanan nasabah yang dijamin LPS per nasabah per bank adalah sebesar...",
+            "options": [
+                "Rp500 juta",
+                "Rp1 miliar",
+                "Rp2 miliar",
+                "Tanpa batas nominal"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Nilai penjaminan LPS sebesar Rp2 miliar per nasabah per bank.",
+            "topic": "LPS",
+            "subtopic": "Nilai Penjaminan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 12,
+            "question": "Salah satu bentuk perlindungan konsumen di sektor perbankan adalah larangan...",
+            "options": [
+                "Penggunaan tanda tangan elektronik",
+                "Penggunaan SOP internal",
+                "Klausula baku yang merugikan konsumen secara sepihak",
+                "Penggunaan rekening dormant"
+            ],
+            "correctAnswer": 2,
+            "explanation": "UU Perlindungan Konsumen melarang klausula baku yang merugikan konsumen.",
+            "topic": "Perlindungan Konsumen",
+            "subtopic": "Klausula Baku",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 13,
+            "question": "Keterlambatan pelayanan kepada nasabah yang menyebabkan kerugian finansial berpotensi berkembang menjadi...",
+            "options": [
+                "Risiko pasar",
+                "Sengketa hukum",
+                "Risiko likuiditas",
+                "Risiko treasury"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Keterlambatan pelayanan dapat memicu tuntutan hukum.",
+            "topic": "Risiko Hukum",
+            "subtopic": "Potensi Sengketa",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 14,
+            "question": "Mitigasi risiko hukum yang PALING efektif untuk mengurangi multi tafsir perjanjian adalah...",
+            "options": [
+                "Menambah target penjualan cabang",
+                "Membatasi jumlah nasabah baru",
+                "Review legal dan standardisasi klausul perjanjian",
+                "Menutup akses internet banking"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Review legal dapat meminimalkan multi tafsir klausul.",
+            "topic": "Mitigasi Risiko",
+            "subtopic": "Review Legal",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 15,
+            "question": "Subyek hukum adalah...",
+            "options": [
+                "Seluruh pihak yang bekerja di bank",
+                "Penyandang hak dan kewajiban",
+                "Pihak yang memiliki NPWP",
+                "Pihak yang memiliki rekening bank"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Subyek hukum adalah penyandang hak dan kewajiban.",
+            "topic": "Subyek Hukum",
+            "subtopic": "Pengertian",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 16,
+            "question": "Berikut yang termasuk subyek hukum badan adalah...",
+            "options": [
+                "Firma",
+                "CV",
+                "Yayasan",
+                "Maatschap"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Yayasan termasuk badan hukum.",
+            "topic": "Subyek Hukum",
+            "subtopic": "Badan Hukum",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 17,
+            "question": "Seseorang dianggap cakap hukum apabila...",
+            "options": [
+                "Berusia minimal 18 tahun tanpa syarat lain",
+                "Memiliki pekerjaan tetap",
+                "Berusia 21 tahun atau telah menikah dan tidak berada di bawah pengampuan",
+                "Memiliki NPWP aktif"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Syarat cakap hukum menurut KUH Perdata adalah dewasa dan tidak di bawah pengampuan.",
+            "topic": "Subyek Hukum Orang",
+            "subtopic": "Cakap Hukum",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 18,
+            "question": "Anak yang belum dewasa melakukan perbuatan hukum melalui...",
+            "options": [
+                "Direksi",
+                "Kurator",
+                "Wali",
+                "Komisaris"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Anak di bawah umur diwakili wali.",
+            "topic": "Perwalian",
+            "subtopic": "Anak Belum Dewasa",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 19,
+            "question": "Dalam pembukaan rekening tabungan anak di bawah umur, apabila wali bukan orang tua kandung maka wajib dilengkapi dengan...",
+            "options": [
+                "Surat rekomendasi RT",
+                "Penetapan pengadilan",
+                "Kartu pelajar anak",
+                "Surat kuasa lisan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Perwalian di luar orang tua harus disertai penetapan pengadilan.",
+            "topic": "Perwalian",
+            "subtopic": "Dokumen Wali",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 20,
+            "question": "Orang yang berada di bawah pengampuan secara hukum dianggap...",
+            "options": [
+                "Cakap penuh tanpa pembatasan",
+                "Tidak cakap melakukan tindakan hukum tertentu",
+                "Otomatis kehilangan hak waris",
+                "Tidak dapat memiliki rekening bank"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Orang di bawah pengampuan dianggap tidak cakap hukum.",
+            "topic": "Pengampuan",
+            "subtopic": "Status Hukum",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 21,
+            "question": "Jika terdapat keraguan terhadap keaslian KTP nasabah, tindakan mitigasi yang paling tepat adalah...",
+            "options": [
+                "Mengabaikannya selama nasabah dikenal pegawai",
+                "Meminta nasabah membawa saksi",
+                "Melakukan verifikasi ke Dukcapil",
+                "Menunggu laporan fraud terlebih dahulu"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Validasi Dukcapil dilakukan untuk memastikan keabsahan identitas.",
+            "topic": "Verifikasi Dokumen",
+            "subtopic": "Dukcapil",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 22,
+            "question": "Persekutuan Perdata termasuk kategori...",
+            "options": [
+                "Badan hukum publik",
+                "Badan hukum privat",
+                "Bukan badan hukum",
+                "Organ negara"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Persekutuan Perdata termasuk bukan badan hukum.",
+            "topic": "Subyek Hukum Badan",
+            "subtopic": "Persekutuan Perdata",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 23,
+            "question": "Dalam firma, tanggung jawab para sekutu bersifat...",
+            "options": [
+                "Terbatas sebesar modal",
+                "Tanggung renteng",
+                "Tidak dapat dimintakan pertanggungjawaban",
+                "Bergantung kebijakan teller"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sekutu firma bertanggung jawab secara tanggung renteng.",
+            "topic": "Firma",
+            "subtopic": "Tanggung Jawab",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 24,
+            "question": "Dalam CV, pihak yang berwenang mewakili CV kepada pihak ketiga adalah...",
+            "options": [
+                "Sekutu pasif",
+                "Komisaris independen",
+                "Sekutu komplementer",
+                "Investor eksternal"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Sekutu aktif/komplementer berwenang mewakili CV.",
+            "topic": "CV",
+            "subtopic": "Kewenangan Bertindak",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 25,
+            "question": "Sekutu komanditer pada CV memiliki karakteristik...",
+            "options": [
+                "Mengurus operasional harian CV",
+                "Bertanggung jawab hingga harta pribadi tanpa batas",
+                "Tidak turut mengurus CV dan bertanggung jawab terbatas pada modal",
+                "Memiliki kewenangan mutlak menandatangani perjanjian"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Sekutu pasif tidak mengurus CV dan tanggung jawabnya terbatas.",
+            "topic": "CV",
+            "subtopic": "Sekutu Pasif",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 26,
+            "question": "Dokumen yang menjadi bukti pengesahan badan hukum oleh negara adalah...",
+            "options": [
+                "NPWP",
+                "Surat pengesahan Kemenkumham",
+                "SIUP",
+                "Rekening koran"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Pengesahan badan hukum diberikan oleh Kemenkumham.",
+            "topic": "Badan Hukum",
+            "subtopic": "Pengesahan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 27,
+            "question": "Menurut Pasal 1320 KUH Perdata, syarat subjektif perjanjian adalah...",
+            "options": [
+                "Obyek tertentu dan causa halal",
+                "Kesepakatan dan kecakapan hukum",
+                "Kecakapan dan jaminan kebendaan",
+                "Obyek tertentu dan akta notaris"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Syarat subjektif adalah kesepakatan dan kecakapan hukum.",
+            "topic": "Hukum Perjanjian",
+            "subtopic": "Syarat Sah",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 28,
+            "question": "Apabila syarat objektif suatu perjanjian tidak terpenuhi maka akibat hukumnya adalah...",
+            "options": [
+                "Perjanjian dapat diperbaiki sepihak",
+                "Perjanjian batal demi hukum",
+                "Perjanjian otomatis diperpanjang",
+                "Perjanjian tetap berlaku selama tidak digugat"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tidak terpenuhinya syarat objektif menyebabkan batal demi hukum.",
+            "topic": "Hukum Perjanjian",
+            "subtopic": "Akibat Hukum",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 29,
+            "question": "Yang termasuk causa tidak halal adalah perjanjian yang...",
+            "options": [
+                "Ditandatangani secara elektronik",
+                "Dibuat di bawah tangan",
+                "Bertentangan dengan ketertiban umum",
+                "Tidak menggunakan meterai"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Causa tidak halal bertentangan dengan hukum, kesusilaan, atau ketertiban umum.",
+            "topic": "Hukum Perjanjian",
+            "subtopic": "Causa Halal",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 30,
+            "question": "Asas pacta sunt servanda mengandung arti bahwa...",
+            "options": [
+                "Semua perjanjian wajib dibuat notaris",
+                "Perjanjian yang sah berlaku sebagai undang-undang bagi pihak yang membuatnya",
+                "Semua sengketa wajib diselesaikan di pengadilan",
+                "Bank bebas mengubah isi perjanjian secara sepihak"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Perjanjian yang sah mengikat para pihak seperti undang-undang.",
+            "topic": "Asas Perjanjian",
+            "subtopic": "Pacta Sunt Servanda",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 31,
+            "question": "Perjanjian kerja termasuk bentuk prestasi berupa...",
+            "options": [
+                "Memberikan sesuatu",
+                "Tidak berbuat sesuatu",
+                "Melakukan sesuatu",
+                "Menahan sesuatu"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Perjanjian kerja termasuk prestasi melakukan sesuatu.",
+            "topic": "Prestasi Perjanjian",
+            "subtopic": "Melakukan Sesuatu",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 32,
+            "question": "Debitur membayar cicilan sesuai nominal namun melewati jatuh tempo berulang kali. Kondisi tersebut termasuk bentuk wanprestasi berupa...",
+            "options": [
+                "Tidak melakukan apa yang disanggupi",
+                "Melakukan sesuatu yang dilarang",
+                "Melakukan prestasi tetapi terlambat",
+                "Tidak ada wanprestasi karena nominal sesuai"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Keterlambatan pembayaran termasuk wanprestasi.",
+            "topic": "Wanprestasi",
+            "subtopic": "Keterlambatan Prestasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 33,
+            "question": "Akta otentik dibuat oleh atau di hadapan...",
+            "options": [
+                "Kepala cabang bank",
+                "Customer service bank",
+                "Pejabat umum yang berwenang",
+                "Auditor internal"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Akta otentik dibuat oleh atau di hadapan pejabat umum.",
+            "topic": "Akta",
+            "subtopic": "Akta Otentik",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 34,
+            "question": "Kekuatan pembuktian sempurna melekat pada...",
+            "options": [
+                "Surat email internal",
+                "Akta otentik",
+                "Memo teller",
+                "Draft perjanjian"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Akta otentik memiliki kekuatan pembuktian sempurna.",
+            "topic": "Akta",
+            "subtopic": "Pembuktian",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 35,
+            "question": "Perbedaan utama akta di bawah tangan dibanding akta otentik adalah...",
+            "options": [
+                "Tidak memerlukan tanda tangan",
+                "Tidak dapat dijadikan alat bukti sama sekali",
+                "Harus diakui kebenarannya oleh para pihak",
+                "Selalu dibuat notaris"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Akta bawah tangan harus diakui oleh pihak terkait.",
+            "topic": "Akta",
+            "subtopic": "Akta Bawah Tangan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 36,
+            "question": "Apabila isi akta otentik diperselisihkan, maka pihak yang menyatakan akta tersebut tidak benar...",
+            "options": [
+                "Tidak perlu membuktikan apa pun",
+                "Harus membuktikan ketidakbenaran akta tersebut",
+                "Otomatis menang di pengadilan",
+                "Wajib meminta persetujuan notaris"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Beban pembuktian ada pada pihak yang menyangkal akta otentik.",
+            "topic": "Akta",
+            "subtopic": "Beban Pembuktian",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 37,
+            "question": "Legalisasi oleh notaris bertujuan untuk...",
+            "options": [
+                "Mengubah akta bawah tangan menjadi akta otentik penuh",
+                "Memberikan kepastian tanda tangan dan tanggal",
+                "Menghapus kewajiban meterai",
+                "Mengalihkan hak kepemilikan otomatis"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Legalisasi memastikan kepastian tanda tangan dan tanggal.",
+            "topic": "Legalisasi",
+            "subtopic": "Fungsi Legalisasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 38,
+            "question": "Waarmerking berbeda dengan legalisasi karena pada waarmerking...",
+            "options": [
+                "Notaris ikut menyusun isi perjanjian",
+                "Penandatanganan dilakukan di hadapan hakim",
+                "Akta telah ditandatangani sebelumnya oleh para pihak",
+                "Akta otomatis menjadi akta otentik"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Pada waarmerking, dokumen telah ditandatangani sebelum dicatat notaris.",
+            "topic": "Waarmerking",
+            "subtopic": "Perbedaan Legalisasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 39,
+            "question": "Urutan kekuatan pembuktian dokumen dari yang paling kuat adalah...",
+            "options": [
+                "Waarmerking – legalisasi – akta otentik – akta bawah tangan",
+                "Akta bawah tangan – legalisasi – waarmerking – akta otentik",
+                "Akta otentik – legalisasi – waarmerking – akta bawah tangan",
+                "Legalisasi – akta otentik – waarmerking – akta bawah tangan"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Akta otentik memiliki kekuatan pembuktian tertinggi.",
+            "topic": "Pembuktian Dokumen",
+            "subtopic": "Urutan Pembuktian",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 40,
+            "question": "Dokumen agunan berupa kendaraan bermotor umumnya dibuktikan dengan...",
+            "options": [
+                "IMB",
+                "BPKB",
+                "SHM",
+                "Akta lahir"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Kepemilikan kendaraan dibuktikan dengan BPKB.",
+            "topic": "Dokumen Agunan",
+            "subtopic": "Kendaraan Bermotor",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 41,
+            "question": "Review perjanjian sebelum penandatanganan bertujuan utama untuk memastikan...",
+            "options": [
+                "Layout dokumen menarik",
+                "Seluruh klausul dan kewenangan para pihak sesuai ketentuan",
+                "Jumlah halaman genap",
+                "Semua pihak menggunakan tinta yang sama"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Review memastikan perjanjian sah dan sesuai ketentuan.",
+            "topic": "Pengikatan Perjanjian",
+            "subtopic": "Review Perjanjian",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 42,
+            "question": "Dalam konteks mitigasi risiko hukum, penerapan prinsip perlindungan data nasabah bertujuan utama untuk mencegah...",
+            "options": [
+                "Risiko likuiditas",
+                "Pelanggaran rahasia bank",
+                "Risiko pasar valas",
+                "Penurunan NIM bank"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Perlindungan data nasabah mencegah pelanggaran rahasia bank.",
+            "topic": "Mitigasi Risiko",
+            "subtopic": "Perlindungan Data",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 43,
+            "question": "Seorang pegawai bank menyerahkan dana warisan tanpa dokumen ahli waris yang lengkap. Risiko utama yang muncul adalah...",
+            "options": [
+                "Risiko suku bunga",
+                "Risiko pasar",
+                "Sengketa hukum antar ahli waris",
+                "Risiko translasi valuta asing"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Penyerahan dana tanpa dokumen lengkap dapat memicu sengketa waris.",
+            "topic": "Warisan Nasabah",
+            "subtopic": "Dokumen Ahli Waris",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 44,
+            "question": "Dalam hubungan hukum bank dengan nasabah kredit, hak bank yang paling esensial adalah...",
+            "options": [
+                "Mengubah bunga tanpa dasar hukum",
+                "Menerima pengembalian dana sesuai perjanjian kredit",
+                "Menolak seluruh permintaan informasi debitur",
+                "Menghapus agunan tanpa persetujuan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hak utama bank adalah menerima pengembalian kredit.",
+            "topic": "Nasabah Kredit",
+            "subtopic": "Hak Bank",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 45,
+            "question": "Perubahan regulasi yang tidak diantisipasi dapat menyebabkan risiko hukum karena...",
+            "options": [
+                "Semua kontrak otomatis batal",
+                "Produk atau transaksi menjadi tidak sesuai ketentuan",
+                "Nasabah bebas dari kewajiban pembayaran",
+                "Seluruh rekening harus ditutup"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Ketidaksesuaian regulasi dapat menimbulkan pelanggaran hukum.",
+            "topic": "Risiko Hukum",
+            "subtopic": "Perubahan Regulasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 46,
+            "question": "Dalam PT, pihak yang umumnya berwenang mewakili perseroan adalah...",
+            "options": [
+                "Seluruh pemegang saham tanpa batas",
+                "Direksi sesuai anggaran dasar",
+                "Seluruh karyawan tetap",
+                "Auditor eksternal"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Direksi mewakili PT sesuai anggaran dasar.",
+            "topic": "Perseroan Terbatas",
+            "subtopic": "Direksi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 47,
+            "question": "Seorang nasabah menandatangani perjanjian karena tekanan ancaman dari pihak lain. Syarat sah perjanjian yang bermasalah adalah...",
+            "options": [
+                "Obyek tertentu",
+                "Causa halal",
+                "Kesepakatan",
+                "Bentuk akta"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Ancaman menyebabkan kesepakatan menjadi cacat.",
+            "topic": "Hukum Perjanjian",
+            "subtopic": "Kesepakatan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 48,
+            "question": "Bank menerima dokumen badan usaha lengkap, namun tidak melakukan pengecekan keabsahan dokumen. Risiko terbesar dari tindakan tersebut adalah...",
+            "options": [
+                "Risiko reputasi semata",
+                "Pengikatan perjanjian dengan pihak yang tidak sah",
+                "Penurunan saldo tabungan",
+                "Kesalahan perhitungan bunga harian"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dokumen yang tidak diverifikasi dapat menyebabkan perjanjian tidak sah.",
+            "topic": "Verifikasi Dokumen",
+            "subtopic": "Keabsahan Dokumen",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 49,
+            "question": "Yang PALING tepat menggambarkan asas kebebasan berkontrak adalah...",
+            "options": [
+                "Semua perjanjian wajib mengikuti format pemerintah",
+                "Para pihak bebas menentukan isi perjanjian sepanjang tidak melanggar hukum",
+                "Perjanjian hanya sah jika dibuat notaris",
+                "Bank wajib menerima seluruh permintaan nasabah"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Asas kebebasan berkontrak memberi kebebasan menentukan isi perjanjian.",
+            "topic": "Asas Perjanjian",
+            "subtopic": "Kebebasan Berkontrak",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 50,
+            "question": "Seorang pegawai bank menganggap rekening pinjaman termasuk rahasia bank sehingga menolak memberikan informasi dalam proses hukum yang sah. Kesalahan utama pegawai tersebut adalah...",
+            "options": [
+                "Mengabaikan prinsip fiduciary duty",
+                "Salah memahami ruang lingkup rahasia bank",
+                "Tidak memahami risiko pasar",
+                "Salah menghitung outstanding loan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Informasi rekening pinjaman bukan kategori rahasia bank pada ketentuan tersebut.",
+            "topic": "Rahasia Bank",
+            "subtopic": "Ruang Lingkup Rahasia",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 51,
+            "question": "Seorang customer service membuka rekening PT tanpa memeriksa kewenangan direktur yang hadir. Belakangan diketahui direktur tersebut telah diberhentikan melalui RUPS. Apa risiko hukum utama bagi bank?",
+            "options": [
+                "Risiko pasar",
+                "Perjanjian dapat dipersoalkan karena pihak yang bertindak tidak berwenang",
+                "Risiko likuiditas",
+                "Tidak ada risiko karena cap perusahaan asli"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Kewenangan pengurus wajib diverifikasi sebelum pengikatan hubungan hukum.",
+            "topic": "Studi Kasus",
+            "subtopic": "Kewenangan Direksi",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "kewenangan bertindak",
+                "RUPS",
+                "direksi sah",
+                "legal standing"
+            ]
+        },
+        {
+            "id": 52,
+            "question": "Nasabah meminta informasi saldo rekening suaminya tanpa membawa dokumen hukum apa pun karena merasa sebagai pasangan sah. Tindakan paling tepat bagi bank adalah...",
+            "options": [
+                "Memberikan informasi karena hubungan suami istri",
+                "Menolak karena termasuk rahasia bank",
+                "Memberikan sebagian informasi saja",
+                "Menyerahkan ke teller"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Saldo simpanan termasuk rahasia bank dan tidak dapat diberikan tanpa dasar hukum.",
+            "topic": "Studi Kasus",
+            "subtopic": "Rahasia Bank",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "rahasia bank",
+                "otorisasi",
+                "perlindungan data"
+            ]
+        },
+        {
+            "id": 53,
+            "question": "Seorang debitur menandatangani perjanjian kredit setelah dipaksa oleh atasannya. Akibat hukum paling mungkin adalah...",
+            "options": [
+                "Perjanjian otomatis sah",
+                "Perjanjian dapat dibatalkan",
+                "Perjanjian batal demi hukum",
+                "Perjanjian berubah menjadi akta otentik"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Paksaan menyebabkan cacat pada syarat subjektif berupa kesepakatan.",
+            "topic": "Studi Kasus",
+            "subtopic": "Cacat Kesepakatan",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "kesepakatan",
+                "paksaan",
+                "syarat subjektif",
+                "dapat dibatalkan"
+            ]
+        },
+        {
+            "id": 54,
+            "question": "Bank menerima agunan tanah namun tidak melakukan pengecekan keaslian sertifikat. Risiko terbesar adalah...",
+            "options": [
+                "Risiko treasury",
+                "Pengikatan agunan tidak sempurna dan potensi sengketa",
+                "Risiko translasi",
+                "Risiko interest rate gap"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Keabsahan dokumen agunan harus diverifikasi agar pengikatan juridis perfect.",
+            "topic": "Studi Kasus",
+            "subtopic": "Agunan",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "agunan",
+                "sertifikat",
+                "juridis perfect",
+                "keabsahan dokumen"
+            ]
+        },
+        {
+            "id": 55,
+            "question": "Seorang sekutu pasif CV menandatangani fasilitas kredit atas nama CV tanpa kewenangan dalam AD. Apa implikasi hukumnya?",
+            "options": [
+                "Otomatis sah karena pemilik modal",
+                "Tetap sah karena semua sekutu sama",
+                "Berpotensi tidak mengikat CV",
+                "Menjadi akta otentik otomatis"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Sekutu pasif tidak berwenang mewakili CV kecuali ditentukan lain.",
+            "topic": "Studi Kasus",
+            "subtopic": "CV",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "sekutu pasif",
+                "CV",
+                "kewenangan",
+                "anggaran dasar"
+            ]
+        },
+        {
+            "id": 56,
+            "question": "Bank menyerahkan dana warisan kepada salah satu anak tanpa penetapan ahli waris. Potensi utama yang muncul adalah...",
+            "options": [
+                "Risiko pasar uang",
+                "Gugatan antar ahli waris",
+                "Risiko reputasi media sosial saja",
+                "Risiko inflasi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Penyerahan dana tanpa dokumen ahli waris berpotensi memicu sengketa hukum.",
+            "topic": "Studi Kasus",
+            "subtopic": "Ahli Waris",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "ahli waris",
+                "dokumen waris",
+                "gugatan",
+                "sengketa"
+            ]
+        },
+        {
+            "id": 57,
+            "question": "Nasabah menolak isi perjanjian kredit dengan alasan tidak pernah membaca seluruh klausul. Prinsip hukum yang PALING relevan adalah...",
+            "options": [
+                "Pacta sunt servanda",
+                "Force majeure",
+                "Lex specialis",
+                "Ultra vires"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Perjanjian yang ditandatangani secara sah mengikat para pihak.",
+            "topic": "Studi Kasus",
+            "subtopic": "Pacta Sunt Servanda",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "mengikat",
+                "perjanjian",
+                "ditandatangani",
+                "pacta sunt servanda"
+            ]
+        },
+        {
+            "id": 58,
+            "question": "Teller melakukan transaksi pencairan deposito menggunakan surat kuasa palsu. Kelemahan kontrol utama yang terjadi adalah...",
+            "options": [
+                "Risiko suku bunga",
+                "Verifikasi keabsahan dokumen dan identitas",
+                "Risiko pasar modal",
+                "Risiko strategi bisnis"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Validasi dokumen dan identitas merupakan kontrol utama dalam transaksi.",
+            "topic": "Studi Kasus",
+            "subtopic": "Verifikasi Dokumen",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "surat kuasa",
+                "verifikasi",
+                "identitas",
+                "dokumen palsu"
+            ]
+        },
+        {
+            "id": 59,
+            "question": "Perusahaan firma mengajukan pinjaman. Salah satu sekutu menandatangani perjanjian kredit. Sepanjang AD tidak mengatur lain, maka...",
+            "options": [
+                "Tidak sah",
+                "Hanya komisaris yang boleh menandatangani",
+                "Sekutu firma dapat mewakili firma",
+                "Harus seluruh pegawai menyetujui"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Setiap sekutu firma berwenang bertindak kecuali diatur lain.",
+            "topic": "Studi Kasus",
+            "subtopic": "Firma",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "firma",
+                "sekutu",
+                "tanggung renteng",
+                "kewenangan"
+            ]
+        },
+        {
+            "id": 60,
+            "question": "Perjanjian dibuat untuk tujuan pencucian uang. Status hukum perjanjian tersebut adalah...",
+            "options": [
+                "Sah karena ada tanda tangan",
+                "Dapat diperbaiki dengan addendum",
+                "Batal demi hukum karena causa tidak halal",
+                "Sah jika menggunakan notaris"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Tujuan yang bertentangan dengan hukum menyebabkan causa tidak halal.",
+            "topic": "Studi Kasus",
+            "subtopic": "Causa Tidak Halal",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "causa halal",
+                "melanggar hukum",
+                "batal demi hukum"
+            ]
+        },
+        {
+            "id": 61,
+            "question": "Nasabah menggugat bank karena informasi produk investasi tidak dijelaskan secara lengkap. Prinsip perlindungan konsumen yang paling relevan adalah...",
+            "options": [
+                "Memberikan informasi benar, jelas, dan jujur",
+                "Menjaga margin keuntungan bank",
+                "Memastikan target marketing tercapai",
+                "Menjaga eksklusivitas produk"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Bank wajib memberikan informasi produk secara jelas dan jujur.",
+            "topic": "Studi Kasus",
+            "subtopic": "Perlindungan Konsumen",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "transparansi",
+                "informasi produk",
+                "perlindungan konsumen"
+            ]
+        },
+        {
+            "id": 62,
+            "question": "Perjanjian kredit ditandatangani di bawah tangan dan salah satu pihak menyangkal tanda tangannya. Pihak yang menggunakan akta tersebut harus...",
+            "options": [
+                "Membuktikan keaslian akta",
+                "Membatalkan kredit otomatis",
+                "Menyerahkan ke OJK",
+                "Menghapus tagihan"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Akta di bawah tangan harus dibuktikan kebenarannya apabila disangkal.",
+            "topic": "Studi Kasus",
+            "subtopic": "Akta Bawah Tangan",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "akta bawah tangan",
+                "beban pembuktian",
+                "keaslian tanda tangan"
+            ]
+        },
+        {
+            "id": 63,
+            "question": "Seorang pegawai menganggap legalisasi dan waarmerking memiliki kekuatan hukum yang sama persis. Pernyataan tersebut...",
+            "options": [
+                "Benar penuh",
+                "Salah karena proses dan kekuatan pembuktiannya berbeda",
+                "Benar jika dibuat notaris senior",
+                "Benar hanya untuk kredit konsumtif"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Legalisasi dan waarmerking memiliki proses serta kekuatan pembuktian berbeda.",
+            "topic": "Studi Kasus",
+            "subtopic": "Legalisasi dan Waarmerking",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "legalisasi",
+                "waarmerking",
+                "notaris",
+                "pembuktian"
+            ]
+        },
+        {
+            "id": 64,
+            "question": "Bank tidak memperbarui SOP setelah adanya perubahan regulasi baru. Potensi risiko utama adalah...",
+            "options": [
+                "Risiko hukum akibat ketidaksesuaian proses",
+                "Risiko pasar akibat fluktuasi bunga",
+                "Risiko translasi valas",
+                "Risiko treasury settlement"
+            ],
+            "correctAnswer": 0,
+            "explanation": "SOP yang tidak diperbarui dapat menyebabkan proses melanggar ketentuan baru.",
+            "topic": "Studi Kasus",
+            "subtopic": "Perubahan Regulasi",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "SOP",
+                "regulasi",
+                "compliance",
+                "legal risk"
+            ]
+        },
+        {
+            "id": 65,
+            "question": "Nasabah anak di bawah umur membuka rekening sendiri tanpa wali. Risiko utama bagi bank adalah...",
+            "options": [
+                "Rekening otomatis dormant",
+                "Perbuatan hukum dilakukan oleh pihak belum cakap hukum",
+                "Dana tidak dijamin LPS",
+                "Rekening tidak bisa internet banking"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Anak di bawah umur belum cakap hukum sehingga memerlukan wali.",
+            "topic": "Studi Kasus",
+            "subtopic": "Cakap Hukum",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "anak di bawah umur",
+                "wali",
+                "cakap hukum"
+            ]
+        },
+        {
+            "id": 66,
+            "question": "Dalam proses kredit, bank hanya fokus pada nilai agunan tetapi mengabaikan keabsahan dokumen perusahaan. Kesalahan utama tersebut adalah...",
+            "options": [
+                "Mengutamakan cash collateral",
+                "Mengabaikan legal due diligence",
+                "Mengurangi profitabilitas",
+                "Menghindari mitigasi risiko pasar"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Legal due diligence diperlukan untuk memastikan keabsahan subyek hukum.",
+            "topic": "Studi Kasus",
+            "subtopic": "Legal Due Diligence",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "due diligence",
+                "dokumen perusahaan",
+                "keabsahan"
+            ]
+        },
+        {
+            "id": 67,
+            "question": "Direktur perusahaan menandatangani perjanjian di luar kewenangan yang diatur dalam anggaran dasar. Konsep hukum yang paling relevan untuk dianalisis adalah...",
+            "options": [
+                "Ultra vires",
+                "Novasi",
+                "Subrogasi",
+                "Kompensasi"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Tindakan di luar kewenangan disebut ultra vires.",
+            "topic": "Studi Kasus",
+            "subtopic": "Ultra Vires",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "ultra vires",
+                "direksi",
+                "anggaran dasar",
+                "kewenangan"
+            ]
+        },
+        {
+            "id": 68,
+            "question": "Bank menerima fotokopi sertifikat tanah tanpa melakukan pengecekan asli. Langkah mitigasi paling tepat adalah...",
+            "options": [
+                "Tetap proses agar target tercapai",
+                "Meminta legal opinion verbal",
+                "Verifikasi keaslian dan validasi dokumen agunan",
+                "Menunggu jika ada gugatan"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Dokumen agunan harus diverifikasi keasliannya sebelum pengikatan.",
+            "topic": "Studi Kasus",
+            "subtopic": "Validasi Agunan",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "sertifikat",
+                "validasi",
+                "dokumen asli",
+                "agunan"
+            ]
+        },
+        {
+            "id": 69,
+            "question": "Pegawai bank menyebarkan data rekening nasabah kepada pihak marketing eksternal. Pelanggaran utama yang terjadi adalah...",
+            "options": [
+                "SLA pelayanan",
+                "Rahasia bank dan perlindungan data nasabah",
+                "Kebijakan treasury",
+                "Prinsip matching fund"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Data rekening nasabah dilindungi prinsip rahasia bank.",
+            "topic": "Studi Kasus",
+            "subtopic": "Kerahasiaan Data",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "rahasia bank",
+                "data nasabah",
+                "confidentiality"
+            ]
+        },
+        {
+            "id": 70,
+            "question": "Bank melakukan pencairan kredit sebelum seluruh dokumen pengikatan selesai. Risiko hukum terbesar dari tindakan tersebut adalah...",
+            "options": [
+                "Pendapatan bunga meningkat terlalu cepat",
+                "Pengikatan jaminan tidak sempurna sehingga posisi hukum bank lemah",
+                "Risiko valuta asing meningkat",
+                "Sistem IT menjadi overload"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Pencairan sebelum pengikatan selesai dapat melemahkan posisi hukum bank terhadap agunan.",
+            "topic": "Studi Kasus",
+            "subtopic": "Pengikatan Kredit",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "pengikatan",
+                "jaminan",
+                "agunan",
+                "posisi hukum"
+            ]
+        }
+    ]
+}
