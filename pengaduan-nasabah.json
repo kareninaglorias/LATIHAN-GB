@@ -1,0 +1,1296 @@
+{
+    "quizTitle": "Menangani Pengaduan Nasabah",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Tujuan utama POJK perlindungan konsumen adalah...",
+            "options": [
+                "Meningkatkan profit",
+                "Melindungi konsumen jasa keuangan",
+                "Mengurangi transaksi",
+                "Membatasi pengaduan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Regulasi melindungi konsumen.",
+            "topic": "POJK",
+            "subtopic": "Tujuan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 2,
+            "question": "Bank dilarang...",
+            "options": [
+                "Mencatat pengaduan",
+                "Investigasi",
+                "Memungut biaya pengaduan",
+                "Registrasi"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Pengaduan gratis.",
+            "topic": "Prinsip",
+            "subtopic": "Larangan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 3,
+            "question": "Perwakilan nasabah wajib membawa...",
+            "options": [
+                "Slip",
+                "Surat kuasa",
+                "PIN",
+                "Kartu kredit"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Wajib surat kuasa.",
+            "topic": "Dokumen",
+            "subtopic": "Kuasa",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 4,
+            "question": "Nomor registrasi diberikan saat...",
+            "options": [
+                "Audit",
+                "Penerimaan",
+                "Closing",
+                "Escalation"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Diberikan saat penerimaan.",
+            "topic": "Registrasi",
+            "subtopic": "Penerimaan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 5,
+            "question": "Batas pelengkapan dokumen adalah...",
+            "options": [
+                "5 hari",
+                "10 hari",
+                "14 hari",
+                "20 hari"
+            ],
+            "correctAnswer": 3,
+            "explanation": "20 hari kerja.",
+            "topic": "Dokumen",
+            "subtopic": "SLA",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 6,
+            "question": "Pengaduan lisan diselesaikan maksimal...",
+            "options": [
+                "1 hari",
+                "3 hari",
+                "5 hari",
+                "20 hari"
+            ],
+            "correctAnswer": 2,
+            "explanation": "5 hari kerja.",
+            "topic": "SLA",
+            "subtopic": "Lisan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 7,
+            "question": "Pengaduan tertulis diselesaikan maksimal...",
+            "options": [
+                "7",
+                "14",
+                "20",
+                "30"
+            ],
+            "correctAnswer": 2,
+            "explanation": "20 hari kerja.",
+            "topic": "SLA",
+            "subtopic": "Tertulis",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 8,
+            "question": "Perpanjangan SLA wajib disampaikan secara...",
+            "options": [
+                "Lisan",
+                "Chat",
+                "Tertulis",
+                "Telepon"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Wajib tertulis.",
+            "topic": "SLA",
+            "subtopic": "Extension",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 9,
+            "question": "ATM gagal dispense termasuk...",
+            "options": [
+                "Attitudinal",
+                "Mechanical",
+                "Fraud",
+                "Unusual"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Gangguan mesin.",
+            "topic": "Jenis Komplain",
+            "subtopic": "Mechanical",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 10,
+            "question": "Petugas sinis termasuk...",
+            "options": [
+                "Mechanical",
+                "Attitudinal",
+                "Fraud",
+                "Dormant"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Keluhan sikap.",
+            "topic": "Jenis Komplain",
+            "subtopic": "Attitudinal",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 11,
+            "question": "Tahap awal complaint handling adalah...",
+            "options": [
+                "Jelaskan",
+                "Setujui",
+                "Dengarkan",
+                "Closing"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Mulai dari mendengarkan.",
+            "topic": "Handling",
+            "subtopic": "Listening",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 12,
+            "question": "Kata 'mungkin' sebaiknya dihindari karena...",
+            "options": [
+                "Formal",
+                "Ragu",
+                "Panjang",
+                "Rumit"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Menunjukkan ketidakpastian.",
+            "topic": "Komunikasi",
+            "subtopic": "Wording",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 13,
+            "question": "Laporan pengaduan disampaikan secara...",
+            "options": [
+                "Bulanan",
+                "Triwulanan",
+                "Semester",
+                "Tahunan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Triwulanan.",
+            "topic": "Pelaporan",
+            "subtopic": "Frekuensi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 14,
+            "question": "Jika deadline laporan hari libur maka...",
+            "options": [
+                "Tetap kirim",
+                "Hari sebelumnya",
+                "Hari kerja berikutnya",
+                "Batal"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Hari kerja berikutnya.",
+            "topic": "Pelaporan",
+            "subtopic": "Deadline",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 15,
+            "question": "Prinsip fair treatment berarti...",
+            "options": [
+                "Prioritas didahulukan",
+                "Semua setara",
+                "Korporasi utama",
+                "VIP khusus"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Semua setara.",
+            "topic": "Prinsip",
+            "subtopic": "Fair Treatment",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 16,
+            "question": "Fraud complaint mengacu pada...",
+            "options": [
+                "Treasury",
+                "SAF",
+                "Funding",
+                "Collection"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Strategi Anti Fraud.",
+            "topic": "Fraud",
+            "subtopic": "SAF",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 17,
+            "question": "Komplain bermanfaat untuk...",
+            "options": [
+                "Kurangi audit",
+                "Continuous improvement",
+                "Naikkan biaya",
+                "Kurangi SOP"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dasar evaluasi.",
+            "topic": "Benefit",
+            "subtopic": "Improvement",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 18,
+            "question": "Media sosial meningkatkan risiko...",
+            "options": [
+                "Pasar",
+                "Likuiditas",
+                "Reputasi",
+                "Suku bunga"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Viral risk.",
+            "topic": "Risk",
+            "subtopic": "Reputation",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 19,
+            "question": "Dokumentasi pengaduan penting untuk...",
+            "options": [
+                "Marketing",
+                "Audit trail",
+                "Sales",
+                "Campaign"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Untuk audit trail.",
+            "topic": "Compliance",
+            "subtopic": "Audit Trail",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 20,
+            "question": "Nasabah marah di banking hall sebaiknya...",
+            "options": [
+                "Diabaikan",
+                "Diusir",
+                "Diajak ke area privat",
+                "Dibalas"
+            ],
+            "correctAnswer": 2,
+            "explanation": "De escalation.",
+            "topic": "Handling",
+            "subtopic": "De Escalation",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 21,
+            "question": "Follow up proaktif bertujuan...",
+            "options": [
+                "Kurangi SLA",
+                "Hindari nasabah merasa diabaikan",
+                "Cross selling",
+                "Audit"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Menjaga trust.",
+            "topic": "Follow Up",
+            "subtopic": "Service",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 22,
+            "question": "Recurring complaint harus...",
+            "options": [
+                "Diabaikan",
+                "Di-escalate",
+                "Dihapus",
+                "Ditunda"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Untuk service improvement.",
+            "topic": "Risk",
+            "subtopic": "Recurring Issue",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 23,
+            "question": "Penggunaan user ID orang lain berisiko...",
+            "options": [
+                "Market risk",
+                "Fraud risk",
+                "FX risk",
+                "Interest risk"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Melanggar kontrol internal.",
+            "topic": "Internal Control",
+            "subtopic": "Access",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 24,
+            "question": "Nasabah meminta data pihak lain. Tindakan tepat...",
+            "options": [
+                "Berikan",
+                "Sebagian",
+                "Tolak",
+                "WA pribadi"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Melindungi kerahasiaan.",
+            "topic": "Confidentiality",
+            "subtopic": "Data",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 25,
+            "question": "Frontliner menyalahkan unit pusat berisiko...",
+            "options": [
+                "Likuiditas",
+                "Reputasi",
+                "Pasar",
+                "Treasury"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Menurunkan trust.",
+            "topic": "Risk",
+            "subtopic": "Reputation",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 26,
+            "question": "Komplain layanan lama termasuk...",
+            "options": [
+                "Mechanical",
+                "Service complaint",
+                "Fraud",
+                "Dormant"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Terkait service.",
+            "topic": "Jenis",
+            "subtopic": "Service",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 27,
+            "question": "Pengaduan wajib...",
+            "options": [
+                "Diabaikan",
+                "Dicatat",
+                "Dihapus",
+                "Ditutup"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Wajib dicatat.",
+            "topic": "Administrasi",
+            "subtopic": "Recording",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 28,
+            "question": "Investigasi dilakukan secara...",
+            "options": [
+                "Subjektif",
+                "Objektif",
+                "Rahasia total",
+                "Cepat saja"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Harus objektif.",
+            "topic": "Investigasi",
+            "subtopic": "Objective",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 29,
+            "question": "Nasabah masih komplain berarti...",
+            "options": [
+                "Tidak loyal",
+                "Masih peduli",
+                "Ingin tutup rekening",
+                "Tidak paham"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Masih ada concern.",
+            "topic": "Mindset",
+            "subtopic": "Loyalty",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 30,
+            "question": "Surat kuasa tanpa nomor rekening harus...",
+            "options": [
+                "Diproses",
+                "Diperbaiki",
+                "Ditolak permanen",
+                "Diabaikan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Dokumen harus lengkap.",
+            "topic": "Dokumen",
+            "subtopic": "Validation",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 31,
+            "question": "Approval di luar kewenangan menyebabkan...",
+            "options": [
+                "Operational risk",
+                "FX risk",
+                "Market risk",
+                "Liquidity risk"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Melanggar authority limit.",
+            "topic": "Operational Risk",
+            "subtopic": "Authority",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 32,
+            "question": "Data laporan pengaduan mencakup...",
+            "options": [
+                "Target sales",
+                "Penyebab masalah",
+                "Fee income",
+                "Marketing"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Penyebab masalah dilaporkan.",
+            "topic": "Pelaporan",
+            "subtopic": "Content",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 33,
+            "question": "Register pengaduan mendukung...",
+            "options": [
+                "Cross selling",
+                "Audit trail",
+                "Promosi",
+                "Campaign"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Untuk monitoring.",
+            "topic": "Register",
+            "subtopic": "Audit",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 34,
+            "question": "Petugas tidak boleh...",
+            "options": [
+                "Empati",
+                "Active listening",
+                "Menyalahkan nasabah",
+                "Follow up"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Harus profesional.",
+            "topic": "Handling",
+            "subtopic": "Professionalism",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 35,
+            "question": "Komplain dibuat-buat disebut...",
+            "options": [
+                "Mechanical",
+                "Service",
+                "Unusual",
+                "Fraud"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Unusual complaint.",
+            "topic": "Jenis",
+            "subtopic": "Unusual",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 36,
+            "question": "Perpanjangan SLA boleh jika...",
+            "options": [
+                "Cabang ramai",
+                "Libur",
+                "Butuh pihak ketiga",
+                "Petugas cuti"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Investigasi pihak ketiga.",
+            "topic": "SLA",
+            "subtopic": "Extension",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 37,
+            "question": "Update status diberikan ketika...",
+            "options": [
+                "Audit",
+                "Nasabah meminta",
+                "Viral",
+                "Supervisor datang"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Wajib memberikan status.",
+            "topic": "Monitoring",
+            "subtopic": "Status",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 38,
+            "question": "Permintaan maaf dilakukan...",
+            "options": [
+                "Setelah selesai",
+                "Sebelum klarifikasi",
+                "Hanya jika salah",
+                "Setelah approval"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Bagian empati.",
+            "topic": "Handling",
+            "subtopic": "Empathy",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 39,
+            "question": "Kalimat terbaik ke nasabah adalah...",
+            "options": [
+                "Mungkin bisa",
+                "Nanti dilihat",
+                "Saya akan bantu secepatnya",
+                "Coba saja"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Harus meyakinkan.",
+            "topic": "Komunikasi",
+            "subtopic": "Positive Wording",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 40,
+            "question": "Laporan terlambat ke regulator berisiko...",
+            "options": [
+                "Market risk",
+                "Compliance risk",
+                "FX risk",
+                "Interest risk"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Berpotensi sanksi regulator.",
+            "topic": "Compliance",
+            "subtopic": "Reporting",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 41,
+            "question": "ATM gagal dispense dan saldo terdebet. Tindakan terbaik...",
+            "options": [
+                "Refund langsung",
+                "Abaikan",
+                "Registrasi dan verifikasi",
+                "Suruh call center"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Ikuti SOP investigasi.",
+            "topic": "Case",
+            "subtopic": "ATM",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "registrasi",
+                "verifikasi",
+                "SLA"
+            ]
+        },
+        {
+            "id": 42,
+            "question": "Nasabah memberi OTP ke penipu. Langkah awal...",
+            "options": [
+                "Salahkan nasabah",
+                "Amankan rekening",
+                "Tunggu pusat",
+                "Janji refund"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Segera amankan rekening.",
+            "topic": "Case",
+            "subtopic": "OTP Fraud",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "fraud",
+                "security",
+                "escalation"
+            ]
+        },
+        {
+            "id": 43,
+            "question": "Komplain viral di TikTok. Respons terbaik...",
+            "options": [
+                "Hapus komentar",
+                "Abaikan",
+                "Respons profesional",
+                "Balas emosional"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Mitigasi reputasi.",
+            "topic": "Case",
+            "subtopic": "Social Media",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "reputasi",
+                "follow up",
+                "professional"
+            ]
+        },
+        {
+            "id": 44,
+            "question": "Frontliner overpromise refund. Kesalahan utama...",
+            "options": [
+                "Kurang empati",
+                "Overpromise",
+                "Kurang cepat",
+                "Kurang detail"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tidak boleh menjanjikan hasil.",
+            "topic": "Case",
+            "subtopic": "Overpromise",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "authority",
+                "overpromise",
+                "risk"
+            ]
+        },
+        {
+            "id": 45,
+            "question": "Nasabah menolak lengkapi dokumen. Tindakan tepat...",
+            "options": [
+                "Tetap proses",
+                "Tolak kasar",
+                "Jelaskan requirement",
+                "Tutup rekening"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Dokumen wajib lengkap.",
+            "topic": "Case",
+            "subtopic": "Document",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "document",
+                "compliance",
+                "validation"
+            ]
+        },
+        {
+            "id": 46,
+            "question": "Nasabah protes bunga kredit tinggi. Pendekatan tepat...",
+            "options": [
+                "Suruh pindah",
+                "Jelaskan pricing",
+                "Hindari penjelasan",
+                "Salahkan regulator"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Berikan edukasi.",
+            "topic": "Case",
+            "subtopic": "Interest Complaint",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "pricing",
+                "education",
+                "transparency"
+            ]
+        },
+        {
+            "id": 47,
+            "question": "Nasabah minta update tiap hari. Tindakan terbaik...",
+            "options": [
+                "Hindari",
+                "Berikan status",
+                "Blok nomor",
+                "Suruh tunggu"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tetap informatif.",
+            "topic": "Case",
+            "subtopic": "Status Update",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "update",
+                "monitoring",
+                "transparency"
+            ]
+        },
+        {
+            "id": 48,
+            "question": "Nasabah marah sambil menunjuk petugas. Tindakan tepat...",
+            "options": [
+                "Balas",
+                "Abaikan",
+                "Ajak ke area privat",
+                "Usir"
+            ],
+            "correctAnswer": 2,
+            "explanation": "De escalation.",
+            "topic": "Case",
+            "subtopic": "Aggressive Customer",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "de escalation",
+                "privacy",
+                "listening"
+            ]
+        },
+        {
+            "id": 49,
+            "question": "Nasabah prioritas minta tanpa registrasi. Tindakan tepat...",
+            "options": [
+                "Ikuti",
+                "Tetap registrasi",
+                "Tolak",
+                "Informal saja"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Semua wajib sesuai SOP.",
+            "topic": "Case",
+            "subtopic": "Governance",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "SOP",
+                "audit trail",
+                "governance"
+            ]
+        },
+        {
+            "id": 50,
+            "question": "Laporan pengaduan terlambat. Risiko utama...",
+            "options": [
+                "Pasar",
+                "Compliance",
+                "Treasury",
+                "Settlement"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Risiko regulator.",
+            "topic": "Case",
+            "subtopic": "Reporting Delay",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "regulator",
+                "compliance",
+                "reporting"
+            ]
+        },
+        {
+            "id": 51,
+            "question": "Kalimat 'mungkin minggu depan selesai' bermasalah karena...",
+            "options": [
+                "Formal",
+                "Kurang detail",
+                "Tidak meyakinkan",
+                "Terlalu panjang"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Menunjukkan keraguan.",
+            "topic": "Case",
+            "subtopic": "Communication",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "assurance",
+                "wording"
+            ]
+        },
+        {
+            "id": 52,
+            "question": "Nasabah komplain dormant fee. Pendekatan tepat...",
+            "options": [
+                "Salahkan nasabah",
+                "Jelaskan transparan",
+                "Hapus biaya",
+                "Tolak jelaskan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Edukasi transparan.",
+            "topic": "Case",
+            "subtopic": "Dormant Fee",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "transparency",
+                "education"
+            ]
+        },
+        {
+            "id": 53,
+            "question": "Investigasi melibatkan pihak ketiga. Bank wajib...",
+            "options": [
+                "Diam",
+                "Tutup tiket",
+                "Notifikasi tertulis",
+                "Buat tiket baru"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Wajib pemberitahuan.",
+            "topic": "Case",
+            "subtopic": "Extended SLA",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "SLA",
+                "notification"
+            ]
+        },
+        {
+            "id": 54,
+            "question": "Recurring BRImo error harus...",
+            "options": [
+                "Dianggap normal",
+                "Di-escalate",
+                "Hapus data",
+                "Suruh reinstall"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Untuk improvement.",
+            "topic": "Case",
+            "subtopic": "Recurring Issue",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "escalation",
+                "monitoring"
+            ]
+        },
+        {
+            "id": 55,
+            "question": "Surat kuasa tidak lengkap harus...",
+            "options": [
+                "Diproses",
+                "Diperbaiki",
+                "Ditolak permanen",
+                "Dilaporkan polisi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Harus valid.",
+            "topic": "Case",
+            "subtopic": "POA",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "validation",
+                "legal"
+            ]
+        },
+        {
+            "id": 56,
+            "question": "Nasabah minta kompensasi sebelum investigasi selesai. Petugas...",
+            "options": [
+                "Setujui",
+                "Jelaskan proses",
+                "Hindari",
+                "Tolak semua"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Tidak boleh premature.",
+            "topic": "Case",
+            "subtopic": "Compensation",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "investigation",
+                "fair handling"
+            ]
+        },
+        {
+            "id": 57,
+            "question": "Komplain fintech pihak ketiga. Bank sebaiknya...",
+            "options": [
+                "Akui salah",
+                "Tolak bantu",
+                "Jelaskan kewenangan",
+                "Suruh viral"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Bantu sesuai kewenangan.",
+            "topic": "Case",
+            "subtopic": "Third Party",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "authority",
+                "assistance"
+            ]
+        },
+        {
+            "id": 58,
+            "question": "Menyalahkan unit pusat di depan nasabah menyebabkan...",
+            "options": [
+                "Treasury risk",
+                "Reputation loss",
+                "Market risk",
+                "Credit risk"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Turunkan trust.",
+            "topic": "Case",
+            "subtopic": "Internal Blaming",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "reputation",
+                "trust"
+            ]
+        },
+        {
+            "id": 59,
+            "question": "Kolektibilitas belum update sehingga KPR ditolak. Tindakan tepat...",
+            "options": [
+                "Salahkan sistem",
+                "Tunggu",
+                "Verifikasi dan koreksi",
+                "Hapus histori"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Perbaikan administratif.",
+            "topic": "Case",
+            "subtopic": "Administrative Error",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "verification",
+                "correction"
+            ]
+        },
+        {
+            "id": 60,
+            "question": "Komplain informal tanpa registrasi berisiko...",
+            "options": [
+                "Tidak ada audit trail",
+                "FX risk",
+                "Liquidity risk",
+                "Interest risk"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Semua wajib tercatat.",
+            "topic": "Case",
+            "subtopic": "Audit Trail",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "audit trail",
+                "documentation"
+            ]
+        },
+        {
+            "id": 61,
+            "question": "Nasabah ancam viral jika refund lambat. Tindakan tepat...",
+            "options": [
+                "Abaikan",
+                "Minta stop rekam",
+                "Profesional dan jelaskan SLA",
+                "Janji refund"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Tetap profesional.",
+            "topic": "Case",
+            "subtopic": "Viral Threat",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "professional",
+                "SLA"
+            ]
+        },
+        {
+            "id": 62,
+            "question": "Nasabah meminta histori pihak lain. Tindakan tepat...",
+            "options": [
+                "Berikan",
+                "Tolak",
+                "Sebagian saja",
+                "Kirim WA"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Lindungi kerahasiaan.",
+            "topic": "Case",
+            "subtopic": "Confidentiality",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "data protection",
+                "confidentiality"
+            ]
+        },
+        {
+            "id": 63,
+            "question": "Menyimpulkan nasabah salah tanpa investigasi berisiko...",
+            "options": [
+                "Pasar",
+                "Hukum dan reputasi",
+                "Treasury",
+                "Suku bunga"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Harus investigasi dulu.",
+            "topic": "Case",
+            "subtopic": "Premature Conclusion",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "investigation",
+                "legal risk"
+            ]
+        },
+        {
+            "id": 64,
+            "question": "Menggunakan user ID rekan kerja berisiko...",
+            "options": [
+                "Profit naik",
+                "Fraud dan kontrol lemah",
+                "Pasar",
+                "Operasional turun"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Melanggar kontrol.",
+            "topic": "Case",
+            "subtopic": "User Access",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "fraud",
+                "access control"
+            ]
+        },
+        {
+            "id": 65,
+            "question": "Email complaint tanpa registrasi menyebabkan...",
+            "options": [
+                "Tidak ada audit trail",
+                "Profit naik",
+                "Biaya turun",
+                "SLA cepat"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Semua complaint wajib register.",
+            "topic": "Case",
+            "subtopic": "Email Complaint",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "registration",
+                "audit trail"
+            ]
+        },
+        {
+            "id": 66,
+            "question": "Nasabah tidak mau verifikasi identitas. Tindakan tepat...",
+            "options": [
+                "Tetap proses",
+                "Verifikasi sesuai SOP",
+                "Abaikan",
+                "Approval verbal"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Verifikasi wajib.",
+            "topic": "Case",
+            "subtopic": "Verification",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "verification",
+                "SOP"
+            ]
+        },
+        {
+            "id": 67,
+            "question": "Membocorkan hasil investigasi internal menyebabkan...",
+            "options": [
+                "Pasar",
+                "Pelanggaran confidentiality",
+                "Likuiditas",
+                "Settlement"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Data investigasi rahasia.",
+            "topic": "Case",
+            "subtopic": "Disclosure",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "confidentiality",
+                "disclosure"
+            ]
+        },
+        {
+            "id": 68,
+            "question": "Nasabah butuh dana rumah sakit saat investigasi berjalan. Pendekatan tepat...",
+            "options": [
+                "Janji refund",
+                "Empati dan update berkala",
+                "Tolak komunikasi",
+                "Salahkan sistem"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Empati tanpa overpromise.",
+            "topic": "Case",
+            "subtopic": "Empathy",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "empathy",
+                "status update"
+            ]
+        },
+        {
+            "id": 69,
+            "question": "Supervisor minta tutup kasus agar SLA bagus. Risiko utama...",
+            "options": [
+                "Manipulasi reporting",
+                "Suku bunga",
+                "Pasar",
+                "Biaya"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Melanggar governance.",
+            "topic": "Case",
+            "subtopic": "Manipulation",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "governance",
+                "reporting"
+            ]
+        },
+        {
+            "id": 70,
+            "question": "Pola fraud digital meningkat tajam. Tindakan tepat...",
+            "options": [
+                "Anggap biasa",
+                "Escalation dan edukasi preventif",
+                "Hapus data",
+                "Kurangi pencatatan"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Trend fraud harus dimonitor.",
+            "topic": "Case",
+            "subtopic": "Fraud Trend",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "fraud trend",
+                "monitoring",
+                "education"
+            ]
+        }
+    ]
+}
