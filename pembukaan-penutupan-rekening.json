@@ -1,0 +1,1288 @@
+{
+  "quizTitle": "Pembukaan & Penutupan Rekening",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tujuan utama penerapan KYC pada saat pembukaan rekening adalah...",
+      "options": [
+        "Memastikan nasabah memperoleh bunga kompetitif",
+        "Memastikan bank memahami identitas, profil, dan aktivitas nasabah sebelum hubungan usaha berjalan",
+        "Memastikan seluruh nasabah menggunakan mobile banking",
+        "Memastikan proses pembukaan rekening selesai kurang dari 15 menit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "KYC memastikan bank memahami identitas, profil, dan aktivitas nasabah sebelum hubungan usaha dimulai.",
+      "topic": "KYC",
+      "subtopic": "KYC",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 2,
+      "question": "Pernyataan yang PALING tepat mengenai CIF adalah...",
+      "options": [
+        "Satu rekening dapat memiliki beberapa CIF berbeda untuk keamanan",
+        "CIF hanya digunakan untuk produk kredit",
+        "Satu CIF mewakili satu nasabah meskipun memiliki banyak produk",
+        "CIF merupakan nomor transaksi harian nasabah"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Satu CIF mewakili satu nasabah dan dapat terhubung ke banyak produk.",
+      "topic": "CIF",
+      "subtopic": "CIF",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 3,
+      "question": "Yang termasuk rekening dana tetapi TIDAK dapat ditarik menggunakan cek atau bilyet giro adalah...",
+      "options": [
+        "Giro",
+        "Deposito",
+        "Kredit",
+        "Tabungan"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tabungan tidak menggunakan cek maupun bilyet giro.",
+      "topic": "Produk Simpanan",
+      "subtopic": "Produk Simpanan",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 4,
+      "question": "Nasabah datang membuka rekening giro perorangan valas. Dokumen yang PALING relevan untuk diverifikasi pertama kali adalah...",
+      "options": [
+        "Bukti pembayaran listrik",
+        "KTP/Paspor + KITAS/KIMS",
+        "Slip transaksi e-wallet",
+        "Surat rekomendasi RT"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pembukaan giro valas membutuhkan identitas resmi dan dokumen keimigrasian.",
+      "topic": "Giro",
+      "subtopic": "Giro",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 5,
+      "question": "Dalam flow pembukaan tabungan, proses validasi dan input CIF dilakukan oleh...",
+      "options": [
+        "Teller",
+        "Security",
+        "Customer Service",
+        "Auditor internal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Customer Service melakukan validasi dan input CIF.",
+      "topic": "Pembukaan Tabungan",
+      "subtopic": "Pembukaan Tabungan",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 6,
+      "question": "Pernyataan berikut yang menunjukkan karakteristik rekening kredit adalah...",
+      "options": [
+        "Dapat digunakan bebas untuk seluruh transaksi sehari-hari",
+        "Fokus utama pada penghimpunan DPK",
+        "Pembukaan dilakukan tanpa analisis profil risiko",
+        "Pemanfaatan rekening terutama terkait transaksi pinjaman"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rekening kredit digunakan untuk transaksi terkait pinjaman.",
+      "topic": "Rekening Kredit",
+      "subtopic": "Rekening Kredit",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 7,
+      "question": "Salah satu manfaat CIF bagi bank adalah...",
+      "options": [
+        "Menghilangkan kebutuhan verifikasi nasabah",
+        "Menjadi dasar integrasi core banking dan CRM",
+        "Mengurangi seluruh risiko kredit menjadi nol",
+        "Menghapus kewajiban pelaporan regulator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CIF mendukung integrasi antar sistem bank.",
+      "topic": "CIF",
+      "subtopic": "CIF",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 8,
+      "question": "Yang termasuk informasi minimum dalam kerangka KYC adalah...",
+      "options": [
+        "Preferensi warna kartu ATM",
+        "Hobi nasabah",
+        "Sumber dana",
+        "Jenis smartphone nasabah"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sumber dana termasuk informasi minimum wajib dalam KYC.",
+      "topic": "KYC",
+      "subtopic": "KYC",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 9,
+      "question": "Dalam tahapan inti KYC, aktivitas memastikan dokumen dan data benar disebut...",
+      "options": [
+        "Monitoring",
+        "Screening",
+        "Identifikasi",
+        "Verifikasi"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Verifikasi memastikan keabsahan dokumen dan data.",
+      "topic": "Tahapan KYC",
+      "subtopic": "Tahapan KYC",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 10,
+      "question": "Nasabah mahasiswa membuka rekening dengan setoran awal sangat besar namun tidak dapat menjelaskan sumber dana. Kondisi ini termasuk...",
+      "options": [
+        "Enhanced service",
+        "Red flag money laundering",
+        "Normal onboarding",
+        "Treasury activity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ketidaksesuaian profil dan transaksi merupakan red flag AML.",
+      "topic": "AML",
+      "subtopic": "AML",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 11,
+      "question": "Tujuan utama nomor rekening dalam sistem perbankan adalah...",
+      "options": [
+        "Menentukan suku bunga nasabah",
+        "Menjadi alat pengenal dan pengelola transaksi",
+        "Menentukan ranking nasabah prioritas",
+        "Menggantikan CIF"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nomor rekening digunakan sebagai identitas dan alat pengelolaan transaksi.",
+      "topic": "Rekening",
+      "subtopic": "Rekening",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 12,
+      "question": "Deposito berbeda dengan tabungan karena...",
+      "options": [
+        "Deposito dapat ditarik sewaktu-waktu tanpa syarat",
+        "Deposito menggunakan cek dan bilyet giro",
+        "Deposito memiliki jangka waktu tertentu sesuai perjanjian",
+        "Deposito tidak termasuk DPK"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Deposito hanya dapat dicairkan sesuai tenor atau perjanjian.",
+      "topic": "Deposito",
+      "subtopic": "Deposito",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 13,
+      "question": "Dalam pembukaan rekening giro, registrasi specimen dilakukan setelah...",
+      "options": [
+        "Nasabah memperoleh PIN mobile banking",
+        "Teller mencetak validasi transaksi",
+        "CIF dihapus dari sistem",
+        "Rekening ditutup sementara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Specimen dilakukan setelah validasi transaksi dan setoran awal.",
+      "topic": "Giro",
+      "subtopic": "Giro",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 14,
+      "question": "Yang termasuk data pekerjaan dan penghasilan pada CIF adalah...",
+      "options": [
+        "Status pajak",
+        "Nama tempat kerja",
+        "Nomor kartu ATM",
+        "PIN transaksi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nama tempat kerja termasuk data pekerjaan pada CIF.",
+      "topic": "Data CIF",
+      "subtopic": "Data CIF",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 15,
+      "question": "Bank meminta identitas beneficial owner terutama pada nasabah...",
+      "options": [
+        "Mahasiswa",
+        "Pensiunan",
+        "Perusahaan atau badan usaha",
+        "Nasabah payroll individu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Beneficial owner diperlukan untuk badan usaha/perusahaan.",
+      "topic": "Beneficial Owner",
+      "subtopic": "Beneficial Owner",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 16,
+      "question": "Manakah berikut yang PALING mencerminkan prinsip kehati-hatian?",
+      "options": [
+        "Memproses rekening tanpa dokumen lengkap agar target tercapai",
+        "Mengutamakan kecepatan dibanding validasi",
+        "Memastikan data dan dokumen konsisten sebelum rekening aktif",
+        "Menghindari wawancara agar nasabah nyaman"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Prinsip kehati-hatian menekankan validitas dan konsistensi data.",
+      "topic": "Prinsip Kehati-hatian",
+      "subtopic": "Prinsip Kehati-hatian",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 17,
+      "question": "Nasabah WNA yang tidak menetap di Indonesia dapat diminta dokumen tambahan berupa...",
+      "options": [
+        "Tiket konser",
+        "Referensi atau dokumen pendukung profil",
+        "Foto keluarga",
+        "Bukti langganan streaming"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bank dapat meminta referensi tambahan untuk memperkuat profil WNA.",
+      "topic": "Nasabah WNA",
+      "subtopic": "Nasabah WNA",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 18,
+      "question": "Rekening tidur mendadak aktif untuk nominal besar merupakan contoh...",
+      "options": [
+        "Aktivitas treasury normal",
+        "Cross selling opportunity",
+        "Suspicious transaction red flag",
+        "Rekonsiliasi rutin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rekening dormant aktif mendadak merupakan red flag transaksi mencurigakan.",
+      "topic": "Red Flags",
+      "subtopic": "Red Flags",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 19,
+      "question": "Berikut ini yang merupakan manfaat rekening bagi nasabah adalah...",
+      "options": [
+        "Menghapus seluruh biaya transaksi",
+        "Menjadi dasar aktivasi layanan lain seperti payroll dan autodebit",
+        "Menghilangkan kewajiban pajak",
+        "Menjamin approval kredit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rekening dapat digunakan untuk payroll, autodebit, dan layanan lainnya.",
+      "topic": "Manfaat Rekening",
+      "subtopic": "Manfaat Rekening",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 20,
+      "question": "Tahapan setelah analisis kredit pada prosedur umum pembukaan rekening kredit adalah...",
+      "options": [
+        "Rekonsiliasi kas",
+        "Persetujuan",
+        "Penghapusan CIF",
+        "Penutupan rekening"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Setelah analisis kredit dilakukan proses persetujuan.",
+      "topic": "Kredit",
+      "subtopic": "Kredit",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 21,
+      "question": "Yang termasuk dokumen utama kredit investasi tetapi tidak secara eksplisit disebut pada KMK adalah...",
+      "options": [
+        "Proposal investasi dan proyeksi arus kas",
+        "NPWP",
+        "Mutasi rekening",
+        "Dokumen agunan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Kredit investasi memerlukan proposal investasi dan proyeksi arus kas.",
+      "topic": "Kredit Investasi",
+      "subtopic": "Kredit Investasi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 22,
+      "question": "Dalam pengisian CIF, perubahan nomor HP nasabah sebaiknya...",
+      "options": [
+        "Dibiarkan hingga audit tahunan",
+        "Diupdate langsung ke sistem",
+        "Dicatat manual tanpa sistem",
+        "Menunggu approval regulator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perubahan data penting harus segera diperbarui dalam sistem CIF.",
+      "topic": "CIF",
+      "subtopic": "CIF",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 23,
+      "question": "Transaksi yang dipecah menjadi nominal kecil untuk menghindari threshold pelaporan disebut sebagai...",
+      "options": [
+        "Structuring/smurfing indicator",
+        "Cash pooling",
+        "Interest capitalization",
+        "Treasury balancing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pemecahan transaksi untuk menghindari pelaporan disebut structuring atau smurfing.",
+      "topic": "AML",
+      "subtopic": "AML",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 24,
+      "question": "Dalam pembukaan deposito, bukti penempatan dana yang diterbitkan bank adalah...",
+      "options": [
+        "Advice transfer",
+        "Bilyet deposito",
+        "Cek silang",
+        "Kartu specimen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bilyet deposito menjadi bukti penempatan deposito nasabah.",
+      "topic": "Deposito",
+      "subtopic": "Deposito",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 25,
+      "question": "KYC membantu bank memahami profil transaksi nasabah terutama pada tahap...",
+      "options": [
+        "Pemantauan",
+        "Penutupan rekening",
+        "Pencetakan kartu ATM",
+        "Rebranding produk"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tahap pemantauan digunakan untuk memahami profil transaksi nasabah.",
+      "topic": "KYC",
+      "subtopic": "KYC",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 26,
+      "question": "Nasabah menolak memberikan informasi tambahan dan meminta proses dipercepat secara tidak wajar. Sikap CS yang PALING tepat adalah...",
+      "options": [
+        "Tetap memproses tanpa verifikasi agar nasabah tidak komplain",
+        "Menghentikan seluruh layanan permanen tanpa analisis",
+        "Melanjutkan prosedur KYC secara cermat sesuai ketentuan",
+        "Meminta teller mengambil keputusan sendiri"
+      ],
+      "correctAnswer": 2,
+      "explanation": "CS tetap wajib menjalankan prosedur KYC sesuai ketentuan.",
+      "topic": "KYC",
+      "subtopic": "KYC",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 27,
+      "question": "Fungsi CIF terhadap credit scoring adalah...",
+      "options": [
+        "Menghapus analisis kredit manual",
+        "Mendukung integrasi data dalam proses penilaian",
+        "Menggantikan seluruh dokumen kredit",
+        "Menentukan bunga deposito otomatis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CIF mendukung integrasi data untuk proses credit scoring.",
+      "topic": "CIF",
+      "subtopic": "CIF",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 28,
+      "question": "Produk simpanan yang mendukung cek, bilyet giro, dan pemindahbukuan adalah...",
+      "options": [
+        "Tabungan",
+        "Giro",
+        "Deposito",
+        "Kredit konsumtif"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Giro mendukung cek, bilyet giro, dan pemindahbukuan.",
+      "topic": "Giro",
+      "subtopic": "Giro",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 29,
+      "question": "Dokumen legalitas utama yang wajib diperhatikan pada nasabah perusahaan adalah...",
+      "options": [
+        "Boarding pass direktur",
+        "Akta pendirian dan anggaran dasar",
+        "Screenshot media sosial",
+        "Invoice pribadi staf"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Akta pendirian dan anggaran dasar merupakan legalitas utama perusahaan.",
+      "topic": "Nasabah Perusahaan",
+      "subtopic": "Nasabah Perusahaan",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 30,
+      "question": "Mengapa rekening kredit memerlukan proses lebih lama dibanding rekening simpanan?",
+      "options": [
+        "Karena teller harus mencetak lebih banyak slip",
+        "Karena wajib melalui analisis kelayakan dan profil risiko",
+        "Karena seluruh kredit harus disetujui regulator",
+        "Karena CIF dibuat dua kali"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rekening kredit memerlukan analisis kelayakan dan profil risiko.",
+      "topic": "Rekening Kredit",
+      "subtopic": "Rekening Kredit",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 31,
+      "question": "Dalam pembukaan tabungan non-perorangan, identitas pengurus diperlukan untuk...",
+      "options": [
+        "Menghindari biaya administrasi",
+        "Menentukan warna buku tabungan",
+        "Memastikan pihak yang mewakili badan usaha berwenang",
+        "Menghapus kebutuhan CIF"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Identitas pengurus diperlukan untuk memastikan kewenangan perwakilan perusahaan.",
+      "topic": "Tabungan Non-Perorangan",
+      "subtopic": "Tabungan Non-Perorangan",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 32,
+      "question": "Yang BUKAN manfaat KYC adalah...",
+      "options": [
+        "Menilai risiko AML",
+        "Memahami aktivitas keuangan",
+        "Menghilangkan kebutuhan monitoring transaksi",
+        "Melindungi nasabah dari aktivitas ilegal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "KYC tetap memerlukan monitoring transaksi.",
+      "topic": "KYC",
+      "subtopic": "KYC",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 33,
+      "question": "Dalam proses pembukaan giro, approval pembukaan rekening dilakukan oleh...",
+      "options": [
+        "Security",
+        "Pimpinan",
+        "Driver operasional",
+        "Nasabah sendiri"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pimpinan melakukan approval pembukaan rekening giro.",
+      "topic": "Giro",
+      "subtopic": "Giro",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 34,
+      "question": "Jika terdapat perbedaan nama antara KTP dan formulir aplikasi, tindakan yang PALING tepat adalah...",
+      "options": [
+        "Mengabaikan karena perbedaan kecil",
+        "Tetap menginput sesuai ucapan nasabah",
+        "Melakukan klarifikasi dan verifikasi ulang dokumen",
+        "Menunggu transaksi pertama terjadi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Perbedaan data harus diklarifikasi dan diverifikasi ulang.",
+      "topic": "Verifikasi Data",
+      "subtopic": "Verifikasi Data",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 35,
+      "question": "Salah satu indikator transaksi mencurigakan adalah...",
+      "options": [
+        "Penggunaan rekening untuk payroll rutin",
+        "Transfer internasional ke negara berisiko tanpa alasan logis",
+        "Setoran awal sesuai profil nasabah",
+        "Pembayaran tagihan listrik bulanan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transfer ke negara berisiko tanpa alasan logis merupakan red flag AML.",
+      "topic": "Red Flags",
+      "subtopic": "Red Flags",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 36,
+      "question": "Dalam pembukaan deposito via internet banking BRI, nominal pembukaan mengikuti ketentuan...",
+      "options": [
+        "Rp100 ribu â Rp1 juta",
+        "Rp1 juta â Rp3 juta",
+        "Rp5 juta â Rp100 juta",
+        "Tidak ada batasan nominal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pembukaan deposito via internet banking memiliki batas nominal tertentu.",
+      "topic": "Deposito",
+      "subtopic": "Deposito",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 37,
+      "question": "Salah satu alasan CIF disebut fondasi identitas nasabah adalah karena...",
+      "options": [
+        "CIF hanya dimiliki nasabah prioritas",
+        "Seluruh layanan bank terhubung melalui CIF",
+        "CIF digunakan hanya untuk cetak kartu ATM",
+        "CIF menggantikan seluruh dokumen legal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CIF menjadi penghubung utama seluruh layanan dan produk nasabah.",
+      "topic": "CIF",
+      "subtopic": "CIF",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 38,
+      "question": "Dalam penutupan rekening tabungan, proses penutupan wajib dilakukan di...",
+      "options": [
+        "Cabang mana saja tanpa pengecualian",
+        "Kantor pusat regulator",
+        "Cabang pengelola rekening",
+        "Merchant EDC terdekat"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Penutupan rekening dilakukan melalui cabang pengelola rekening.",
+      "topic": "Penutupan Rekening",
+      "subtopic": "Penutupan Rekening",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 39,
+      "question": "Yang termasuk dokumen tambahan nasabah perorangan dalam KYC adalah...",
+      "options": [
+        "Kartu Keluarga",
+        "Boarding pass",
+        "Invoice supplier",
+        "Purchase order"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Kartu Keluarga termasuk dokumen tambahan KYC perorangan.",
+      "topic": "KYC Perorangan",
+      "subtopic": "KYC Perorangan",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 40,
+      "question": "Dalam flow pembukaan deposito, tahap yang dilakukan sebelum penerbitan bilyet adalah...",
+      "options": [
+        "Penghapusan CIF",
+        "Setoran dana",
+        "Penutupan rekening induk",
+        "Pengajuan kartu kredit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Setelah setoran dana dilakukan, bank menerbitkan bilyet deposito.",
+      "topic": "Deposito",
+      "subtopic": "Deposito",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 41,
+      "question": "Nasabah menggunakan banyak rekening untuk menyamarkan aliran dana. Kondisi ini mengindikasikan...",
+      "options": [
+        "Aktivitas dormant normal",
+        "Red flag pencucian uang",
+        "Rekonsiliasi lintas cabang",
+        "Integrasi CRM"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Penggunaan banyak rekening untuk menyamarkan aliran dana merupakan indikasi AML.",
+      "topic": "AML",
+      "subtopic": "AML",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 42,
+      "question": "Tujuan bank meminta informasi tujuan hubungan usaha adalah...",
+      "options": [
+        "Menentukan desain kartu ATM",
+        "Memahami ekspektasi keuntungan nasabah",
+        "Memahami profil dan pola transaksi yang wajar",
+        "Menghapus kebutuhan monitoring"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tujuan hubungan usaha membantu bank memahami pola transaksi wajar.",
+      "topic": "KYC",
+      "subtopic": "KYC",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 43,
+      "question": "Dalam penutupan rekening non-perorangan, surat permohonan dapat diajukan oleh...",
+      "options": [
+        "Siapa saja yang membawa stempel perusahaan",
+        "Kuasa yang disetujui pemilik rekening",
+        "Teller cabang lain",
+        "Vendor perusahaan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Penutupan rekening non-perorangan memerlukan kuasa resmi.",
+      "topic": "Penutupan Rekening",
+      "subtopic": "Penutupan Rekening",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 44,
+      "question": "Bank wajib memastikan dokumen identitas nasabah...",
+      "options": [
+        "Berwarna cerah",
+        "Masih berlaku dan diterbitkan pihak berwenang",
+        "Difotokopi lebih dari lima kali",
+        "Menggunakan alamat kantor cabang"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dokumen identitas harus valid dan diterbitkan pihak berwenang.",
+      "topic": "Dokumen Identitas",
+      "subtopic": "Dokumen Identitas",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 45,
+      "question": "Yang PALING tepat menggambarkan hubungan CIF dan rekening adalah...",
+      "options": [
+        "Satu rekening wajib memiliki CIF berbeda",
+        "CIF dan rekening merupakan entitas yang sama",
+        "CIF menjadi identitas utama yang menghubungkan berbagai rekening nasabah",
+        "Rekening digunakan untuk membuat CIF regulator"
+      ],
+      "correctAnswer": 2,
+      "explanation": "CIF menghubungkan seluruh rekening dan produk milik nasabah.",
+      "topic": "CIF dan Rekening",
+      "subtopic": "CIF dan Rekening",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 46,
+      "question": "Dalam proses pembukaan kredit, analisis kemampuan bayar dilakukan terutama untuk...",
+      "options": [
+        "Mempercepat cetak kartu ATM",
+        "Menilai kelayakan pemberian fasilitas kredit",
+        "Menentukan biaya administrasi tabungan",
+        "Mengurangi kebutuhan dokumen legal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Analisis kemampuan bayar bertujuan menilai kelayakan kredit.",
+      "topic": "Analisis Kredit",
+      "subtopic": "Analisis Kredit",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 47,
+      "question": "Jika dana masuk pada rekening jauh melebihi profil penghasilan nasabah, maka bank seharusnya...",
+      "options": [
+        "Menganggap sebagai nasabah prioritas otomatis",
+        "Mengabaikan karena transaksi sudah masuk",
+        "Meningkatkan kewaspadaan dan melakukan monitoring",
+        "Menutup rekening tanpa prosedur"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ketidaksesuaian profil dan transaksi perlu dimonitor lebih lanjut.",
+      "topic": "Monitoring",
+      "subtopic": "Monitoring",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 48,
+      "question": "Pernyataan yang PALING benar mengenai rekening kredit adalah...",
+      "options": [
+        "Selalu dapat dibuka instan tanpa dokumen",
+        "Digunakan untuk menampung pencairan pinjaman dan pembayaran kembali",
+        "Tidak memerlukan KYC",
+        "Merupakan bagian dari produk treasury"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rekening kredit digunakan untuk transaksi pinjaman.",
+      "topic": "Rekening Kredit",
+      "subtopic": "Rekening Kredit",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 49,
+      "question": "Dalam administrasi penutupan rekening, pengarsipan dokumen penting dilakukan untuk...",
+      "options": [
+        "Mengurangi kebutuhan audit",
+        "Kepentingan dokumentasi, monitoring, dan kepatuhan",
+        "Menghindari input ke sistem",
+        "Menghapus histori transaksi nasabah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pengarsipan diperlukan untuk dokumentasi dan kepatuhan audit.",
+      "topic": "Administrasi",
+      "subtopic": "Administrasi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 50,
+      "question": "Nasabah meminta pembukaan rekening diproses tanpa NPWP maupun surat keterangan tidak memiliki NPWP. Tindakan yang paling sesuai adalah...",
+      "options": [
+        "Tetap membuka rekening agar target tercapai",
+        "Meminta teller override sistem",
+        "Meminta nasabah melengkapi persyaratan sesuai ketentuan",
+        "Membuka rekening sementara tanpa CIF"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nasabah wajib melengkapi persyaratan dokumen sesuai ketentuan.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Pembukaan Rekening",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 51,
+      "question": "Seorang nasabah ingin membuka rekening tabungan dengan setoran awal Rp500 juta. Ia mengaku mahasiswa dan tidak dapat menjelaskan sumber dana secara jelas.",
+      "options": [
+        "Langsung membuka rekening karena dana besar menguntungkan bank",
+        "Menunda proses dan melakukan pendalaman KYC serta sumber dana",
+        "Menyarankan split transaksi ke beberapa rekening",
+        "Mengabaikan profil karena identitas lengkap"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Profil dan sumber dana tidak sesuai sehingga perlu enhanced due diligence.",
+      "topic": "AML dan KYC",
+      "subtopic": "AML dan KYC",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "KYC",
+        "AML",
+        "sumber dana",
+        "red flag",
+        "verifikasi"
+      ]
+    },
+    {
+      "id": 52,
+      "question": "Nasabah perusahaan ingin membuka giro, tetapi akta perubahan terakhir belum tersedia.",
+      "options": [
+        "Tetap proses karena akta awal sudah cukup",
+        "Meminta dokumen legal terbaru sebelum proses dilanjutkan",
+        "Membuka rekening sementara tanpa CIF",
+        "Meminta teller mengambil keputusan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Legalitas terbaru wajib diverifikasi sebelum pembukaan rekening perusahaan.",
+      "topic": "Legalitas Perusahaan",
+      "subtopic": "Legalitas Perusahaan",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "legalitas",
+        "akta",
+        "verifikasi",
+        "kepatuhan"
+      ]
+    },
+    {
+      "id": 53,
+      "question": "Nasabah meminta proses pembukaan rekening dipercepat dan menolak diwawancarai lebih lanjut.",
+      "options": [
+        "Menghentikan seluruh layanan permanen",
+        "Tetap mengikuti prosedur KYC secara ketat",
+        "Menghapus kebutuhan verifikasi",
+        "Langsung approval demi service excellence"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prosedur KYC tetap wajib dilakukan meskipun nasabah keberatan.",
+      "topic": "KYC",
+      "subtopic": "KYC",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "KYC",
+        "verifikasi",
+        "kehati-hatian",
+        "suspicious"
+      ]
+    },
+    {
+      "id": 54,
+      "question": "Rekening dormant tiba-tiba menerima transfer internasional bernilai besar lalu seluruh dana segera dipindahkan.",
+      "options": [
+        "Aktivitas normal high-net-worth customer",
+        "Indikasi suspicious transaction yang perlu monitoring",
+        "Tidak perlu diperhatikan selama saldo cukup",
+        "Bukti rekening aktif kembali secara sehat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pola transaksi tersebut merupakan red flag AML.",
+      "topic": "Red Flags",
+      "subtopic": "Red Flags",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "monitoring",
+        "AML",
+        "suspicious transaction",
+        "red flag"
+      ]
+    },
+    {
+      "id": 55,
+      "question": "CS menemukan perbedaan tanggal lahir antara CIF dan KTP nasabah.",
+      "options": [
+        "Menggunakan data CIF lama tanpa konfirmasi",
+        "Melakukan klarifikasi dan update setelah verifikasi",
+        "Menghapus CIF nasabah",
+        "Meminta nasabah membuat rekening baru"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Data CIF harus akurat dan diperbarui setelah verifikasi.",
+      "topic": "CIF",
+      "subtopic": "CIF",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "CIF",
+        "validasi",
+        "update data",
+        "akurasi"
+      ]
+    },
+    {
+      "id": 56,
+      "question": "Nasabah non-perorangan ingin menutup rekening melalui staf biasa tanpa surat kuasa.",
+      "options": [
+        "Langsung diproses karena membawa stempel perusahaan",
+        "Ditolak sampai ada kuasa resmi dan dokumen pendukung",
+        "Diproses sebagian tanpa verifikasi",
+        "Menunggu teller kosong"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Penutupan rekening non-perorangan memerlukan kuasa resmi.",
+      "topic": "Penutupan Rekening",
+      "subtopic": "Penutupan Rekening",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "surat kuasa",
+        "otorisasi",
+        "dokumen",
+        "kepatuhan"
+      ]
+    },
+    {
+      "id": 57,
+      "question": "Nasabah ingin membuka deposito tetapi belum memiliki rekening tabungan/giro di bank.",
+      "options": [
+        "Deposito tetap dapat dibuka tanpa rekening induk",
+        "Nasabah perlu memenuhi syarat rekening pendukung sesuai ketentuan",
+        "Deposito diganti menjadi giro otomatis",
+        "Teller dapat override syarat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pembukaan deposito memerlukan rekening pendukung sesuai ketentuan bank.",
+      "topic": "Deposito",
+      "subtopic": "Deposito",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "rekening pendukung",
+        "ketentuan",
+        "deposito",
+        "kepatuhan"
+      ]
+    },
+    {
+      "id": 58,
+      "question": "Dalam proses kredit, hasil analisis menunjukkan kemampuan bayar nasabah tidak memadai.",
+      "options": [
+        "Kredit tetap disetujui agar target tercapai",
+        "Permohonan dapat ditolak berdasarkan hasil analisis risiko",
+        "CIF langsung dihapus",
+        "Rekening tabungan otomatis diblokir"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Analisis kemampuan bayar menentukan kelayakan pemberian kredit.",
+      "topic": "Analisis Kredit",
+      "subtopic": "Analisis Kredit",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "kemampuan bayar",
+        "analisis risiko",
+        "kelayakan kredit"
+      ]
+    },
+    {
+      "id": 59,
+      "question": "Nasabah perusahaan menggunakan nominee untuk mewakili beneficial owner sebenarnya.",
+      "options": [
+        "Diperbolehkan tanpa klarifikasi",
+        "Perlu identifikasi beneficial owner sesuai prinsip KYC",
+        "Tidak perlu dicatat dalam CIF",
+        "Cukup dicatat nama nominee saja"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bank wajib mengidentifikasi beneficial owner sebenarnya.",
+      "topic": "Beneficial Owner",
+      "subtopic": "Beneficial Owner",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "beneficial owner",
+        "KYC",
+        "AML",
+        "identifikasi"
+      ]
+    },
+    {
+      "id": 60,
+      "question": "Nasabah meminta rekening ditutup di cabang lain yang bukan cabang pengelola.",
+      "options": [
+        "Langsung diproses penuh tanpa koordinasi",
+        "Permohonan diteruskan ke cabang pengelola sesuai prosedur",
+        "Ditolak permanen",
+        "Rekening diblokir otomatis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Penutupan rekening mengikuti kewenangan cabang pengelola.",
+      "topic": "Penutupan Rekening",
+      "subtopic": "Penutupan Rekening",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "cabang pengelola",
+        "prosedur",
+        "otorisasi"
+      ]
+    },
+    {
+      "id": 61,
+      "question": "Nasabah mengirim uang berulang ke negara berisiko tinggi tanpa penjelasan logis.",
+      "options": [
+        "Aktivitas biasa perdagangan internasional",
+        "Perlu peningkatan monitoring dan analisis transaksi",
+        "Tidak perlu dicatat selama saldo cukup",
+        "Langsung dianggap fraud internal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transfer ke negara berisiko tinggi memerlukan monitoring tambahan.",
+      "topic": "Monitoring AML",
+      "subtopic": "Monitoring AML",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "monitoring",
+        "negara berisiko",
+        "AML",
+        "analisis transaksi"
+      ]
+    },
+    {
+      "id": 62,
+      "question": "Saat onboarding, nasabah menolak memberikan informasi tujuan pembukaan rekening.",
+      "options": [
+        "Tetap diproses karena identitas sudah ada",
+        "Bank perlu meminta informasi minimum sesuai KYC",
+        "CIF dapat dibuat kosong sementara",
+        "Data tujuan transaksi tidak relevan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Informasi tujuan hubungan usaha merupakan bagian mandatory KYC.",
+      "topic": "Onboarding KYC",
+      "subtopic": "Onboarding KYC",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "KYC",
+        "informasi minimum",
+        "tujuan hubungan usaha"
+      ]
+    },
+    {
+      "id": 63,
+      "question": "Nasabah ingin membuka rekening kredit konsumtif tetapi slip gaji dan rekening koran tidak tersedia.",
+      "options": [
+        "Tetap approval berdasarkan wawancara saja",
+        "Dokumen penghasilan perlu dipenuhi untuk analisis kredit",
+        "Diganti menjadi deposito",
+        "Kredit diproses tanpa analisis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dokumen penghasilan diperlukan untuk menilai kemampuan bayar.",
+      "topic": "Kredit Konsumtif",
+      "subtopic": "Kredit Konsumtif",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "penghasilan",
+        "analisis kredit",
+        "kemampuan bayar"
+      ]
+    },
+    {
+      "id": 64,
+      "question": "CS menemukan dokumen identitas nasabah sudah kedaluwarsa.",
+      "options": [
+        "Tetap digunakan selama fotonya jelas",
+        "Meminta dokumen valid yang masih berlaku",
+        "Menggunakan data lama tanpa update",
+        "Menghapus proses onboarding"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dokumen identitas wajib valid dan masih berlaku.",
+      "topic": "Dokumen Identitas",
+      "subtopic": "Dokumen Identitas",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "dokumen valid",
+        "identitas",
+        "verifikasi"
+      ]
+    },
+    {
+      "id": 65,
+      "question": "Nasabah melakukan transaksi tunai besar berulang tanpa pola bisnis yang jelas.",
+      "options": [
+        "Indikasi red flag yang perlu pemantauan",
+        "Aktivitas pasti legal karena tunai",
+        "Bukti loyalitas nasabah",
+        "Tidak perlu dicatat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Transaksi tunai besar berulang tanpa pola jelas merupakan red flag AML.",
+      "topic": "Red Flags",
+      "subtopic": "Red Flags",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "red flag",
+        "AML",
+        "transaksi tunai",
+        "monitoring"
+      ]
+    },
+    {
+      "id": 66,
+      "question": "Nasabah meminta pembukaan rekening atas nama perusahaan, tetapi izin usaha tidak dapat ditunjukkan.",
+      "options": [
+        "Rekening dapat dibuka sementara",
+        "Legalitas usaha perlu diverifikasi terlebih dahulu",
+        "Cukup menggunakan kartu nama perusahaan",
+        "CIF perusahaan tetap dibuat final"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Legalitas usaha wajib diverifikasi sebelum onboarding perusahaan.",
+      "topic": "Legalitas Usaha",
+      "subtopic": "Legalitas Usaha",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "legalitas",
+        "izin usaha",
+        "verifikasi"
+      ]
+    },
+    {
+      "id": 67,
+      "question": "Saat pengisian CIF, alamat domisili nasabah ternyata sudah berubah sejak dua tahun lalu.",
+      "options": [
+        "Tetap gunakan alamat lama agar konsisten",
+        "Update data terbaru sesuai kondisi aktual",
+        "Menunggu audit tahunan",
+        "Menghapus CIF lama"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Data CIF harus selalu akurat dan terkini.",
+      "topic": "Update CIF",
+      "subtopic": "Update CIF",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "update CIF",
+        "akurasi data",
+        "data terkini"
+      ]
+    },
+    {
+      "id": 68,
+      "question": "Nasabah meminta agar beberapa transaksi dipecah menjadi nominal kecil agar tidak diperiksa.",
+      "options": [
+        "Strategi efisiensi transaksi",
+        "Indikasi upaya menghindari threshold pelaporan",
+        "Aktivitas normal payroll",
+        "Metode treasury management"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pemecahan transaksi untuk menghindari pelaporan termasuk structuring/smurfing.",
+      "topic": "Structuring",
+      "subtopic": "Structuring",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "structuring",
+        "smurfing",
+        "threshold",
+        "AML"
+      ]
+    },
+    {
+      "id": 69,
+      "question": "Dalam penutupan rekening, masih terdapat sisa dana di rekening nasabah.",
+      "options": [
+        "Dana dihapus otomatis",
+        "Bank perlu menyelesaikan dana sisa sesuai prosedur",
+        "Dana menjadi pendapatan bank",
+        "Rekening langsung dormant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dana sisa wajib diselesaikan sesuai prosedur penutupan rekening.",
+      "topic": "Penyelesaian Dana",
+      "subtopic": "Penyelesaian Dana",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "dana sisa",
+        "prosedur",
+        "penutupan rekening"
+      ]
+    },
+    {
+      "id": 70,
+      "question": "Nasabah memiliki beberapa produk: tabungan, giro, deposito, dan kredit. Bank tetap menggunakan satu CIF.",
+      "options": [
+        "Karena CIF berfungsi sebagai identitas utama terintegrasi",
+        "Karena sistem bank tidak mampu membuat CIF baru",
+        "Karena CIF hanya digunakan untuk tabungan",
+        "Karena regulator melarang banyak rekening"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Satu CIF digunakan untuk mengintegrasikan seluruh produk nasabah.",
+      "topic": "CIF",
+      "subtopic": "CIF",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "CIF",
+        "integrasi",
+        "identitas utama",
+        "produk nasabah"
+      ]
+    }
+  ]
+}
