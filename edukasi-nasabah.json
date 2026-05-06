@@ -1,0 +1,1276 @@
+{
+    "quizTitle": "Memberikan Edukasi Nasabah & Calon Nasabah",
+    "questions": [
+        {
+            "id": 1,
+            "question": "Tujuan utama POJK terkait literasi keuangan adalah...",
+            "options": [
+                "meningkatkan fee income",
+                "landasan tata kelola literasi dan inklusi",
+                "menghapus edukasi bank",
+                "menggantikan BI"
+            ],
+            "correctAnswer": 1,
+            "explanation": "POJK menjadi dasar tata kelola program literasi.",
+            "topic": "POJK",
+            "subtopic": "Regulasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 2,
+            "question": "Inklusi keuangan berarti...",
+            "options": [
+                "akses layanan keuangan",
+                "penguasaan treasury",
+                "penghapusan biaya",
+                "strategi investasi"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Inklusi berarti akses terhadap layanan keuangan.",
+            "topic": "Literasi",
+            "subtopic": "Inklusi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 3,
+            "question": "Prinsip literasi keuangan mencakup...",
+            "options": [
+                "profitability",
+                "terencana dan terukur",
+                "branch expansion",
+                "treasury"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Program harus terencana dan terukur.",
+            "topic": "Prinsip",
+            "subtopic": "Literasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 4,
+            "question": "Bank wajib menyelenggarakan edukasi minimal...",
+            "options": [
+                "1 kali",
+                "2 kali",
+                "5 kali",
+                "bebas"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Minimal dua kali setahun.",
+            "topic": "Kewajiban",
+            "subtopic": "Frekuensi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 5,
+            "question": "Tujuan edukasi adalah meningkatkan...",
+            "options": [
+                "pengetahuan masyarakat",
+                "biaya admin",
+                "NPL",
+                "spread bunga"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Edukasi meningkatkan pemahaman masyarakat.",
+            "topic": "Tujuan",
+            "subtopic": "Edukasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 6,
+            "question": "Media paling sesuai untuk generasi digital adalah...",
+            "options": [
+                "memo",
+                "webinar interaktif",
+                "surat fisik",
+                "notice board"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Generasi digital cocok dengan media interaktif.",
+            "topic": "Media",
+            "subtopic": "Digital",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 7,
+            "question": "Safe deposit box termasuk...",
+            "options": [
+                "funding",
+                "fee based",
+                "lending",
+                "treasury"
+            ],
+            "correctAnswer": 1,
+            "explanation": "SDB termasuk fee based service.",
+            "topic": "Produk",
+            "subtopic": "Fee Based",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 8,
+            "question": "OTP bersifat...",
+            "options": [
+                "publik",
+                "rahasia",
+                "opsional",
+                "marketing"
+            ],
+            "correctAnswer": 1,
+            "explanation": "OTP harus dijaga kerahasiaannya.",
+            "topic": "Fraud",
+            "subtopic": "OTP",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 9,
+            "question": "Risk vs return berarti...",
+            "options": [
+                "return tanpa risiko",
+                "risiko dan imbal hasil searah",
+                "deposito paling berisiko",
+                "saham pasti aman"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Semakin tinggi return semakin tinggi risiko.",
+            "topic": "Investasi",
+            "subtopic": "Risk Return",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 10,
+            "question": "Misselling dapat terjadi jika...",
+            "options": [
+                "risiko dijelaskan",
+                "manfaat saja yang dijelaskan",
+                "nasabah diberi simulasi",
+                "ada transparansi"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Risiko harus dijelaskan seimbang.",
+            "topic": "Misselling",
+            "subtopic": "Customer Protection",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 11,
+            "question": "Workshop termasuk bentuk...",
+            "options": [
+                "audit",
+                "edukasi",
+                "settlement",
+                "treasury"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Workshop merupakan metode edukasi.",
+            "topic": "Metode",
+            "subtopic": "Workshop",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 12,
+            "question": "Tujuan simulasi kredit adalah...",
+            "options": [
+                "transparansi",
+                "marketing",
+                "menghindari risiko",
+                "audit"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Simulasi meningkatkan transparansi.",
+            "topic": "Kredit",
+            "subtopic": "Simulasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 13,
+            "question": "Evaluasi program digunakan untuk...",
+            "options": [
+                "pengembangan program",
+                "penghapusan laporan",
+                "mengurangi peserta",
+                "marketing"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Evaluasi menjadi dasar pengembangan.",
+            "topic": "Evaluasi",
+            "subtopic": "Program",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 14,
+            "question": "Segmentasi individu dan UMKM termasuk...",
+            "options": [
+                "jenis nasabah",
+                "AML",
+                "wilayah",
+                "treasury"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Itu merupakan segmentasi jenis nasabah.",
+            "topic": "Segmentasi",
+            "subtopic": "Nasabah",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 15,
+            "question": "Fraud phishing termasuk risiko...",
+            "options": [
+                "digital",
+                "pasar",
+                "likuiditas",
+                "suku bunga"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Phishing merupakan fraud digital.",
+            "topic": "Fraud",
+            "subtopic": "Digital",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 16,
+            "question": "OJK menargetkan peningkatan...",
+            "options": [
+                "inklusi keuangan",
+                "NPL",
+                "CAR",
+                "spread bunga"
+            ],
+            "correctAnswer": 0,
+            "explanation": "OJK menargetkan peningkatan inklusi.",
+            "topic": "OJK",
+            "subtopic": "Target",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 17,
+            "question": "Body language buruk dapat memicu...",
+            "options": [
+                "negative perception",
+                "market risk",
+                "default",
+                "hedging"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Body language memengaruhi persepsi.",
+            "topic": "Presentation",
+            "subtopic": "Body Language",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 18,
+            "question": "Media sosial termasuk metode edukasi...",
+            "options": [
+                "digital",
+                "manual",
+                "audit",
+                "operasional"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Media sosial merupakan media edukasi digital.",
+            "topic": "Digital",
+            "subtopic": "Media Sosial",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 19,
+            "question": "Audience based communication berarti...",
+            "options": [
+                "materi sesuai audiens",
+                "materi teknis penuh",
+                "tanpa simplifikasi",
+                "fokus regulator"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Materi harus sesuai audiens.",
+            "topic": "Komunikasi",
+            "subtopic": "Audience",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 20,
+            "question": "Kegiatan edukasi perlu dilaporkan kepada...",
+            "options": [
+                "OJK",
+                "vendor",
+                "nasabah",
+                "merchant"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Pelaporan dilakukan kepada OJK.",
+            "topic": "Pelaporan",
+            "subtopic": "Compliance",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 21,
+            "question": "Trainer perlu simulasi mengajar untuk mengurangi...",
+            "options": [
+                "reputational risk",
+                "market risk",
+                "liquidity risk",
+                "default risk"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Simulasi meningkatkan kualitas delivery.",
+            "topic": "Trainer",
+            "subtopic": "Preparation",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 22,
+            "question": "Edukasi anti investasi bodong bertujuan...",
+            "options": [
+                "perlindungan konsumen",
+                "cross selling",
+                "audit",
+                "hedging"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Edukasi mencegah kerugian konsumen.",
+            "topic": "Investasi",
+            "subtopic": "Protection",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 23,
+            "question": "QRIS termasuk bagian dari...",
+            "options": [
+                "digitalisasi perbankan",
+                "trade finance",
+                "treasury",
+                "LPS"
+            ],
+            "correctAnswer": 0,
+            "explanation": "QRIS bagian digitalisasi.",
+            "topic": "Digitalisasi",
+            "subtopic": "QRIS",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 24,
+            "question": "Perubahan perilaku nasabah merupakan...",
+            "options": [
+                "indikator keberhasilan",
+                "risk issue",
+                "audit temuan",
+                "fraud"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Outcome edukasi diukur dari perubahan perilaku.",
+            "topic": "Indikator",
+            "subtopic": "Outcome",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 25,
+            "question": "Pengenalan produk tabungan termasuk materi...",
+            "options": [
+                "karakteristik produk",
+                "audit",
+                "hedging",
+                "settlement"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Produk tabungan bagian karakteristik produk.",
+            "topic": "Produk",
+            "subtopic": "Tabungan",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 26,
+            "question": "Edukasi saat onboarding bertujuan...",
+            "options": [
+                "memberi pemahaman produk",
+                "menghindari laporan",
+                "menghapus KYC",
+                "menambah NPL"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Onboarding harus disertai edukasi.",
+            "topic": "Onboarding",
+            "subtopic": "Edukasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 27,
+            "question": "Trainer yang datang terlambat berpotensi menimbulkan...",
+            "options": [
+                "operational issue",
+                "market crash",
+                "default",
+                "capital issue"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Keterlambatan mengganggu operasional kegiatan.",
+            "topic": "Operational Risk",
+            "subtopic": "Trainer",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 28,
+            "question": "Penjelasan produk harus menggunakan bahasa...",
+            "options": [
+                "mudah dipahami",
+                "sangat teknis",
+                "hukum penuh",
+                "internal only"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Nasabah harus memahami penjelasan produk.",
+            "topic": "Komunikasi",
+            "subtopic": "Plain Language",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 29,
+            "question": "Pembukaan presentasi yang menggugah disebut...",
+            "options": [
+                "opening",
+                "closing",
+                "settlement",
+                "approval"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Opening digunakan menarik perhatian.",
+            "topic": "Presentation",
+            "subtopic": "Opening",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 30,
+            "question": "Pajak bunga deposito termasuk...",
+            "options": [
+                "PPh Final",
+                "PPN",
+                "bea meterai",
+                "PBB"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Bunga deposito dikenakan PPh Final.",
+            "topic": "Perpajakan",
+            "subtopic": "Deposito",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 31,
+            "question": "Edukasi anti fraud paling efektif dilakukan saat...",
+            "options": [
+                "tren fraud meningkat",
+                "audit",
+                "closing branch",
+                "rekonsiliasi"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Edukasi harus responsif terhadap tren risiko.",
+            "topic": "Fraud",
+            "subtopic": "Awareness",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 32,
+            "question": "Konsultasi keuangan termasuk edukasi...",
+            "options": [
+                "langsung",
+                "digital",
+                "audit",
+                "compliance"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Konsultasi merupakan edukasi langsung.",
+            "topic": "Edukasi",
+            "subtopic": "Langsung",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 33,
+            "question": "Mindset finansial mencakup...",
+            "options": [
+                "kebutuhan vs keinginan",
+                "treasury",
+                "swap",
+                "hedging"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Mindset finansial memahami prioritas kebutuhan.",
+            "topic": "Mindset",
+            "subtopic": "Finansial",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 34,
+            "question": "e-KYC berkaitan dengan...",
+            "options": [
+                "digital onboarding",
+                "cash pooling",
+                "hedging",
+                "settlement"
+            ],
+            "correctAnswer": 0,
+            "explanation": "e-KYC digunakan dalam onboarding digital.",
+            "topic": "Digital",
+            "subtopic": "e-KYC",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 35,
+            "question": "Literasi rendah dapat meningkatkan risiko...",
+            "options": [
+                "fraud",
+                "surplus",
+                "hedging",
+                "liquidity"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Kurangnya literasi meningkatkan risiko fraud.",
+            "topic": "Literasi",
+            "subtopic": "Fraud",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 36,
+            "question": "Menyampaikan manfaat tanpa risiko dapat memicu...",
+            "options": [
+                "complaint",
+                "hedging",
+                "swap",
+                "default"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Nasabah dapat merasa disesatkan.",
+            "topic": "Complaint",
+            "subtopic": "Transparency",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 37,
+            "question": "Materi investasi legal relevan untuk mencegah...",
+            "options": [
+                "investasi bodong",
+                "NPL",
+                "liquidity issue",
+                "market crash"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Edukasi membantu masyarakat mengenali investasi ilegal.",
+            "topic": "Investasi",
+            "subtopic": "Legalitas",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 38,
+            "question": "Kuis interaktif termasuk metode...",
+            "options": [
+                "edutainment",
+                "treasury",
+                "settlement",
+                "AML"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Kuis interaktif termasuk edutainment.",
+            "topic": "Metode",
+            "subtopic": "Edutainment",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 39,
+            "question": "Laporan kegiatan edukasi menjadi bagian dari...",
+            "options": [
+                "RBB",
+                "SLIK",
+                "RTGS",
+                "SKNBI"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Laporan menjadi bagian RBB.",
+            "topic": "Pelaporan",
+            "subtopic": "RBB",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 40,
+            "question": "Target wilayah 3T berkaitan dengan...",
+            "options": [
+                "inklusi keuangan",
+                "treasury",
+                "derivatif",
+                "hedging"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Wilayah 3T menjadi fokus inklusi.",
+            "topic": "Inklusi",
+            "subtopic": "3T",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 41,
+            "question": "Trainer perlu menjaga eye contact untuk...",
+            "options": [
+                "engagement audience",
+                "market stability",
+                "hedging",
+                "liquidity"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Eye contact meningkatkan engagement.",
+            "topic": "Presentation",
+            "subtopic": "Engagement",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 42,
+            "question": "Dana darurat termasuk materi...",
+            "options": [
+                "pengelolaan keuangan",
+                "treasury",
+                "trade finance",
+                "settlement"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Dana darurat bagian pengelolaan keuangan.",
+            "topic": "Keuangan",
+            "subtopic": "Dana Darurat",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 43,
+            "question": "Mobile banking membutuhkan edukasi mengenai...",
+            "options": [
+                "keamanan transaksi",
+                "hedging",
+                "swap",
+                "LPS"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Nasabah perlu memahami keamanan transaksi digital.",
+            "topic": "Mobile Banking",
+            "subtopic": "Security",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 44,
+            "question": "Rundown acara diperlukan untuk...",
+            "options": [
+                "kontrol waktu",
+                "swap",
+                "hedging",
+                "clearing"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Rundown membantu pengelolaan waktu acara.",
+            "topic": "Persiapan",
+            "subtopic": "Rundown",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 45,
+            "question": "Question and answer session bertujuan...",
+            "options": [
+                "melibatkan peserta",
+                "mengurangi waktu",
+                "audit",
+                "settlement"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Q&A meningkatkan partisipasi.",
+            "topic": "Q&A",
+            "subtopic": "Engagement",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 46,
+            "question": "Penggunaan contoh lokal meningkatkan...",
+            "options": [
+                "relevansi materi",
+                "market risk",
+                "spread",
+                "cost"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Contoh lokal lebih mudah dipahami.",
+            "topic": "Strategi",
+            "subtopic": "Kontekstual",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 47,
+            "question": "Asuransi termasuk materi...",
+            "options": [
+                "perlindungan keuangan",
+                "treasury",
+                "settlement",
+                "hedging"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Asuransi bagian perlindungan keuangan.",
+            "topic": "Asuransi",
+            "subtopic": "Proteksi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 48,
+            "question": "Opening dengan pertanyaan retoris bertujuan...",
+            "options": [
+                "menggugah perhatian",
+                "audit",
+                "approval",
+                "rekonsiliasi"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Pertanyaan retoris meningkatkan perhatian peserta.",
+            "topic": "Opening",
+            "subtopic": "Rhetorical Question",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 49,
+            "question": "Closing presentasi sebaiknya berisi...",
+            "options": [
+                "ringkasan poin utama",
+                "audit",
+                "approval kredit",
+                "hedging"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Closing memperkuat inti materi.",
+            "topic": "Closing",
+            "subtopic": "Summary",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 50,
+            "question": "Edukasi nasabah termasuk bagian dari...",
+            "options": [
+                "perlindungan konsumen",
+                "trade finance",
+                "treasury dealing",
+                "market maker"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Edukasi mendukung perlindungan konsumen.",
+            "topic": "Customer Protection",
+            "subtopic": "Edukasi",
+            "difficulty": "Hard",
+            "requiresReasoning": false,
+            "reasoningKeywords": []
+        },
+        {
+            "id": 51,
+            "question": "CS menjelaskan mobile banking dengan istilah teknis kepada lansia. Tindakan terbaik adalah...",
+            "options": [
+                "tetap lanjut",
+                "menyederhanakan penjelasan",
+                "langsung aktivasi",
+                "memberi brosur saja"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Materi harus disesuaikan dengan pemahaman nasabah.",
+            "topic": "Case Study",
+            "subtopic": "Komunikasi",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "simplifikasi",
+                "pemahaman",
+                "nasabah",
+                "transparansi"
+            ]
+        },
+        {
+            "id": 52,
+            "question": "Webinar investasi hanya menjelaskan return tinggi tanpa risiko. Risiko utamanya adalah...",
+            "options": [
+                "misselling",
+                "hedging",
+                "market maker",
+                "treasury"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Risiko harus dijelaskan secara seimbang.",
+            "topic": "Case Study",
+            "subtopic": "Misselling",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "risiko",
+                "transparansi",
+                "perlindungan konsumen"
+            ]
+        },
+        {
+            "id": 53,
+            "question": "Peserta meminta OTP demo transaksi. Tindakan terbaik adalah...",
+            "options": [
+                "memberikan OTP",
+                "menjelaskan OTP rahasia",
+                "mengabaikan",
+                "membatalkan demo"
+            ],
+            "correctAnswer": 1,
+            "explanation": "OTP bersifat rahasia.",
+            "topic": "Case Study",
+            "subtopic": "OTP",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "OTP",
+                "keamanan",
+                "fraud"
+            ]
+        },
+        {
+            "id": 54,
+            "question": "Trainer tidak mengecek proyektor sehingga seminar terlambat. Risiko utama adalah...",
+            "options": [
+                "operational risk",
+                "market risk",
+                "credit risk",
+                "liquidity risk"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Kurang persiapan memicu operational risk.",
+            "topic": "Case Study",
+            "subtopic": "Operational Risk",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "persiapan",
+                "operasional",
+                "sarana"
+            ]
+        },
+        {
+            "id": 55,
+            "question": "Nasabah meminta investasi pasti untung tanpa risiko. Respon terbaik adalah...",
+            "options": [
+                "menjelaskan risk vs return",
+                "menawarkan saham agresif",
+                "menghindari jawaban",
+                "ikut tren viral"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Petugas wajib menjelaskan konsep risiko.",
+            "topic": "Case Study",
+            "subtopic": "Investasi",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "risk return",
+                "profil risiko",
+                "edukasi"
+            ]
+        },
+        {
+            "id": 56,
+            "question": "Peserta mengeluhkan maraknya social engineering fraud. Tindakan edukatif terbaik adalah...",
+            "options": [
+                "menjelaskan mitigasi fraud",
+                "fokus cashback",
+                "mengganti HP",
+                "menghentikan sesi"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Fraud awareness perlu dijelaskan.",
+            "topic": "Case Study",
+            "subtopic": "Fraud Awareness",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "fraud",
+                "phishing",
+                "mitigasi"
+            ]
+        },
+        {
+            "id": 57,
+            "question": "Program edukasi tanpa indikator evaluasi memiliki kelemahan utama...",
+            "options": [
+                "tidak terukur",
+                "terlalu digital",
+                "peserta sedikit",
+                "audit tinggi"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Program harus measurable.",
+            "topic": "Case Study",
+            "subtopic": "Evaluasi",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "indikator",
+                "evaluasi",
+                "efektivitas"
+            ]
+        },
+        {
+            "id": 58,
+            "question": "Petugas menggunakan bahasa hukum rumit kepada nasabah awam. Perbaikan terbaik adalah...",
+            "options": [
+                "bahasa sederhana",
+                "tetap formal",
+                "tanda tangan dulu",
+                "konsultan pribadi"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Gunakan bahasa yang mudah dipahami.",
+            "topic": "Case Study",
+            "subtopic": "Plain Language",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "bahasa sederhana",
+                "pemahaman",
+                "fairness"
+            ]
+        },
+        {
+            "id": 59,
+            "question": "Trainer tidak mengetahui jawaban peserta. Sikap profesional adalah...",
+            "options": [
+                "konfirmasi lebih lanjut",
+                "menjawab asal",
+                "menghindari jawaban",
+                "menyalahkan peserta"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Jawaban harus akurat.",
+            "topic": "Case Study",
+            "subtopic": "Professionalism",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "akurasi",
+                "profesional",
+                "konfirmasi"
+            ]
+        },
+        {
+            "id": 60,
+            "question": "Edukasi anti fraud hanya di Instagram padahal mayoritas nasabah lansia. Masalah utamanya adalah...",
+            "options": [
+                "media mismatch",
+                "biaya kecil",
+                "terlalu modern",
+                "digitalisasi"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Media harus sesuai target audiens.",
+            "topic": "Case Study",
+            "subtopic": "Audience",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "segmentasi",
+                "media",
+                "audiens"
+            ]
+        },
+        {
+            "id": 61,
+            "question": "Petugas onboarding langsung aktivasi mobile banking tanpa edukasi keamanan. Risiko terbesar adalah...",
+            "options": [
+                "fraud exposure",
+                "market risk",
+                "likuiditas",
+                "settlement"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Nasabah rentan fraud bila tidak diedukasi.",
+            "topic": "Case Study",
+            "subtopic": "Mobile Banking",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "keamanan",
+                "fraud",
+                "edukasi"
+            ]
+        },
+        {
+            "id": 62,
+            "question": "Trainer mengatakan produk investasi pasti aman dan profit. Pernyataan ini bermasalah karena...",
+            "options": [
+                "misleading",
+                "terlalu singkat",
+                "terlalu teknis",
+                "terlalu formal"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Tidak ada investasi tanpa risiko.",
+            "topic": "Case Study",
+            "subtopic": "Misleading",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "misleading",
+                "risiko",
+                "compliance"
+            ]
+        },
+        {
+            "id": 63,
+            "question": "Edukasi di wilayah 3T menggunakan bahasa formal sulit dipahami. Perbaikan terbaik adalah...",
+            "options": [
+                "bahasa lokal",
+                "membatalkan program",
+                "mengurangi peserta",
+                "mengurangi materi"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Pendekatan budaya lokal meningkatkan efektivitas.",
+            "topic": "Case Study",
+            "subtopic": "3T",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "bahasa lokal",
+                "inklusi",
+                "audiens"
+            ]
+        },
+        {
+            "id": 64,
+            "question": "Peserta meminta rekomendasi investasi ilegal viral. Tindakan terbaik adalah...",
+            "options": [
+                "edukasi legalitas",
+                "mendukung return tinggi",
+                "netral",
+                "membiarkan"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Bank wajib mengedukasi legalitas investasi.",
+            "topic": "Case Study",
+            "subtopic": "Investasi Ilegal",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "legalitas",
+                "investasi ilegal",
+                "OJK"
+            ]
+        },
+        {
+            "id": 65,
+            "question": "Laporan edukasi terlambat disampaikan ke OJK. Ini merupakan pelanggaran aspek...",
+            "options": [
+                "compliance reporting",
+                "treasury",
+                "likuiditas",
+                "market conduct"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Pelaporan tepat waktu merupakan kewajiban compliance.",
+            "topic": "Case Study",
+            "subtopic": "Compliance",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "pelaporan",
+                "kepatuhan",
+                "OJK"
+            ]
+        },
+        {
+            "id": 66,
+            "question": "Trainer hanya membaca slide tanpa interaksi. Dampak utamanya adalah...",
+            "options": [
+                "efektivitas rendah",
+                "likuiditas terganggu",
+                "audit finding",
+                "spread turun"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Kurang interaksi menurunkan efektivitas pembelajaran.",
+            "topic": "Case Study",
+            "subtopic": "Engagement",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "engagement",
+                "interaksi",
+                "efektivitas"
+            ]
+        },
+        {
+            "id": 67,
+            "question": "Nasabah tidak memahami proses e-KYC. Langkah terbaik petugas adalah...",
+            "options": [
+                "panduan step by step",
+                "membiarkan",
+                "menolak layanan",
+                "menunda"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Nasabah perlu dipandu dengan jelas.",
+            "topic": "Case Study",
+            "subtopic": "e-KYC",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "e-KYC",
+                "panduan",
+                "keamanan"
+            ]
+        },
+        {
+            "id": 68,
+            "question": "Program edukasi hanya mengejar jumlah peserta tanpa mengukur pemahaman. Kelemahannya adalah...",
+            "options": [
+                "tidak outcome oriented",
+                "terlalu compliance",
+                "terlalu digital",
+                "terlalu sederhana"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Keberhasilan harus diukur dari outcome.",
+            "topic": "Case Study",
+            "subtopic": "Outcome",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "outcome",
+                "pemahaman",
+                "evaluasi"
+            ]
+        },
+        {
+            "id": 69,
+            "question": "Trainer menutup seminar tanpa rangkuman. Kelemahan utamanya adalah...",
+            "options": [
+                "pesan utama tidak reinforced",
+                "likuiditas terganggu",
+                "AML issue",
+                "settlement risk"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Closing harus memperkuat pesan utama.",
+            "topic": "Case Study",
+            "subtopic": "Closing",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "closing",
+                "summary",
+                "reinforcement"
+            ]
+        },
+        {
+            "id": 70,
+            "question": "Nasabah meminta simulasi cicilan sebelum mengambil kredit. Tindakan terbaik petugas adalah...",
+            "options": [
+                "memberikan simulasi transparan",
+                "langsung approval",
+                "menghindari penjelasan",
+                "menunggu audit"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Simulasi membantu transparansi dan pemahaman nasabah.",
+            "topic": "Case Study",
+            "subtopic": "Simulasi Kredit",
+            "difficulty": "Hard",
+            "requiresReasoning": true,
+            "reasoningKeywords": [
+                "simulasi",
+                "transparansi",
+                "kredit"
+            ]
+        }
+    ]
+}
