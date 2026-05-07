@@ -733,10 +733,38 @@ function renderOptions(options){
 
 function handleOptionSelect(index){
 
-  // prevent changing answer
-  if(state.selectedOption !== null){
+  const question =
+    state.questions[state.currentQuestionIndex];
+
+  // TYPE 1
+  // langsung lock + verifikasi
+  if(!question.requiresReasoning){
+
+    // prevent changing
+    if(state.selectedOption !== null){
+      return;
+    }
+
+    state.selectedOption = index;
+
+    const buttons =
+      document.querySelectorAll('.option');
+
+    buttons.forEach(btn=>
+      btn.classList.remove('selected')
+    );
+
+    buttons[index].classList.add('selected');
+
+    disableInteraction();
+
+    processAnswer();
+
     return;
   }
+
+  // TYPE 2
+  // masih bisa ganti sebelum submit
 
   state.selectedOption = index;
 
@@ -748,17 +776,6 @@ function handleOptionSelect(index){
   );
 
   buttons[index].classList.add('selected');
-
-  const question =
-    state.questions[state.currentQuestionIndex];
-
-  // lock all options after selection
-  disableInteraction();
-
-  if(!question.requiresReasoning){
-
-    processAnswer();
-  }
 
 }
 
@@ -1000,54 +1017,13 @@ function showFeedback(
 
   if(question.requiresReasoning){
 
-    el.reasoningFeedback.classList.remove('hidden');
+  // tipe soal 2:
+  // tidak tampil alasan ideal
+  // tidak tampil hasil penilaian
 
-    let html = '';
+  el.reasoningFeedback.classList.add('hidden');
 
-    if(isCorrect){
-
-      html += `
-        <div style="
-          font-weight:700;
-          margin-bottom:12px;
-        ">
-          ${reasoningResult.label}
-        </div>
-      `;
-
-      if(
-        reasoningResult.status !== 'suitable'
-      ){
-
-        html += `
-          <div>
-            <strong>Alasan ideal:</strong><br><br>
-            ${question.idealReasoning || '-'}
-          </div>
-        `;
-      }
-
-    }else{
-
-      html += `
-        <div style="
-          color:#991b1b;
-          font-weight:700;
-          margin-bottom:12px;
-        ">
-          Jawaban Salah — Nilai 0
-        </div>
-
-        <div>
-          <strong>Alasan ideal:</strong><br><br>
-          ${question.idealReasoning || '-'}
-        </div>
-      `;
-    }
-
-    el.reasoningFeedback.innerHTML = html;
-
-  }
+}
 
   highlightCorrectAnswer(question.correctAnswer);
 
