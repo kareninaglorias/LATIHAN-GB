@@ -257,6 +257,279 @@
       "reasoningKeywords": []
     },
     {
+      "id": 16,
+      "question": "Nasabah menyampaikan keluhan karena transfer belum masuk, padahal SLA antarbank belum terlampaui. Tindakan yang PALING tepat adalah...",
+      "options": [
+        "Langsung menyatakan sistem bank gagal",
+        "Menjelaskan SLA transaksi dan membantu pengecekan status transfer",
+        "Meminta nasabah menghubungi bank penerima sendiri tanpa bantuan",
+        "Menyarankan pembatalan rekening"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Petugas wajib menjelaskan SLA dan membantu pengecekan status transaksi sebelum menyimpulkan adanya kegagalan transaksi.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "SLA Transaksi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 17,
+      "question": "Dalam trade finance, fungsi utama bank garansi adalah...",
+      "options": [
+        "Menggantikan invoice perdagangan",
+        "Menjamin pembayaran atau kewajiban pihak tertentu",
+        "Menjadi alat investasi valas",
+        "Menghapus kebutuhan kontrak bisnis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bank garansi merupakan bentuk penjaminan dari bank atas kewajiban pihak tertentu sesuai perjanjian.",
+      "topic": "Trade Finance",
+      "subtopic": "Bank Garansi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 18,
+      "question": "Dalam administrasi perbankan, dokumen specimen signature terutama digunakan untuk...",
+      "options": [
+        "Menentukan limit kredit nasabah",
+        "Verifikasi keaslian tanda tangan transaksi",
+        "Menghitung biaya provisi",
+        "Membuat laporan pajak"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Specimen signature digunakan untuk mencocokkan tanda tangan nasabah pada transaksi atau dokumen tertentu.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Specimen",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 19,
+      "question": "Jika bank menerima pendapatan bunga, maka dampak yang PALING tepat terhadap persamaan akuntansi adalah...",
+      "options": [
+        "Modal berkurang",
+        "Aset dan modal meningkat",
+        "Liabilitas meningkat otomatis",
+        "Pendapatan mengurangi aset"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pendapatan bunga meningkatkan aset dan pada akhirnya meningkatkan modal melalui laba.",
+      "topic": "Akuntansi",
+      "subtopic": "Pendapatan",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 20,
+      "question": "Dokumen perjanjian kredit memiliki kekuatan hukum terutama karena...",
+      "options": [
+        "Disusun hanya oleh nasabah",
+        "Menjadi dasar hak dan kewajiban para pihak",
+        "Menggantikan seluruh regulasi perbankan",
+        "Tidak memerlukan tanda tangan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perjanjian kredit menjadi dasar hukum yang mengatur hak dan kewajiban antara bank dan debitur.",
+      "topic": "Aspek Hukum",
+      "subtopic": "Perjanjian Kredit",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 21,
+      "question": "Mahasiswa membuka rekening dengan transaksi masuk miliaran rupiah dan meminta transaksi dipecah ke beberapa rekening. Kondisi ini PALING tepat dikategorikan sebagai...",
+      "options": [
+        "Aktivitas retail normal",
+        "Red flag AML dan structuring",
+        "Cross selling opportunity",
+        "Kebutuhan treasury pribadi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Profil tidak sesuai dan adanya pemecahan transaksi mengindikasikan potensi AML/structuring.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "AML",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 22,
+      "question": "Perbedaan utama transaksi tunai dan non tunai yang PALING tepat adalah...",
+      "options": [
+        "Transaksi non tunai tidak memerlukan otorisasi",
+        "Transaksi tunai menggunakan perpindahan uang fisik",
+        "Transaksi tunai selalu lebih aman",
+        "Transaksi non tunai hanya berlaku internasional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transaksi tunai melibatkan perpindahan uang fisik, sedangkan non tunai menggunakan instrumen/sistem pembayaran.",
+      "topic": "Transaksi Keuangan",
+      "subtopic": "Tunai vs Non Tunai",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 23,
+      "question": "Jika nasabah menjual USD kepada bank, maka bank menggunakan...",
+      "options": [
+        "Kurs jual",
+        "Kurs beli",
+        "Kurs pajak",
+        "Kurs tengah BI wajib"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Saat nasabah menjual valas kepada bank, bank membeli valas tersebut menggunakan kurs beli.",
+      "topic": "Valuta Asing",
+      "subtopic": "Kurs",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 24,
+      "question": "Tujuan utama edukasi perlindungan konsumen perbankan adalah...",
+      "options": [
+        "Meningkatkan kompleksitas produk",
+        "Membantu nasabah memahami hak, risiko, dan keamanan transaksi",
+        "Membatasi akses nasabah terhadap informasi",
+        "Mengurangi kewajiban disclosure bank"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Edukasi perlindungan konsumen bertujuan meningkatkan pemahaman nasabah terkait hak, kewajiban, risiko, dan keamanan transaksi.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Perlindungan Konsumen",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 25,
+      "question": "Nasabah membutuhkan transaksi bisnis dengan frekuensi tinggi menggunakan cek. Produk yang PALING sesuai adalah...",
+      "options": [
+        "Deposito",
+        "Tabungan junior",
+        "Giro",
+        "Kredit konsumtif"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Giro mendukung penggunaan cek dan transaksi bisnis dengan frekuensi tinggi.",
+      "topic": "Informasi Produk",
+      "subtopic": "Giro",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 26,
+      "question": "Dalam complaint handling, escalation diperlukan ketika...",
+      "options": [
+        "Nasabah bertanya jam operasional",
+        "Permasalahan membutuhkan kewenangan/unit lebih tinggi",
+        "Teller sedang sibuk",
+        "Nasabah menggunakan mobile banking"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Escalation dilakukan jika penyelesaian membutuhkan kewenangan atau analisis unit lain.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Escalation",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 27,
+      "question": "Dalam LC, discrepancy document dapat menyebabkan...",
+      "options": [
+        "Pembayaran otomatis dipercepat",
+        "Dokumen ditolak atau pembayaran tertunda",
+        "Penghapusan kewajiban importir",
+        "Kurs valas menjadi tetap"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ketidaksesuaian dokumen dapat menyebabkan penolakan atau penundaan pembayaran dalam LC.",
+      "topic": "Trade Finance",
+      "subtopic": "Discrepancy",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 28,
+      "question": "Pengarsipan dokumen yang tidak rapi meningkatkan risiko...",
+      "options": [
+        "Efisiensi operasional berlebihan",
+        "Kesulitan audit dan kehilangan jejak transaksi",
+        "Kenaikan spread valas",
+        "Overbooking transaksi otomatis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dokumentasi yang buruk menyulitkan audit trail dan monitoring transaksi.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Arsip",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 29,
+      "question": "Jika beban operasional meningkat tanpa kenaikan pendapatan, maka laba perusahaan akan...",
+      "options": [
+        "Meningkat otomatis",
+        "Cenderung menurun",
+        "Tetap sama",
+        "Menghapus liabilitas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kenaikan beban tanpa kenaikan pendapatan akan menurunkan laba.",
+      "topic": "Akuntansi",
+      "subtopic": "Laba Rugi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 30,
+      "question": "Wanprestasi dalam hubungan kredit PALING tepat diartikan sebagai...",
+      "options": [
+        "Nasabah melakukan setoran lebih awal",
+        "Tidak dipenuhinya kewajiban sesuai perjanjian",
+        "Peningkatan kualitas agunan",
+        "Perubahan kurs valuta asing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Wanprestasi terjadi ketika salah satu pihak tidak memenuhi kewajibannya sesuai perjanjian.",
+      "topic": "Aspek Hukum",
+      "subtopic": "Wanprestasi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 31,
+      "question": "Nasabah perusahaan menolak memberikan informasi beneficial owner. Tindakan yang PALING tepat adalah...",
+      "options": [
+        "Tetap membuka rekening demi target bisnis",
+        "Melanjutkan proses tanpa data tambahan",
+        "Meminta kelengkapan sesuai prinsip KYC sebelum onboarding",
+        "Menghapus proses verifikasi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Beneficial owner merupakan bagian penting dalam KYC perusahaan dan wajib diidentifikasi.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Beneficial Owner",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 32,
       "question": "Pada transaksi penarikan tunai nominal besar, langkah mitigasi risiko yang PALING tepat adalah...",
       "options": [
         "Mengabaikan verifikasi tanda tangan",
@@ -322,7 +595,8 @@
       "difficulty": "Hard",
       "requiresReasoning": false,
       "reasoningKeywords": []
-    },
+    }
+  ,
     {
       "id": 36,
       "question": "Nasabah menyampaikan komplain keras di area banking hall karena kartu ATM tertelan. Sikap petugas yang PALING tepat adalah...",
