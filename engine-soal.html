@@ -699,9 +699,50 @@ function renderQuestion(){
     el.submitButton.classList.remove('hidden');
   }
 
-  renderOptions(question.options || []);
+  prepareQuestionOptions(question);
+  renderOptions(question.shuffledOptions || []);
 }
 
+function prepareQuestionOptions(question){
+
+  // kalau sudah pernah di-random
+  // jangan random ulang
+  if(question.shuffledOptions){
+    return;
+  }
+
+  // gabungkan option + index asli
+  const combined =
+    question.options.map((option,index)=>({
+
+      option,
+      originalIndex:index
+
+    }));
+
+  // fisher yates shuffle
+  for(let i = combined.length - 1; i > 0; i--){
+
+    const j =
+      Math.floor(Math.random() * (i + 1));
+
+    [combined[i],combined[j]] =
+      [combined[j],combined[i]];
+  }
+
+  // simpan hasil shuffle
+  question.shuffledOptions =
+    combined.map(item=>item.option);
+
+  // cari posisi baru jawaban benar
+  question.shuffledCorrectAnswer =
+  combined.findIndex(
+    item =>
+      item.originalIndex ===
+      question.correctAnswer
+  );
+
+}
 
 
 function renderOptions(options){
@@ -805,7 +846,7 @@ function processAnswer(){
   }
 
   const isCorrect =
-    state.selectedOption === question.correctAnswer;
+    state.selectedOption === question.shuffledCorrectAnswer;
 
   const reasoningResult =
     evaluateReasoning(question,reasoning);
@@ -948,7 +989,7 @@ function saveAnswer(
     difficulty: question.difficulty,
     isCorrect,
     selectedOption: state.selectedOption,
-    correctAnswer: question.correctAnswer,
+    correctAnswer: question.shuffledCorrectAnswer,
     reasoning,
     reasoningScore:
       reasoningResult.status === 'suitable' ? 1 :
@@ -1025,7 +1066,7 @@ function showFeedback(
 
 }
 
-  highlightCorrectAnswer(question.correctAnswer);
+  highlightCorrectAnswer(question.shuffledCorrectAnswer);
 
   el.reasoningInput.disabled = true;
 
