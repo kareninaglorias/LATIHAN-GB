@@ -1,0 +1,1307 @@
+{
+  "quizTitle": "Mengelola Administrasi Perbankan 2",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tujuan utama administrasi dokumen transaksi perbankan yang PALING tepat adalah...",
+      "options": [
+        "Mempercepat closing cabang",
+        "Mendukung promosi produk bank",
+        "Menjamin legalitas, audit trail, dan perlindungan nasabah",
+        "Mengurangi kebutuhan approval"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Administrasi dokumen bertujuan menjaga legalitas, kepatuhan, audit trail, transparansi, serta perlindungan bank dan nasabah.",
+      "topic": "Administrasi Dokumen",
+      "subtopic": "Tujuan Administrasi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 2,
+      "question": "Prinsip kerahasiaan arsip bank berarti...",
+      "options": [
+        "Semua dokumen boleh diakses internal bank",
+        "Dokumen hanya boleh dibuka auditor eksternal",
+        "Dokumen bank bersifat tertutup dan hanya dapat diakses pihak berkepentingan",
+        "Dokumen dapat dibagikan jika tidak terkait saldo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Asas kerahasiaan mengatur bahwa dokumen bank hanya boleh diakses pihak yang berwenang.",
+      "topic": "Kearsipan",
+      "subtopic": "Asas Kerahasiaan",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 3,
+      "question": "Yang termasuk arsip vital adalah...",
+      "options": [
+        "Slip transaksi harian biasa",
+        "Memo internal mingguan",
+        "Dokumen yang bila hilang mengganggu operasional dan sulit diganti",
+        "Draft promosi produk"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Arsip vital adalah dokumen yang sangat penting bagi keberlangsungan operasional bank.",
+      "topic": "Kearsipan",
+      "subtopic": "Arsip Vital",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 4,
+      "question": "Perbedaan utama arsip aktif dan arsip inaktif adalah...",
+      "options": [
+        "Arsip aktif tidak boleh dimusnahkan",
+        "Arsip inaktif tidak memiliki nilai hukum",
+        "Frekuensi penggunaan dalam kegiatan operasional",
+        "Jenis media penyimpanannya"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Arsip aktif masih sering digunakan dalam operasional, sedangkan arsip inaktif frekuensi penggunaannya rendah.",
+      "topic": "Kearsipan",
+      "subtopic": "Jenis Arsip",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 5,
+      "question": "Tujuan utama penerapan Document Management System (DMS) di perbankan adalah...",
+      "options": [
+        "Menggantikan seluruh fungsi teller",
+        "Mempermudah retrieval, keamanan, dan monitoring dokumen",
+        "Mengurangi kebutuhan audit",
+        "Menghapus seluruh arsip fisik"
+      ],
+      "correctAnswer": 1,
+      "explanation": "DMS membantu penyimpanan, pencarian, keamanan, dan monitoring dokumen secara digital.",
+      "topic": "DMS",
+      "subtopic": "Fungsi DMS",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 6,
+      "question": "Dalam pengelolaan arsip, prinsip retrievable berarti...",
+      "options": [
+        "Dokumen dapat dimusnahkan otomatis",
+        "Dokumen mudah ditemukan kembali saat dibutuhkan",
+        "Dokumen harus selalu dicetak",
+        "Dokumen wajib dikirim ke pusat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Retrievable berarti arsip mudah ditemukan kembali secara cepat dan akurat.",
+      "topic": "Kearsipan",
+      "subtopic": "Prinsip Arsip",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+
+    {
+      "id": 7,
+      "question": "Risiko terbesar jika dokumen kredit tidak terdokumentasi dengan baik adalah...",
+      "options": [
+        "Peningkatan biaya listrik",
+        "Kesulitan pembuktian hukum dan audit",
+        "Penurunan jumlah nasabah",
+        "Keterlambatan settlement RTGS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dokumen kredit yang buruk dapat menyebabkan masalah hukum, audit, dan validitas transaksi.",
+      "topic": "Administrasi Kredit",
+      "subtopic": "Risiko Dokumentasi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+
+    {
+      "id": 8,
+      "question": "Yang termasuk asas penting dalam pengelolaan arsip bank adalah...",
+      "options": [
+        "Kerahasiaan dan keamanan",
+        "Profitabilitas tinggi",
+        "Cross selling",
+        "Cash pooling"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pengelolaan arsip bank wajib memperhatikan asas keamanan dan kerahasiaan.",
+      "topic": "Kearsipan",
+      "subtopic": "Asas Arsip",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+
+    {
+      "id": 9,
+      "question": "Retensi arsip berarti...",
+      "options": [
+        "Penghapusan dokumen otomatis",
+        "Jangka waktu penyimpanan dokumen sesuai ketentuan",
+        "Perpindahan dokumen antarbank",
+        "Digitalisasi seluruh arsip"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Retensi arsip adalah periode penyimpanan dokumen sebelum dimusnahkan atau dipermanenkan.",
+      "topic": "Kearsipan",
+      "subtopic": "Retensi Arsip",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+
+    {
+      "id": 10,
+      "question": "Dokumen transaksi yang tidak memiliki tanda tangan otorisator berisiko menyebabkan...",
+      "options": [
+        "Kenaikan saldo rekening",
+        "Dokumen kehilangan validitas administratif",
+        "Proses settlement lebih cepat",
+        "Pengurangan biaya audit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Otorisasi merupakan bagian validitas administratif dan kontrol internal.",
+      "topic": "Administrasi Dokumen",
+      "subtopic": "Otorisasi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 11,
+      "question": "Dalam pengelolaan dokumen kredit, fungsi check list dokumen yang PALING tepat adalah...",
+      "options": [
+        "Mengurangi kebutuhan audit internal",
+        "Sebagai alat kontrol kelengkapan dan validitas dokumen",
+        "Menggantikan fungsi legal officer",
+        "Mempercepat penjualan produk kredit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Checklist dokumen digunakan sebagai alat kontrol untuk memastikan seluruh dokumen kredit telah lengkap, valid, sesuai SOP, dan siap digunakan dalam proses analisa maupun audit. Tanpa checklist, risiko missing document, legal defect, dan dispute pembuktian dapat meningkat signifikan.",
+      "topic": "Administrasi Kredit",
+      "subtopic": "Checklist Dokumen",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 12,
+      "question": "Tujuan utama dilakukannya klasifikasi arsip dalam administrasi bank adalah...",
+      "options": [
+        "Mempermudah promosi produk funding",
+        "Mengurangi kebutuhan ruang server",
+        "Memudahkan penyimpanan, pencarian, dan pengendalian arsip",
+        "Menghapus dokumen lama lebih cepat"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Klasifikasi arsip membantu pengelompokan dokumen berdasarkan fungsi, jenis, atau nilai gunanya sehingga proses retrieval, monitoring, pengamanan, dan retensi dokumen menjadi lebih efektif dan terstruktur.",
+      "topic": "Kearsipan",
+      "subtopic": "Klasifikasi Arsip",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 13,
+      "question": "Dalam konsep administrasi modern, digitalisasi arsip dilakukan terutama untuk...",
+      "options": [
+        "Menghapus seluruh arsip fisik tanpa pengecualian",
+        "Meningkatkan kemudahan akses, keamanan, dan efisiensi dokumen",
+        "Menghilangkan fungsi legalisasi dokumen",
+        "Mengurangi kebutuhan backup data"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Digitalisasi arsip bertujuan meningkatkan efisiensi retrieval, keamanan dokumen, integritas data, dan pengurangan risiko kehilangan fisik. Namun, tidak semua dokumen fisik dapat langsung dimusnahkan karena masih ada ketentuan retensi dan legalitas tertentu.",
+      "topic": "DMS",
+      "subtopic": "Digitalisasi Arsip",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 14,
+      "question": "Yang PALING tepat menggambarkan fungsi audit trail pada administrasi dokumen adalah...",
+      "options": [
+        "Menghapus kebutuhan approval supervisor",
+        "Mencatat jejak aktivitas dokumen agar dapat ditelusuri kembali",
+        "Meningkatkan limit transaksi teller",
+        "Mengurangi kebutuhan penyimpanan arsip"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Audit trail berfungsi mencatat seluruh aktivitas terkait dokumen atau transaksi sehingga dapat ditelusuri kembali saat investigasi, audit, dispute, maupun pemeriksaan regulator.",
+      "topic": "Administrasi Dokumen",
+      "subtopic": "Audit Trail",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 15,
+      "question": "Dokumen yang masih sering digunakan dalam aktivitas operasional sehari-hari dikategorikan sebagai...",
+      "options": [
+        "Arsip statis",
+        "Arsip vital",
+        "Arsip aktif",
+        "Arsip musnah"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Arsip aktif adalah dokumen yang frekuensi penggunaannya masih tinggi dalam operasional harian sehingga harus mudah diakses dan disimpan dekat unit kerja terkait.",
+      "topic": "Kearsipan",
+      "subtopic": "Arsip Aktif",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 16,
+      "question": "Prinsip keamanan arsip digital yang PALING penting dalam industri perbankan adalah...",
+      "options": [
+        "Dokumen dapat diedit semua pegawai",
+        "Dokumen dapat diakses publik untuk transparansi",
+        "Pengendalian hak akses dan perlindungan data",
+        "Seluruh file disimpan tanpa backup"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Keamanan arsip digital di bank sangat bergantung pada access control, authentication, encryption, dan backup untuk melindungi data nasabah serta menjaga kepatuhan regulasi.",
+      "topic": "DMS",
+      "subtopic": "Keamanan Data",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 17,
+      "question": "Jika arsip penting hilang akibat kesalahan penyimpanan, dampak operasional yang PALING mungkin terjadi adalah...",
+      "options": [
+        "Peningkatan saldo CASA",
+        "Kesulitan pembuktian transaksi dan potensi risiko hukum",
+        "Kenaikan kualitas aset produktif",
+        "Pengurangan biaya administrasi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kehilangan arsip penting dapat menyebabkan bank kesulitan membuktikan legalitas transaksi, menghadapi dispute nasabah, temuan audit, hingga risiko litigasi.",
+      "topic": "Administrasi Risiko",
+      "subtopic": "Kehilangan Dokumen",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 18,
+      "question": "Tujuan utama backup data dokumen digital adalah...",
+      "options": [
+        "Mengurangi kebutuhan server utama",
+        "Meningkatkan limit approval",
+        "Memastikan data tetap tersedia saat terjadi gangguan atau kehilangan",
+        "Menghapus kebutuhan arsip fisik"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Backup data dilakukan sebagai mitigasi risiko kehilangan data akibat kerusakan sistem, cyber attack, human error, atau disaster recovery scenario.",
+      "topic": "DMS",
+      "subtopic": "Backup Data",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 19,
+      "question": "Yang termasuk contoh arsip statis adalah...",
+      "options": [
+        "Slip transaksi harian aktif",
+        "Dokumen historis bernilai permanen",
+        "Form pembukaan rekening baru",
+        "Memo briefing pagi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Arsip statis memiliki nilai historis atau hukum jangka panjang dan biasanya dipermanenkan karena memiliki nilai penting bagi institusi.",
+      "topic": "Kearsipan",
+      "subtopic": "Arsip Statis",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 20,
+      "question": "Mengapa pengelolaan administrasi pembayaran harus memiliki segregasi tugas?",
+      "options": [
+        "Agar seluruh pegawai memahami semua pekerjaan",
+        "Untuk mengurangi jumlah dokumen",
+        "Mengurangi risiko fraud dan benturan kepentingan",
+        "Mempercepat pencairan tanpa verifikasi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Segregasi tugas merupakan prinsip internal control untuk memisahkan fungsi input, approval, penyimpanan, dan verifikasi agar risiko fraud, manipulasi, dan abuse of authority dapat diminimalkan.",
+      "topic": "Administrasi Pembayaran",
+      "subtopic": "Segregation of Duties",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 21,
+      "question": "Dalam administrasi perbankan, tujuan utama pemberian kode arsip adalah...",
+      "options": [
+        "Meningkatkan biaya penyimpanan",
+        "Mempermudah identifikasi dan pencarian dokumen",
+        "Mengurangi kebutuhan backup",
+        "Menghapus arsip lebih cepat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kode arsip digunakan untuk mempermudah klasifikasi, pencarian, monitoring, dan pengendalian dokumen secara sistematis sehingga retrieval menjadi lebih cepat dan akurat.",
+      "topic": "Kearsipan",
+      "subtopic": "Kode Arsip",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+
+    {
+      "id": 22,
+      "question": "Yang menjadi tujuan utama retensi arsip adalah...",
+      "options": [
+        "Mengurangi kebutuhan audit",
+        "Menentukan masa simpan dokumen sesuai nilai guna dan regulasi",
+        "Menghapus seluruh arsip digital",
+        "Mengurangi jumlah transaksi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Retensi arsip menentukan berapa lama dokumen harus disimpan sebelum dimusnahkan atau dipermanenkan berdasarkan kebutuhan hukum, operasional, dan regulasi.",
+      "topic": "Kearsipan",
+      "subtopic": "Retensi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+
+    {
+      "id": 23,
+      "question": "Risiko utama apabila akses DMS diberikan tanpa pembatasan adalah...",
+      "options": [
+        "Peningkatan kualitas aset",
+        "Pelanggaran kerahasiaan dan penyalahgunaan data",
+        "Penurunan kapasitas server",
+        "Keterlambatan settlement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Access control merupakan bagian penting keamanan informasi. Akses tanpa pembatasan meningkatkan risiko kebocoran data dan fraud internal.",
+      "topic": "DMS",
+      "subtopic": "Access Control",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+
+    {
+      "id": 24,
+      "question": "Dokumen yang masih memiliki nilai hukum tetapi jarang digunakan dikategorikan sebagai...",
+      "options": [
+        "Arsip inaktif",
+        "Arsip musnah",
+        "Arsip aktif",
+        "Arsip temporary"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Arsip inaktif memiliki frekuensi penggunaan rendah namun tetap disimpan karena masih memiliki nilai hukum atau administratif.",
+      "topic": "Kearsipan",
+      "subtopic": "Arsip Inaktif",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+
+    {
+      "id": 25,
+      "question": "Dalam administrasi pembayaran, maker-checker control bertujuan untuk...",
+      "options": [
+        "Mengurangi kebutuhan dokumen",
+        "Memastikan tidak ada pemisahan fungsi",
+        "Mengurangi risiko kesalahan dan fraud",
+        "Meningkatkan limit transaksi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Maker-checker control memisahkan pihak pembuat dan pemeriksa transaksi untuk meningkatkan validasi dan mengurangi risiko fraud maupun human error.",
+      "topic": "Administrasi Pembayaran",
+      "subtopic": "Maker Checker",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+
+    {
+      "id": 26,
+      "question": "Yang PALING tepat mengenai CKPN adalah...",
+      "options": [
+        "Cadangan keuntungan penjualan nasabah",
+        "Cadangan kerugian penurunan nilai aset produktif",
+        "Komponen promosi produk kredit",
+        "Biaya operasional cabang"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CKPN dibentuk sebagai pencadangan atas potensi kerugian penurunan nilai aset produktif sesuai standar akuntansi dan regulasi.",
+      "topic": "Kualitas Aset",
+      "subtopic": "CKPN",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+
+    {
+      "id": 27,
+      "question": "Prinsip dual control pada penyimpanan dokumen kredit bertujuan untuk...",
+      "options": [
+        "Mempercepat penghapusan arsip",
+        "Mengurangi jumlah pegawai",
+        "Meningkatkan keamanan dan pengendalian dokumen",
+        "Menghindari audit regulator"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dual control digunakan agar akses terhadap dokumen penting tidak dapat dilakukan oleh satu pihak saja sehingga keamanan lebih terjaga.",
+      "topic": "Administrasi Kredit",
+      "subtopic": "Dual Control",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+
+    {
+      "id": 28,
+      "question": "Yang termasuk contoh fraud administrasi adalah...",
+      "options": [
+        "Penyimpanan dokumen sesuai SOP",
+        "Pemalsuan tanda tangan dokumen transaksi",
+        "Digitalisasi arsip",
+        "Backup data berkala"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pemalsuan tanda tangan merupakan bentuk fraud administrasi yang dapat menyebabkan kerugian hukum dan finansial.",
+      "topic": "Fraud",
+      "subtopic": "Fraud Administrasi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+    "id": 29,
+    "question": "Dalam pengelolaan arsip bank, penggunaan indeks numerik biasanya menggunakan...",
+    "options": [
+      "Nama vendor",
+      "Nomor CIF atau nomor rekening",
+      "Jenis kelamin nasabah",
+      "Warna map dokumen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sistem numerik menggunakan nomor CIF atau nomor rekening untuk mempermudah klasifikasi dan retrieval dokumen.",
+    "topic": "Kearsipan",
+    "subtopic": "Indexing",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 30,
+    "question": "Tujuan utama cross reference pada filing arsip adalah...",
+    "options": [
+      "Menghapus dokumen ganda",
+      "Menunjukkan keterkaitan dokumen dengan lebih dari satu kategori",
+      "Mengurangi kebutuhan storage",
+      "Membatasi akses auditor"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cross reference digunakan ketika dokumen memiliki lebih dari satu keterkaitan sehingga tetap mudah ditemukan.",
+    "topic": "Kearsipan",
+    "subtopic": "Cross Reference",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 31,
+    "question": "Jika dokumen fisik terkena sinar matahari langsung secara terus-menerus, risiko terbesar adalah...",
+    "options": [
+      "Percepatan approval",
+      "Kerusakan fisik dokumen",
+      "Kenaikan kualitas arsip",
+      "Pengurangan kebutuhan backup"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paparan sinar matahari dapat merusak tinta, kertas, dan kualitas fisik arsip.",
+    "topic": "Kearsipan",
+    "subtopic": "Pemeliharaan Arsip",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 32,
+    "question": "Prinsip traceable dalam administrasi pembayaran berarti...",
+    "options": [
+      "Transaksi dapat dilacak dan diverifikasi kembali",
+      "Transaksi bebas approval",
+      "Dokumen tidak perlu disimpan",
+      "Semua pembayaran dilakukan tunai"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Traceable memastikan setiap transaksi memiliki jejak administrasi yang jelas dan dapat ditelusuri kembali.",
+    "topic": "Administrasi Pembayaran",
+    "subtopic": "Traceable",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 33,
+    "question": "Dalam analisis kualitas aset, faktor yang PALING diperhatikan adalah...",
+    "options": [
+      "Warna logo perusahaan",
+      "Ketepatan pembayaran dan kondisi usaha nasabah",
+      "Jumlah pegawai cabang",
+      "Jumlah ATM bank"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kualitas aset dinilai berdasarkan kemampuan bayar, kondisi usaha, dan risiko kredit nasabah.",
+    "topic": "Kualitas Aset",
+    "subtopic": "Analisis Aset",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 34,
+    "question": "Kredit dengan tunggakan lebih dari 90 hari umumnya dikategorikan...",
+    "options": [
+      "Lancar",
+      "DPK",
+      "Kurang lancar atau macet",
+      "Tidak tercatat"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tunggakan lebih dari 90 hari menunjukkan penurunan kualitas kredit yang signifikan.",
+    "topic": "Kualitas Aset",
+    "subtopic": "Kolektibilitas",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 35,
+    "question": "Risiko under provisioning pada CKPN dapat menyebabkan...",
+    "options": [
+      "Cadangan kerugian terlalu kecil terhadap risiko aktual",
+      "Kelebihan pembayaran vendor",
+      "Dokumen lebih mudah dicari",
+      "Kenaikan kualitas aset otomatis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Under provisioning menyebabkan pencadangan tidak cukup untuk menutup potensi kerugian.",
+    "topic": "CKPN",
+    "subtopic": "Risiko CKPN",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 36,
+    "question": "Tujuan verifikasi data sebelum perhitungan CKPN adalah...",
+    "options": [
+      "Mengurangi kebutuhan approval",
+      "Memastikan data akurat, valid, dan terupdate",
+      "Meningkatkan limit kredit",
+      "Mengurangi audit regulator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Verifikasi diperlukan agar perhitungan CKPN mencerminkan kondisi risiko sebenarnya.",
+    "topic": "CKPN",
+    "subtopic": "Verifikasi Data",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 37,
+    "question": "Laporan administrasi perbankan wajib memenuhi prinsip...",
+    "options": [
+      "Akurat, lengkap, konsisten",
+      "Cepat tanpa verifikasi",
+      "Rahasia tanpa dokumentasi",
+      "Fleksibel tanpa SOP"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Laporan harus akurat, lengkap, konsisten, dan terdokumentasi untuk mendukung pengambilan keputusan.",
+    "topic": "Pelaporan",
+    "subtopic": "Prinsip Laporan",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 38,
+    "question": "Risiko utama keterlambatan laporan regulator adalah...",
+    "options": [
+      "Sanksi dan risiko reputasi",
+      "Kenaikan biaya marketing",
+      "Peningkatan kualitas kredit",
+      "Pengurangan audit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Keterlambatan laporan dapat menimbulkan sanksi regulator dan menurunkan reputasi bank.",
+    "topic": "Pelaporan",
+    "subtopic": "Risiko Pelaporan",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 39,
+    "question": "Monitoring deadline laporan administrasi perbankan bertujuan utama untuk...",
+    "options": [
+      "Mengurangi kebutuhan verifikasi",
+      "Mencegah keterlambatan penyampaian laporan",
+      "Menghapus kewajiban regulator",
+      "Mengurangi jumlah dokumen"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Monitoring deadline membantu memastikan laporan dikirim tepat waktu sesuai ketentuan regulator dan internal bank.",
+    "topic": "Pelaporan",
+    "subtopic": "Monitoring Deadline",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 40,
+    "question": "Dalam penyusunan laporan administrasi, tahap yang dilakukan sebelum pengolahan data adalah...",
+    "options": [
+      "Distribusi laporan",
+      "Verifikasi data",
+      "Approval regulator",
+      "Backup arsip"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sebelum data diolah menjadi laporan, data harus diverifikasi untuk memastikan validitas dan akurasinya.",
+    "topic": "Pelaporan",
+    "subtopic": "Tahapan Penyusunan",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 41,
+    "question": "Jika laporan dibuat tanpa mengikuti format SOP bank, dampak yang PALING mungkin terjadi adalah...",
+    "options": [
+      "Laporan ditolak atau perlu revisi",
+      "Kualitas aset meningkat",
+      "Approval otomatis diberikan",
+      "Pengurangan biaya operasional"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Format laporan yang tidak sesuai SOP dapat menyebabkan laporan ditolak dan menghambat proses administrasi.",
+    "topic": "Pelaporan",
+    "subtopic": "Kepatuhan SOP",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 42,
+    "question": "Tujuan utama dokumentasi distribusi dokumen keluar adalah...",
+    "options": [
+      "Mengurangi kebutuhan arsip",
+      "Memastikan status dan penerima dokumen dapat ditelusuri",
+      "Menghapus approval manual",
+      "Meningkatkan penjualan produk"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tracking distribusi dokumen penting agar status, penerima, dan riwayat pengiriman dapat diketahui dengan jelas.",
+    "topic": "Administrasi Dokumen",
+    "subtopic": "Tracking Dokumen",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 43,
+    "question": "Dalam filing kronologis, dokumen disusun berdasarkan...",
+    "options": [
+      "Nama nasabah",
+      "Jenis produk",
+      "Tanggal atau urutan waktu",
+      "Jumlah transaksi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Filing kronologis menggunakan urutan tanggal atau waktu untuk mempermudah penelusuran berdasarkan periode.",
+    "topic": "Kearsipan",
+    "subtopic": "Filing Kronologis",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 44,
+    "question": "Dokumen pembukaan rekening menurut ketentuan retensi umumnya disimpan...",
+    "options": [
+      "1 tahun",
+      "2 tahun",
+      "5 tahun setelah penutupan rekening",
+      "Selamanya tanpa pengecualian"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dokumen pembukaan rekening disimpan minimal 5 tahun setelah rekening ditutup sesuai ketentuan kepatuhan.",
+    "topic": "Retensi Dokumen",
+    "subtopic": "Pembukaan Rekening",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 45,
+    "question": "Prinsip confidentiality dalam pengelolaan dokumen bank berarti...",
+    "options": [
+      "Dokumen dapat dibuka seluruh pegawai",
+      "Dokumen dilindungi dari akses pihak tidak berwenang",
+      "Dokumen boleh dibagikan untuk promosi",
+      "Dokumen tidak perlu backup"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Confidentiality memastikan informasi bank dan nasabah hanya diakses pihak yang memiliki otorisasi.",
+    "topic": "Kearsipan",
+    "subtopic": "Confidentiality",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 46,
+    "question": "Salah satu mitigasi utama risiko double payment adalah...",
+    "options": [
+      "System validation",
+      "Mengurangi dokumentasi",
+      "Menghapus maker-checker",
+      "Meningkatkan limit teller"
+    ],
+    "correctAnswer": 0,
+    "explanation": "System validation membantu mendeteksi transaksi duplikat sehingga risiko pembayaran ganda dapat diminimalkan.",
+    "topic": "Administrasi Pembayaran",
+    "subtopic": "Double Payment",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 47,
+    "question": "Dalam pengelolaan arsip, labeling dilakukan untuk...",
+    "options": [
+      "Menghapus dokumen usang",
+      "Memberi identitas pada folder atau berkas",
+      "Mengurangi ukuran file",
+      "Membatasi approval"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Labeling mempermudah identifikasi dan pengelompokan arsip sesuai sistem filing yang digunakan.",
+    "topic": "Kearsipan",
+    "subtopic": "Labeling",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 48,
+    "question": "Tahap inspecting dalam prosedur pemberkasan berarti...",
+    "options": [
+      "Pengkodean dokumen",
+      "Pemeriksaan kelengkapan dan kondisi fisik arsip",
+      "Pemusnahan arsip",
+      "Pembuatan laporan regulator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Inspecting dilakukan untuk memastikan dokumen lengkap dan dalam kondisi layak sebelum disimpan.",
+    "topic": "Kearsipan",
+    "subtopic": "Inspecting",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 49,
+    "question": "Dalam pengelolaan administrasi pembayaran, approval internal diperlukan terutama untuk...",
+    "options": [
+      "Mengurangi audit",
+      "Memastikan validitas dan otorisasi pembayaran",
+      "Menghapus dokumen pendukung",
+      "Mengurangi segregasi tugas"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Approval internal memastikan pembayaran telah diverifikasi dan sesuai kewenangan yang berlaku.",
+    "topic": "Administrasi Pembayaran",
+    "subtopic": "Approval",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+  {
+    "id": 50,
+    "question": "Tujuan utama backup arsip digital secara berkala adalah...",
+    "options": [
+      "Meningkatkan biaya penyimpanan",
+      "Mengurangi penggunaan sistem utama",
+      "Menjamin keberlangsungan data saat terjadi gangguan",
+      "Menghapus seluruh arsip lama"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Backup berkala merupakan bagian disaster recovery untuk menjaga ketersediaan data jika terjadi gangguan sistem.",
+    "topic": "DMS",
+    "subtopic": "Backup",
+    "difficulty": "Hard",
+    "requiresReasoning": false,
+    "reasoningKeywords": []
+  },
+
+  {
+    "id": 51,
+    "question": "Petugas administrasi menemukan dokumen kredit penting disimpan tanpa klasifikasi sehingga sulit ditemukan saat audit mendadak. Risiko utama kondisi tersebut adalah...",
+    "options": [
+      "Peningkatan kualitas kredit",
+      "Keterlambatan audit dan potensi temuan kepatuhan",
+      "Penurunan biaya operasional",
+      "Approval otomatis regulator"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dokumen yang tidak terklasifikasi meningkatkan risiko audit finding, keterlambatan proses, dan potensi pelanggaran kepatuhan.",
+    "topic": "Kearsipan",
+    "subtopic": "Audit Finding",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "klasifikasi arsip",
+      "audit",
+      "kepatuhan",
+      "retrievable"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Seorang pegawai memberikan akses folder dokumen nasabah kepada rekan kerja yang tidak berkepentingan. Prinsip yang dilanggar adalah...",
+    "options": [
+      "Traceable",
+      "Confidentiality",
+      "Dual control",
+      "Retensi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dokumen bank bersifat rahasia dan hanya boleh diakses pihak yang memiliki otorisasi.",
+    "topic": "Kerahasiaan Data",
+    "subtopic": "Access Violation",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "confidentiality",
+      "akses dokumen",
+      "otorisasi",
+      "kerahasiaan"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Petugas melakukan pembayaran vendor tanpa dokumen invoice lengkap karena vendor dianggap langganan lama. Tindakan tersebut berisiko menyebabkan...",
+    "options": [
+      "Fraud dan pembayaran tidak valid",
+      "Peningkatan kualitas laporan",
+      "Percepatan audit",
+      "Pengurangan biaya operasional"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pembayaran tanpa dokumen lengkap meningkatkan risiko fraud, pembayaran fiktif, dan pelanggaran SOP.",
+    "topic": "Administrasi Pembayaran",
+    "subtopic": "Fraud Payment",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "invoice",
+      "fraud",
+      "validasi",
+      "SOP"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Dalam proses audit internal ditemukan bahwa backup dokumen digital terakhir dilakukan 3 bulan lalu. Risiko paling kritis dari kondisi tersebut adalah...",
+    "options": [
+      "Peningkatan biaya server",
+      "Kehilangan data signifikan saat terjadi gangguan sistem",
+      "Percepatan proses approval",
+      "Peningkatan kualitas aset"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Backup yang tidak dilakukan secara berkala meningkatkan risiko kehilangan data permanen apabila terjadi system failure, ransomware, atau disaster recovery event.",
+    "topic": "DMS",
+    "subtopic": "Backup Failure",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "backup",
+      "disaster recovery",
+      "kehilangan data",
+      "DMS"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Petugas arsip memisahkan lampiran perjanjian kredit dari dokumen utamanya agar map terlihat lebih rapi. Mengapa tindakan ini berbahaya?",
+    "options": [
+      "Karena membuat arsip terlalu tebal",
+      "Karena berisiko menyebabkan dokumen tidak lengkap saat diperlukan",
+      "Karena meningkatkan biaya penyimpanan",
+      "Karena melanggar prinsip numerik filing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lampiran dokumen wajib tetap terintegrasi dengan dokumen utama agar tidak terjadi kehilangan informasi dan gangguan validitas dokumen.",
+    "topic": "Kearsipan",
+    "subtopic": "Lampiran Arsip",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "lampiran",
+      "kelengkapan dokumen",
+      "arsip",
+      "validitas"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Dalam pemeriksaan regulator ditemukan laporan administrasi bulanan berbeda dengan data core banking. Risiko utama kondisi ini adalah...",
+    "options": [
+      "Peningkatan profitabilitas",
+      "Ketidakakuratan laporan dan potensi sanksi regulator",
+      "Pengurangan audit internal",
+      "Percepatan settlement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Perbedaan antara laporan dan sistem inti menunjukkan lemahnya validasi data yang dapat menyebabkan sanksi regulator serta salah pengambilan keputusan.",
+    "topic": "Pelaporan",
+    "subtopic": "Data Mismatch",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "validasi data",
+      "laporan",
+      "core banking",
+      "regulator"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "Petugas kredit mengklasifikasikan seluruh kredit bermasalah sebagai DPK agar CKPN terlihat kecil. Tindakan ini termasuk...",
+    "options": [
+      "Efisiensi pelaporan",
+      "Manipulasi kualitas aset",
+      "Optimalisasi pencadangan",
+      "Mitigasi risiko"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Manipulasi kolektibilitas menyebabkan pencadangan tidak mencerminkan risiko sebenarnya dan dapat menyesatkan laporan keuangan.",
+    "topic": "Kualitas Aset",
+    "subtopic": "Manipulasi Kolektibilitas",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "kolektibilitas",
+      "CKPN",
+      "manipulasi",
+      "kualitas aset"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "Cabang menyimpan arsip penting di ruangan lembap tanpa pengamanan suhu. Risiko utama yang muncul adalah...",
+    "options": [
+      "Peningkatan kapasitas arsip",
+      "Kerusakan fisik dokumen dan hilangnya informasi",
+      "Percepatan proses filing",
+      "Pengurangan kebutuhan digitalisasi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kelembapan dapat menyebabkan kerusakan fisik, jamur, dan hilangnya informasi penting pada arsip.",
+    "topic": "Kearsipan",
+    "subtopic": "Pemeliharaan Arsip",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "kelembapan",
+      "kerusakan arsip",
+      "pemeliharaan",
+      "dokumen"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Seorang maker sekaligus melakukan approval pembayaran vendor karena supervisor sedang cuti. Pelanggaran utama yang terjadi adalah...",
+    "options": [
+      "Kesalahan filing",
+      "Pelanggaran segregation of duties",
+      "Keterlambatan pelaporan",
+      "Kekurangan backup"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Maker dan approver harus dipisahkan untuk menjaga kontrol internal dan mencegah fraud.",
+    "topic": "Administrasi Pembayaran",
+    "subtopic": "Segregation Violation",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "maker checker",
+      "segregation of duties",
+      "approval",
+      "fraud"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Petugas administrasi menghapus arsip digital lama tanpa memperhatikan masa retensi. Dampak terbesar dari tindakan tersebut adalah...",
+    "options": [
+      "Peningkatan efisiensi audit",
+      "Pelanggaran regulasi dan hilangnya bukti hukum",
+      "Percepatan retrieval",
+      "Pengurangan kapasitas server"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dokumen yang masih dalam masa retensi wajib disimpan karena masih memiliki nilai hukum, audit, dan kepatuhan.",
+    "topic": "Retensi Arsip",
+    "subtopic": "Pemusnahan Dokumen",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "retensi",
+      "regulasi",
+      "bukti hukum",
+      "arsip digital"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Dalam proses filing ditemukan dua dokumen berbeda menggunakan nomor referensi yang sama. Risiko operasional terbesar adalah...",
+    "options": [
+      "Kesalahan identifikasi dan retrieval dokumen",
+      "Peningkatan kualitas arsip",
+      "Pengurangan audit finding",
+      "Percepatan approval kredit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Nomor referensi yang duplikat menyebabkan kebingungan identifikasi dokumen dan berpotensi mengganggu audit trail.",
+    "topic": "Administrasi Dokumen",
+    "subtopic": "Duplicate Reference",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "nomor referensi",
+      "retrieval",
+      "audit trail",
+      "duplikasi"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Petugas laporan langsung mengirim laporan regulator tanpa melakukan verifikasi data akhir. Risiko utama tindakan ini adalah...",
+    "options": [
+      "Laporan lebih cepat selesai",
+      "Data tidak akurat dan potensi sanksi regulator",
+      "Pengurangan penggunaan sistem",
+      "Peningkatan kualitas aset"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Verifikasi akhir penting untuk memastikan konsistensi dan akurasi laporan sebelum dikirim ke regulator.",
+    "topic": "Pelaporan",
+    "subtopic": "Final Verification",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "verifikasi",
+      "regulator",
+      "akurasi laporan",
+      "validasi"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Nasabah menggugat bank karena dokumen akad kredit asli tidak dapat ditemukan saat sengketa hukum berlangsung. Kelemahan utama yang kemungkinan terjadi adalah...",
+    "options": [
+      "Kegagalan administrasi dan pengelolaan arsip",
+      "Kualitas aset terlalu tinggi",
+      "Kelebihan CKPN",
+      "Over backup data"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dokumen akad kredit merupakan arsip vital yang wajib dijaga keberadaan dan keamanannya.",
+    "topic": "Kearsipan",
+    "subtopic": "Arsip Vital",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "akad kredit",
+      "arsip vital",
+      "sengketa hukum",
+      "dokumen asli"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "Cabang melakukan digitalisasi arsip tetapi file diberi nama tidak konsisten sehingga sulit dicari. Prinsip administrasi yang paling terdampak adalah...",
+    "options": [
+      "Retrievable",
+      "Profitability",
+      "Cross selling",
+      "Settlement"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Penamaan file yang tidak konsisten menghambat proses retrieval dan efektivitas DMS.",
+    "topic": "DMS",
+    "subtopic": "File Naming",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "retrievable",
+      "file naming",
+      "DMS",
+      "digitalisasi"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Dalam audit ditemukan adanya pembayaran vendor dua kali akibat input berulang. Mitigasi yang paling tepat adalah...",
+    "options": [
+      "Menambah jumlah maker",
+      "Menghapus approval supervisor",
+      "Menggunakan system validation dan maker-checker",
+      "Mengurangi dokumentasi invoice"
+    ],
+    "correctAnswer": 2,
+    "explanation": "System validation dan maker-checker membantu mencegah duplicate transaction dan human error.",
+    "topic": "Administrasi Pembayaran",
+    "subtopic": "Double Payment",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "double payment",
+      "system validation",
+      "maker checker",
+      "invoice"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Petugas arsip memberikan dokumen asli kepada pihak eksternal tanpa pencatatan peminjaman. Risiko terbesar tindakan tersebut adalah...",
+    "options": [
+      "Dokumen tidak dapat ditelusuri dan rawan hilang",
+      "Peningkatan kualitas layanan",
+      "Pengurangan penggunaan arsip",
+      "Kenaikan kapasitas storage"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Peminjaman dokumen wajib dicatat agar posisi dan status dokumen tetap dapat dipantau.",
+    "topic": "Kearsipan",
+    "subtopic": "Peminjaman Arsip",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "peminjaman arsip",
+      "tracking",
+      "dokumen asli",
+      "audit trail"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Bank gagal melakukan cross-check data agunan sebelum analisis kualitas aset. Risiko utama kondisi tersebut adalah...",
+    "options": [
+      "Salah penilaian risiko kredit",
+      "Peningkatan kualitas laporan",
+      "Percepatan pencairan CKPN",
+      "Pengurangan fraud"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Data agunan merupakan komponen penting dalam penilaian kualitas aset dan pencadangan.",
+    "topic": "Kualitas Aset",
+    "subtopic": "Verifikasi Agunan",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "agunan",
+      "cross-check",
+      "kualitas aset",
+      "risiko kredit"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Petugas administrasi menyimpan password akses DMS di sticky note meja kerja. Mengapa tindakan ini berbahaya?",
+    "options": [
+      "Meningkatkan kapasitas server",
+      "Membuka peluang unauthorized access",
+      "Mempercepat retrieval dokumen",
+      "Mengurangi audit finding"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Password yang tidak dijaga dengan baik meningkatkan risiko akses ilegal terhadap data rahasia bank.",
+    "topic": "DMS",
+    "subtopic": "Security Awareness",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "password",
+      "unauthorized access",
+      "security",
+      "DMS"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "Dalam pemeriksaan ditemukan laporan dibuat menggunakan data lama yang belum diperbarui. Prinsip utama yang dilanggar adalah...",
+    "options": [
+      "Authorized",
+      "Terupdate dan akurat",
+      "Segregation",
+      "Cross reference"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Laporan harus menggunakan data terbaru agar keputusan bisnis dan kepatuhan tetap valid.",
+    "topic": "Pelaporan",
+    "subtopic": "Data Update",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "terupdate",
+      "akurasi",
+      "laporan",
+      "validitas data"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Dalam investigasi fraud diketahui pegawai mengubah dokumen transaksi setelah approval karena tidak ada audit trail sistem. Kontrol yang paling dibutuhkan adalah...",
+    "options": [
+      "Pengurangan backup",
+      "Audit trail dan logging aktivitas sistem",
+      "Menghapus maker-checker",
+      "Menambah arsip fisik"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Audit trail memungkinkan seluruh perubahan data tercatat sehingga manipulasi dapat dideteksi dan ditelusuri.",
+    "topic": "Fraud Control",
+    "subtopic": "Audit Trail System",
+    "difficulty": "Very Hard",
+    "requiresReasoning": true,
+    "reasoningKeywords": [
+      "audit trail",
+      "logging",
+      "fraud",
+      "manipulasi dokumen"
+    ]
+  }
+  ]
+}
