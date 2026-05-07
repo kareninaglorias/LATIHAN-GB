@@ -1,0 +1,923 @@
+{
+  "quizTitle": "Latihan Soal - Sertifikasi GB Jenjang 4 - Full Set 1",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Dalam proses pembukaan rekening, tujuan utama CIF yang PALING tepat adalah...",
+      "options": [
+        "Menggantikan nomor rekening nasabah",
+        "Menjadi basis identitas terintegrasi seluruh produk nasabah",
+        "Menentukan limit transaksi harian otomatis",
+        "Menghapus kebutuhan verifikasi KYC"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CIF berfungsi sebagai identitas utama nasabah yang menghubungkan seluruh produk dan layanan perbankan dalam satu profil terintegrasi.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "CIF",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 2,
+      "question": "Pada transaksi tunai setoran besar, teller menemukan nominal fisik berbeda dengan slip setoran. Tindakan yang PALING sesuai prinsip operasional adalah...",
+      "options": [
+        "Memproses sesuai nominal slip demi efisiensi antrean",
+        "Menggunakan nominal tengah sebagai kompromi",
+        "Melakukan konfirmasi dan koreksi sebelum transaksi diposting",
+        "Membatalkan transaksi tanpa penjelasan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Perbedaan nominal wajib dikonfirmasi dan dikoreksi sebelum transaksi diproses untuk menjaga akurasi transaksi dan menghindari dispute.",
+      "topic": "Transaksi Tunai",
+      "subtopic": "Validasi Setoran",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 3,
+      "question": "Spread pada transaksi valuta asing paling tepat dipahami sebagai...",
+      "options": [
+        "Selisih antara nominal transfer dan biaya admin",
+        "Selisih antara kurs beli dan kurs jual",
+        "Biaya tambahan remitansi internasional",
+        "Margin tetap yang ditentukan nasabah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Spread adalah selisih antara kurs beli dan kurs jual yang menjadi salah satu sumber keuntungan bank atau money changer.",
+      "topic": "Valuta Asing",
+      "subtopic": "Kurs",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 4,
+      "question": "Saat memberikan edukasi digital banking kepada nasabah lanjut usia, pendekatan yang PALING tepat adalah...",
+      "options": [
+        "Fokus menjelaskan fitur premium lebih dahulu",
+        "Menggunakan istilah teknis agar terlihat profesional",
+        "Menyesuaikan penjelasan dengan tingkat pemahaman nasabah",
+        "Menghindari simulasi penggunaan demi efisiensi waktu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Edukasi nasabah harus mempertimbangkan kebutuhan dan tingkat pemahaman nasabah agar informasi dapat dipahami dengan efektif.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Literasi Nasabah",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 5,
+      "question": "Nasabah meminta penjelasan perbedaan giro dan tabungan. Jawaban yang PALING tepat adalah...",
+      "options": [
+        "Giro digunakan untuk investasi jangka panjang",
+        "Tabungan mendukung cek dan bilyet giro",
+        "Giro mendukung cek dan pemindahbukuan sedangkan tabungan tidak",
+        "Tabungan hanya dapat dimiliki perusahaan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Giro mendukung penggunaan cek, bilyet giro, dan pemindahbukuan, sedangkan tabungan tidak.",
+      "topic": "Informasi Produk",
+      "subtopic": "Produk Simpanan",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 6,
+      "question": "Dalam penanganan pengaduan nasabah, langkah awal yang PALING penting adalah...",
+      "options": [
+        "Langsung memberikan kompensasi",
+        "Menyalahkan unit lain agar situasi reda",
+        "Mendengarkan dan memahami kronologi keluhan",
+        "Menutup laporan agar tidak menjadi escalation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pemahaman kronologi menjadi dasar investigasi dan penyelesaian pengaduan yang tepat.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Complaint Handling",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 7,
+      "question": "Dokumen utama yang paling berkaitan langsung dengan mekanisme pembayaran dalam Letter of Credit adalah...",
+      "options": [
+        "Bilyet deposito",
+        "Shipping documents",
+        "Slip ATM",
+        "Specimen signature teller"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dalam LC, shipping documents menjadi dasar pembayaran karena membuktikan pengiriman barang.",
+      "topic": "Trade Finance",
+      "subtopic": "Letter of Credit",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 8,
+      "question": "Tujuan utama administrasi dokumen operasional bank adalah...",
+      "options": [
+        "Mengurangi kebutuhan audit internal",
+        "Memastikan jejak dokumentasi dan kepatuhan tersedia",
+        "Menggantikan sistem core banking",
+        "Menghapus histori transaksi lama"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Administrasi dokumen diperlukan untuk dokumentasi, monitoring, audit trail, dan kepatuhan.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Dokumentasi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 9,
+      "question": "Persamaan dasar akuntansi yang PALING tepat adalah...",
+      "options": [
+        "Aset = Pendapatan - Beban",
+        "Liabilitas = Aset + Modal",
+        "Aset = Liabilitas + Modal",
+        "Pendapatan = Aset + Beban"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Persamaan dasar akuntansi adalah Aset = Liabilitas + Modal.",
+      "topic": "Akuntansi",
+      "subtopic": "Dasar Akuntansi",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 10,
+      "question": "Dalam aspek hukum perbankan, kerahasiaan data nasabah terutama bertujuan untuk...",
+      "options": [
+        "Mengurangi transaksi lintas bank",
+        "Melindungi informasi dan kepercayaan nasabah",
+        "Membatasi penggunaan mobile banking",
+        "Menghapus kewajiban pelaporan regulator"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kerahasiaan bank bertujuan menjaga perlindungan informasi dan kepercayaan nasabah.",
+      "topic": "Aspek Hukum",
+      "subtopic": "Kerahasiaan Bank",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 11,
+      "question": "Dalam tahapan KYC, aktivitas memastikan dokumen identitas valid disebut...",
+      "options": [
+        "Monitoring",
+        "Screening",
+        "Verifikasi",
+        "Escalation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Verifikasi bertujuan memastikan keabsahan data dan dokumen nasabah.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "KYC",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 12,
+      "question": "Pada transaksi non tunai, pemindahbukuan paling tepat dipahami sebagai...",
+      "options": [
+        "Penarikan tunai antar cabang",
+        "Pemindahan dana antar rekening dalam sistem bank",
+        "Pertukaran uang fisik antar teller",
+        "Penjualan valuta asing kepada nasabah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pemindahbukuan adalah perpindahan dana antar rekening dalam sistem perbankan.",
+      "topic": "Transaksi Non Tunai",
+      "subtopic": "Pemindahbukuan",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 13,
+      "question": "Jika kurs beli USD adalah Rp15.400 dan kurs jual Rp15.550, maka nasabah yang membeli USD menggunakan kurs...",
+      "options": [
+        "Kurs tengah",
+        "Kurs beli",
+        "Kurs jual",
+        "Kurs pajak"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nasabah membeli valuta asing menggunakan kurs jual bank.",
+      "topic": "Valuta Asing",
+      "subtopic": "Kurs Valas",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 14,
+      "question": "Dalam edukasi fraud awareness, contoh informasi yang PALING penting disampaikan kepada nasabah adalah...",
+      "options": [
+        "Cara mempercepat approval kredit",
+        "PIN dan OTP tidak boleh diberikan kepada pihak lain",
+        "Semua link promosi bank aman dibuka",
+        "Password mobile banking sebaiknya dibagikan ke keluarga"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PIN dan OTP bersifat rahasia dan tidak boleh dibagikan untuk mencegah fraud.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Fraud Awareness",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 15,
+      "question": "Saat menjelaskan produk deposito, informasi yang PALING wajib dijelaskan adalah...",
+      "options": [
+        "Deposito dapat dicairkan bebas kapan saja tanpa konsekuensi",
+        "Deposito menggunakan cek dan BG",
+        "Deposito memiliki tenor dan ketentuan pencairan tertentu",
+        "Deposito tidak dikenakan pajak"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Deposito memiliki jangka waktu tertentu dan pencairannya mengikuti ketentuan bank.",
+      "topic": "Informasi Produk",
+      "subtopic": "Deposito",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "question": "Pada transaksi penarikan tunai nominal besar, langkah mitigasi risiko yang PALING tepat adalah...",
+      "options": [
+        "Mengabaikan verifikasi tanda tangan",
+        "Melakukan verifikasi identitas dan otorisasi sesuai limit",
+        "Mencairkan dana tanpa pengecekan sistem",
+        "Menggunakan PIN teller untuk percepatan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transaksi tunai besar memerlukan verifikasi identitas dan otorisasi sesuai ketentuan limit operasional.",
+      "topic": "Transaksi Tunai",
+      "subtopic": "Penarikan Tunai",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 33,
+      "question": "Risiko utama bank jika posisi valas tidak dikelola dengan baik adalah...",
+      "options": [
+        "Risiko perubahan kurs",
+        "Risiko kehilangan specimen",
+        "Risiko duplikasi CIF",
+        "Risiko perubahan nomor rekening"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Perubahan kurs dapat memengaruhi posisi dan keuntungan bank pada transaksi valas.",
+      "topic": "Valuta Asing",
+      "subtopic": "Risiko Kurs",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 34,
+      "question": "Edukasi kepada calon nasabah mengenai investasi yang aman sebaiknya mencakup...",
+      "options": [
+        "Janji keuntungan tanpa risiko",
+        "Penjelasan risiko dan legalitas produk",
+        "Cara menghindari regulasi",
+        "Penggunaan identitas pihak lain"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Edukasi yang baik harus menjelaskan risiko dan legalitas produk agar nasabah dapat mengambil keputusan yang tepat.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Literasi Keuangan",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 35,
+      "question": "Produk yang PALING sesuai untuk kebutuhan penyimpanan dana jangka waktu tertentu dengan bunga tetap adalah...",
+      "options": [
+        "Giro",
+        "Deposito",
+        "Tabungan payroll",
+        "Current account biasa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Deposito dirancang untuk penempatan dana berjangka dengan bunga tertentu.",
+      "topic": "Informasi Produk",
+      "subtopic": "Deposito",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 36,
+      "question": "Nasabah menyampaikan komplain keras di area banking hall karena kartu ATM tertelan. Sikap petugas yang PALING tepat adalah...",
+      "options": [
+        "Berargumen bahwa kesalahan ada pada nasabah",
+        "Menenangkan nasabah dan menjelaskan prosedur penyelesaian",
+        "Mengabaikan komplain hingga nasabah tenang sendiri",
+        "Meminta nasabah kembali esok hari tanpa pengecekan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Petugas wajib menunjukkan empati, menenangkan nasabah, dan menjelaskan prosedur penyelesaian secara jelas.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Service Recovery",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 37,
+      "question": "Dalam trade service, inkaso paling tepat digunakan untuk...",
+      "options": [
+        "Menjamin proyek konstruksi",
+        "Penagihan dokumen atau pembayaran antar pihak",
+        "Membuka rekening deposito",
+        "Menghitung provisi kredit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inkaso digunakan dalam proses penagihan pembayaran atau dokumen antar pihak melalui bank.",
+      "topic": "Trade Finance",
+      "subtopic": "Inkaso",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 38,
+      "question": "Penyimpanan dokumen pembukaan rekening yang tidak sesuai prosedur berpotensi menimbulkan risiko...",
+      "options": [
+        "Peningkatan spread valas",
+        "Kehilangan audit trail dan pelanggaran kepatuhan",
+        "Kenaikan limit transaksi otomatis",
+        "Duplikasi suku bunga deposito"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dokumen yang tidak tersimpan sesuai prosedur dapat menyebabkan masalah audit dan kepatuhan regulator.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Kepatuhan Dokumen",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 39,
+      "question": "Jika perusahaan membeli aset secara tunai, maka dampak yang PALING tepat adalah...",
+      "options": [
+        "Aset bertambah dan kas berkurang",
+        "Liabilitas langsung hilang",
+        "Modal otomatis bertambah",
+        "Pendapatan meningkat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pembelian aset tunai menyebabkan perpindahan komposisi aset: kas turun dan aset lain meningkat.",
+      "topic": "Akuntansi",
+      "subtopic": "Transaksi Aset",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 40,
+      "question": "Agunan dalam perjanjian kredit terutama berfungsi untuk...",
+      "options": [
+        "Menghapus kebutuhan analisis kredit",
+        "Memberikan perlindungan tambahan bagi bank atas risiko gagal bayar",
+        "Menggantikan identitas debitur",
+        "Menentukan kurs valuta asing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Agunan berfungsi sebagai mitigasi risiko jika debitur gagal memenuhi kewajibannya.",
+      "topic": "Aspek Hukum",
+      "subtopic": "Agunan",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 41,
+      "question": "Nasabah meminta pembukaan rekening tanpa NPWP maupun surat keterangan tidak memiliki NPWP. Tindakan yang PALING tepat adalah...",
+      "options": [
+        "Tetap memproses agar target onboarding tercapai",
+        "Meminta nasabah melengkapi persyaratan sesuai ketentuan",
+        "Menggunakan NPWP milik anggota keluarga",
+        "Membuka rekening sementara tanpa CIF"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dokumen persyaratan wajib harus dipenuhi sesuai ketentuan pembukaan rekening.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Persyaratan Dokumen",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 42,
+      "question": "Pada transaksi transfer, fungsi utama validasi nomor rekening penerima adalah...",
+      "options": [
+        "Mengurangi kebutuhan core banking",
+        "Memastikan dana terkirim ke rekening tujuan yang benar",
+        "Menentukan biaya admin otomatis",
+        "Menghindari penggunaan CIF"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Validasi rekening penerima penting untuk mencegah salah transfer dan dispute transaksi.",
+      "topic": "Transaksi Non Tunai",
+      "subtopic": "Transfer",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 43,
+      "question": "Traveler cheque pada transaksi valas pada dasarnya digunakan sebagai...",
+      "options": [
+        "Instrumen pembayaran perjalanan",
+        "Agunan kredit investasi",
+        "Dokumen pembukaan CIF",
+        "Instrumen pengganti deposito"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Traveler cheque digunakan sebagai alat pembayaran yang aman saat perjalanan internasional.",
+      "topic": "Valuta Asing",
+      "subtopic": "Traveler Cheque",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 44,
+      "question": "Saat memberikan edukasi mobile banking, informasi keamanan yang PALING penting adalah...",
+      "options": [
+        "Menggunakan password sederhana agar mudah diingat",
+        "Menghindari membagikan OTP kepada siapa pun",
+        "Menyimpan PIN di notes ponsel",
+        "Menggunakan jaringan publik untuk transaksi besar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "OTP bersifat rahasia dan tidak boleh diberikan kepada pihak lain untuk mencegah fraud.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Keamanan Digital",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 45,
+      "question": "Nasabah ingin transaksi bisnis harian sekaligus memperoleh mutasi rekening detail. Produk yang PALING sesuai adalah...",
+      "options": [
+        "Deposito berjangka",
+        "Giro",
+        "Tabungan pelajar",
+        "Safe deposit box"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Giro cocok untuk transaksi bisnis harian dengan fasilitas mutasi dan instrumen pembayaran bisnis.",
+      "topic": "Informasi Produk",
+      "subtopic": "Produk Bisnis",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 46,
+      "question": "Jika pengaduan nasabah melibatkan dugaan fraud internal, maka tindakan yang PALING tepat adalah...",
+      "options": [
+        "Menghapus laporan agar reputasi bank aman",
+        "Melakukan escalation sesuai prosedur investigasi",
+        "Menyelesaikan sendiri tanpa dokumentasi",
+        "Menyalahkan sistem otomatis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kasus fraud harus di-escalate dan ditangani sesuai prosedur investigasi internal bank.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Fraud Handling",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 47,
+      "question": "Dalam LC, issuing bank adalah pihak yang...",
+      "options": [
+        "Menerbitkan letter of credit",
+        "Mengangkut barang ekspor",
+        "Menentukan kurs pajak",
+        "Membuat invoice perdagangan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Issuing bank adalah bank yang menerbitkan LC atas permintaan applicant/importir.",
+      "topic": "Trade Finance",
+      "subtopic": "LC Parties",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 48,
+      "question": "Administrasi back office yang buruk dapat meningkatkan risiko operasional karena...",
+      "options": [
+        "Data dan dokumen menjadi sulit diverifikasi",
+        "Kurs valuta asing menjadi fluktuatif",
+        "Spread transaksi meningkat",
+        "Beban pajak otomatis hilang"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dokumentasi dan administrasi yang buruk menyulitkan verifikasi dan meningkatkan risiko kesalahan operasional.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Risiko Operasional",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 49,
+      "question": "Jika perusahaan menerima pembayaran piutang dari pelanggan, maka...",
+      "options": [
+        "Kas bertambah dan piutang berkurang",
+        "Pendapatan bertambah dua kali",
+        "Liabilitas otomatis meningkat",
+        "Modal langsung berkurang"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Penerimaan pembayaran piutang meningkatkan kas dan mengurangi saldo piutang.",
+      "topic": "Akuntansi",
+      "subtopic": "Piutang",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 50,
+      "question": "Prinsip kehati-hatian bank dalam aspek hukum terutama bertujuan untuk...",
+      "options": [
+        "Mempercepat semua approval tanpa verifikasi",
+        "Mengurangi seluruh kebutuhan dokumen",
+        "Melindungi bank dan nasabah dari risiko hukum serta operasional",
+        "Menghindari kewajiban regulator"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Prinsip kehati-hatian diterapkan untuk memitigasi risiko hukum, operasional, dan kepatuhan.",
+      "topic": "Aspek Hukum",
+      "subtopic": "Prinsip Kehati-hatian",
+      "difficulty": "Hard",
+      "requiresReasoning": false,
+      "reasoningKeywords": []
+    },
+    {
+      "id": 51,
+      "question": "Seorang nasabah membuka rekening perusahaan namun menolak memberikan dokumen beneficial owner dan meminta proses dipercepat karena transaksi harus segera dilakukan.",
+      "options": [
+        "Tetap memproses onboarding demi menjaga hubungan bisnis",
+        "Melanjutkan proses tanpa identifikasi tambahan",
+        "Melakukan pendalaman KYC dan meminta kelengkapan dokumen sebelum approval",
+        "Menyarankan penggunaan identitas nominee"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Identifikasi beneficial owner merupakan bagian penting KYC perusahaan dan wajib dipenuhi sebelum onboarding disetujui.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "KYC Perusahaan",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["KYC","beneficial owner","verifikasi","kepatuhan","AML"]
+    },
+    {
+      "id": 52,
+      "question": "Teller menerima transaksi penarikan tunai nominal sangat besar dengan tanda tangan yang sedikit berbeda dari specimen.",
+      "options": [
+        "Tetap mencairkan dana karena nasabah terlihat terburu-buru",
+        "Melakukan verifikasi tambahan sesuai prosedur keamanan transaksi",
+        "Menggunakan tanda tangan lama sebagai asumsi benar",
+        "Meminta nasabah menandatangani slip kosong"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perbedaan tanda tangan pada transaksi besar memerlukan verifikasi tambahan untuk mitigasi fraud.",
+      "topic": "Transaksi Tunai",
+      "subtopic": "Verifikasi Transaksi",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["specimen","verifikasi","fraud","otorisasi","transaksi besar"]
+    }
+  ,
+    {
+      "id": 53,
+      "question": "Nasabah melakukan transfer internasional berulang ke negara berisiko tinggi tanpa dapat menjelaskan underlying transaction secara jelas.",
+      "options": [
+        "Menganggap transaksi normal karena nominal di bawah threshold",
+        "Meningkatkan monitoring dan melakukan analisis transaksi sesuai AML",
+        "Menghapus histori transaksi dari monitoring system",
+        "Langsung menutup seluruh rekening tanpa prosedur"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transfer ke negara berisiko tanpa underlying transaction yang jelas merupakan red flag AML dan memerlukan monitoring lebih lanjut.",
+      "topic": "Valuta Asing",
+      "subtopic": "AML Valas",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["AML","monitoring","negara berisiko","underlying transaction","red flag"]
+    },
+    {
+      "id": 54,
+      "question": "Seorang nasabah lansia mengaku memberikan OTP kepada pihak yang mengaku petugas bank dan saldo rekeningnya berkurang.",
+      "options": [
+        "Menyalahkan nasabah tanpa investigasi lebih lanjut",
+        "Memberikan edukasi, membantu pelaporan, dan melakukan escalation sesuai prosedur",
+        "Menyarankan nasabah membuat rekening baru tanpa investigasi",
+        "Menghapus akses mobile banking permanen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bank perlu membantu proses investigasi sekaligus memberikan edukasi fraud awareness kepada nasabah.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Fraud Awareness",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["OTP","fraud","edukasi","investigasi","escalation"]
+    },
+    {
+      "id": 55,
+      "question": "Nasabah bisnis membutuhkan transaksi menggunakan cek dan pengelolaan cash flow harian dengan frekuensi tinggi.",
+      "options": [
+        "Menyarankan deposito berjangka",
+        "Merekomendasikan giro sesuai kebutuhan transaksi bisnis",
+        "Mengarahkan ke tabungan pelajar",
+        "Menggunakan safe deposit box"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Giro merupakan produk yang paling sesuai untuk kebutuhan transaksi bisnis intensif menggunakan cek dan pemindahbukuan.",
+      "topic": "Informasi Produk",
+      "subtopic": "Analisis Kebutuhan Nasabah",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["giro","cash flow","cek","transaksi bisnis","produk sesuai"]
+    },
+    {
+      "id": 56,
+      "question": "Nasabah datang dengan emosi tinggi karena transfer belum diterima, padahal investigasi internal masih berlangsung.",
+      "options": [
+        "Menghindari komunikasi hingga investigasi selesai",
+        "Memberikan update berkala dan menjelaskan proses investigasi secara profesional",
+        "Menutup laporan pengaduan agar situasi tidak membesar",
+        "Menyalahkan bank penerima tanpa bukti"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dalam complaint handling, komunikasi dan update berkala sangat penting untuk menjaga kepercayaan nasabah.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Complaint Communication",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["komunikasi","investigasi","update berkala","service recovery"]
+    },
+    {
+      "id": 57,
+      "question": "Dokumen shipping pada transaksi LC menunjukkan ketidaksesuaian jumlah barang dibanding invoice.",
+      "options": [
+        "Mengabaikan discrepancy karena barang sudah dikirim",
+        "Melakukan pemeriksaan discrepancy sesuai ketentuan trade finance",
+        "Langsung mencairkan pembayaran penuh",
+        "Menghapus kewajiban importir"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perbedaan data dokumen dalam LC merupakan discrepancy yang harus diperiksa sebelum pembayaran dilakukan.",
+      "topic": "Trade Finance",
+      "subtopic": "Document Checking",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["LC","discrepancy","shipping document","invoice","trade finance"]
+    },
+    {
+      "id": 58,
+      "question": "Audit internal menemukan beberapa dokumen pembukaan rekening tidak memiliki tanda tangan otorisasi lengkap.",
+      "options": [
+        "Menganggap dokumen tetap sah karena CIF sudah aktif",
+        "Melakukan tindak lanjut koreksi dan evaluasi kepatuhan dokumen",
+        "Menghapus seluruh rekening terkait otomatis",
+        "Mengabaikan temuan selama tidak ada komplain"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dokumen yang tidak lengkap menimbulkan risiko kepatuhan dan harus ditindaklanjuti.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Audit Kepatuhan",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["audit","kepatuhan","otorisasi","dokumen","tindak lanjut"]
+    },
+    {
+      "id": 59,
+      "question": "Perusahaan mencatat pendapatan sebelum pembayaran diterima sehingga muncul piutang usaha.",
+      "options": [
+        "Hal tersebut sesuai konsep accrual basis",
+        "Pendapatan hanya boleh dicatat setelah kas diterima",
+        "Piutang harus dicatat sebagai beban",
+        "Transaksi tidak memengaruhi laporan keuangan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dalam accrual basis, pendapatan dapat diakui ketika diperoleh meskipun kas belum diterima.",
+      "topic": "Akuntansi",
+      "subtopic": "Accrual Basis",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["accrual basis","piutang","pendapatan","laporan keuangan"]
+    },
+    {
+      "id": 60,
+      "question": "Debitur tidak memenuhi kewajiban pembayaran sesuai jadwal dan bank ingin mengeksekusi agunan.",
+      "options": [
+        "Bank dapat langsung mengambil aset tanpa dasar hukum",
+        "Pelaksanaan eksekusi harus mengikuti ketentuan hukum dan perjanjian kredit",
+        "Agunan otomatis menjadi milik pribadi petugas bank",
+        "Perjanjian kredit tidak lagi berlaku"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Eksekusi agunan harus dilakukan sesuai perjanjian dan ketentuan hukum yang berlaku.",
+      "topic": "Aspek Hukum",
+      "subtopic": "Eksekusi Agunan",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["agunan","wanprestasi","perjanjian kredit","hukum","eksekusi"]
+    },
+    {
+      "id": 61,
+      "question": "Nasabah membuka rekening dengan identitas valid tetapi sumber dana tidak dapat dijelaskan secara konsisten.",
+      "options": [
+        "Tetap memproses karena identitas lengkap",
+        "Melakukan pendalaman KYC terkait sumber dana",
+        "Menghapus kebutuhan monitoring transaksi",
+        "Mengganti CIF nasabah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sumber dana merupakan bagian penting dalam KYC dan harus dipahami secara memadai.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Source of Fund",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["KYC","source of fund","verifikasi","AML","profil nasabah"]
+    },
+    {
+      "id": 62,
+      "question": "Teller menemukan transaksi setoran tunai berulang dengan nominal sedikit di bawah threshold pelaporan.",
+      "options": [
+        "Menganggap transaksi normal karena tidak melewati threshold",
+        "Mengidentifikasi potensi structuring dan meningkatkan monitoring",
+        "Langsung menutup rekening tanpa analisis",
+        "Menghapus histori transaksi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pola transaksi di bawah threshold secara berulang dapat mengindikasikan structuring/smurfing.",
+      "topic": "Transaksi Tunai",
+      "subtopic": "Structuring",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["structuring","smurfing","threshold","AML","monitoring"]
+    },
+    {
+      "id": 63,
+      "question": "Nasabah ingin membeli valas dalam jumlah besar tanpa dokumen underlying transaction yang memadai.",
+      "options": [
+        "Tetap melayani tanpa verifikasi tambahan",
+        "Meminta dokumen pendukung sesuai ketentuan transaksi valas",
+        "Menggunakan rekening pihak ketiga",
+        "Menghapus pencatatan transaksi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transaksi valas tertentu memerlukan underlying transaction sesuai ketentuan regulator.",
+      "topic": "Valuta Asing",
+      "subtopic": "Underlying Transaction",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["underlying transaction","valas","dokumen pendukung","kepatuhan"]
+    },
+    {
+      "id": 64,
+      "question": "Seorang nasabah baru ingin langsung mengaktifkan seluruh fitur digital banking tanpa memahami risiko keamanan.",
+      "options": [
+        "Mengaktifkan seluruh fitur tanpa penjelasan",
+        "Memberikan edukasi mengenai keamanan transaksi digital sebelum aktivasi",
+        "Menghapus kebutuhan OTP",
+        "Menyarankan penggunaan password sederhana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bank wajib memberikan edukasi keamanan digital agar nasabah memahami risiko penggunaan layanan elektronik.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Digital Banking",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["digital banking","OTP","keamanan","edukasi","fraud"]
+    },
+    {
+      "id": 65,
+      "question": "Nasabah membutuhkan produk dengan fleksibilitas transaksi tinggi namun tetap memperoleh fasilitas mutasi dan cek.",
+      "options": [
+        "Deposito",
+        "Giro",
+        "Kredit investasi",
+        "Safe deposit box"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Giro merupakan produk yang sesuai untuk kebutuhan transaksi bisnis fleksibel dengan fasilitas cek dan mutasi.",
+      "topic": "Informasi Produk",
+      "subtopic": "Product Matching",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["giro","cek","mutasi","fleksibilitas transaksi"]
+    },
+    {
+      "id": 66,
+      "question": "Nasabah mengeluhkan dana transfer belum diterima dan mulai menyebarkan komplain di media sosial.",
+      "options": [
+        "Menghindari komunikasi agar isu tidak membesar",
+        "Melakukan penanganan cepat, komunikasi profesional, dan escalation bila diperlukan",
+        "Menyalahkan nasabah secara publik",
+        "Menghapus histori pengaduan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Respons cepat dan komunikasi profesional penting untuk menjaga reputasi dan kepercayaan nasabah.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Reputational Handling",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["komplain","media sosial","service recovery","reputasi","escalation"]
+    },
+    {
+      "id": 67,
+      "question": "Importir meminta pembayaran LC diproses meskipun dokumen utama belum lengkap.",
+      "options": [
+        "Tetap melakukan pembayaran agar hubungan bisnis terjaga",
+        "Memastikan kelengkapan dokumen sesuai ketentuan LC sebelum pembayaran",
+        "Menghapus proses discrepancy checking",
+        "Menggunakan dokumen lama transaksi lain"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pembayaran LC harus mengikuti prinsip documentary compliance sesuai ketentuan trade finance.",
+      "topic": "Trade Finance",
+      "subtopic": "LC Compliance",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["LC","documentary compliance","trade finance","dokumen lengkap"]
+    },
+    {
+      "id": 68,
+      "question": "Back office menemukan beberapa dokumen transaksi tidak dapat ditemukan saat proses audit regulator.",
+      "options": [
+        "Menganggap hal tersebut normal dalam operasional",
+        "Melakukan investigasi dan perbaikan kontrol administrasi dokumen",
+        "Menghapus laporan audit",
+        "Menyalahkan nasabah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dokumen yang hilang merupakan risiko kepatuhan serius dan perlu tindak lanjut kontrol internal.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Internal Control",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["audit","dokumen hilang","kontrol internal","kepatuhan"]
+    },
+    {
+      "id": 69,
+      "question": "Perusahaan mencatat beban operasional tetapi belum melakukan pembayaran kas hingga akhir periode.",
+      "options": [
+        "Beban tidak perlu dicatat",
+        "Beban tetap dicatat sesuai accrual basis",
+        "Transaksi otomatis menjadi pendapatan",
+        "Liabilitas tidak terpengaruh"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dalam accrual basis, beban dicatat ketika terjadi meskipun kas belum dibayarkan.",
+      "topic": "Akuntansi",
+      "subtopic": "Beban Accrual",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["accrual basis","beban","liabilitas","laporan keuangan"]
+    },
+    {
+      "id": 70,
+      "question": "Bank menerima permintaan pembukaan rekening menggunakan identitas pihak lain tanpa surat kuasa resmi.",
+      "options": [
+        "Tetap membuka rekening karena identitas terlihat valid",
+        "Menolak proses dan memastikan kepatuhan aspek hukum serta KYC",
+        "Menggunakan CIF lama pihak lain",
+        "Menghapus kebutuhan verifikasi dokumen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Penggunaan identitas pihak lain tanpa kewenangan resmi melanggar prinsip KYC dan aspek hukum perbankan.",
+      "topic": "Aspek Hukum",
+      "subtopic": "Legalitas dan KYC",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": ["KYC","legalitas","surat kuasa","identitas","kepatuhan"]
+    }
+  ]
+}
