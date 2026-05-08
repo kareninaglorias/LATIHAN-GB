@@ -1,0 +1,1685 @@
+{
+  "quizTitle": "Latihan Soal 9 [Materi BRIDGE]",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Dalam proses pembukaan rekening perusahaan, pihak yang memiliki kewenangan menjalankan transaksi atas rekening BELUM tentu merupakan...",
+      "options": [
+        "Authorized signer",
+        "Beneficial owner",
+        "Kuasa rekening",
+        "Pihak yang tercantum dalam specimen signature"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beneficial owner adalah pihak yang menikmati manfaat ekonomi akhir, sedangkan authorized signer hanya pihak yang diberi kewenangan transaksi.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Beneficial Owner Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "beneficial owner",
+        "authorized signer",
+        "account authority",
+        "KYC",
+        "corporate account",
+        "ownership"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Pada transaksi transfer internasional, istilah 'settlement completed' BELUM tentu berarti bahwa...",
+      "options": [
+        "Dana telah keluar dari bank pengirim",
+        "SWIFT message telah diproses",
+        "Beneficiary telah menerima dana final",
+        "Correspondent bank telah menerima instruksi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Settlement completed pada level tertentu belum tentu berarti beneficiary final sudah menerima dananya.",
+      "topic": "Transaksi Tunai & Non Tunai",
+      "subtopic": "Settlement Misconception",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "settlement",
+        "beneficiary",
+        "SWIFT",
+        "correspondent bank",
+        "fund transfer",
+        "cross border"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Dalam transaksi valas, posisi 'long USD' bagi perusahaan importir PALING tepat diartikan sebagai kondisi ketika perusahaan...",
+      "options": [
+        "Memiliki kewajiban USD lebih besar dibanding aset USD",
+        "Memiliki aset USD lebih besar dibanding kewajiban USD",
+        "Tidak memiliki eksposur USD",
+        "Melakukan hedging penuh terhadap USD"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Long position berarti kepemilikan/aset mata uang lebih besar dibanding kewajiban dalam mata uang tersebut.",
+      "topic": "Valuta Asing",
+      "subtopic": "Long Position Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "long position",
+        "USD exposure",
+        "FX position",
+        "asset",
+        "liability",
+        "treasury"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "OTP pada mobile banking secara prinsip keamanan lebih tepat dikategorikan sebagai...",
+      "options": [
+        "Something you know",
+        "Something you have",
+        "Something you are",
+        "Static credential"
+      ],
+      "correctAnswer": 1,
+      "explanation": "OTP dikategorikan sebagai something you have karena terkait device/token tertentu.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Authentication Factor",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "OTP",
+        "authentication",
+        "MFA",
+        "security factor",
+        "mobile banking",
+        "credential"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Produk virtual account PALING sering disalahartikan sebagai rekening bank terpisah, padahal pada praktiknya virtual account umumnya...",
+      "options": [
+        "Merupakan rekening giro individual penuh",
+        "Merupakan identifier transaksi yang terhubung ke rekening induk",
+        "Selalu memiliki buku tabungan sendiri",
+        "Tidak dapat menerima transfer antarbank"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Virtual account umumnya berupa identifier unik yang tetap terhubung ke underlying master account.",
+      "topic": "Informasi Produk dan Jasa",
+      "subtopic": "Virtual Account Concept",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "virtual account",
+        "master account",
+        "identifier",
+        "payment",
+        "collection",
+        "banking product"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Pada dispute kartu debit, istilah 'reversal' sering dianggap sama dengan 'refund', padahal reversal biasanya terjadi...",
+      "options": [
+        "Sebelum settlement final selesai",
+        "Setelah merchant mengembalikan barang",
+        "Setelah nasabah membuat surat pengaduan",
+        "Setelah audit internal selesai"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Reversal umumnya terjadi sebelum settlement final, sedangkan refund biasanya setelah settlement selesai.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Reversal vs Refund",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "reversal",
+        "refund",
+        "settlement",
+        "card dispute",
+        "merchant",
+        "transaction"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Dalam LC transaction, discrepancy TIDAK selalu berarti bahwa...",
+      "options": [
+        "Dokumen tidak sesuai syarat LC",
+        "Issuing bank otomatis menolak pembayaran",
+        "Terdapat perbedaan terhadap LC terms",
+        "Beneficiary berpotensi memerlukan waiver"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Discrepancy tidak otomatis menyebabkan penolakan pembayaran karena applicant masih dapat memberikan waiver.",
+      "topic": "Trade Service & Trade Finance",
+      "subtopic": "Discrepancy Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "discrepancy",
+        "LC",
+        "waiver",
+        "issuing bank",
+        "trade finance",
+        "document checking"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Maker-checker control dalam operasional bank PALING tepat bertujuan untuk...",
+      "options": [
+        "Mempercepat seluruh transaksi",
+        "Mengurangi risiko error dan fraud melalui segregasi tugas",
+        "Menghapus kebutuhan audit",
+        "Mengurangi kebutuhan approval"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Maker-checker bertujuan menciptakan segregation of duties untuk mengurangi error dan fraud.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Maker Checker Control",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "maker checker",
+        "segregation of duties",
+        "internal control",
+        "fraud prevention",
+        "operational risk",
+        "approval"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Pada pencatatan akuntansi, prepaid expense PALING sering keliru dipahami sebagai...",
+      "options": [
+        "Expense yang belum dibayar",
+        "Asset yang manfaat ekonominya belum seluruhnya digunakan",
+        "Liabilitas jangka pendek",
+        "Pendapatan diterima dimuka"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prepaid expense adalah aset karena manfaat ekonominya masih akan digunakan di masa depan.",
+      "topic": "Mengelola Akuntansi",
+      "subtopic": "Prepaid Expense Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "prepaid expense",
+        "asset",
+        "expense recognition",
+        "accrual",
+        "financial reporting",
+        "accounting"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Dalam aspek hukum rekening perusahaan, pemegang saham mayoritas BELUM tentu memiliki kewenangan langsung untuk...",
+      "options": [
+        "Menikmati manfaat ekonomi perusahaan",
+        "Menunjuk direksi melalui mekanisme yang sah",
+        "Menjalankan transaksi rekening tanpa otorisasi perusahaan",
+        "Mempengaruhi keputusan strategis perusahaan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kewenangan transaksi rekening tetap bergantung pada otorisasi perusahaan dan dokumen resmi.",
+      "topic": "Aspek-Aspek Hukum",
+      "subtopic": "Shareholder Authority Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "shareholder",
+        "account authority",
+        "corporate governance",
+        "authorized signer",
+        "legal authority",
+        "company account"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Customer Due Diligence (CDD) PALING sering disalahartikan hanya sebagai proses pengumpulan dokumen identitas, padahal inti CDD juga mencakup...",
+      "options": [
+        "Penentuan desain kartu ATM",
+        "Pemahaman profil dan pola transaksi nasabah",
+        "Perhitungan spread treasury",
+        "Penerbitan rekening otomatis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CDD tidak hanya identifikasi identitas, tetapi juga memahami profil dan aktivitas transaksi nasabah.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "CDD Misconception",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "CDD",
+        "customer due diligence",
+        "transaction profile",
+        "KYC",
+        "AML",
+        "customer monitoring"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Dalam transfer internasional, beneficiary bank BELUM tentu merupakan bank yang...",
+      "options": [
+        "Menerima instruksi pembayaran",
+        "Menjadi tujuan akhir rekening beneficiary",
+        "Berfungsi sebagai correspondent intermediary",
+        "Mengkredit dana ke rekening beneficiary"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correspondent intermediary dapat terlibat dalam proses transfer tanpa menjadi beneficiary bank akhir.",
+      "topic": "Transaksi Tunai & Non Tunai",
+      "subtopic": "Beneficiary Bank Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "beneficiary bank",
+        "correspondent bank",
+        "intermediary",
+        "SWIFT",
+        "cross border transfer",
+        "settlement"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Hedging valas TIDAK selalu bertujuan untuk...",
+      "options": [
+        "Mengurangi risiko fluktuasi kurs",
+        "Menciptakan kepastian cash flow",
+        "Memaksimalkan keuntungan spekulatif",
+        "Mengurangi ketidakpastian nilai tukar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hedging pada prinsipnya bertujuan mitigasi risiko, bukan spekulasi keuntungan.",
+      "topic": "Valuta Asing",
+      "subtopic": "Hedging Purpose Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "hedging",
+        "FX risk",
+        "speculation",
+        "cash flow",
+        "currency exposure",
+        "treasury"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "PIN kartu ATM secara prinsip keamanan lebih tepat dikategorikan sebagai...",
+      "options": [
+        "Something you have",
+        "Static biometric",
+        "Something you know",
+        "Behavioral authentication"
+      ],
+      "correctAnswer": 2,
+      "explanation": "PIN termasuk something you know karena berupa informasi yang diketahui pengguna.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Authentication Knowledge Factor",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "PIN",
+        "authentication",
+        "security factor",
+        "ATM",
+        "credential",
+        "MFA"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Auto debit service PALING sering dikira sebagai transfer otomatis biasa, padahal karakteristik utamanya adalah...",
+      "options": [
+        "Dana ditarik berdasarkan otorisasi sebelumnya dari rekening nasabah",
+        "Transfer selalu dilakukan manual",
+        "Tidak memerlukan settlement",
+        "Hanya berlaku untuk kartu kredit"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Auto debit menggunakan otorisasi sebelumnya untuk menarik dana dari rekening nasabah.",
+      "topic": "Informasi Produk dan Jasa",
+      "subtopic": "Auto Debit Concept",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "auto debit",
+        "authorization",
+        "collection",
+        "account debit",
+        "payment",
+        "banking service"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Chargeback pada kartu pembayaran PALING tepat dipahami sebagai...",
+      "options": [
+        "Transfer antar rekening otomatis",
+        "Mekanisme dispute melalui jaringan pembayaran",
+        "Refund manual merchant biasa",
+        "Pembatalan rekening permanen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chargeback adalah mekanisme dispute formal melalui card/payment network.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Chargeback Concept",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "chargeback",
+        "dispute",
+        "card network",
+        "merchant",
+        "payment system",
+        "refund"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Istilah advising bank dalam LC transaction PALING sering keliru dianggap sebagai pihak yang...",
+      "options": [
+        "Menerbitkan LC",
+        "Memberikan pinjaman kepada applicant",
+        "Menyampaikan LC kepada beneficiary",
+        "Menjadi beneficiary akhir"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Advising bank bertugas meneruskan/mengautentikasi LC kepada beneficiary.",
+      "topic": "Trade Service & Trade Finance",
+      "subtopic": "Advising Bank Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "advising bank",
+        "LC",
+        "beneficiary",
+        "trade finance",
+        "issuing bank",
+        "authentication"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Audit trail dalam sistem operasional bank PALING penting karena...",
+      "options": [
+        "Mempercepat seluruh transaksi",
+        "Menyediakan jejak aktivitas untuk monitoring dan investigasi",
+        "Menghapus kebutuhan approval",
+        "Mengurangi kebutuhan backup"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Audit trail penting untuk traceability dan investigasi aktivitas sistem.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Audit Trail Function",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "audit trail",
+        "traceability",
+        "monitoring",
+        "investigation",
+        "system log",
+        "internal control"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Accrued expense PALING sering tertukar dengan accounts payable, padahal accrued expense pada dasarnya adalah...",
+      "options": [
+        "Expense yang sudah terjadi tetapi belum dibayar atau ditagihkan",
+        "Asset jangka pendek",
+        "Pendapatan diterima dimuka",
+        "Kas yang dibatasi penggunaannya"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Accrued expense merupakan beban yang sudah terjadi namun belum dibayar atau belum ditagihkan.",
+      "topic": "Mengelola Akuntansi",
+      "subtopic": "Accrued Expense Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "accrued expense",
+        "accounts payable",
+        "expense recognition",
+        "accrual basis",
+        "liability",
+        "accounting"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Kuasa transaksi rekening perusahaan TIDAK otomatis tetap berlaku apabila...",
+      "options": [
+        "Rekening masih aktif",
+        "Pemberi kuasa telah mencabut kewenangan sesuai prosedur",
+        "Perusahaan masih beroperasi",
+        "Saldo rekening masih tersedia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kuasa dapat dicabut sesuai mekanisme dan dokumentasi yang berlaku.",
+      "topic": "Aspek-Aspek Hukum",
+      "subtopic": "Power of Attorney Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "power of attorney",
+        "account authority",
+        "revocation",
+        "corporate account",
+        "legal documentation",
+        "authorization"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Enhanced Due Diligence (EDD) PALING tepat diterapkan ketika...",
+      "options": [
+        "Seluruh nasabah memiliki risiko identik",
+        "Terdapat risiko lebih tinggi berdasarkan profil atau transaksi nasabah",
+        "Nasabah meminta kartu ATM tambahan",
+        "Saldo rekening terlalu kecil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "EDD diterapkan untuk nasabah atau aktivitas dengan tingkat risiko lebih tinggi.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "EDD Application",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "EDD",
+        "risk based approach",
+        "high risk customer",
+        "AML",
+        "customer profile",
+        "due diligence"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Dalam transaksi transfer, clearing PALING sering disalahartikan sama dengan settlement, padahal clearing umumnya berkaitan dengan...",
+      "options": [
+        "Perpindahan dana final",
+        "Proses pertukaran dan validasi instruksi transaksi",
+        "Penerbitan rekening baru",
+        "Penghapusan biaya transfer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Clearing berkaitan dengan proses pertukaran dan validasi instruksi sebelum settlement final.",
+      "topic": "Transaksi Tunai & Non Tunai",
+      "subtopic": "Clearing vs Settlement",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "clearing",
+        "settlement",
+        "payment system",
+        "transaction validation",
+        "fund transfer",
+        "banking operation"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Posisi 'short EUR' PALING tepat menggambarkan kondisi ketika perusahaan...",
+      "options": [
+        "Memiliki aset EUR lebih besar dibanding kewajiban EUR",
+        "Tidak memiliki eksposur EUR",
+        "Memiliki kewajiban EUR lebih besar dibanding aset EUR",
+        "Sudah melakukan hedging penuh"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Short position berarti kewajiban dalam mata uang lebih besar dibanding asetnya.",
+      "topic": "Valuta Asing",
+      "subtopic": "Short Position Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "short position",
+        "EUR exposure",
+        "FX liability",
+        "currency risk",
+        "treasury",
+        "position management"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Credential phishing PALING sering berhasil karena pelaku...",
+      "options": [
+        "Membobol server bank secara langsung",
+        "Memanfaatkan kepercayaan dan kelalaian pengguna",
+        "Menghapus settlement transaction",
+        "Mengubah kurs treasury otomatis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Phishing umumnya memanfaatkan social engineering terhadap pengguna.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Phishing Misconception",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "phishing",
+        "social engineering",
+        "credential theft",
+        "security awareness",
+        "cyber fraud",
+        "user behavior"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Escrow account PALING tepat dipahami sebagai rekening yang...",
+      "options": [
+        "Digunakan bebas oleh salah satu pihak",
+        "Menahan dana sementara berdasarkan syarat atau kondisi tertentu",
+        "Selalu merupakan rekening pribadi",
+        "Tidak memerlukan agreement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Escrow digunakan untuk menahan dana sampai kondisi tertentu terpenuhi.",
+      "topic": "Informasi Produk dan Jasa",
+      "subtopic": "Escrow Concept Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "escrow",
+        "conditional fund",
+        "agreement",
+        "settlement",
+        "banking product",
+        "holding account"
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Pada dispute transaksi kartu, authorization approval TIDAK selalu berarti bahwa...",
+      "options": [
+        "Limit atau saldo tersedia",
+        "Transaksi telah melewati pengecekan awal",
+        "Settlement final pasti berhasil",
+        "Merchant berhasil memperoleh approval network"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Authorization hanyalah persetujuan awal. Settlement final masih dapat gagal, dibatalkan, atau direversal.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Authorization vs Settlement",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "authorization",
+        "settlement",
+        "card transaction",
+        "approval",
+        "reversal",
+        "payment network"
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Dalam transaksi LC, applicant PALING tepat diartikan sebagai pihak yang...",
+      "options": [
+        "Menerima pembayaran LC",
+        "Menerbitkan SWIFT message",
+        "Meminta penerbitan LC",
+        "Melakukan advising LC"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Applicant adalah pihak yang meminta issuing bank menerbitkan LC.",
+      "topic": "Trade Service & Trade Finance",
+      "subtopic": "Applicant Definition Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "applicant",
+        "LC",
+        "issuing bank",
+        "trade finance",
+        "beneficiary",
+        "letter of credit"
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Segregation of duties PALING sering disalahartikan sekadar pembagian pekerjaan, padahal tujuan utamanya adalah...",
+      "options": [
+        "Mengurangi kebutuhan SOP",
+        "Mengurangi risiko konflik kepentingan dan fraud",
+        "Mempercepat seluruh approval",
+        "Menghapus audit internal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Segregation of duties bertujuan mengurangi konsentrasi kontrol dan risiko fraud.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Segregation Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "segregation of duties",
+        "fraud prevention",
+        "internal control",
+        "governance",
+        "operational risk",
+        "authorization"
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Unearned revenue PALING tepat dikategorikan sebagai...",
+      "options": [
+        "Asset",
+        "Expense",
+        "Liabilitas",
+        "Kontra pendapatan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Unearned revenue merupakan kewajiban karena jasa/barang belum diberikan.",
+      "topic": "Mengelola Akuntansi",
+      "subtopic": "Unearned Revenue Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "unearned revenue",
+        "liability",
+        "revenue recognition",
+        "deferred revenue",
+        "accounting",
+        "financial statement"
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Dalam aspek hukum perusahaan, direksi TIDAK otomatis dapat bertindak di luar kewenangan apabila...",
+      "options": [
+        "Memiliki jabatan direktur",
+        "Perusahaan memiliki rekening aktif",
+        "Terdapat pembatasan dalam anggaran dasar perusahaan",
+        "Saldo rekening mencukupi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kewenangan direksi dapat dibatasi oleh anggaran dasar atau ketentuan perusahaan.",
+      "topic": "Aspek-Aspek Hukum",
+      "subtopic": "Director Authority Limitation",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "director authority",
+        "articles of association",
+        "corporate governance",
+        "legal limitation",
+        "company law",
+        "authorization"
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Suspicious transaction TIDAK selalu berarti bahwa transaksi tersebut...",
+      "options": [
+        "Memiliki pola tidak biasa",
+        "Memerlukan perhatian lebih lanjut",
+        "Pasti merupakan tindak pidana",
+        "Berpotensi memiliki red flag"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Suspicious transaction tidak otomatis membuktikan tindak pidana, tetapi memerlukan analisis lebih lanjut.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Suspicious Transaction Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "suspicious transaction",
+        "AML",
+        "red flag",
+        "monitoring",
+        "compliance",
+        "risk"
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Dalam transaksi transfer internasional, MT103 PALING sering dikaitkan dengan...",
+      "options": [
+        "Pesan pembayaran customer transfer",
+        "Trade discrepancy notice",
+        "Penerbitan kartu kredit",
+        "Settlement RTGS domestik"
+      ],
+      "correctAnswer": 0,
+      "explanation": "MT103 digunakan untuk customer credit transfer pada SWIFT network.",
+      "topic": "Transaksi Tunai & Non Tunai",
+      "subtopic": "MT103 Concept",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "MT103",
+        "SWIFT",
+        "customer transfer",
+        "payment message",
+        "cross border",
+        "banking operation"
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Currency appreciation PALING tepat menggambarkan kondisi ketika suatu mata uang...",
+      "options": [
+        "Mengalami penurunan nilai",
+        "Mengalami peningkatan nilai relatif terhadap mata uang lain",
+        "Tidak mengalami perubahan kurs",
+        "Dilarang diperdagangkan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Appreciation berarti mata uang menguat terhadap mata uang lainnya.",
+      "topic": "Valuta Asing",
+      "subtopic": "Currency Appreciation",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "currency appreciation",
+        "exchange rate",
+        "FX market",
+        "currency strengthening",
+        "treasury",
+        "valuation"
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Social engineering attack PALING sering berhasil karena pelaku...",
+      "options": [
+        "Memiliki akses legal ke server bank",
+        "Memanfaatkan psikologi dan kepercayaan korban",
+        "Menghapus data settlement",
+        "Mengubah core banking system"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Social engineering memanfaatkan manipulasi psikologis terhadap korban.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Social Engineering Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "social engineering",
+        "cyber fraud",
+        "psychological manipulation",
+        "security awareness",
+        "credential theft",
+        "fraud"
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Cash management service PALING sering disalahartikan hanya sebagai layanan transfer dana, padahal juga mencakup...",
+      "options": [
+        "Pengelolaan likuiditas dan collection perusahaan",
+        "Penerbitan SIM card perusahaan",
+        "Penghapusan audit internal",
+        "Pembuatan trade LC otomatis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cash management mencakup collection, liquidity management, payment, dan reconciliation.",
+      "topic": "Informasi Produk dan Jasa",
+      "subtopic": "Cash Management Scope",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "cash management",
+        "liquidity",
+        "collection",
+        "payment",
+        "corporate banking",
+        "reconciliation"
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Partial reversal pada transaksi kartu PALING tepat berarti bahwa...",
+      "options": [
+        "Seluruh transaksi dibatalkan",
+        "Sebagian nominal transaksi dikembalikan atau dibatalkan",
+        "Rekening ditutup permanen",
+        "Merchant diblokir otomatis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Partial reversal hanya membatalkan sebagian nominal transaksi.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Partial Reversal",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "partial reversal",
+        "card transaction",
+        "settlement",
+        "refund",
+        "payment network",
+        "authorization"
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Negotiating bank dalam LC transaction PALING tepat berfungsi sebagai bank yang...",
+      "options": [
+        "Mengeluarkan anggaran dasar perusahaan",
+        "Membeli atau memproses dokumen beneficiary sesuai syarat tertentu",
+        "Membuat settlement RTGS",
+        "Mengelola rekening giro applicant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Negotiating bank memproses atau membeli dokumen beneficiary dalam LC transaction.",
+      "topic": "Trade Service & Trade Finance",
+      "subtopic": "Negotiating Bank",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "negotiating bank",
+        "LC",
+        "beneficiary document",
+        "trade finance",
+        "negotiation",
+        "documentary credit"
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Dual control PALING tepat dipahami sebagai mekanisme yang mensyaratkan...",
+      "options": [
+        "Satu pihak memiliki seluruh akses",
+        "Minimal dua pihak terlibat dalam proses kritikal tertentu",
+        "Seluruh approval dilakukan otomatis",
+        "Tidak diperlukan audit trail"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dual control digunakan untuk memperkuat kontrol pada aktivitas kritikal.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Dual Control Concept",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "dual control",
+        "internal control",
+        "authorization",
+        "critical process",
+        "fraud prevention",
+        "segregation"
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Contra account PALING tepat dipahami sebagai akun yang...",
+      "options": [
+        "Menambah saldo akun utama",
+        "Mengurangi atau meng-offset akun terkait",
+        "Selalu berupa akun kas",
+        "Tidak muncul dalam laporan keuangan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Contra account digunakan untuk mengurangi nilai akun terkait.",
+      "topic": "Mengelola Akuntansi",
+      "subtopic": "Contra Account Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "contra account",
+        "allowance",
+        "offset account",
+        "financial reporting",
+        "accounting",
+        "balance sheet"
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Beneficial owner suatu perusahaan TIDAK selalu tercantum sebagai...",
+      "options": [
+        "Pihak yang menikmati manfaat ekonomi akhir",
+        "Pihak dengan pengendalian signifikan",
+        "Direktur yang tercatat secara administratif",
+        "Pihak yang relevan dalam AML review"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Beneficial owner bisa berbeda dengan direktur administratif yang tercatat.",
+      "topic": "Aspek-Aspek Hukum",
+      "subtopic": "Beneficial Ownership Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "beneficial owner",
+        "director",
+        "ownership",
+        "AML",
+        "corporate structure",
+        "control"
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Source of fund verification PALING tepat bertujuan untuk memahami...",
+      "options": [
+        "Jenis kartu ATM nasabah",
+        "Asal-usul dana yang digunakan dalam transaksi",
+        "Nomor token mobile banking",
+        "Kapasitas server bank"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Source of fund verification memastikan asal dana dapat dijelaskan secara wajar.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Source of Fund Concept",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "source of fund",
+        "AML",
+        "transaction verification",
+        "fund origin",
+        "compliance",
+        "CDD"
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Same day value transfer PALING tepat menggambarkan bahwa...",
+      "options": [
+        "Settlement diharapkan selesai pada hari yang sama",
+        "Transfer selalu bebas biaya",
+        "Transfer tidak memerlukan SWIFT",
+        "Beneficiary pasti langsung menarik dana"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Same day value mengacu pada target value date settlement pada hari yang sama.",
+      "topic": "Transaksi Tunai & Non Tunai",
+      "subtopic": "Same Day Value",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "same day value",
+        "settlement",
+        "value date",
+        "cross border transfer",
+        "payment",
+        "SWIFT"
+      ]
+    },
+    {
+      "id": 43,
+      "question": "Currency depreciation PALING tepat berarti bahwa mata uang...",
+      "options": [
+        "Mengalami penguatan relatif",
+        "Mengalami pelemahan relatif terhadap mata uang lain",
+        "Tidak memiliki nilai tukar",
+        "Tidak dapat diperdagangkan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Depreciation berarti penurunan nilai relatif suatu mata uang.",
+      "topic": "Valuta Asing",
+      "subtopic": "Currency Depreciation",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "currency depreciation",
+        "exchange rate",
+        "FX market",
+        "currency weakening",
+        "treasury",
+        "valuation"
+      ]
+    },
+    {
+      "id": 44,
+      "question": "Malware banking trojan PALING sering bertujuan untuk...",
+      "options": [
+        "Mengoptimalkan performa perangkat",
+        "Mencuri credential dan akses transaksi keuangan",
+        "Mengurangi penggunaan bandwidth",
+        "Mempercepat settlement transaction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Banking trojan umumnya dirancang untuk mencuri credential dan data finansial.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Banking Trojan",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "banking trojan",
+        "malware",
+        "credential theft",
+        "cyber fraud",
+        "internet banking",
+        "security"
+      ]
+    },
+    {
+      "id": 45,
+      "question": "Host-to-host banking integration PALING tepat dipahami sebagai...",
+      "options": [
+        "Integrasi sistem perusahaan langsung dengan sistem bank",
+        "Pembuatan kartu ATM otomatis",
+        "Pembukaan rekening tanpa KYC",
+        "Transfer tunai antar cabang"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Host-to-host memungkinkan integrasi sistem corporate dengan sistem bank secara langsung.",
+      "topic": "Informasi Produk dan Jasa",
+      "subtopic": "Host to Host Concept",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "host to host",
+        "API integration",
+        "corporate banking",
+        "system integration",
+        "cash management",
+        "automation"
+      ]
+    },
+    {
+      "id": 46,
+      "question": "Settlement pending pada transaksi kartu TIDAK otomatis berarti bahwa...",
+      "options": [
+        "Transaksi masih dalam proses",
+        "Dana belum final settled",
+        "Transaksi pasti fraud",
+        "Merchant belum menyelesaikan proses tertentu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pending settlement tidak otomatis menunjukkan fraud.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Pending Settlement Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "pending settlement",
+        "card transaction",
+        "fraud misconception",
+        "merchant settlement",
+        "authorization",
+        "payment processing"
+      ]
+    },
+    {
+      "id": 47,
+      "question": "Standby LC PALING sering dibandingkan dengan bank guarantee karena keduanya berfungsi utama sebagai...",
+      "options": [
+        "Instrumen mitigasi risiko kegagalan kewajiban",
+        "Instrumen investasi treasury",
+        "Metode pembukaan rekening",
+        "Pengganti settlement RTGS"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Standby LC dan bank guarantee sama-sama berfungsi sebagai mitigasi risiko default.",
+      "topic": "Trade Service & Trade Finance",
+      "subtopic": "Standby LC Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "standby LC",
+        "bank guarantee",
+        "default risk",
+        "trade finance",
+        "guarantee",
+        "risk mitigation"
+      ]
+    },
+    {
+      "id": 48,
+      "question": "Least privilege principle dalam keamanan sistem PALING tepat berarti bahwa...",
+      "options": [
+        "Seluruh user memiliki akses penuh",
+        "User hanya diberi akses minimum yang diperlukan",
+        "Tidak diperlukan monitoring access",
+        "Admin memiliki akses tanpa batas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Least privilege bertujuan membatasi akses sesuai kebutuhan minimum.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Least Privilege Principle",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "least privilege",
+        "access control",
+        "security principle",
+        "authorization",
+        "cyber security",
+        "internal control"
+      ]
+    },
+    {
+      "id": 49,
+      "question": "Allowance for doubtful accounts PALING tepat dikategorikan sebagai...",
+      "options": [
+        "Pendapatan",
+        "Kontra asset",
+        "Expense dibayar dimuka",
+        "Kas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Allowance for doubtful accounts merupakan contra asset terhadap piutang.",
+      "topic": "Mengelola Akuntansi",
+      "subtopic": "Allowance Account Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "allowance",
+        "doubtful account",
+        "contra asset",
+        "receivable",
+        "financial reporting",
+        "accounting"
+      ]
+    },
+    {
+      "id": 50,
+      "question": "Nominee shareholder structure PALING sering menjadi perhatian compliance karena...",
+      "options": [
+        "Selalu ilegal",
+        "Dapat menyulitkan identifikasi beneficial owner sebenarnya",
+        "Membuat perusahaan otomatis untung",
+        "Menghapus kebutuhan KYC"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nominee structure dapat menyamarkan pihak pengendali atau pemilik manfaat sebenarnya.",
+      "topic": "Aspek-Aspek Hukum",
+      "subtopic": "Nominee Structure Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "nominee shareholder",
+        "beneficial owner",
+        "AML",
+        "ownership transparency",
+        "compliance",
+        "corporate structure"
+      ]
+    },
+     {
+      "id": 51,
+      "question": "Seorang nasabah korporasi memiliki rekening atas nama perusahaan, namun seluruh keputusan transaksi praktis dikendalikan oleh pihak lain yang tidak tercantum dalam struktur resmi perusahaan. Dalam konteks AML, pihak tersebut PALING mungkin dikategorikan sebagai...",
+      "options": [
+        "Authorized signer",
+        "Beneficial owner atau controlling party",
+        "Maker transaksi",
+        "Correspondent institution"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pihak yang memiliki kendali atau manfaat ekonomi aktual dapat dikategorikan sebagai beneficial owner meskipun tidak tercatat formal.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Controlling Party Trap",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "beneficial owner",
+        "controlling party",
+        "AML",
+        "corporate control",
+        "KYC",
+        "ownership"
+      ]
+    },
+    {
+      "id": 52,
+      "question": "Pada transfer internasional, value date PALING tepat menggambarkan...",
+      "options": [
+        "Tanggal pembukaan rekening beneficiary",
+        "Tanggal efektif dana tersedia sesuai settlement",
+        "Tanggal penerbitan kartu ATM",
+        "Tanggal approval limit kredit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Value date merupakan tanggal efektif settlement atau ketersediaan dana.",
+      "topic": "Transaksi Tunai & Non Tunai",
+      "subtopic": "Value Date Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "value date",
+        "settlement",
+        "fund availability",
+        "cross border transfer",
+        "payment",
+        "banking operation"
+      ]
+    },
+    {
+      "id": 53,
+      "question": "Dalam transaksi valas, natural hedging PALING tepat terjadi ketika perusahaan...",
+      "options": [
+        "Menggunakan derivatif kompleks",
+        "Memiliki arus kas masuk dan keluar dalam mata uang yang sama",
+        "Menghapus seluruh transaksi valas",
+        "Mengunci kurs melalui central bank"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Natural hedging terjadi ketika eksposur saling meng-offset secara alami.",
+      "topic": "Valuta Asing",
+      "subtopic": "Natural Hedge Concept",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "natural hedge",
+        "currency exposure",
+        "cash flow",
+        "FX risk",
+        "treasury",
+        "hedging"
+      ]
+    },
+    {
+      "id": 54,
+      "question": "Credential stuffing attack PALING sering berhasil karena...",
+      "options": [
+        "Bank tidak memiliki core banking",
+        "Pengguna menggunakan password yang sama di banyak layanan",
+        "Seluruh OTP dapat ditebak otomatis",
+        "Settlement internasional gagal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Credential stuffing memanfaatkan reuse password dari data breach lain.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Credential Stuffing",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "credential stuffing",
+        "password reuse",
+        "cyber security",
+        "authentication",
+        "data breach",
+        "fraud"
+      ]
+    },
+    {
+      "id": 55,
+      "question": "Collection account PALING sering digunakan perusahaan untuk...",
+      "options": [
+        "Menerima dana pembayaran dari customer",
+        "Menyimpan kas pribadi direksi",
+        "Menghapus kewajiban rekonsiliasi",
+        "Melakukan hedging treasury"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Collection account digunakan untuk menerima pembayaran customer sebelum proses reconciliation.",
+      "topic": "Informasi Produk dan Jasa",
+      "subtopic": "Collection Account Concept",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "collection account",
+        "customer payment",
+        "cash management",
+        "reconciliation",
+        "corporate banking",
+        "payment"
+      ]
+    },
+    {
+      "id": 56,
+      "question": "Dalam dispute kartu, presentment PALING tepat diartikan sebagai...",
+      "options": [
+        "Penghapusan transaksi oleh merchant",
+        "Pengajuan transaksi oleh merchant ke payment network untuk settlement",
+        "Pembukaan rekening baru",
+        "Penerbitan PIN kartu"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Presentment merupakan proses merchant mengirim transaksi untuk settlement.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Presentment Trap",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "presentment",
+        "settlement",
+        "merchant",
+        "payment network",
+        "card transaction",
+        "authorization"
+      ]
+    },
+    {
+      "id": 57,
+      "question": "Sight LC PALING sering disalahartikan sebagai pembayaran instan, padahal yang dimaksud sight adalah...",
+      "options": [
+        "Pembayaran berdasarkan dokumen yang comply saat diperlihatkan",
+        "Transfer dana real time tanpa dokumen",
+        "Settlement otomatis melalui RTGS",
+        "Pembayaran tanpa verifikasi bank"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sight LC berarti pembayaran dilakukan saat dokumen comply dipresentasikan.",
+      "topic": "Trade Service & Trade Finance",
+      "subtopic": "Sight LC Trap",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "sight LC",
+        "complying document",
+        "trade finance",
+        "payment",
+        "document presentation",
+        "LC"
+      ]
+    },
+    {
+      "id": 58,
+      "question": "Failover system dalam operasional perbankan PALING tepat bertujuan untuk...",
+      "options": [
+        "Menghapus kebutuhan backup",
+        "Menjaga kesinambungan layanan ketika sistem utama gagal",
+        "Mengurangi kebutuhan audit",
+        "Menghapus approval maker-checker"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Failover digunakan untuk memastikan business continuity ketika sistem utama bermasalah.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Failover Concept",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "failover",
+        "business continuity",
+        "backup system",
+        "availability",
+        "operational resilience",
+        "IT control"
+      ]
+    },
+    {
+      "id": 59,
+      "question": "Depreciation expense PALING tepat mencerminkan...",
+      "options": [
+        "Penurunan kas perusahaan",
+        "Alokasi biaya aset tetap selama masa manfaatnya",
+        "Penurunan saldo rekening giro",
+        "Kenaikan liabilitas jangka pendek"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Depreciation merupakan alokasi biaya aset tetap selama masa manfaat.",
+      "topic": "Mengelola Akuntansi",
+      "subtopic": "Depreciation Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "depreciation",
+        "fixed asset",
+        "expense allocation",
+        "accounting",
+        "financial reporting",
+        "asset useful life"
+      ]
+    },
+    {
+      "id": 60,
+      "question": "Ultimate beneficial owner PALING tepat mengacu pada pihak yang...",
+      "options": [
+        "Menjadi customer service perusahaan",
+        "Memiliki manfaat ekonomi atau kontrol akhir atas entitas",
+        "Menerbitkan kartu ATM",
+        "Mengelola settlement RTGS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ultimate beneficial owner adalah pihak pengendali/manfaat ekonomi akhir sebenarnya.",
+      "topic": "Aspek-Aspek Hukum",
+      "subtopic": "UBO Concept",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "UBO",
+        "beneficial owner",
+        "ownership",
+        "control",
+        "AML",
+        "corporate structure"
+      ]
+    },
+    {
+      "id": 61,
+      "question": "Dormant account PALING tepat menggambarkan rekening yang...",
+      "options": [
+        "Ditutup permanen",
+        "Tidak aktif bertransaksi dalam periode tertentu",
+        "Memiliki saldo nol",
+        "Tidak memiliki ATM"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dormant account adalah rekening yang tidak aktif selama periode tertentu.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Dormant Account Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "dormant account",
+        "inactive account",
+        "banking operation",
+        "account status",
+        "customer account",
+        "monitoring"
+      ]
+    },
+    {
+      "id": 62,
+      "question": "Nostro account PALING sering dikaitkan dengan...",
+      "options": [
+        "Rekening bank pada bank lain dalam mata uang asing",
+        "Rekening payroll nasabah",
+        "Escrow account proyek",
+        "Deposito berjangka"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nostro account adalah rekening bank pada bank lain di luar negeri dalam mata uang tertentu.",
+      "topic": "Transaksi Tunai & Non Tunai",
+      "subtopic": "Nostro Account Concept",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "nostro account",
+        "correspondent banking",
+        "foreign currency",
+        "settlement",
+        "cross border",
+        "banking"
+      ]
+    },
+    {
+      "id": 63,
+      "question": "Forward contract dalam transaksi valas PALING tepat digunakan untuk...",
+      "options": [
+        "Menghapus seluruh kewajiban transaksi",
+        "Mengunci kurs untuk transaksi di masa depan",
+        "Menghasilkan bunga deposito",
+        "Mengurangi biaya audit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Forward contract digunakan untuk mengunci nilai tukar pada masa depan.",
+      "topic": "Valuta Asing",
+      "subtopic": "Forward Contract Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "forward contract",
+        "FX hedging",
+        "exchange rate",
+        "future settlement",
+        "treasury",
+        "currency risk"
+      ]
+    },
+    {
+      "id": 64,
+      "question": "Man-in-the-middle attack PALING tepat menggambarkan kondisi ketika pelaku...",
+      "options": [
+        "Menghapus rekening bank korban",
+        "Menyisip di antara komunikasi dua pihak untuk mencuri atau memodifikasi data",
+        "Mengubah kurs mata uang global",
+        "Menghapus settlement SWIFT"
+      ],
+      "correctAnswer": 1,
+      "explanation": "MITM attack terjadi ketika pelaku memposisikan diri di tengah komunikasi korban.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "MITM Attack",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "MITM",
+        "man in the middle",
+        "cyber attack",
+        "data interception",
+        "security",
+        "credential theft"
+      ]
+    },
+    {
+      "id": 65,
+      "question": "Liquidity management dalam cash management service PALING tepat bertujuan untuk...",
+      "options": [
+        "Menghapus seluruh rekening perusahaan",
+        "Mengoptimalkan ketersediaan dana perusahaan",
+        "Mengurangi kebutuhan reconciliation",
+        "Menghapus settlement transfer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Liquidity management membantu optimalisasi penggunaan dan ketersediaan dana.",
+      "topic": "Informasi Produk dan Jasa",
+      "subtopic": "Liquidity Management Concept",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "liquidity management",
+        "cash management",
+        "cash flow",
+        "corporate banking",
+        "fund optimization",
+        "treasury"
+      ]
+    },
+    {
+      "id": 66,
+      "question": "Retrieval request pada dispute kartu PALING tepat berarti...",
+      "options": [
+        "Permintaan penghapusan rekening",
+        "Permintaan dokumen/detail transaksi sebelum chargeback formal",
+        "Penerbitan kartu baru",
+        "Settlement dana otomatis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Retrieval request digunakan untuk meminta detail transaksi sebelum dispute lebih lanjut.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Retrieval Request",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "retrieval request",
+        "chargeback",
+        "card dispute",
+        "transaction detail",
+        "payment network",
+        "merchant"
+      ]
+    },
+    {
+      "id": 67,
+      "question": "Usance LC PALING tepat menggambarkan LC dengan pembayaran...",
+      "options": [
+        "Dilakukan setelah jangka waktu tertentu",
+        "Selalu dilakukan tunai saat itu juga",
+        "Tanpa document checking",
+        "Melalui ATM"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Usance LC memiliki tenor atau jangka waktu pembayaran tertentu.",
+      "topic": "Trade Service & Trade Finance",
+      "subtopic": "Usance LC Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "usance LC",
+        "tenor payment",
+        "trade finance",
+        "deferred payment",
+        "LC",
+        "settlement"
+      ]
+    },
+    {
+      "id": 68,
+      "question": "Disaster recovery site PALING tepat digunakan untuk...",
+      "options": [
+        "Menyimpan kartu ATM nasabah",
+        "Menjalankan operasional ketika site utama mengalami gangguan besar",
+        "Menghapus audit trail",
+        "Mengurangi kebutuhan approval transaksi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Disaster recovery site digunakan menjaga operasional saat terjadi gangguan besar.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Disaster Recovery Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "disaster recovery",
+        "business continuity",
+        "backup site",
+        "operational resilience",
+        "IT recovery",
+        "banking system"
+      ]
+    },
+    {
+      "id": 69,
+      "question": "Write-off piutang PALING tepat berarti bahwa perusahaan...",
+      "options": [
+        "Menghapus kewajiban pajak",
+        "Menghapus piutang yang dianggap tidak tertagih",
+        "Meningkatkan kas perusahaan",
+        "Mengurangi modal saham"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Write-off dilakukan ketika piutang dianggap tidak dapat ditagih lagi.",
+      "topic": "Mengelola Akuntansi",
+      "subtopic": "Write Off Trap",
+      "difficulty": "Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "write-off",
+        "bad debt",
+        "receivable",
+        "accounting",
+        "financial reporting",
+        "allowance"
+      ]
+    },
+    {
+      "id": 70,
+      "question": "Trustee arrangement PALING sering menjadi perhatian compliance karena...",
+      "options": [
+        "Selalu dilarang hukum",
+        "Dapat menyulitkan identifikasi pihak pengendali sebenarnya",
+        "Menghapus kebutuhan rekening bank",
+        "Membuat perusahaan otomatis bebas pajak"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Trustee arrangement dapat menciptakan kompleksitas ownership dan transparency issue.",
+      "topic": "Aspek-Aspek Hukum",
+      "subtopic": "Trustee Arrangement Trap",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "trustee arrangement",
+        "beneficial ownership",
+        "AML",
+        "ownership transparency",
+        "compliance",
+        "legal structure"
+      ]
+    }
+  ]
+}
