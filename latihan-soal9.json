@@ -15,7 +15,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "Beneficial Owner Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "beneficial owner",
         "authorized signer",
@@ -39,7 +39,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "Settlement Misconception",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "settlement",
         "beneficiary",
@@ -63,7 +63,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Long Position Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "long position",
         "USD exposure",
@@ -87,7 +87,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "Authentication Factor",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "OTP",
         "authentication",
@@ -111,7 +111,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Virtual Account Concept",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "virtual account",
         "master account",
@@ -135,7 +135,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "Reversal vs Refund",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "reversal",
         "refund",
@@ -159,7 +159,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "Discrepancy Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "discrepancy",
         "LC",
@@ -183,7 +183,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "Maker Checker Control",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "maker checker",
         "segregation of duties",
@@ -207,7 +207,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "Prepaid Expense Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "prepaid expense",
         "asset",
@@ -231,7 +231,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Shareholder Authority Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "shareholder",
         "account authority",
@@ -255,7 +255,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "CDD Misconception",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "CDD",
         "customer due diligence",
@@ -279,7 +279,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "Beneficiary Bank Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "beneficiary bank",
         "correspondent bank",
@@ -303,7 +303,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Hedging Purpose Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "hedging",
         "FX risk",
@@ -327,7 +327,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "Authentication Knowledge Factor",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "PIN",
         "authentication",
@@ -351,7 +351,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Auto Debit Concept",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "auto debit",
         "authorization",
@@ -375,7 +375,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "Chargeback Concept",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "chargeback",
         "dispute",
@@ -399,7 +399,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "Advising Bank Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "advising bank",
         "LC",
@@ -423,7 +423,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "Audit Trail Function",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "audit trail",
         "traceability",
@@ -447,7 +447,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "Accrued Expense Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "accrued expense",
         "accounts payable",
@@ -471,7 +471,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Power of Attorney Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "power of attorney",
         "account authority",
@@ -495,7 +495,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "EDD Application",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "EDD",
         "risk based approach",
@@ -519,7 +519,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "Clearing vs Settlement",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "clearing",
         "settlement",
@@ -543,7 +543,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Short Position Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "short position",
         "EUR exposure",
@@ -567,7 +567,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "Phishing Misconception",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "phishing",
         "social engineering",
@@ -591,7 +591,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Escrow Concept Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "escrow",
         "conditional fund",
@@ -615,7 +615,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "Authorization vs Settlement",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "authorization",
         "settlement",
@@ -639,7 +639,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "Applicant Definition Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "applicant",
         "LC",
@@ -663,7 +663,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "Segregation Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "segregation of duties",
         "fraud prevention",
@@ -687,7 +687,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "Unearned Revenue Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "unearned revenue",
         "liability",
@@ -711,7 +711,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Director Authority Limitation",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "director authority",
         "articles of association",
@@ -735,7 +735,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "Suspicious Transaction Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "suspicious transaction",
         "AML",
@@ -759,7 +759,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "MT103 Concept",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "MT103",
         "SWIFT",
@@ -783,7 +783,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Currency Appreciation",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "currency appreciation",
         "exchange rate",
@@ -807,7 +807,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "Social Engineering Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "social engineering",
         "cyber fraud",
@@ -831,7 +831,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Cash Management Scope",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "cash management",
         "liquidity",
@@ -855,7 +855,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "Partial Reversal",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "partial reversal",
         "card transaction",
@@ -879,7 +879,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "Negotiating Bank",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "negotiating bank",
         "LC",
@@ -903,7 +903,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "Dual Control Concept",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "dual control",
         "internal control",
@@ -927,7 +927,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "Contra Account Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "contra account",
         "allowance",
@@ -951,7 +951,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Beneficial Ownership Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "beneficial owner",
         "director",
@@ -975,7 +975,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "Source of Fund Concept",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "source of fund",
         "AML",
@@ -999,7 +999,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "Same Day Value",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "same day value",
         "settlement",
@@ -1023,7 +1023,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Currency Depreciation",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "currency depreciation",
         "exchange rate",
@@ -1047,7 +1047,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "Banking Trojan",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "banking trojan",
         "malware",
@@ -1071,7 +1071,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Host to Host Concept",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "host to host",
         "API integration",
@@ -1095,7 +1095,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "Pending Settlement Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "pending settlement",
         "card transaction",
@@ -1119,7 +1119,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "Standby LC Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "standby LC",
         "bank guarantee",
@@ -1143,7 +1143,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "Least Privilege Principle",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "least privilege",
         "access control",
@@ -1167,7 +1167,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "Allowance Account Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "allowance",
         "doubtful account",
@@ -1191,7 +1191,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Nominee Structure Trap",
       "difficulty": "Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "nominee shareholder",
         "beneficial owner",
