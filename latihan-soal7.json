@@ -15,7 +15,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "Fund Segregation Risk",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "aggregator",
         "fund segregation",
@@ -39,7 +39,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "Recurring Transfer Routing",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "IBAN",
         "routing",
@@ -63,7 +63,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Safe Haven Currency Risk",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "CHF",
         "safe haven",
@@ -87,7 +87,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "Refund Scam",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "refund scam",
         "screen recorder",
@@ -111,7 +111,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Automated VA Creation",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "virtual account",
         "API integration",
@@ -135,7 +135,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "Fraud Screening Decline",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "fraud screening",
         "credit card",
@@ -159,7 +159,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "Transshipment Clause",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "transshipment",
         "LC",
@@ -183,7 +183,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "Emergency Bypass Control",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "emergency bypass",
         "governance",
@@ -207,7 +207,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "Transaction Cashback",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "cashback",
         "expense reduction",
@@ -231,7 +231,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Shared Operational Account",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "shared account",
         "affiliate company",
@@ -255,7 +255,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "Crowdfunding Escrow",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "crowdfunding",
         "escrow",
@@ -279,7 +279,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "Legal Entity Change",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "legal entity",
         "merger",
@@ -303,7 +303,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Interest Rate Shock",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "NZD",
         "short position",
@@ -327,7 +327,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "Caller ID Spoofing",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "caller ID spoofing",
         "OTP",
@@ -351,7 +351,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Loan Collection Reconciliation",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "reconciliation engine",
         "borrower payment",
@@ -375,7 +375,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "Contactless Duplicate Posting",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "contactless",
         "duplicate transaction",
@@ -399,7 +399,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "Clean Collection",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "clean collection",
         "documentary collection",
@@ -423,7 +423,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "Security Monitoring",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "security monitoring",
         "alert review",
@@ -447,7 +447,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "Refundable Deposit",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "deposit refund",
         "asset reduction",
@@ -471,7 +471,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Trade Name Validation",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "trade name",
         "legal entity",
@@ -495,7 +495,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "Abnormal Refund Pattern",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "refund pattern",
         "cross border",
@@ -519,7 +519,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "FX Control Restriction",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "foreign exchange control",
         "cross border transfer",
@@ -543,7 +543,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Sovereign Downgrade Risk",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "MXN",
         "sovereign downgrade",
@@ -567,7 +567,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "QR Scam",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "QR scam",
         "refund fraud",
@@ -591,7 +591,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Integrated Billing API",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "billing API",
         "auto debit",
@@ -615,7 +615,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "Switching Network Delay",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "switching network",
         "e-wallet",
@@ -639,7 +639,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "Red Clause LC",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "red clause LC",
         "advance payment",
@@ -663,7 +663,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "Unauthorized System Change",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "change management",
         "system parameter",
@@ -687,7 +687,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "Early Payment Discount",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "discount",
         "expense recognition",
@@ -711,7 +711,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Escrow Approval Authority",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "escrow",
         "approval authority",
@@ -735,7 +735,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "Pass Through Transaction",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "pass through transaction",
         "layering",
@@ -759,7 +759,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "Alias Name Validation",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "alias name",
         "legal entity",
@@ -783,7 +783,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Hyperinflation Currency Risk",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "TRY",
         "inflation",
@@ -807,7 +807,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "Business Email Compromise",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "BEC",
         "vendor payment fraud",
@@ -831,7 +831,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Instant Payout",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "instant payout",
         "real time disbursement",
@@ -855,7 +855,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "Tokenized Recurring Payment",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "tokenized payment",
         "recurring subscription",
@@ -879,7 +879,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "Transferable LC",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "transferable LC",
         "beneficiary",
@@ -903,7 +903,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "Patch Management",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "patch management",
         "cyber security",
@@ -927,7 +927,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "Service Credit",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "service credit",
         "expense reduction",
@@ -951,7 +951,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Nominee Purchaser",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "nominee",
         "beneficial owner",
@@ -975,7 +975,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "Rapid Fund Movement",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "rapid movement",
         "crypto gateway",
@@ -999,7 +999,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "Core Banking Migration Delay",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "core banking migration",
         "SWIFT MT",
@@ -1023,7 +1023,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Capital Flight Exposure",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "ZAR",
         "capital flight",
@@ -1047,7 +1047,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "Invoice Phishing",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "invoice phishing",
         "malicious link",
@@ -1071,7 +1071,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Smart Collection Engine",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "recurring collection",
         "retry payment",
@@ -1095,7 +1095,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "Cross Border FX Conversion",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "cross-border QR",
         "FX conversion",
@@ -1119,7 +1119,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "Back to Back LC",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "back to back LC",
         "supplier",
@@ -1143,7 +1143,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "Privileged Access Control",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "privileged access",
         "password rotation",
@@ -1167,7 +1167,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "Tax Restitution",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "tax restitution",
         "cash inflow",
@@ -1191,7 +1191,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Secrecy Jurisdiction Structure",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "nominee shareholder",
         "secrecy jurisdiction",
