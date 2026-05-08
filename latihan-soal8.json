@@ -15,7 +15,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "Customer Fund Segregation",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "segregation",
         "customer fund",
@@ -39,7 +39,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "Virtual IBAN Migration",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "virtual IBAN",
         "routing",
@@ -63,7 +63,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Commodity Currency Exposure",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "NOK",
         "commodity currency",
@@ -87,7 +87,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "APK Malware Scam",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "APK malware",
         "mobile banking",
@@ -111,7 +111,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Split Payment Engine",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "split payment",
         "marketplace",
@@ -135,7 +135,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "Account Updater Service",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "account updater",
         "tokenized recurring",
@@ -159,7 +159,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "Charter Party BL",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "charter party",
         "bill of lading",
@@ -183,7 +183,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "Fraud Alert Governance",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "fraud monitoring",
         "critical alert",
@@ -207,7 +207,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "Service Downtime Compensation",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "downtime compensation",
         "expense reduction",
@@ -231,7 +231,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Escrow Audit Trail",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "escrow",
         "audit trail",
@@ -255,7 +255,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "Generic Transaction Narrative",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "transaction narrative",
         "source of fund",
@@ -279,7 +279,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "Sanction Liquidity Restriction",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "sanction",
         "liquidity restriction",
@@ -303,7 +303,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Domestic Currency Pressure",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "PLN",
         "inflation",
@@ -327,7 +327,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "Video Call Social Engineering",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "social engineering",
         "CVV",
@@ -351,7 +351,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Realtime Reconciliation",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "real-time reconciliation",
         "invoice matching",
@@ -375,7 +375,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "ATM Cash Dispense Error",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "ATM dispute",
         "cash dispense error",
@@ -399,7 +399,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "UPAS LC",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "UPAS LC",
         "usance payable at sight",
@@ -423,7 +423,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "API Credential Security",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "API credential",
         "plain text",
@@ -447,7 +447,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "Marketing Expense Recovery",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "reimbursement",
         "marketing expense",
@@ -471,7 +471,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Nominee Director Structure",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "nominee director",
         "beneficial ownership",
@@ -495,7 +495,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "Mule Account Detection",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "mule account",
         "mass payout",
@@ -519,7 +519,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "SWIFT Outage Handling",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "SWIFT outage",
         "settlement queue",
@@ -543,7 +543,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Dovish Monetary Policy Risk",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "HUF",
         "dovish policy",
@@ -567,7 +567,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "Payroll Credential Phishing",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "credential phishing",
         "payroll scam",
@@ -591,7 +591,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Multi Currency Billing",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "multi-currency billing",
         "recurring collection",
@@ -615,7 +615,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "Prepaid Card Synchronization",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "prepaid card",
         "synchronization failure",
@@ -639,7 +639,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "Deferred Payment LC",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "deferred payment LC",
         "usance draft",
@@ -663,7 +663,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "Static API Token Risk",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "API token",
         "credential compromise",
@@ -687,7 +687,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "SLA Compensation",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "SLA compensation",
         "service quota",
@@ -711,7 +711,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Third Party Approval Authority",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "escrow",
         "approval authority",
@@ -735,7 +735,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "Refund Structuring Pattern",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "refund fraud",
         "structuring",
@@ -759,7 +759,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "Nested Correspondent Banking",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "nested correspondent",
         "settlement routing",
@@ -783,7 +783,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Commodity Export Currency Risk",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "CLP",
         "commodity export",
@@ -807,7 +807,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "Vendor Diversion Fraud",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "vendor diversion",
         "email compromise",
@@ -831,7 +831,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Insurance Collection Platform",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "recurring collection",
         "insurance premium",
@@ -855,7 +855,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "Card Reversal Settlement",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "reversal",
         "card network",
@@ -879,7 +879,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "Avalisation",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "avalisation",
         "bill of exchange",
@@ -903,7 +903,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "Idempotency Control",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "idempotency",
         "duplicate settlement",
@@ -927,7 +927,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "Legal Cost Recovery",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "reimbursement",
         "legal expense",
@@ -951,7 +951,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Trust Beneficiary Validation",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "trust arrangement",
         "economic beneficiary",
@@ -975,7 +975,7 @@
       "topic": "Pembukaan Rekening",
       "subtopic": "Creator Economy Payout Risk",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "creator economy",
         "mass payout",
@@ -999,7 +999,7 @@
       "topic": "Transaksi Tunai & Non Tunai",
       "subtopic": "Offshore Clearing Route",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "offshore clearing",
         "intermediary bank",
@@ -1023,7 +1023,7 @@
       "topic": "Valuta Asing",
       "subtopic": "Political Sovereign Risk",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "COP",
         "political instability",
@@ -1047,7 +1047,7 @@
       "topic": "Edukasi Nasabah",
       "subtopic": "SSO Phishing",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "SSO phishing",
         "corporate banking",
@@ -1071,7 +1071,7 @@
       "topic": "Informasi Produk dan Jasa",
       "subtopic": "Hierarchical Payroll Approval",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "payroll disbursement",
         "hierarchical approval",
@@ -1095,7 +1095,7 @@
       "topic": "Pengaduan Nasabah",
       "subtopic": "High Risk Industry Review",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "high-risk industry",
         "underlying verification",
@@ -1119,7 +1119,7 @@
       "topic": "Trade Service & Trade Finance",
       "subtopic": "Silent Confirmation",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "silent confirmation",
         "LC",
@@ -1143,7 +1143,7 @@
       "topic": "Administrasi Perbankan",
       "subtopic": "Privileged Automation Risk",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "super admin",
         "automation script",
@@ -1167,7 +1167,7 @@
       "topic": "Mengelola Akuntansi",
       "subtopic": "Implementation Cost Recovery",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "implementation expense",
         "cost recovery",
@@ -1191,7 +1191,7 @@
       "topic": "Aspek-Aspek Hukum",
       "subtopic": "Layered Ownership Structure",
       "difficulty": "Very Hard",
-      "requiresReasoning": true,
+      "requiresReasoning": false,
       "reasoningKeywords": [
         "layered ownership",
         "controlling entity",
