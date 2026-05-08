@@ -1,0 +1,1685 @@
+{
+  "quizTitle": "Latihan Soal 7 [Materi BRIDGE]",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Calon nasabah perusahaan mengajukan pembukaan rekening menggunakan business model aggregator payment, namun perusahaan belum dapat menjelaskan mekanisme pemisahan dana milik customer dan dana operasional perusahaan. Risiko utama yang perlu diperhatikan bank adalah...",
+      "options": [
+        "Keterlambatan settlement RTGS",
+        "Potensi commingling fund dan penyalahgunaan dana customer",
+        "Spread kurs treasury meningkat",
+        "Kegagalan penerbitan kartu debit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aggregator payment wajib memiliki pemisahan dana yang jelas untuk menghindari misuse dan risiko operasional.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Fund Segregation Risk",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "aggregator",
+        "fund segregation",
+        "commingling",
+        "customer fund",
+        "operational risk",
+        "KYC"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Nasabah melakukan transfer recurring otomatis ke vendor luar negeri. Pada salah satu jadwal, transfer gagal karena beneficiary bank mengganti format account identifier dari IBAN ke local account mapping tertentu. Tindakan yang PALING tepat adalah...",
+      "options": [
+        "Menghapus seluruh jadwal recurring transfer",
+        "Melakukan validasi ulang beneficiary instruction dan settlement routing",
+        "Mengirim ulang transfer menggunakan rekening acak",
+        "Mengubah mata uang transaksi menjadi USD otomatis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perubahan settlement instruction memerlukan validasi ulang beneficiary detail agar transfer berhasil.",
+      "topic": "Transaksi Tunai & Non Tunai",
+      "subtopic": "Recurring Transfer Routing",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "IBAN",
+        "routing",
+        "beneficiary validation",
+        "recurring transfer",
+        "settlement",
+        "cross border"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Treasury perusahaan memiliki posisi eksposur CHF yang cukup besar. Setelah terjadi safe haven rally global, nilai CHF menguat tajam terhadap mayoritas mata uang dunia. Dampak yang PALING mungkin terjadi bagi perusahaan importir adalah...",
+      "options": [
+        "Biaya kewajiban pembayaran CHF meningkat",
+        "Spread treasury otomatis hilang",
+        "Settlement domestik menjadi lebih cepat",
+        "Transaksi valas berubah menjadi spot only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Penguatan CHF meningkatkan biaya pembayaran bagi pihak yang memiliki kewajiban dalam CHF.",
+      "topic": "Valuta Asing",
+      "subtopic": "Safe Haven Currency Risk",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "CHF",
+        "safe haven",
+        "currency appreciation",
+        "importir",
+        "FX exposure",
+        "treasury"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Nasabah menerima pesan instan dari akun yang menggunakan logo resmi bank dan menawarkan proses percepatan refund transaksi gagal dengan syarat menginstal aplikasi screen recorder tertentu.",
+      "options": [
+        "Mengikuti instruksi agar refund diproses lebih cepat",
+        "Menolak instalasi aplikasi dan melakukan verifikasi melalui kanal resmi bank",
+        "Mengirim OTP terlebih dahulu untuk validasi refund",
+        "Membagikan PIN transaksi setelah screen recorder aktif"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aplikasi screen recorder dapat digunakan untuk mencuri credential dan aktivitas mobile banking.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Refund Scam",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "refund scam",
+        "screen recorder",
+        "credential theft",
+        "social engineering",
+        "OTP",
+        "mobile banking"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Perusahaan marketplace membutuhkan layanan rekening virtual yang dapat dibuat otomatis secara instan setiap kali seller baru bergabung ke platform.",
+      "options": [
+        "API-based virtual account generation",
+        "Trade LC advising",
+        "Deposito korporasi",
+        "Safe deposit box digital"
+      ],
+      "correctAnswer": 0,
+      "explanation": "API-based virtual account generation memungkinkan pembuatan VA otomatis secara scalable.",
+      "topic": "Informasi Produk dan Jasa",
+      "subtopic": "Automated VA Creation",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "virtual account",
+        "API integration",
+        "marketplace",
+        "seller onboarding",
+        "automation",
+        "corporate banking"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Nasabah mengeluhkan transaksi kartu kredit internasional decline meskipun limit masih tersedia. Setelah investigasi awal, ditemukan merchant acquiring melakukan enhanced fraud screening karena pola transaksi dianggap tidak biasa.",
+      "options": [
+        "Langsung menaikkan limit kartu kredit",
+        "Melakukan konfirmasi transaksi dan fraud verification kepada nasabah",
+        "Menghapus seluruh transaksi internasional nasabah",
+        "Menyarankan nasabah menutup kartu"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fraud screening dapat memblok transaksi tidak biasa sehingga perlu verification process.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Fraud Screening Decline",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "fraud screening",
+        "credit card",
+        "transaction verification",
+        "international transaction",
+        "acquiring",
+        "risk monitoring"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Dalam transaksi ekspor, transshipment clause dalam LC menjadi penting terutama untuk...",
+      "options": [
+        "Mengatur apakah barang boleh dipindahkan antar kapal selama pengiriman",
+        "Menentukan spread kurs treasury",
+        "Menghitung pajak impor otomatis",
+        "Menentukan biaya SKNBI"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Transshipment clause mengatur ketentuan perpindahan muatan antar moda/kapal pengiriman.",
+      "topic": "Trade Service & Trade Finance",
+      "subtopic": "Transshipment Clause",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "transshipment",
+        "LC",
+        "shipping",
+        "trade finance",
+        "cargo transfer",
+        "export"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Audit menemukan beberapa approval transaksi treasury dilakukan menggunakan emergency bypass mode selama berbulan-bulan tanpa dokumentasi incident management.",
+      "options": [
+        "Meningkatkan efisiensi transaksi treasury",
+        "Melemahkan governance dan kontrol operasional",
+        "Mengurangi risiko settlement error",
+        "Menghapus kebutuhan maker-checker"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Emergency bypass harus bersifat sementara dan terdokumentasi dengan baik.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Emergency Bypass Control",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "emergency bypass",
+        "governance",
+        "incident management",
+        "internal control",
+        "treasury",
+        "audit"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Perusahaan menerima cashback volume transaksi dari payment gateway pada akhir periode dan dana langsung masuk ke rekening operasional.",
+      "options": [
+        "Kas meningkat dan dapat mengurangi beban terkait transaksi",
+        "Liabilitas otomatis meningkat",
+        "Piutang usaha bertambah",
+        "Beban dibayar dimuka meningkat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cashback dapat dicatat sesuai substansi ekonomi sebagai pengurang beban atau pendapatan lain.",
+      "topic": "Mengelola Akuntansi",
+      "subtopic": "Transaction Cashback",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "cashback",
+        "expense reduction",
+        "cash inflow",
+        "financial reporting",
+        "payment gateway",
+        "accounting"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Perusahaan meminta penggunaan rekening operasional bersama dengan entitas afiliasi tanpa adanya perjanjian pembagian tanggung jawab yang jelas.",
+      "options": [
+        "Tetap menyetujui selama hubungan afiliasi valid",
+        "Memastikan dasar hukum dan tanggung jawab penggunaan rekening terdokumentasi jelas",
+        "Menghapus kebutuhan validasi afiliasi",
+        "Menggunakan rekening pribadi direktur sementara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Penggunaan rekening bersama antar entitas memerlukan dasar hukum dan pembagian kewajiban yang jelas.",
+      "topic": "Aspek-Aspek Hukum",
+      "subtopic": "Shared Operational Account",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "shared account",
+        "affiliate company",
+        "legal responsibility",
+        "operational account",
+        "compliance",
+        "documentation"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Perusahaan startup mengajukan pembukaan rekening escrow untuk menampung dana crowdfunding proyek teknologi, namun mekanisme release dana kepada project owner belum memiliki approval governance yang jelas.",
+      "options": [
+        "Tetap membuka escrow agar fundraising berjalan",
+        "Memastikan governance dan mekanisme release fund terdokumentasi jelas",
+        "Menghapus kewajiban escrow agreement",
+        "Menggunakan rekening tabungan biasa sebagai escrow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Escrow crowdfunding memerlukan governance dan mekanisme pelepasan dana yang jelas untuk mengurangi risiko dispute.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Crowdfunding Escrow",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "crowdfunding",
+        "escrow",
+        "governance",
+        "release fund",
+        "project owner",
+        "risk management"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Nasabah melakukan transfer valas dengan instruksi beneficiary company yang baru saja merger dan mengganti nama legal entity beberapa hari sebelumnya.",
+      "options": [
+        "Langsung mengirim transfer tanpa validasi tambahan",
+        "Melakukan konfirmasi ulang beneficiary identity dan supporting document",
+        "Menghapus SWIFT verification",
+        "Mengubah beneficiary menjadi rekening personal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perubahan legal entity dapat memengaruhi settlement validation dan compliance screening.",
+      "topic": "Transaksi Tunai & Non Tunai",
+      "subtopic": "Legal Entity Change",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "legal entity",
+        "merger",
+        "beneficiary validation",
+        "SWIFT",
+        "compliance",
+        "cross border transfer"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Treasury bank memiliki posisi short NZD ketika bank sentral Selandia Baru secara tak terduga menaikkan suku bunga secara agresif.",
+      "options": [
+        "Bank berpotensi mengalami kerugian akibat penguatan NZD",
+        "Spread pasar otomatis menurun",
+        "Settlement valas dibekukan",
+        "Posisi short tidak dipengaruhi perubahan suku bunga"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Kenaikan suku bunga dapat memperkuat mata uang sehingga merugikan posisi short.",
+      "topic": "Valuta Asing",
+      "subtopic": "Interest Rate Shock",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "NZD",
+        "short position",
+        "interest rate",
+        "currency appreciation",
+        "treasury",
+        "market risk"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Nasabah menerima telepon yang menggunakan caller ID menyerupai nomor resmi bank dan diminta melakukan verifikasi device binding mobile banking.",
+      "options": [
+        "Memberikan OTP agar device binding selesai",
+        "Melakukan verifikasi melalui kanal resmi sebelum memberikan informasi sensitif",
+        "Mengirim PIN transaksi kepada caller",
+        "Menonaktifkan seluruh keamanan perangkat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Caller ID spoofing sering digunakan dalam social engineering fraud.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Caller ID Spoofing",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "caller ID spoofing",
+        "OTP",
+        "device binding",
+        "social engineering",
+        "mobile banking",
+        "fraud"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Perusahaan fintech lending membutuhkan layanan untuk auto reconciliation pembayaran cicilan dari ribuan borrower setiap hari.",
+      "options": [
+        "Collection reconciliation engine",
+        "Safe deposit box corporate",
+        "Trade finance guarantee",
+        "Deposito multivalas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Collection reconciliation engine membantu matching pembayaran borrower secara otomatis.",
+      "topic": "Informasi Produk dan Jasa",
+      "subtopic": "Loan Collection Reconciliation",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "reconciliation engine",
+        "borrower payment",
+        "fintech lending",
+        "collection",
+        "automation",
+        "payment matching"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Nasabah mengeluhkan transaksi kartu debit contactless terdebet dua kali pada merchant transportasi karena proses tap ulang saat jaringan offline.",
+      "options": [
+        "Menghapus salah satu transaksi tanpa investigasi",
+        "Melakukan reconciliation authorization dan settlement transport merchant",
+        "Menyarankan nasabah mengganti kartu setiap transaksi",
+        "Menutup fitur contactless permanen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Duplicate contactless transaction perlu diverifikasi melalui authorization dan settlement log.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Contactless Duplicate Posting",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "contactless",
+        "duplicate transaction",
+        "authorization",
+        "settlement",
+        "merchant transport",
+        "reconciliation"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Dalam transaksi trade finance, clean collection berbeda dengan documentary collection terutama karena...",
+      "options": [
+        "Clean collection tidak disertai dokumen perdagangan",
+        "Clean collection hanya digunakan untuk transaksi domestik",
+        "Documentary collection tidak melibatkan bank",
+        "Clean collection selalu menggunakan LC"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Clean collection hanya melibatkan dokumen finansial tanpa dokumen perdagangan.",
+      "topic": "Trade Service & Trade Finance",
+      "subtopic": "Clean Collection",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "clean collection",
+        "documentary collection",
+        "trade document",
+        "collection",
+        "banking trade",
+        "export import"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Audit internal menemukan monitoring log security system tidak pernah direview meskipun volume alert meningkat drastis dalam tiga bulan terakhir.",
+      "options": [
+        "Tidak berdampak karena alert bersifat otomatis",
+        "Meningkatkan risiko insiden keamanan tidak terdeteksi",
+        "Mengurangi kebutuhan disaster recovery",
+        "Mempercepat proses approval transaksi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Security alert yang tidak direview dapat menyebabkan insiden penting tidak tertangani.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Security Monitoring",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "security monitoring",
+        "alert review",
+        "cyber security",
+        "incident detection",
+        "system log",
+        "operational control"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Perusahaan menerima pengembalian deposit sewa kantor yang sebelumnya dicatat sebagai refundable deposit asset.",
+      "options": [
+        "Kas meningkat dan refundable deposit berkurang",
+        "Pendapatan otomatis meningkat",
+        "Liabilitas bertambah",
+        "Beban dibayar dimuka meningkat"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Refund deposit mengurangi akun deposit asset dan meningkatkan kas.",
+      "topic": "Mengelola Akuntansi",
+      "subtopic": "Refundable Deposit",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "deposit refund",
+        "asset reduction",
+        "cash inflow",
+        "refundable deposit",
+        "accounting treatment",
+        "balance sheet"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Perusahaan meminta pembukaan rekening operasional menggunakan nama brand komersial yang berbeda dari nama legal entity pada dokumen perusahaan.",
+      "options": [
+        "Langsung menggunakan nama brand untuk seluruh dokumentasi bank",
+        "Memastikan hubungan legal antara brand dan legal entity terdokumentasi jelas",
+        "Menghapus kebutuhan legal entity verification",
+        "Menggunakan rekening personal founder sementara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Penggunaan nama dagang berbeda memerlukan validasi hubungan legal dengan entitas resmi.",
+      "topic": "Aspek-Aspek Hukum",
+      "subtopic": "Trade Name Validation",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "trade name",
+        "legal entity",
+        "brand validation",
+        "corporate documentation",
+        "compliance",
+        "legal relationship"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Perusahaan gaming online membuka rekening merchant dan langsung menunjukkan lonjakan transaksi mikro lintas negara dengan pola refund tinggi yang tidak sebanding dengan revenue normal industri.",
+      "options": [
+        "Menganggap transaksi mikro selalu low risk",
+        "Melakukan enhanced transaction analysis terhadap pola refund dan cash flow",
+        "Menghapus monitoring cross-border transaction",
+        "Langsung menaikkan limit settlement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pola refund abnormal dan transaksi mikro lintas negara dapat menjadi indikasi suspicious activity.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Abnormal Refund Pattern",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "refund pattern",
+        "cross border",
+        "transaction monitoring",
+        "AML",
+        "gaming merchant",
+        "cash flow analysis"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Nasabah melakukan transfer internasional dengan instruksi beneficiary account yang ternyata berada di negara dengan perubahan regulasi foreign exchange control mendadak.",
+      "options": [
+        "Menganggap transfer pasti berhasil selama saldo cukup",
+        "Melakukan pengecekan regulasi dan kemungkinan restriction settlement",
+        "Menghapus compliance screening",
+        "Mengubah jalur transfer tanpa approval nasabah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perubahan regulasi foreign exchange control dapat memengaruhi settlement transfer internasional.",
+      "topic": "Transaksi Tunai & Non Tunai",
+      "subtopic": "FX Control Restriction",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "foreign exchange control",
+        "cross border transfer",
+        "settlement restriction",
+        "compliance",
+        "regulation",
+        "beneficiary country"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Treasury perusahaan memiliki exposure MXN yang signifikan. Setelah terjadi downgrade sovereign rating negara terkait, volatilitas mata uang meningkat drastis.",
+      "options": [
+        "Risiko nilai tukar dan biaya hedging dapat meningkat",
+        "Settlement transaksi otomatis dihentikan",
+        "Spread pasar pasti menurun",
+        "Posisi valas tidak terpengaruh sovereign rating"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Downgrade sovereign rating dapat memicu volatilitas dan meningkatkan risiko pasar.",
+      "topic": "Valuta Asing",
+      "subtopic": "Sovereign Downgrade Risk",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "MXN",
+        "sovereign downgrade",
+        "volatility",
+        "FX exposure",
+        "hedging cost",
+        "market risk"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Nasabah menerima QR code pembayaran dari pihak yang mengaku customer service bank untuk proses verifikasi refund. Setelah discan, aplikasi mobile banking meminta approval transfer keluar.",
+      "options": [
+        "Melanjutkan approval agar refund segera diproses",
+        "Menghindari scan QR mencurigakan dan memverifikasi melalui kanal resmi",
+        "Membagikan OTP setelah QR scan selesai",
+        "Mengirim screenshot saldo rekening kepada customer service"
+      ],
+      "correctAnswer": 1,
+      "explanation": "QR scam dapat digunakan untuk memicu transfer keluar terselubung.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "QR Scam",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "QR scam",
+        "refund fraud",
+        "mobile banking",
+        "social engineering",
+        "transfer approval",
+        "security awareness"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Perusahaan SaaS membutuhkan layanan auto invoicing dan auto debit collection yang terintegrasi langsung dengan subscription platform mereka.",
+      "options": [
+        "Integrated billing and auto collection API",
+        "Safe deposit box enterprise",
+        "Trade guarantee issuance",
+        "Deposito foreign currency"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Integrated billing API mendukung invoicing otomatis dan collection recurring berbasis subscription.",
+      "topic": "Informasi Produk dan Jasa",
+      "subtopic": "Integrated Billing API",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "billing API",
+        "auto debit",
+        "subscription",
+        "SaaS",
+        "collection",
+        "automation"
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Nasabah mengeluhkan transaksi e-wallet top up berhasil terdebet dari rekening namun saldo e-wallet belum bertambah karena adanya delay pada switching network.",
+      "options": [
+        "Langsung melakukan refund manual tanpa pengecekan",
+        "Melakukan reconciliation antara bank, switching network, dan provider e-wallet",
+        "Menghapus transaksi debit dari core banking",
+        "Menyarankan nasabah membuat akun e-wallet baru"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Delay pada switching network memerlukan reconciliation antar pihak untuk memastikan settlement final.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Switching Network Delay",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "switching network",
+        "e-wallet",
+        "reconciliation",
+        "settlement",
+        "top up",
+        "transaction delay"
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Dalam transaksi trade finance, red clause LC memberikan fasilitas utama berupa...",
+      "options": [
+        "Advance payment kepada beneficiary sebelum shipment",
+        "Automatic settlement tanpa dokumen",
+        "Konversi mata uang otomatis",
+        "Penghapusan discrepancy checking"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Red clause LC memungkinkan beneficiary memperoleh advance sebelum pengiriman barang.",
+      "topic": "Trade Service & Trade Finance",
+      "subtopic": "Red Clause LC",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "red clause LC",
+        "advance payment",
+        "beneficiary",
+        "shipment",
+        "trade finance",
+        "LC facility"
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Audit internal menemukan beberapa perubahan parameter limit transaksi dilakukan langsung di production system tanpa approval change management.",
+      "options": [
+        "Meningkatkan fleksibilitas operasional",
+        "Meningkatkan risiko unauthorized system modification",
+        "Mengurangi risiko fraud",
+        "Mempercepat audit tahunan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perubahan parameter sistem tanpa change management meningkatkan risiko kontrol dan keamanan.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Unauthorized System Change",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "change management",
+        "system parameter",
+        "unauthorized modification",
+        "production system",
+        "internal control",
+        "audit"
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Perusahaan membayar annual support fee software enterprise dan mendapatkan diskon early payment langsung pada invoice.",
+      "options": [
+        "Biaya dicatat sebesar nilai setelah diskon",
+        "Biaya dicatat sebelum diskon lalu diskon diabaikan",
+        "Diskon dicatat sebagai liabilitas",
+        "Seluruh pembayaran dicatat sebagai aset tetap"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Biaya dicatat sebesar nilai ekonomis aktual setelah dikurangi diskon yang diterima.",
+      "topic": "Mengelola Akuntansi",
+      "subtopic": "Early Payment Discount",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "discount",
+        "expense recognition",
+        "software fee",
+        "invoice",
+        "accounting treatment",
+        "early payment"
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Perusahaan meminta penggunaan rekening escrow proyek dengan instruksi bahwa seluruh approval pencairan dana dapat dilakukan hanya oleh project consultant eksternal.",
+      "options": [
+        "Menyetujui karena consultant memahami proyek",
+        "Memastikan kewenangan dan dasar hukum approval dana terdokumentasi jelas",
+        "Menghapus kebutuhan escrow agreement",
+        "Menggunakan rekening operasional biasa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pihak yang memiliki kewenangan pencairan escrow harus memiliki legal authority yang jelas.",
+      "topic": "Aspek-Aspek Hukum",
+      "subtopic": "Escrow Approval Authority",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "escrow",
+        "approval authority",
+        "legal authority",
+        "project consultant",
+        "fund release",
+        "compliance"
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Perusahaan digital advertising membuka rekening dan menunjukkan pola transaksi di mana sebagian besar incoming fund langsung diteruskan ke rekening luar negeri dalam hitungan menit tanpa penjelasan economic activity yang memadai.",
+      "options": [
+        "Menganggap pola tersebut normal pada bisnis digital",
+        "Melakukan analisis layering dan flow of fund secara mendalam",
+        "Menghapus kewajiban monitoring outgoing transfer",
+        "Langsung menaikkan limit transaksi harian"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pola pass-through transaction tanpa economic rationale merupakan red flag AML.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Pass Through Transaction",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "pass through transaction",
+        "layering",
+        "flow of fund",
+        "AML",
+        "economic rationale",
+        "cross border"
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Nasabah melakukan transfer cross-border menggunakan beneficiary alias name yang umum dipakai secara komersial, sementara legal registered name pada beneficiary bank berbeda.",
+      "options": [
+        "Tetap mengirim transfer tanpa validasi tambahan",
+        "Melakukan verifikasi kesesuaian alias name dan legal entity beneficiary",
+        "Menghapus compliance checking",
+        "Mengubah beneficiary menjadi rekening pribadi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perbedaan alias dan legal name dapat memicu reject atau compliance issue.",
+      "topic": "Transaksi Tunai & Non Tunai",
+      "subtopic": "Alias Name Validation",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "alias name",
+        "legal entity",
+        "beneficiary validation",
+        "cross border transfer",
+        "compliance",
+        "settlement"
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Treasury perusahaan memiliki exposure TRY yang besar. Setelah terjadi inflasi ekstrem di negara asal mata uang tersebut, volatilitas kurs meningkat tajam.",
+      "options": [
+        "Risiko kerugian nilai tukar dan biaya hedging meningkat",
+        "Settlement internasional otomatis dihentikan",
+        "Posisi valas menjadi bebas risiko",
+        "Spread pasar pasti menyempit"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Inflasi ekstrem dapat menyebabkan pelemahan mata uang dan volatilitas pasar tinggi.",
+      "topic": "Valuta Asing",
+      "subtopic": "Hyperinflation Currency Risk",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "TRY",
+        "inflation",
+        "currency volatility",
+        "hedging",
+        "FX risk",
+        "treasury"
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Nasabah menerima email internal perusahaan yang ternyata berasal dari account compromise dan meminta perubahan rekening tujuan pembayaran vendor secara mendadak.",
+      "options": [
+        "Langsung mengganti rekening vendor agar pembayaran tidak terlambat",
+        "Melakukan callback verification dan validasi perubahan instruction",
+        "Menghapus approval pembayaran vendor",
+        "Mengirim OTP kepada pengirim email"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Business email compromise sering digunakan untuk mengubah payment instruction vendor.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Business Email Compromise",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "BEC",
+        "vendor payment fraud",
+        "callback verification",
+        "email compromise",
+        "payment instruction",
+        "cyber fraud"
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Perusahaan ride-sharing membutuhkan layanan instant payout ke rekening driver berbeda bank secara otomatis berdasarkan completion status order.",
+      "options": [
+        "Real-time disbursement engine",
+        "Trade collection service",
+        "Deposito korporasi",
+        "Safe deposit locker"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Real-time disbursement engine mendukung pembayaran otomatis multi-bank secara instan.",
+      "topic": "Informasi Produk dan Jasa",
+      "subtopic": "Instant Payout",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "instant payout",
+        "real time disbursement",
+        "driver payment",
+        "multi-bank",
+        "automation",
+        "ride-sharing"
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Nasabah mengeluhkan transaksi recurring debit card subscription tetap terdebet meskipun kartu fisik telah diganti akibat kerusakan.",
+      "options": [
+        "Langsung menyatakan merchant melakukan fraud",
+        "Menjelaskan mekanisme recurring tokenized payment dan melakukan pengecekan merchant agreement",
+        "Menghapus seluruh histori recurring payment",
+        "Menutup rekening nasabah"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beberapa recurring transaction menggunakan tokenized credential yang tetap aktif meskipun kartu diganti.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Tokenized Recurring Payment",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "tokenized payment",
+        "recurring subscription",
+        "card replacement",
+        "merchant agreement",
+        "debit card",
+        "payment token"
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Dalam transaksi trade finance, transferable LC paling relevan digunakan ketika...",
+      "options": [
+        "Beneficiary pertama perlu mengalihkan sebagian hak kepada pihak lain",
+        "Buyer ingin membatalkan shipment",
+        "Kurs treasury mengalami volatilitas",
+        "Importir ingin menghapus dokumen pengiriman"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Transferable LC memungkinkan beneficiary pertama mentransfer hak tertentu kepada beneficiary kedua.",
+      "topic": "Trade Service & Trade Finance",
+      "subtopic": "Transferable LC",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "transferable LC",
+        "beneficiary",
+        "trade finance",
+        "rights transfer",
+        "LC mechanism",
+        "export import"
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Audit menemukan beberapa server aplikasi transaksi kritikal menggunakan patch security yang sudah obsolete lebih dari satu tahun.",
+      "options": [
+        "Tidak ada dampak selama sistem masih berjalan",
+        "Meningkatkan risiko exploit dan cyber attack",
+        "Mengurangi risiko fraud",
+        "Mempercepat settlement transaction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Patch obsolete meningkatkan kerentanan terhadap exploit keamanan.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Patch Management",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "patch management",
+        "cyber security",
+        "obsolete patch",
+        "vulnerability",
+        "server security",
+        "operational risk"
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Perusahaan menerima kompensasi keterlambatan layanan dari vendor cloud dalam bentuk service credit untuk invoice periode berikutnya.",
+      "options": [
+        "Service credit dapat mengurangi beban periode berikutnya",
+        "Service credit dicatat sebagai modal disetor",
+        "Service credit diabaikan dalam pencatatan",
+        "Seluruh invoice sebelumnya harus dibatalkan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Service credit dapat diperlakukan sebagai pengurang biaya layanan di masa mendatang.",
+      "topic": "Mengelola Akuntansi",
+      "subtopic": "Service Credit",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "service credit",
+        "expense reduction",
+        "vendor compensation",
+        "cloud service",
+        "accounting treatment",
+        "invoice adjustment"
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Perusahaan meminta rekening escrow proyek properti menggunakan nominee purchaser sebagai pihak utama transaksi tanpa disclosure beneficial owner akhir.",
+      "options": [
+        "Tetap memproses escrow selama proyek valid",
+        "Memastikan identifikasi beneficial owner dan legal relationship dilakukan lengkap",
+        "Menghapus kewajiban KYC escrow",
+        "Menggunakan rekening personal marketing agent"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nominee structure tanpa disclosure beneficial owner meningkatkan risiko AML dan legal dispute.",
+      "topic": "Aspek-Aspek Hukum",
+      "subtopic": "Nominee Purchaser",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "nominee",
+        "beneficial owner",
+        "escrow",
+        "AML",
+        "legal relationship",
+        "property transaction"
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Perusahaan crypto payment gateway membuka rekening settlement dan meminta volume transaksi harian sangat besar dengan pola incoming-outgoing hampir seimbang setiap jam.",
+      "options": [
+        "Menganggap volume tinggi selalu menguntungkan bank",
+        "Melakukan enhanced monitoring terhadap rapid movement of funds",
+        "Menghapus kewajiban transaction profiling",
+        "Langsung memberikan limit tidak terbatas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Rapid movement of funds dapat menjadi indikator layering atau high-risk transaction activity.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Rapid Fund Movement",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "rapid movement",
+        "crypto gateway",
+        "AML",
+        "transaction monitoring",
+        "high risk",
+        "layering"
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Nasabah melakukan transfer internasional dengan beneficiary bank yang sedang mengalami migration core banking system sehingga beberapa MT message mengalami delay processing.",
+      "options": [
+        "Langsung mengirim ulang seluruh transfer",
+        "Melakukan tracing status message dan monitoring settlement queue",
+        "Menghapus SWIFT message lama",
+        "Mengubah currency settlement otomatis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Migration system dapat menyebabkan processing delay sehingga perlu monitoring settlement queue.",
+      "topic": "Transaksi Tunai & Non Tunai",
+      "subtopic": "Core Banking Migration Delay",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "core banking migration",
+        "SWIFT MT",
+        "settlement queue",
+        "tracing",
+        "cross border transfer",
+        "processing delay"
+      ]
+    },
+    {
+      "id": 43,
+      "question": "Treasury perusahaan memiliki eksposur besar pada ZAR ketika terjadi capital flight besar-besaran dari emerging market.",
+      "options": [
+        "Volatilitas kurs dan liquidity risk dapat meningkat signifikan",
+        "Posisi FX otomatis terlindungi",
+        "Settlement internasional dihentikan permanen",
+        "Spread treasury pasti turun"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Capital flight dapat meningkatkan tekanan nilai tukar dan risiko likuiditas pada mata uang emerging market.",
+      "topic": "Valuta Asing",
+      "subtopic": "Capital Flight Exposure",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "ZAR",
+        "capital flight",
+        "liquidity risk",
+        "FX exposure",
+        "emerging market",
+        "volatility"
+      ]
+    },
+    {
+      "id": 44,
+      "question": "Nasabah menerima file PDF invoice vendor yang ternyata mengandung embedded malicious link untuk login internet banking perusahaan.",
+      "options": [
+        "Mengklik link agar pembayaran vendor segera diproses",
+        "Melakukan verifikasi invoice dan menghindari akses link mencurigakan",
+        "Mengirim OTP kepada vendor",
+        "Menonaktifkan antivirus sementara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Invoice phishing sering menggunakan embedded malicious link untuk credential theft.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Invoice Phishing",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "invoice phishing",
+        "malicious link",
+        "credential theft",
+        "internet banking",
+        "vendor fraud",
+        "cyber security"
+      ]
+    },
+    {
+      "id": 45,
+      "question": "Perusahaan utility membutuhkan layanan auto debit massal dengan kemampuan retry payment otomatis jika saldo pelanggan tidak mencukupi.",
+      "options": [
+        "Smart recurring collection engine",
+        "Trade acceptance facility",
+        "Safe deposit corporate",
+        "Deposito fleksibel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Smart recurring collection engine mendukung retry otomatis pada recurring collection.",
+      "topic": "Informasi Produk dan Jasa",
+      "subtopic": "Smart Collection Engine",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "recurring collection",
+        "retry payment",
+        "auto debit",
+        "utility billing",
+        "collection engine",
+        "automation"
+      ]
+    },
+    {
+      "id": 46,
+      "question": "Nasabah mengeluhkan transfer QR cross-border berhasil namun merchant menerima settlement dalam mata uang berbeda dengan nilai tukar yang tidak sesuai ekspektasi.",
+      "options": [
+        "Menghapus histori currency conversion",
+        "Menjelaskan mekanisme FX conversion dan settlement cross-border QR",
+        "Menyatakan merchant pasti salah menghitung",
+        "Menutup fitur QR internasional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cross-border QR melibatkan conversion rate dan settlement mechanism tertentu.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Cross Border FX Conversion",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "cross-border QR",
+        "FX conversion",
+        "settlement",
+        "merchant",
+        "currency conversion",
+        "payment dispute"
+      ]
+    },
+    {
+      "id": 47,
+      "question": "Dalam transaksi trade finance, back-to-back LC umumnya digunakan ketika...",
+      "options": [
+        "Beneficiary menggunakan LC utama sebagai dasar penerbitan LC baru kepada supplier",
+        "Buyer ingin membatalkan seluruh shipment",
+        "Kurs treasury mengalami kenaikan drastis",
+        "Importir ingin menghapus insurance document"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Back-to-back LC memungkinkan intermediary trader menggunakan LC utama untuk mendukung supplier.",
+      "topic": "Trade Service & Trade Finance",
+      "subtopic": "Back to Back LC",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "back to back LC",
+        "supplier",
+        "beneficiary",
+        "trade finance",
+        "intermediary trader",
+        "LC structure"
+      ]
+    },
+    {
+      "id": 48,
+      "question": "Audit internal menemukan privileged access administrator database transaksi tidak pernah dilakukan rotation password selama beberapa tahun.",
+      "options": [
+        "Tidak ada risiko selama password kompleks",
+        "Meningkatkan risiko credential compromise dan insider abuse",
+        "Mengurangi risiko cyber attack",
+        "Mempercepat disaster recovery"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Privileged access memerlukan kontrol ketat termasuk password rotation berkala.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Privileged Access Control",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "privileged access",
+        "password rotation",
+        "credential compromise",
+        "database administrator",
+        "security control",
+        "insider risk"
+      ]
+    },
+    {
+      "id": 49,
+      "question": "Perusahaan menerima restitusi pajak atas pembayaran pajak lebih bayar tahun sebelumnya dan dana masuk ke rekening operasional.",
+      "options": [
+        "Kas meningkat dan timbul pengakuan sesuai nature restitusi",
+        "Liabilitas otomatis bertambah",
+        "Beban dibayar dimuka meningkat",
+        "Piutang usaha bertambah"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Restitusi pajak meningkatkan kas dan dicatat sesuai nature akun terkait.",
+      "topic": "Mengelola Akuntansi",
+      "subtopic": "Tax Restitution",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "tax restitution",
+        "cash inflow",
+        "tax accounting",
+        "financial reporting",
+        "recovery",
+        "accounting treatment"
+      ]
+    },
+    {
+      "id": 50,
+      "question": "Perusahaan meminta penggunaan rekening escrow lintas negara dengan salah satu pihak menggunakan nominee shareholder yang berbasis di secrecy jurisdiction.",
+      "options": [
+        "Tetap membuka escrow selama nilai proyek besar",
+        "Melakukan enhanced due diligence terhadap ownership dan legal structure",
+        "Menghapus beneficial ownership review",
+        "Menggunakan rekening operasional biasa sementara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nominee shareholder pada secrecy jurisdiction meningkatkan risiko AML dan legal complexity.",
+      "topic": "Aspek-Aspek Hukum",
+      "subtopic": "Secrecy Jurisdiction Structure",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "nominee shareholder",
+        "secrecy jurisdiction",
+        "EDD",
+        "beneficial ownership",
+        "escrow",
+        "AML risk"
+      ]
+    },
+    {
+      "id": 51,
+      "question": "Sebuah perusahaan affiliate marketing membuka rekening operasional dan menunjukkan pola transaksi incoming dari ratusan rekening individu luar negeri dengan nominal kecil namun frekuensi sangat tinggi. Dana kemudian segera dipindahkan ke beberapa crypto exchange dalam waktu singkat. Tindakan yang PALING tepat adalah...",
+      "options": [
+        "Menganggap transaksi mikro selalu low risk",
+        "Melakukan enhanced AML review terhadap pola layering dan flow of funds",
+        "Langsung menaikkan limit transaksi perusahaan",
+        "Menghapus kewajiban monitoring outbound transfer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pola micro-structuring dan rapid movement ke crypto exchange merupakan red flag AML yang signifikan.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Micro Structuring Pattern",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "micro structuring",
+        "layering",
+        "crypto exchange",
+        "AML",
+        "flow of funds",
+        "transaction monitoring"
+      ]
+    },
+    {
+      "id": 52,
+      "question": "Nasabah korporasi mengirim bulk international payment ke puluhan beneficiary berbeda. Setelah settlement berjalan, beberapa transaksi terkena duplicate detection pada correspondent bank karena adanya retry message otomatis dari middleware system. Langkah yang PALING tepat adalah...",
+      "options": [
+        "Mengirim ulang seluruh batch transfer",
+        "Melakukan reconciliation terhadap message sequence dan settlement status",
+        "Menghapus MT message lama dari sistem",
+        "Mengubah seluruh beneficiary account secara manual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Retry message otomatis dapat menyebabkan duplicate detection sehingga perlu reconciliation detail.",
+      "topic": "Transaksi Tunai & Non Tunai",
+      "subtopic": "Duplicate Message Detection",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "duplicate detection",
+        "middleware",
+        "SWIFT",
+        "reconciliation",
+        "settlement",
+        "bulk transfer"
+      ]
+    },
+    {
+      "id": 53,
+      "question": "Treasury perusahaan memiliki eksposur KRW yang besar ketika terjadi sudden geopolitical escalation di kawasan Asia Timur yang memicu flight to safety investor global.",
+      "options": [
+        "Volatilitas KRW dan risiko likuiditas pasar dapat meningkat tajam",
+        "Settlement internasional otomatis berhenti",
+        "Posisi FX menjadi bebas risiko",
+        "Spread pasar pasti menurun"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ketidakpastian geopolitik dapat memicu capital movement dan volatilitas mata uang signifikan.",
+      "topic": "Valuta Asing",
+      "subtopic": "Geopolitical FX Risk",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "KRW",
+        "geopolitical risk",
+        "flight to safety",
+        "currency volatility",
+        "FX exposure",
+        "treasury"
+      ]
+    },
+    {
+      "id": 54,
+      "question": "Nasabah menerima undangan meeting virtual yang mengatasnamakan regulator keuangan dan diminta mengaktifkan plugin browser tertentu sebelum sesi dimulai. Setelah plugin aktif, browser meminta akses internet banking credential perusahaan.",
+      "options": [
+        "Melanjutkan login agar meeting dapat dimulai",
+        "Menghindari instalasi plugin tidak terverifikasi dan melakukan pengecekan keamanan",
+        "Mengirim OTP kepada penyelenggara meeting",
+        "Menonaktifkan antivirus perusahaan sementara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plugin berbahaya dapat digunakan untuk credential harvesting dan browser hijacking.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Browser Hijacking Scam",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "browser hijacking",
+        "credential harvesting",
+        "plugin malware",
+        "internet banking",
+        "cyber fraud",
+        "security awareness"
+      ]
+    },
+    {
+      "id": 55,
+      "question": "Perusahaan digital commerce membutuhkan layanan settlement engine yang dapat membagi hasil transaksi secara otomatis ke merchant, partner logistik, dan platform fee account dalam satu proses.",
+      "options": [
+        "Multi-party settlement engine",
+        "Safe deposit corporate",
+        "Trade collection guarantee",
+        "Deposito valas fleksibel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Multi-party settlement engine mendukung pembagian dana otomatis ke berbagai pihak.",
+      "topic": "Informasi Produk dan Jasa",
+      "subtopic": "Multi Party Settlement",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "multi-party settlement",
+        "merchant payout",
+        "platform fee",
+        "digital commerce",
+        "settlement engine",
+        "automation"
+      ]
+    },
+    {
+      "id": 56,
+      "question": "Nasabah mengeluhkan transaksi kartu debit internasional tetap ter-posting meskipun merchant sebelumnya telah mengirim reversal message akibat timeout authorization.",
+      "options": [
+        "Menghapus transaksi tanpa investigasi settlement",
+        "Melakukan pengecekan reversal processing dan settlement posting network",
+        "Menyatakan merchant pasti melakukan fraud",
+        "Menutup seluruh akses kartu internasional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reversal message yang gagal diproses dapat menyebabkan transaksi tetap ter-posting.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Reversal Settlement Failure",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "reversal",
+        "authorization timeout",
+        "settlement posting",
+        "card transaction",
+        "network processing",
+        "dispute"
+      ]
+    },
+    {
+      "id": 57,
+      "question": "Dalam transaksi trade finance, revolving LC paling sesuai digunakan untuk kondisi...",
+      "options": [
+        "Transaksi berulang dengan nilai dan periode tertentu",
+        "Pembatalan shipment secara otomatis",
+        "Konversi kurs harian treasury",
+        "Settlement RTGS lintas negara"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Revolving LC digunakan untuk transaksi berulang tanpa perlu penerbitan LC baru setiap kali.",
+      "topic": "Trade Service & Trade Finance",
+      "subtopic": "Revolving LC",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "revolving LC",
+        "recurring trade",
+        "trade finance",
+        "shipment",
+        "LC facility",
+        "export import"
+      ]
+    },
+    {
+      "id": 58,
+      "question": "Audit internal menemukan backup encryption key untuk sistem transaksi disimpan pada shared folder yang dapat diakses banyak pegawai operasional.",
+      "options": [
+        "Mempermudah recovery tanpa risiko tambahan",
+        "Meningkatkan risiko compromise terhadap critical security control",
+        "Mengurangi risiko insider threat",
+        "Mempercepat settlement transaction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Encryption key harus dijaga dengan akses sangat terbatas untuk menjaga keamanan sistem.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Encryption Key Security",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "encryption key",
+        "security control",
+        "shared access",
+        "cyber security",
+        "critical system",
+        "access management"
+      ]
+    },
+    {
+      "id": 59,
+      "question": "Perusahaan menerima incentive rebate tahunan dari acquiring partner berdasarkan volume transaksi merchant yang berhasil diproses selama satu tahun.",
+      "options": [
+        "Rebate dapat diakui sesuai substansi ekonomi sebagai pengurang biaya atau pendapatan terkait",
+        "Rebate wajib dicatat sebagai modal disetor",
+        "Rebate tidak boleh dicatat dalam laporan keuangan",
+        "Seluruh fee acquiring sebelumnya harus dihapus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Incentive rebate perlu dicatat sesuai nature transaksi dan substansi ekonominya.",
+      "topic": "Mengelola Akuntansi",
+      "subtopic": "Acquiring Rebate",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "rebate",
+        "acquiring partner",
+        "merchant transaction",
+        "expense reduction",
+        "financial reporting",
+        "accounting treatment"
+      ]
+    },
+    {
+      "id": 60,
+      "question": "Perusahaan meminta penggunaan escrow account proyek lintas negara dengan instruksi bahwa seluruh release fund hanya dapat dilakukan berdasarkan email approval tanpa wet signature atau digital signature resmi.",
+      "options": [
+        "Tetap menyetujui demi percepatan transaksi proyek",
+        "Memastikan mekanisme approval memiliki validitas hukum dan kontrol otorisasi memadai",
+        "Menghapus kebutuhan verification approval",
+        "Menggunakan approval verbal project manager"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Release fund escrow memerlukan mekanisme approval yang legally enforceable dan terkontrol.",
+      "topic": "Aspek-Aspek Hukum",
+      "subtopic": "Escrow Approval Validity",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "escrow",
+        "digital signature",
+        "approval validity",
+        "legal enforceability",
+        "fund release",
+        "authorization control"
+      ]
+    },
+    {
+      "id": 61,
+      "question": "Perusahaan payment orchestrator membuka rekening settlement dan melakukan routing transaksi ke berbagai payment processor internasional dengan pola volume yang berubah drastis setiap beberapa jam tanpa underlying merchant activity yang konsisten.",
+      "options": [
+        "Menganggap volume dinamis sebagai hal normal",
+        "Melakukan enhanced behavioral analysis terhadap transaction routing pattern",
+        "Menghapus kewajiban transaction profiling",
+        "Langsung menaikkan limit settlement engine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Routing pattern yang tidak konsisten dengan aktivitas bisnis dapat menjadi red flag suspicious transaction.",
+      "topic": "Pembukaan Rekening",
+      "subtopic": "Transaction Routing Anomaly",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "payment orchestrator",
+        "routing anomaly",
+        "behavioral analysis",
+        "AML",
+        "transaction pattern",
+        "merchant activity"
+      ]
+    },
+    {
+      "id": 62,
+      "question": "Nasabah korporasi melakukan transfer internasional bernilai besar menggunakan same-day value instruction, namun correspondent bank melakukan manual review karena terdapat mismatch antara underlying invoice dan shipping schedule.",
+      "options": [
+        "Menghapus underlying document agar transfer dipercepat",
+        "Melakukan clarification terhadap supporting document dan settlement purpose",
+        "Mengirim ulang transfer menggunakan rekening pribadi",
+        "Mengubah currency settlement tanpa persetujuan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mismatch underlying transaction dapat memicu compliance review pada correspondent bank.",
+      "topic": "Transaksi Tunai & Non Tunai",
+      "subtopic": "Underlying Clarification",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "underlying document",
+        "same-day value",
+        "compliance review",
+        "invoice mismatch",
+        "settlement purpose",
+        "cross border transfer"
+      ]
+    },
+    {
+      "id": 63,
+      "question": "Treasury perusahaan memiliki kewajiban pembayaran RUB ketika terjadi pembatasan akses pasar internasional akibat economic sanction mendadak.",
+      "options": [
+        "Risiko settlement disruption dan liquidity constraint meningkat",
+        "Spread pasar otomatis menghilang",
+        "Semua transaksi RUB otomatis aman",
+        "Posisi FX tidak dipengaruhi sanction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Economic sanction dapat memengaruhi akses likuiditas dan settlement internasional.",
+      "topic": "Valuta Asing",
+      "subtopic": "Sanction Driven FX Risk",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "RUB",
+        "economic sanction",
+        "settlement disruption",
+        "liquidity constraint",
+        "FX exposure",
+        "treasury"
+      ]
+    },
+    {
+      "id": 64,
+      "question": "Nasabah menerima undangan update mandatory security certificate internet banking perusahaan melalui attachment executable file yang dikirim oleh akun email menyerupai regulator.",
+      "options": [
+        "Menjalankan file agar sertifikat segera diperbarui",
+        "Menghindari eksekusi file tidak terverifikasi dan melakukan validasi sumber",
+        "Mengirim OTP untuk aktivasi sertifikat",
+        "Menonaktifkan endpoint security sementara"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Executable attachment dari sumber tidak terpercaya berpotensi membawa malware atau trojan.",
+      "topic": "Edukasi Nasabah",
+      "subtopic": "Executable Malware Scam",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "malware",
+        "trojan",
+        "executable attachment",
+        "internet banking",
+        "security certificate",
+        "cyber security"
+      ]
+    },
+    {
+      "id": 65,
+      "question": "Perusahaan platform freelance membutuhkan layanan escrow otomatis yang dapat menahan dana client sampai milestone project disetujui kedua pihak.",
+      "options": [
+        "Milestone-based escrow service",
+        "Trade collection financing",
+        "Safe deposit enterprise",
+        "Deposito merchant"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Milestone-based escrow cocok untuk transaksi berbasis deliverable project.",
+      "topic": "Informasi Produk dan Jasa",
+      "subtopic": "Milestone Escrow",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "milestone escrow",
+        "freelance platform",
+        "client fund",
+        "project approval",
+        "escrow automation",
+        "digital platform"
+      ]
+    },
+    {
+      "id": 66,
+      "question": "Nasabah mengeluhkan transfer incoming valas tertahan lebih dari biasanya karena beneficiary bank melakukan additional source-of-fund review terhadap transaksi high-value tertentu.",
+      "options": [
+        "Langsung menyatakan dana pasti diblokir permanen",
+        "Melakukan koordinasi tracing dan membantu penyediaan supporting clarification",
+        "Menghapus incoming SWIFT message",
+        "Meminta pengirim memecah transaksi menjadi nominal kecil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "High-value cross-border transaction dapat memicu enhanced source-of-fund review.",
+      "topic": "Pengaduan Nasabah",
+      "subtopic": "Source of Fund Review",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "source of fund",
+        "high value transaction",
+        "SWIFT",
+        "enhanced review",
+        "cross border",
+        "compliance"
+      ]
+    },
+    {
+      "id": 67,
+      "question": "Dalam transaksi trade finance, confirmed LC memberikan manfaat utama bagi beneficiary berupa...",
+      "options": [
+        "Tambahan jaminan pembayaran dari confirming bank",
+        "Penghapusan seluruh document checking",
+        "Konversi otomatis menjadi open account",
+        "Settlement tanpa due date"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Confirmed LC memberikan tambahan jaminan pembayaran selain issuing bank.",
+      "topic": "Trade Service & Trade Finance",
+      "subtopic": "Confirmed LC",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "confirmed LC",
+        "confirming bank",
+        "payment guarantee",
+        "beneficiary",
+        "trade finance",
+        "LC"
+      ]
+    },
+    {
+      "id": 68,
+      "question": "Audit internal menemukan beberapa privileged session administrator pada sistem transaksi tidak memiliki session recording maupun monitoring activity log.",
+      "options": [
+        "Meningkatkan fleksibilitas administrator",
+        "Meningkatkan risiko insider abuse yang sulit ditelusuri",
+        "Mengurangi kebutuhan audit security",
+        "Mempercepat disaster recovery process"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Privileged session tanpa monitoring melemahkan accountability dan auditability.",
+      "topic": "Administrasi Perbankan",
+      "subtopic": "Privileged Session Monitoring",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "privileged session",
+        "activity log",
+        "session recording",
+        "insider abuse",
+        "auditability",
+        "security monitoring"
+      ]
+    },
+    {
+      "id": 69,
+      "question": "Perusahaan menerima reimbursement biaya operasional proyek dari principal luar negeri setelah sebelumnya seluruh biaya dicatat sebagai expense perusahaan.",
+      "options": [
+        "Reimbursement dapat mengurangi expense terkait atau dicatat sesuai substansi transaksi",
+        "Reimbursement harus dicatat sebagai modal saham",
+        "Expense sebelumnya harus dihapus seluruhnya",
+        "Reimbursement tidak boleh diakui dalam laporan keuangan"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Reimbursement perlu dicatat sesuai substansi ekonomi dan hubungan dengan expense terkait.",
+      "topic": "Mengelola Akuntansi",
+      "subtopic": "Expense Reimbursement",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "reimbursement",
+        "expense recovery",
+        "project expense",
+        "financial reporting",
+        "accounting treatment",
+        "cost recovery"
+      ]
+    },
+    {
+      "id": 70,
+      "question": "Perusahaan meminta pembukaan escrow account internasional dengan struktur trustee arrangement yang melibatkan beberapa nominee entity dari yurisdiksi berbeda tanpa disclosure final controlling party.",
+      "options": [
+        "Tetap membuka escrow karena trustee arrangement umum digunakan",
+        "Melakukan enhanced due diligence terhadap controlling party dan legal structure",
+        "Menghapus beneficial ownership verification",
+        "Menggunakan rekening operasional biasa sebagai pengganti escrow"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Trustee dan nominee structure lintas yurisdiksi tanpa transparency meningkatkan risiko AML dan legal complexity.",
+      "topic": "Aspek-Aspek Hukum",
+      "subtopic": "Trustee Structure Validation",
+      "difficulty": "Very Hard",
+      "requiresReasoning": true,
+      "reasoningKeywords": [
+        "trustee arrangement",
+        "nominee entity",
+        "beneficial ownership",
+        "EDD",
+        "legal structure",
+        "AML risk"
+      ]
+    }
+  ]
+}
